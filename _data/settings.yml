@@ -1,0 +1,175 @@
+#-------------------------------
+# Site Settings
+title: Summit Advisors
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Hilton is a super simple portfolio theme for Jekyll.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Servicios'
+      url: '/projects/'
+    - url: '/about/'
+      title: 'Nosotros'
+    - url: '/about/'
+      title: 'Andorra'
+    - url: '/about/'
+      title: 'Calculadora'
+    - title: 'Blog'
+      url: '/blog/'
+    - url: '/contact/'
+      title: 'Contacto'
+    - title: 'Español'
+      submenu:
+      - url: '/elements/'
+        title: 'English'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Summit Advisors
+  author__bio: Si estás plantéandote moverte a Andorra y disfrutar de sus ventajas tanto fiscales cómo de estilo de vida, hablemos más en detalle.
+  author__avatar: '/images/summit.png'
+
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {icon: "ion-logo-github", link: "https://github.com"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Tu empresa en Andorra
+  hero__description: Si estás plantéandote moverte a Andorra y disfrutar de sus ventajas tanto fiscales cómo de estilo de vida, hablemos más en detalle.
+  # hero__image: 'https://www.grandvalira.com/sites/default/files/carousel/grau_roig_0.jpg'
+  # hero__image: 'https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80'
+  # hero__image: https://www.caldea.com/blog/wp-content/uploads/2019/11/novedades-grandvalira-2019-1024x684.jpg
+  # hero__image: https://mindfulcollective.net/wp-content/uploads/2019/05/remote-shot-2-1-of-1-uai-2487x2487.jpg
+  hero__image: https://digitalnomadacademy.co/wp-content/uploads/2020/10/IMG_5731.jpg
+
+
+#-------------------------------
+# Newsletter
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Tu dirección de email...
+mailchimp__button__text: Te contactamos
+
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+  projects__title: Servicios
+  projects__description: Ofrecemos servicios personalizados a tu caso específico de manera totalmente transparente y directa.
+
+
+#-------------------------------
+# Testimonials Section
+testimonial__title: Qué dicen nuestros Clientes
+testimonial__description:
+
+testimonial__items:
+  - name: "Aspen Carder"
+    image: "/images/client-1.jpg"
+    designation: "Lettering Artist"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Lydia Siphron"
+    image: "/images/client-2.jpg"
+    designation: "Designer"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Craig Vaccaro"
+    image: "/images/client-3.jpg"
+    designation: "Web developer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Anika Calzoni"
+    image: "/images/client-4.jpg"
+    designation: "Lettering Artist"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Marcus Botosh"
+    image: "/images/client-5.jpg"
+    designation: "Full Stack Designer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Últimas entradas
+  blog__description:
+
+
+#-------------------------------
+# Gallery Footer Settings
+gallery:
+  gallery__images:
+    - alt: 'Rest'
+      url: '/images/andorra/andorra-la-vella.jpg'
+      # url: '/images/gallery-1.jpg'
+    - alt: 'Lifestyle'
+      # url: '/images/gallery-2.jpg'
+      url: 'https://media.istockphoto.com/photos/embankment-of-valira-d-orient-river-in-la-cortinada-andorra-picture-id492005666?k=20&m=492005666&s=612x612&w=0&h=i-4WRA_UUyOP8utOJ5zjoCO-I8qtqDbWLCugDkxDsTE='
+    - alt: 'Hobby'
+      # url: '/images/gallery-3.jpg'
+      url: 'https://media.istockphoto.com/photos/main-highway-in-andorra-picture-id849558280?k=20&m=849558280&s=612x612&w=0&h=AUTo9r7eL0_XAGUpmEGioqcmYvifFw3CvmKeaHpuVCc='
+    - alt: 'Notes'
+      # url: '/images/gallery-4.jpg'
+      url: 'https://media.istockphoto.com/photos/view-of-the-village-in-the-pyrenees-andorra-from-the-ski-slopes-in-picture-id1160844746?k=20&m=1160844746&s=612x612&w=0&h=2LIxl_jpBZg4BebcJB38i8XjY_0t-c0s_otAfX3e_5c='
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Servicios'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    - url: '/about/'
+      title: 'Nosotros'
+    - url: '/contact/'
+      title: 'Contacto'
+    - url: '/elements/'
+      title: 'Elements'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
