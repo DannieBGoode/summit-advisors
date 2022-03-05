@@ -35,7 +35,7 @@
 /* Nav */
 .main-nav {
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: $wide) {
     position: fixed;
     top: 0;
     left: 0;
@@ -393,7 +393,7 @@
     }
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: $wide) {
     display: flex;
     align-items: center;
     margin-left: auto;
