@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Nosotros
-permalink: /about/
-image: '/images/01-2.jpg'
+title: Andorra
+permalink: /andorra/
+image: 'https://www.triptemptation.com/media/db41319c-db5b-4c83-a807-5534550f4896/qPy2BA/Blog/Ingus/Andorra/Andorra-in-the-mountains.jpg'
 ---
 
 Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
@@ -11,11 +11,11 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/andorra/andorra-night.jpg" loading="lazy">
+    <img src="/images/andorra/atumn.jpg" loading="lazy">
+    <img src="/images/andorra/andorra-winter.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Gallery / <a href="https://www.instagram.com/andorralovers/" target="_blank">Andorra Lovers</a></em>
 </div>
 
 Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
@@ -24,8 +24,8 @@ Completely synergize resource taxing relationships via premier niche markets. Cu
 
 Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
 
-![Sea](https://hivefive.spaces.nexudus.com/es/blog/getlargeimage?id=1414944073&w=1500)
-*Foto por [High Five](https://hivefive.spaces.nexudus.com/es/blog/read/1414944073/entrevista-a-albert-hernández-i-jordi-yii--summit-advisory-group-s-l-)*
+![Sea]({{site.baseurl}}/images/andorra/andorra-skii.jpg)
+*Photo by [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 

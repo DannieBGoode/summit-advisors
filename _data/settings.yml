@@ -2,7 +2,7 @@
 # Site Settings
 title: Summit Advisors
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hilton is a super simple portfolio theme for Jekyll.
+description: Gestoría, asesoría para mudar tu empresa a Andorra.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -16,7 +16,7 @@ menu__settings:
       url: '/projects/'
     - url: '/about/'
       title: 'Nosotros'
-    - url: '/about/'
+    - url: '/andorra/'
       title: 'Andorra'
     - url: '/about/'
       title: 'Calculadora'
@@ -81,9 +81,9 @@ testimonial__title: Qué dicen nuestros Clientes
 testimonial__description:
 
 testimonial__items:
-  - name: "Aspen Carder"
+  - name: "Tatiana Hernandez"
     image: "/images/client-1.jpg"
-    designation: "Lettering Artist"
+    designation: "Diseñadora Digital"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
@@ -93,7 +93,7 @@ testimonial__items:
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Craig Vaccaro"
+  - name: "Daniel Calatayud"
     image: "/images/client-3.jpg"
     designation: "Web developer"
     link: "https://twitter.com/"
@@ -149,6 +149,8 @@ footer_menu__settings:
       url: '/blog/'
     - url: '/about/'
       title: 'Nosotros'
+    - url: '/andorra/'
+      title: 'Andorra'
     - url: '/contact/'
       title: 'Contacto'
     - url: '/elements/'

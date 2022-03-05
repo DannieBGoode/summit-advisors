@@ -7,6 +7,9 @@ image: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
 
+![Sea](https://media-exp1.licdn.com/dms/image/C4D22AQFiEdVmr9XRPg/feedshare-shrink_2048_1536/0/1630057038161?e=1649289600&v=beta&t=OlwTcOylI8wENsWdNKbTNbjhlVfVYOJi-cpYW54Kz1w
+)
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
