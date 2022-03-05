@@ -361,6 +361,15 @@
       background-color: inherit;
     }
   }
+  .logo {
+    height: 0;
+  }
+  .logo-dark {
+    display: block !important;
+  }
+  .logo-light {
+    display: none;
+  }
 }
 
 .nav-button {
