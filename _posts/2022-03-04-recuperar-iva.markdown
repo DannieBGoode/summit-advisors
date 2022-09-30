@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Cómo recuperar el IVA (21%) de los productos comprados en España
+title: Cómo recuperar el IVA (21%) de los productos comprados en España
 description: Recuperar el IVA de productos comprados en España
-date:   2022-03-04 15:01:35 +0300
-image:  '/images/02.jpg'
+date: 2022-03-04 15:01:35 +0300
+image: '/images/02.jpg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [workflow, notes, study]
+tags: [workflow, notes, study]
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
