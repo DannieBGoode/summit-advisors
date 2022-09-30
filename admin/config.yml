@@ -20,7 +20,7 @@ collections:
       - { label: 'Cover Image', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'blog'
+  - name: 'services'
     label: 'Servicios'
     folder: '_projects/'
     create: true
