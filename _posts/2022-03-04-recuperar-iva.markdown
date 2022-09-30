@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Cómo recuperar el 21% de los productos comprados en España
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+title:  Cómo recuperar el IVA (21%) de los productos comprados en España
+description: Recuperar el IVA de productos comprados en España
 date:   2022-03-04 15:01:35 +0300
 image:  '/images/02.jpg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
