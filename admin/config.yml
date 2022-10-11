@@ -8,7 +8,7 @@ backend:
 media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
-    label: 'Pages'
+    label: 'Páginas'
     folder: '_pages/'
     create: false
     slug: '{{slug}}'
@@ -16,10 +16,10 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Permalink', name: 'permalink', widget: 'hidden' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Cover Image', name: 'image', widget: 'image' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog'
@@ -31,10 +31,10 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Cover Image', name: 'image', widget: 'image' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services'
@@ -46,9 +46,9 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Cover Image', name: 'image', widget: 'image' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Subtitlo', name: 'subtitle', hint:'Texto bajo el título', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
