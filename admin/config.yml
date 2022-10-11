@@ -20,17 +20,24 @@ collections:
         - { label: Subtítulo, name: hero__description, widget: string, hint: 'Descripción bajo el título de cabecera' }
         - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
         - { label: Título sección de Testimonios, name: testimonial__title, widget: string, hint: 'En la homepage, en la sección de Testimonios' }
-        - { label: Descripción sección de Testimonios, name: testimonial__description, widget: string, hint: 'En la homepage, en la sección de Testimonios' }
-    - label: "Testimonials"
-      name: "testimonial__items"
-      widget: "list"
+        - { label: Descripción sección de Testimonios, name: testimonial__description, required: false, widget: string, hint: 'En la homepage, en la sección de Testimonios' }
+    - label: "Testimonios de Clientes"
+      name: "testimonials"
       file: "_data/testimonials.yml"
       fields: 
-        - { label: Nombre, name: name, widget: string, hint: 'Nombre de la persona que da el testimonio' }
-        - { label: Oficio, name: designation, widget: string, hint: 'Ocupación' }
-        - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
-        - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
-        - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
+        - label: "Título sección de Testimonios"
+          name: testimonial__title
+          widget: string
+          hint: 'En la homepage, en la sección de Testimonios'
+        - label: "Testimonios de Clientes"
+          name: "testimonial__items"
+          widget: "list"
+          fields:
+          - { label: Nombre, name: name, widget: string, hint: 'Nombre de la persona que da el testimonio' }
+          - { label: Oficio, name: designation, widget: string, hint: 'Ocupación' }
+          - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
+          - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
+          - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
   - name: 'pages'
     label: 'Páginas'
     folder: '_pages/'
