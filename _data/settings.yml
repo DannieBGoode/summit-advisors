@@ -49,18 +49,6 @@ social:
 
 
 #-------------------------------
-# Hero Settings
-hero:
-  hero__title: Tu empresa en Andorra
-  hero__description: Si estás plantéandote moverte a Andorra y disfrutar de sus ventajas tanto fiscales cómo de estilo de vida, hablemos más en detalle.
-  # hero__image: 'https://www.grandvalira.com/sites/default/files/carousel/grau_roig_0.jpg'
-  # hero__image: 'https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80'
-  # hero__image: https://www.caldea.com/blog/wp-content/uploads/2019/11/novedades-grandvalira-2019-1024x684.jpg
-  hero__image: https://mindfulcollective.net/wp-content/uploads/2019/05/remote-shot-2-1-of-1-uai-2487x2487.jpg
-  # hero__image: https://digitalnomadacademy.co/wp-content/uploads/2020/10/IMG_5731.jpg
-
-
-#-------------------------------
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -73,44 +61,6 @@ mailchimp__button__text: Te contactamos
 projects__settings:
   projects__title: Servicios
   projects__description: Ofrecemos servicios personalizados a tu caso específico de manera totalmente transparente y directa.
-
-
-#-------------------------------
-# Testimonials Section
-testimonial__title: Qué dicen nuestros Clientes
-testimonial__description:
-
-testimonial__items:
-  - name: "Tatiana Hernandez"
-    image: "/images/client-1.jpg"
-    designation: "Diseñadora Digital"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Lydia Siphron"
-    image: "/images/client-2.jpg"
-    designation: "Designer"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Daniel Calatayud"
-    image: "/images/client-3.jpg"
-    designation: "Web developer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Anika Calzoni"
-    image: "/images/client-4.jpg"
-    designation: "Lettering Artist"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Marcus Botosh"
-    image: "/images/client-5.jpg"
-    designation: "Full Stack Designer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
 
 #-------------------------------
 # Blog Section

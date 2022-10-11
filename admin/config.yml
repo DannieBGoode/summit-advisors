@@ -7,6 +7,28 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
+  - name: 'General'
+    label: 'general'
+    editor:
+      preview: false
+    files:
+    - label: "Homepage"
+      name: "home"
+      file: "_data/homepage.yml"
+      fields: 
+        - { label: Title, name: hero__title, widget: string, hint: 'Hero title.' }
+        - { label: Subtitle, name: hero__description, widget: string, hint: 'Description under the hero title.' }
+        - { label: Hero Image, name: hero__image, widget: image, choose_url: true, hint: 'Image used for the Hero' }
+    - label: "Testimonials"
+      name: "testimonials"
+      widget: "list"
+      file: "_data/testimonials.yml"
+      fields: 
+        - { label: Nombre, name: name, widget: string, hint: 'Nombre de la persona que da el testimonio' }
+        - { label: Oficio, name: designation, widget: string, hint: 'Ocupación' }
+        - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
+        - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
+        - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
   - name: 'pages'
     label: 'Páginas'
     folder: '_pages/'

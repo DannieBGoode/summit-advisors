@@ -6,15 +6,15 @@
 
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">{{ site.data.settings.testimonial__title }}</h2>
+            <h2 class="section__title">{{ site.data.testimonials.testimonial__title }}</h2>
           </div>
-          {% if site.data.settings.testimonial__description %}
-           <p class="section__description">{{ site.data.settings.testimonial__description }}</p>
+          {% if site.data.testimonials.testimonial__description %}
+           <p class="section__description">{{ site.data.testimonials.testimonial__description }}</p>
           {% endif %}
         </div>
 
         <div class="testimonials__slider my-slider">
-          {% for testimonial__item in site.data.settings.testimonial__items %}
+          {% for testimonial__item in site.data.testimonials.testimonial__items %}
             <div class="testimonial-item">
               <div class="testimonial-content">
                 <div class="client-meta">
