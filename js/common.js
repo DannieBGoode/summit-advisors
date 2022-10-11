@@ -53,10 +53,12 @@ document.addEventListener("DOMContentLoaded", function() {
   // Stop Animations During Window Resizing and Switching Theme Modes
   ================================================================ */
   let disableTransition;
-
-  toggleTheme.addEventListener("click", () => {
-    stopAnimation();
-  });
+  if (toggleTheme) {
+    toggleTheme.addEventListener("click", () => {
+      stopAnimation();
+    });
+  }
+    
 
   window.addEventListener("resize", () => {
     stopAnimation();

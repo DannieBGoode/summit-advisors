@@ -41,6 +41,14 @@ collections:
           - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
           - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
           - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
+    - label: "Ajustes"
+      name: "global"
+      file: "_data/global.yml"
+      fields: 
+        - { label: Título principal, name: title, widget: string, hint: 'Título de la página para el SEO' }
+        - { label: Descripción, name: title, widget: string, hint: 'Descripción de la página para el SEO' }
+        - { label: Logo, name: logo, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
+        - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
   - name: 'pages'
     label: 'Páginas'
     folder: '_pages/'
