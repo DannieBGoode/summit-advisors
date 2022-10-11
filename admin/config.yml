@@ -16,11 +16,13 @@ collections:
       name: "home"
       file: "_data/homepage.yml"
       fields: 
-        - { label: Title, name: hero__title, widget: string, hint: 'Hero title.' }
-        - { label: Subtitle, name: hero__description, widget: string, hint: 'Description under the hero title.' }
-        - { label: Hero Image, name: hero__image, widget: image, choose_url: true, hint: 'Image used for the Hero' }
+        - { label: Título principal, name: hero__title, widget: string, hint: 'Título de cabecera en la homepage' }
+        - { label: Subtítulo, name: hero__description, widget: string, hint: 'Descripción bajo el título de cabecera' }
+        - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
+        - { label: Título sección de Testimonios, name: testimonial__title, widget: string, hint: 'En la homepage, en la sección de Testimonios' }
+        - { label: Descripción sección de Testimonios, name: testimonial__description, widget: string, hint: 'En la homepage, en la sección de Testimonios' }
     - label: "Testimonials"
-      name: "testimonials"
+      name: "testimonial__items"
       widget: "list"
       file: "_data/testimonials.yml"
       fields: 

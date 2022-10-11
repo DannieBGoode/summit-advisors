@@ -1,8 +1,3 @@
-#-------------------------------
-# Testimonials Section
-testimonial__title: Qué dicen nuestros Clientes
-testimonial__description:
-
 testimonial__items:
   - name: "Tatiana Hernandez"
     image: "/images/client-1.jpg"
