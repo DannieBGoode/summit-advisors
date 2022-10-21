@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Contact
+title: Contacta
 permalink: /contact/
 image: '/images/16.jpg'
 ---
 
 <div class="form-box">
   <div class="contact-head">
-    {% if site.data.settings.contact.description %}
-      <p class="contact-description">{{site.data.settings.contact.description}}</p>
+    {% if site.data.contact.description %}
+      <p class="contact-description">{{site.data.contact.description}}</p>
     {% endif %}
   </div>
-  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
+  <form class="form" action="{% if site.data.contact.email %}https://formspree.io/f/{{site.data.contact.email}}{% else %}#{% endif %}" method="POST">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Nombre" required>

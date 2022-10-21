@@ -41,6 +41,11 @@ collections:
           - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
           - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
           - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
+    - label: "Contacto"
+      name: "contact"
+      file: "_data/contact.yml"
+      fields: 
+        - { label: Descripción, name: description, widget: string, hint: 'Descripción del formulario de contacto' }
     - label: "Ajustes"
       name: "global"
       file: "_data/global.yml"
