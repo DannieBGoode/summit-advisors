@@ -1,17 +1,32 @@
 function addCommas() {
-	let givenNumber = document.getElementById("gross-salary-input").value;
-	givenNumber=givenNumber.replace(/\,/g,''); // 1125, but a string, so convert it to number
-	givenNumber=parseInt(givenNumber,10);
-	nfObject = new Intl.NumberFormat('en-US');
-    output = nfObject.format(givenNumber);
-
-    document.getElementById("gross-salary-input").value  = output;
+    let givenNumber = document.getElementById("gross-salary-input").value;
+    givenNumber=givenNumber.replace(/\,/g,''); // remove any existing commas
+    if (isNaN(givenNumber) || givenNumber === '') {
+        // if the value is not a number or is empty, don't format it
+        document.getElementById("gross-salary-input").value = givenNumber;
+    } else {
+        let nfObject = new Intl.NumberFormat('en-US');
+        let output = nfObject.format(givenNumber);
+        document.getElementById("gross-salary-input").value = output;
+    }
 }
+   
+
 
 function calculate() {
-	let income = document.getElementById("gross-salary-input").value;
+	let incomeInput = document.getElementById("gross-salary-input");
+	let income = incomeInput.value;
 	income= income.replace(/\,/g,''); // 1125, but a string, so convert it to number
 	income= parseInt(income,10);
+
+
+    if (isNaN(income) || income < 0) {
+        incomeInput.classList.add("calculator-error");  //add the error class
+        return;
+    } else {
+        incomeInput.classList.remove("calculator-error");  //remove the error class if it previously existed
+    }
+
 	let tax = 0;
     if (income < 24000) {
         tax = 0;

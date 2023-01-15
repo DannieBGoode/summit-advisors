@@ -11,7 +11,7 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 	<div class="hero__subscribe" style="margin-bottom: 50px; min-width: 430px;">
 		<form class="subscribe-form" action="javascript:void(0);">
 			<label class="screen-reader-text" for="gross-salary">Sueldo Bruto Anual €</label>
-			<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="Tu sueldo bruto anual" min="1" step="any" onkeyup="addCommas()">
+			<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="Tu sueldo bruto anual €" min="1" step="any" onkeyup="addCommas()">
 			<button class="button button--primary button--small subscribe-button" onclick="calculate()">Calcular Sueldo Neto</button>
 		</form>
 	</div>
@@ -51,28 +51,30 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 	<div>
 		En Andorra el IRPF únicamente presenta tres tramos:
 	</div>
-	<table>
-		<thead>
-			<tr>
-				<th>Tramos</th>
-				<th>IRPF</th>
-			</tr>	
-		</thead>
-		<tbody>
-			<tr>
-				<td>Hasta 24.000€</td>
-				<td>0%</td>
-			</tr>	
-			<tr>
-				<td>De 24.000€ a 40.000€</td>
-				<td>5%</td>
-			</tr>	
-			<tr>
-				<td>De 40.000€ en adelante</td>
-				<td>10%</td>
-			</tr>	
-		</tbody>
-	</table>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>Tramos</th>
+					<th>IRPF</th>
+				</tr>	
+			</thead>
+			<tbody>
+				<tr>
+					<td>Hasta 24.000€</td>
+					<td>0%</td>
+				</tr>	
+				<tr>
+					<td>De 24.000€ a 40.000€</td>
+					<td>5%</td>
+				</tr>	
+				<tr>
+					<td>De 40.000€ en adelante</td>
+					<td>10%</td>
+				</tr>	
+			</tbody>
+		</table>
+	</div>
 </div>
 
 
