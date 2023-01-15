@@ -8,13 +8,11 @@ tags:
   - lifestyle
   - rest
 ---
-Entre las distintas parroq
+Entre las distintas parroquías que se encuentran en Andorra destacan las siguientes:
 
-1. Canillo: Canillo es la parroquia más al norte de Andorra, y es conocida por su estación de esquí, Grandvalira, que es una de las más grandes de los Pirineos. También tiene varios senderos para caminar y rutas de ciclismo de montaña.
-![](https://turistasdeviaje.com/wp-content/uploads/2019/09/Canillo-Andorra-fotos-1.jpg)
-*﻿Canillo*
-
-
+1. Canillo: Se trata de la parroquia más al norte de Andorra, y es conocida por su estación de esquí, Grandvalira, que es una de las más grandes de los Pirineos. También tiene varios senderos para caminar y rutas de ciclismo de montaña.
+   ![](https://turistasdeviaje.com/wp-content/uploads/2019/09/Canillo-Andorra-fotos-1.jpg)
+   ﻿*Canillo*
 2. Encamp: Encamp es una de las parroquias más grandes de Andorra y es conocida por sus baños termales y su estación de esquí, Pal-Arinsal. También es el hogar de la iglesia de Sant Joan de Caselles, que es uno de los edificios religiosos más antiguos del país.
 3. La Massana: La Massana es una parroquia hermosa, con una gran variedad de senderos para caminar, ciclismo de montaña, y esquí de fondo. También es el hogar de la estación de esquí de Vallnord-Pal-Arinsal.
 4. Ordino: Ordino es la parroquia más septentrional de Andorra y es conocida por sus pintorescas aldeas y su hermosa naturaleza. Es también el hogar de la estación de esquí de Ordino-Arcalís.
