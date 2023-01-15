@@ -21,4 +21,8 @@ Entre las distintas parroq
 
 
 7. Pas de la Casa es una parroquia situada en el extremo este del Principado de Andorra, es conocida por su estación de esquí, Grandvalira-Pas de la Casa, que es una de las más grandes de los Pirineos. Con una gran variedad de pistas para esquiadores y snowboarders de todos los niveles, así como una gran variedad de actividades en la nieve como raquetas de nieve, esquí de fondo, y paseos en trineo, Pas de la Casa es un destino popular para el turismo de invierno. Además, es conocida por su animada vida nocturna, y ofrece un gran número de bares y clubes para disfrutar en las noches después de un día en la nieve.
+
+   <!--StartFragment-->
+
+   ![](https://www.grandvalira.com/sites/default/files/carousel/pasdelacasa_0.jpg)\*﻿Pas de la Casa\*
 8. Escaldes-Engordany: Escaldes-Engordany es una parroquia situada en el centro de Andorra y es conocida por sus baños termales y su animada vida nocturna. También es el hogar del Museo Casa Rull, que es una atracción turística importante.
