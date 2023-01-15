@@ -2,7 +2,7 @@
 layout: page
 title: Calculadora
 permalink: /calculadora/
-image: "/images/01-2.jpg"
+image: /assets/uploads/image_2023-01-15_172707289.png
 ---
 
 
