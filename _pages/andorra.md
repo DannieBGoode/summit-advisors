@@ -54,8 +54,10 @@ A﻿demás su PIB per cápita nominal se encuentra por debajo de media de la UE.
 
 Andorra es conocida por su oferta turística en invierno, especialmente por sus estaciones de esquí. Ofrece una gran variedad de pistas para esquiadores y snowboarders de todos los niveles, así como una gran variedad de actividades en la nieve como raquetas de nieve, esquí de fondo, y paseos en trineo.
 
+> Consideramos que Andorra dispone de los ingredientes ideales para poder iniciar un proyecto empresarial: seguridad, marco fiscal, soporte a los emprendedores, localización geográfica, crecimiento, etc. Sin olvidar, la gran calidad de vida que tienes como ciudadano: es un lujo poder vivir y trabajar tan cerca de las montañas.
+
 En verano, las montañas de Andorra ofrecen excelentes oportunidades para el senderismo y la escalada. También hay varios rutas de ciclismo de montaña y senderismo, así como oportunidades para practicar deportes acuáticos en los ríos y lagos de la zona.
 
 Además de estas actividades al aire libre, Andorra también tiene varios campos de golf, un casino y una gran variedad de spa y centros de bienestar para relajarse y recargar energías.
 
-> Consideramos que Andorra dispone de los ingredientes ideales para poder iniciar un proyecto empresarial: seguridad, marco fiscal, soporte a los emprendedores, localización geográfica, crecimiento, etc. Sin olvidar, la gran calidad de vida que tienes como ciudadano: es un lujo poder vivir y trabajar tan cerca de las montañas.
+Además de estas actividades al aire libre, Andorra también tiene varios campos de golf, un casino y una gran variedad de spa y centros de bienestar para relajarse y recargar energías.
