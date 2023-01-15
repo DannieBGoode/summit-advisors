@@ -11,8 +11,8 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 	<div class="hero__subscribe" style="margin-bottom: 50px; min-width: 430px;">
 		<form class="subscribe-form" action="javascript:void(0);">
 			<label class="screen-reader-text" for="gross-salary">Sueldo Bruto Anual €</label>
-			<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="Tu sueldo bruto anual €" min="1" step="any" onkeyup="addCommas()">
-			<button class="button button--primary button--small subscribe-button" onclick="calculate()">Calcular Sueldo Neto</button>
+			<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="{{ site.data.calculator.placeholder }}" min="1" step="any" onkeyup="addCommas()">
+			<button class="button button--primary button--small subscribe-button" onclick="calculate()">{{ site.data.calculator.buttonCTA }}</button>
 		</form>
 	</div>
 </div>
@@ -47,7 +47,7 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 
 <div>
 	<h2> Explicación </h2>
-	<h3> IRPF </h3>
+	<h3> IRPF - Impuesto de la Renta </h3>
 	<div>
 		En Andorra el IRPF únicamente presenta tres tramos:
 	</div>
@@ -61,19 +61,23 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 			</thead>
 			<tbody>
 				<tr>
-					<td>Hasta 24.000€</td>
+					<td>Hasta {{ site.data.calculator.tramoMin }}</td>
 					<td>0%</td>
 				</tr>	
 				<tr>
-					<td>De 24.000€ a 40.000€</td>
-					<td>5%</td>
+					<td>De {{ site.data.calculator.tramoMin }} a {{ site.data.calculator.tramoMax }}</td>
+					<td>{{ site.data.calculator.tributacionMin }}%</td>
 				</tr>	
 				<tr>
-					<td>De 40.000€ en adelante</td>
-					<td>10%</td>
+					<td>De {{ site.data.calculator.tramoMax }} en adelante</td>
+					<td>{{ site.data.calculator.tributacionMax }}%</td>
 				</tr>	
 			</tbody>
 		</table>
+	</div>
+	<h3> Impuesto de Sociedades </h3>
+	<div>
+		En Andorra el IS o Impuesto de Sociedades es del {{ site.data.calculator.impuestoSociedades }}%.
 	</div>
 </div>
 
