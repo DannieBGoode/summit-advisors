@@ -23,8 +23,6 @@ Su sistema educativo público es altamente competitivo donde se ofrecen, de form
 
 A﻿demás existe oferta de colegios privados entre los que destacan el Agora International School (de 2 a 17 años)  y el British College of Andorra (3 a 13 años).
 
-
-
 ### M﻿arco Fiscal
 
 AUn 10% tanto en el tramo máximo de
@@ -59,7 +57,7 @@ Completely synergize resource taxing relationships via premier niche markets. Cu
 
 Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
 
-![Sea]({{site.baseurl}}/images/andorra/andorra-skii.jpg)
+![Andorra Ski](https://summit-advisors.netlify.app/images/andorra/andorra-skii.jpg)
 *Photo by [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
