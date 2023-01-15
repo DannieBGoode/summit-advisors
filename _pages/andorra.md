@@ -38,9 +38,20 @@ Su impuesto al valor añadido (VAT) es de los más bajos del mundo fijado en 4.5
 
 A﻿demás su PIB per cápita nominal se encuentra por debajo de media de la UE.
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+
+![Andorra Ski](https://summit-advisors.netlify.app/images/andorra/andorra-skii.jpg)
+*Photo by [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
+
+### E﻿stilo de vida
+
+Andorra es conocida por su oferta turística en invierno, especialmente por sus estaciones de esquí. Ofrece una gran variedad de pistas para esquiadores y snowboarders de todos los niveles, así como una gran variedad de actividades en la nieve como raquetas de nieve, esquí de fondo, y paseos en trineo.
+
+En verano, las montañas de Andorra ofrecen excelentes oportunidades para el senderismo y la escalada. También hay varios rutas de ciclismo de montaña y senderismo, así como oportunidades para practicar deportes acuáticos en los ríos y lagos de la zona.
+
+Además de estas actividades al aire libre, Andorra también tiene varios campos de golf, un casino y una gran variedad de spa y centros de bienestar para relajarse y recargar energías.
+
+> Consideramos que Andorra dispone de los ingredientes ideales para poder iniciar un proyecto empresarial: seguridad, marco fiscal, soporte a los emprendedores, localización geográfica, crecimiento, etc. Sin olvidar, la gran calidad de vida que tienes como ciudadano: es un lujo poder vivir y trabajar tan cerca de las montañas.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -50,16 +61,3 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
   </div>
   <em>Gallery / <a href="https://www.instagram.com/andorralovers/" target="_blank">Andorra Lovers</a></em>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-![Andorra Ski](https://summit-advisors.netlify.app/images/andorra/andorra-skii.jpg)
-*Photo by [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
