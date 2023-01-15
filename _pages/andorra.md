@@ -17,6 +17,15 @@ Andorra dispone de una alta seguridad ciudadana, con uno de los índices de deli
 
 A﻿ndorra dispone de un sistema sanitario de alta calidad que funciona vía copago. Andorra está reconocida en las primeras posiciones de los rankings de países más saludables.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/andorra/andorra-night.jpg" loading="lazy">
+    <img src="/images/andorra/atumn.jpg" loading="lazy">
+    <img src="/images/andorra/andorra-winter.jpg" loading="lazy">
+  </div>
+  <em>Gallery / <a href="https://www.instagram.com/andorralovers/" target="_blank">Andorra Lovers</a></em>
+</div>
+
 ### S﻿istema Educativo
 
 Su sistema educativo público es altamente competitivo donde se ofrecen, de forma gratuita, tres modelos de enseñanza: el español, el francés y el andorrano.
@@ -38,8 +47,6 @@ Su impuesto al valor añadido (VAT) es de los más bajos del mundo fijado en 4.5
 
 A﻿demás su PIB per cápita nominal se encuentra por debajo de media de la UE.
 
-
-
 ![Andorra Ski](https://summit-advisors.netlify.app/images/andorra/andorra-skii.jpg)
 *Photo by [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
 
@@ -52,12 +59,3 @@ En verano, las montañas de Andorra ofrecen excelentes oportunidades para el sen
 Además de estas actividades al aire libre, Andorra también tiene varios campos de golf, un casino y una gran variedad de spa y centros de bienestar para relajarse y recargar energías.
 
 > Consideramos que Andorra dispone de los ingredientes ideales para poder iniciar un proyecto empresarial: seguridad, marco fiscal, soporte a los emprendedores, localización geográfica, crecimiento, etc. Sin olvidar, la gran calidad de vida que tienes como ciudadano: es un lujo poder vivir y trabajar tan cerca de las montañas.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/andorra/andorra-night.jpg" loading="lazy">
-    <img src="/images/andorra/atumn.jpg" loading="lazy">
-    <img src="/images/andorra/andorra-winter.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://www.instagram.com/andorralovers/" target="_blank">Andorra Lovers</a></em>
-</div>
