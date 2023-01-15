@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mejores Parroquias
+title: Guía de las distintas Parroquias de Andorra
 description: Descripción de las mejores parroquias
 date: 2022-09-30T12:20:35.088Z
 image: https://www.apartamentos3000.com/fotosweb_motor/000fa723-7e56-4172-8e91-a72ee68bc938/Restaurante-terraz-Ordino-ORDINO-Estación-Vallnord.jpg
@@ -8,12 +8,16 @@ tags:
   - lifestyle
   - rest
 ---
-Testing the test testing
+Entre las distintas parroq
+
+1. Canillo: Canillo es la parroquia más al norte de Andorra, y es conocida por su estación de esquí, Grandvalira, que es una de las más grandes de los Pirineos. También tiene varios senderos para caminar y rutas de ciclismo de montaña.
+2. Encamp: Encamp es una de las parroquias más grandes de Andorra y es conocida por sus baños termales y su estación de esquí, Pal-Arinsal. También es el hogar de la iglesia de Sant Joan de Caselles, que es uno de los edificios religiosos más antiguos del país.
+3. La Massana: La Massana es una parroquia hermosa, con una gran variedad de senderos para caminar, ciclismo de montaña, y esquí de fondo. También es el hogar de la estación de esquí de Vallnord-Pal-Arinsal.
+4. Ordino: Ordino es la parroquia más septentrional de Andorra y es conocida por sus pintorescas aldeas y su hermosa naturaleza. Es también el hogar de la estación de esquí de Ordino-Arcalís.
+5. Sant Julià de Lòria: Sant Julià de Lòria es una parroquia con una gran variedad de actividades al aire libre, incluyendo senderismo, ciclismo de montaña, y esquí de fondo. También es el hogar de la estación de esquí de Alp 2500.
+6. Andorra la Vella: Andorra la Vella es la capital de Andorra y es el hogar de la mayoría de las instituciones gubernamentales y comerciales del país. También es conocida por su animada vida nocturna y su amplia variedad de tiendas y restaurantes.
+
+   ![Andorra la Vieja](https://d19tiqumqauva7.cloudfront.net/var/andorra/storage/images/8/7/5/8/25048578-27-eng-US/1906X960-oficina-turisme-escaldes-engordany.jpg "Andorra la Vieja")
 
 
-
-<!--StartFragment-->
-
-![](https://d19tiqumqauva7.cloudfront.net/var/andorra/storage/images/8/7/5/8/25048578-27-eng-US/1906X960-oficina-turisme-escaldes-engordany.jpg)
-
-<!--EndFragment-->
+7. Escaldes-Engordany: Escaldes-Engordany es una parroquia situada en el centro de Andorra y es conocida por sus baños termales y su animada vida nocturna. También es el hogar del Museo Casa Rull, que es una atracción turística importante.
