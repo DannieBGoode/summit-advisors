@@ -1,10 +1,12 @@
 # config.yml
 
-display_url: summit-advisors.netlify.app
+display_url: https://summit-advisors.netlify.app
 locale: 'es'
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+# when using the default proxy server port
+local_backend: true
 media_folder: 'assets/uploads'
 collections:
   - name: 'general'
@@ -65,6 +67,17 @@ collections:
         - { label: Descripción, name: description, widget: string, hint: 'Descripción de la página para el SEO' }
         - { label: Logo, name: logo, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
         - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
+    - label: "Social Links"
+      name: "social"
+      file: "_data/social.yml"
+      fields:
+        - label: "Redes Sociales"
+          name: "social"
+          widget: "list"
+          collapse: false
+          fields:
+            - { label: Icono, name: icon, widget: string }
+            - { label: Link, name: link, widget: string }
   - name: 'pages'
     label: 'Páginas'
     folder: '_pages/'
