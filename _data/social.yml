@@ -1,3 +1,7 @@
 social:
-  - icon: test
-    link: test
+  - icon: ion-logo-twitter
+    link: https://twitter.com
+  - icon: ion-logo-instagram
+    link: https://instagram.com
+  - icon: ion-logo-linkedin
+    link: https://www.linkedin.com/company/summit-advisors-andorra/
