@@ -61,15 +61,15 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 			</thead>
 			<tbody>
 				<tr>
-					<td>Hasta {{ site.data.calculator.tramoMin }}</td>
+					<td>Hasta {{ site.data.calculator.tramoMin }} €</td>
 					<td>0%</td>
 				</tr>	
 				<tr>
-					<td>De {{ site.data.calculator.tramoMin }} a {{ site.data.calculator.tramoMax }}</td>
+					<td>De {{ site.data.calculator.tramoMin }} € a {{ site.data.calculator.tramoMax }}</td>
 					<td>{{ site.data.calculator.tributacionMin }}%</td>
 				</tr>	
 				<tr>
-					<td>De {{ site.data.calculator.tramoMax }} en adelante</td>
+					<td>De {{ site.data.calculator.tramoMax }} € en adelante</td>
 					<td>{{ site.data.calculator.tributacionMax }}%</td>
 				</tr>	
 			</tbody>
