@@ -9,7 +9,7 @@ image: https://www.triptemptation.com/media/db41319c-db5b-4c83-a807-5534550f4896
 
 Los motivos por los cuales una persona podría decidir en un país en específico son muy personales, pero Andorra destaca en algunos factores de manera internacional.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3HxIbYWfuFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/3HxIbYWfuFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ### S﻿eguridad
 
