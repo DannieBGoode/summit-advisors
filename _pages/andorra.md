@@ -50,7 +50,7 @@ Su impuesto al valor añadido (VAT) es de los más bajos del mundo fijado en 4.5
 A﻿demás su PIB per cápita nominal se encuentra por debajo de media de la UE.
 
 ![Andorra Ski](https://summit-advisors.netlify.app/images/andorra/andorra-skii.jpg)
-*Photo por [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
+*Foto por [Andorra_snowlovers](https://www.instagram.com/andorra_snowlovers/)*
 
 ### E﻿stilo de vida
 
