@@ -25,11 +25,11 @@ collections:
       name: "calculator"
       file: "_data/calculator.yml"
       fields: 
-        - { label: tramo Mínimo, name: tramoMin, widget: string, hint: '' }
-        - { label: tramo Máximo, name: tramoMax, widget: string, hint: '' }
-        - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: string, hint: '' }
-        - { label: tributacion Tramo Máximo, name: tributacionMax, widget: string, hint: '' }
-        - { label: impuesto de Sociedades, name: impuestoSociedades, widget: string, hint: '' }
+        - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
+        - { label: tramo Máximo, name: tramoMax, widget: number, hint: 'En Euros, por ejemplo 40000' }
+        - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: number, hint: 'En porcentaje, por ejemplo 5' }
+        - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
+        - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
         - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
         - { label: Botón, name: buttonCTA, widget: string, hint: '' }
     - label: "Testimonios de Clientes"
