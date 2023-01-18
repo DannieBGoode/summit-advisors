@@ -1,13 +1,19 @@
 ---
 layout: page
 title: Nosotros
-permalink: "/about/"
-image: "/images/01-2.jpg"
-
+permalink: /about/
+image: /images/01-2.jpg
 ---
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Summit Advisors es una empresa de consultoría y asesoramiento empresarial liderada por Albert Hernández y Jordi Yll.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Su principal objetivo es brindar apoyo a sus clientes ofreciendo soluciones integrales en el ámbito administrativo, fiscal, laboral y contable.
+
+
+Según sus propias palabras,
+
+> Brindamos seguridad y confianza en las decisiones tomadas tanto individuales como empresariales, mediante la elaboración de soluciones adaptadas a cada una de sus situaciones y siempre actuando con un alto grado de compromiso y en beneficio del cliente, al cual representamos de manera ética y responsable.
+
+Summit Advisors ha sido fundada en Andorra porque consideran que es el lugar ideal para iniciar un proyecto empresarial, debido a su seguridad, marco fiscal, apoyo a emprendedores, ubicación geográfica y crecimiento, además de la gran calidad de vida.
 
 <div class="gallery-box">
 <div class="gallery">
@@ -25,7 +31,7 @@ Completely synergize resource taxing relationships via premier niche markets. Cu
 Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
 
 ![Sea](https://hivefive.spaces.nexudus.com/es/blog/getlargeimage?id=1414944073&w=1500)
-_Foto por_ [_High Five_](https://hivefive.spaces.nexudus.com/es/blog/read/1414944073/entrevista-a-albert-hernández-i-jordi-yii--summit-advisory-group-s-l-)
+*Foto por* *[High Five](https://hivefive.spaces.nexudus.com/es/blog/read/1414944073/entrevista-a-albert-hernández-i-jordi-yii--summit-advisory-group-s-l-)*
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
