@@ -28,12 +28,12 @@ function calculate() {
     }
 
 	let tax = 0;
-    if (income < 24000) {
+    if (income < tramoMin) {
         tax = 0;
-    } else if (income >= 24000 && income < 40000) {
-        tax = 0.05 * (income - 24000);
+    } else if (income >= tramoMin && income < tramoMax) {
+        tax = tributacionMin * (income - tramoMin);
     } else {
-        tax = 0.10 * (income - 40000) + 600;
+        tax = tributacionMax * (income - tramoMax) + (tramoMax - tramoMin) * tributacionMin;
     }
     let netIncomeYearly = income - tax;
     let netIncomeMonthly = netIncomeYearly / 12;

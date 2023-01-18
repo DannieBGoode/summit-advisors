@@ -65,7 +65,7 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 					<td>0%</td>
 				</tr>	
 				<tr>
-					<td>De {{ site.data.calculator.tramoMin }} € a {{ site.data.calculator.tramoMax }}</td>
+					<td>De {{ site.data.calculator.tramoMin }} € a {{ site.data.calculator.tramoMax }} €</td>
 					<td>{{ site.data.calculator.tributacionMin }}%</td>
 				</tr>	
 				<tr>
@@ -81,5 +81,10 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 	</div>
 </div>
 
-
+<script>
+	const tramoMin = parseInt("{{ site.data.calculator.tramoMin }}");
+	const tramoMax = parseInt("{{ site.data.calculator.tramoMax }}");
+	const tributacionMin = parseFloat(parseInt("{{ site.data.calculator.tributacionMin }}")) / 100;
+	const tributacionMax = parseFloat(parseInt("{{ site.data.calculator.tributacionMax }}")) / 100;
+</script>
 <script src="/js/calculator.js"/>
