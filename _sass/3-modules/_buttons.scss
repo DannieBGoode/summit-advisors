@@ -23,7 +23,8 @@
     background-color: var(--button-background-color);
 
     &:hover {
-      background: var(--button-background-hover);
+      // background: var(--button-background-hover);
+      filter: saturate(1.5);
     }
   }
 

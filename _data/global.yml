@@ -5,3 +5,5 @@ logo_dark: '/images/logo2.png'
 logo_light: # Logo for a white background
 description: Gestoría, asesoría para mudar tu empresa a Andorra.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+brand_color_dark: '#7ABACC'
+brand_color_light: '#7ABACC'

@@ -58,4 +58,13 @@
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>
+  <style>
+    :root {
+      --brand-color: {{ site.data.global.brand_color_light }};
+    }
+    :root[dark] {
+      --brand-color: {{ site.data.global.brand_color_dark }};
+    }
+  </style>
+
 </head>
