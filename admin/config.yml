@@ -58,7 +58,7 @@ collections:
       name: "footer"
       file: "_data/footer.yml"
       fields: 
-        - label: "Testimonios de Clientes"
+        - label: "Galeria del Footer"
           name: "gallery"
           widget: "list"
           fields:

@@ -1,0 +1,15 @@
+#-------------------------------
+# Gallery Footer Settings
+gallery:
+  - alt: 'Rest'
+    url: '/images/andorra/andorra-la-vella.jpg'
+    # url: '/images/gallery-1.jpg'
+  - alt: 'Lifestyle'
+    # url: '/images/gallery-2.jpg'
+    url: 'https://media.istockphoto.com/photos/embankment-of-valira-d-orient-river-in-la-cortinada-andorra-picture-id492005666?k=20&m=492005666&s=612x612&w=0&h=i-4WRA_UUyOP8utOJ5zjoCO-I8qtqDbWLCugDkxDsTE='
+  - alt: 'Hobby'
+    # url: '/images/gallery-3.jpg'
+    url: 'https://media.istockphoto.com/photos/main-highway-in-andorra-picture-id849558280?k=20&m=849558280&s=612x612&w=0&h=AUTo9r7eL0_XAGUpmEGioqcmYvifFw3CvmKeaHpuVCc='
+  - alt: 'Notes'
+    # url: '/images/gallery-4.jpg'
+    url: 'https://media.istockphoto.com/photos/view-of-the-village-in-the-pyrenees-andorra-from-the-ski-slopes-in-picture-id1160844746?k=20&m=1160844746&s=612x612&w=0&h=2LIxl_jpBZg4BebcJB38i8XjY_0t-c0s_otAfX3e_5c='
