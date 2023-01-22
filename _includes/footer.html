@@ -2,9 +2,9 @@
 <footer class="footer">
 
   <div class="footer__gallery">
-    {% if site.data.settings.gallery %}
+    {% if site.data.footer.gallery %}
     <div class="gallery">
-      {% for image in site.data.settings.gallery.gallery__images %}
+      {% for image in site.data.footer.gallery %}
       <div class="gallery__image">
         <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
       </div>

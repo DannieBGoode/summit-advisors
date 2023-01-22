@@ -54,6 +54,16 @@ collections:
           - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
           - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
           - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
+    - label: "Footer"
+      name: "footer"
+      file: "_data/footer.yml"
+      fields: 
+        - label: "Testimonios de Clientes"
+          name: "gallery"
+          widget: "list"
+          fields:
+          - { label: Titulo, name: alt, widget: string, hint: 'Nombre de la imagen por motivos de SEO de Google.' }
+          - { label: Imagen, name: url, widget: image, choose_url: true, hint: 'Imagen que aparece en el footer en todas las páginas.' }
     - label: "Contacto"
       name: "contact"
       file: "_data/contact.yml"
