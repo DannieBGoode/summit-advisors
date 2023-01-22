@@ -4,8 +4,7 @@ title: Calculadora
 permalink: /calculadora/
 image: /assets/uploads/image_2023-01-15_172707289.png
 ---
-
-
+C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 
 <div style="display: flex; justify-content: center;">
 	<div class="hero__subscribe" style="margin-bottom: 50px; min-width: 430px;">
@@ -16,7 +15,6 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 		</form>
 	</div>
 </div>
-
 
 <div class="result" style="display: none">
 	<div>
@@ -87,4 +85,5 @@ image: /assets/uploads/image_2023-01-15_172707289.png
 	const tributacionMin = parseFloat(parseInt("{{ site.data.calculator.tributacionMin }}")) / 100;
 	const tributacionMax = parseFloat(parseInt("{{ site.data.calculator.tributacionMax }}")) / 100;
 </script>
+
 <script src="/js/calculator.js"/>
