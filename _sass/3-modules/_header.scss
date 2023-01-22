@@ -353,17 +353,25 @@
   }
 }
 
-.dark-mode {
-  .dropdown-menu {
-    background-color: var(--background-alt-color);
+.dropdown-menu {
+  background-color: var(--background-alt-color);
 
-    @media only screen and (max-width: $desktop) {
-      background-color: inherit;
-    }
+  @media only screen and (max-width: $desktop) {
+    background-color: inherit;
   }
-  .logo {
-    height: 0;
+}
+.logo {
+  height: 0;
+  & img {
+    width: 150px;
+    position: relative;
+    bottom: 50px;
   }
+  .logo-light {
+    display: block;
+  }
+}
+.dark-mode {  
   .logo-dark {
     display: block !important;
   }

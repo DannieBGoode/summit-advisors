@@ -7,14 +7,14 @@
         <div class="logo">
           <a class="logo__link logo-light" href="{{ site.baseurl }}/">
           {% if site.data.global.logo_light %}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.global.logo_light }}" alt="{{ site.data.global.title }}">
+            <img width="150" src="{{ site.data.global.logo_light }}" alt="{{ site.data.global.title }}" style="">
           {% else %}
             {{ site.data.global.title }}
           {% endif %}
           </a>
           <a class="logo-dark" href="{{ site.baseurl }}/" style="display:none">
             {% if site.data.global.logo_dark %}
-            <img width="150" src="{{ site.data.global.logo_dark }}" style="width: 150px;position: relative;bottom: 50px;">
+            <img width="150" src="{{ site.data.global.logo_dark }}" style="">
             {% else %}
               {{ site.data.global.title }}
             {% endif %}
