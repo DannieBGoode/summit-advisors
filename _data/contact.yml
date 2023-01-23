@@ -1,8 +1,6 @@
-#-------------------------------
-# Contact Settings
-
-email: your@email.com # Add your form_id
-description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-# NOTE
-# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+email: your@email.com
+description: " ¡Estamos aquí para ayudarte! Nuestro equipo de expertos se
+  encargará de estudiar tu caso cuidadosamente y encargarse de todos los
+  trámites necesarios para que tú solo te preocupes por disfrutar de este
+  hermoso país. No dudes en ponerte en contacto con nosotros a través del
+  siguiente formulario."
