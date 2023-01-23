@@ -68,7 +68,7 @@ collections:
       name: "contact"
       file: "_data/contact.yml"
       fields: 
-        - { label: Descripción, name: description, widget: string, hint: 'Descripción del formulario de contacto' }
+        - { label: Descripción, name: description, widget: text, hint: 'Descripción del formulario de contacto' }
     - label: "Ajustes"
       name: "global"
       file: "_data/global.yml"
