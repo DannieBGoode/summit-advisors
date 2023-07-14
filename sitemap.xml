@@ -38,4 +38,20 @@ layout:
       {% endif %}
     {% endif %}
   {% endfor %}
+  {% for page in site.projects %}
+    {% if page.id contains "404" %}{% else %}
+      {% if page.title %}
+      <url>
+        <loc>{{site.url}}{{ page.url }}</loc>
+        {% if page.ref %}
+          {% assign versions=site.pages | where:"ref", page.ref %}
+          {% for version in versions %}
+            <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.url }}" />
+          {% endfor %}
+        {% endif %}
+        <changefreq>weekly</changefreq>
+      </url>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </urlset>
