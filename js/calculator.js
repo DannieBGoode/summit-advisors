@@ -25,6 +25,8 @@ function calculate() {
         incomeInput.classList.remove("calculator-error");  //remove the error class if it previously existed
     }
 
+    let SocialSecurityYearly = socialSecurity * 12;
+
 	let tax = 0;
     if (income < tramoMin) {
         tax = 0;
@@ -33,10 +35,10 @@ function calculate() {
     } else {
         tax = tributacionMax * (income - tramoMax) + (tramoMax - tramoMin) * tributacionMin;
     }
-    let netIncomeYearly = income - tax;
+    let netIncomeYearly = income - tax - SocialSecurityYearly;
     let netIncomeMonthly = netIncomeYearly / 12;
 
-    let SocialSecurityYearly = socialSecurity * 12;
+    
 
     let effectiveTaxRate = parseFloat(((tax+SocialSecurityYearly) / income) * 100).toFixed(2);
 

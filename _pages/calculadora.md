@@ -4,23 +4,23 @@ title: Calculadora
 permalink: /calculadora/
 image: /assets/uploads/image_2023-01-15_172707289.png
 ---
-C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
+Cálcula cuanto sería tu sueldo neto si vivieras en Andorra:
 
-<div style="display: flex; justify-content: center;">
-	<div class="hero__subscribe" style="margin-bottom: 50px; min-width: 430px;">
+<div class="flex-center">
+	<div class="hero__subscribe calculator">
 		<form class="subscribe-form" action="javascript:void(0);">
 			<label class="screen-reader-text" for="gross-salary">Sueldo Bruto Anual €</label>
-			<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="{{ site.data.calculator.placeholder }}" min="1" step="any" onkeyup="addCommas()">
+			<input class="subscribe-email required email transparent-input" id="gross-salary-input" type="text" name="gross-salary" placeholder="{{ site.data.calculator.placeholder }}" min="1" step="any" onkeyup="addCommas()">
 			<button class="button button--primary button--small subscribe-button" onclick="calculate()">{{ site.data.calculator.buttonCTA }}</button>
 		</form>
 	</div>
 </div>
 
-<div class="result" style="display: none">
+<div class="result hidden">
 	<div>
-		Si tuvieras un sueldo bruto anual de <span class="gross-salary"></span> en Andorra se traduciría en un sueldo neto de <span class="net-salary-yearly"></span> anuales ó <span class="net-salary-monthly"></span> mensuales.
+		Si tuvieras un sueldo bruto anual de <span class="gross-salary"></span> en Andorra se traduciría en un sueldo neto de <b><span class="net-salary-yearly"></span> anuales</b> ó <b><span class="net-salary-monthly"></span> mensuales</b> de los cuales se habrían deducido {{ site.data.calculator.seguridadSocial }} € al mes por Seguridad Social y <span class="tax"></span> anuales en IRPF.
 	</div>
-	<div style="margin-top: 50px">
+	<div class="margin-section">
 		<table>
 			<thead>
 				<tr>
@@ -29,7 +29,7 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 					<td> Sueldo Neto Mensual </td>
 					<td> Impuestos Anuales (IRPF / IS) </td>
 					<td> Seguridad Social </td>
-					<td> Impuesto Efectivo </td>
+					<td> Impuestos Efectivos </td>
 				</tr>
 			</thead>
 			<tbody>
@@ -81,8 +81,10 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 		<h3>Impuesto de Sociedades</h3>
 		<div>
 			En Andorra el IS o Impuesto de Sociedades es del {{ site.data.calculator.impuestoSociedades }}%. Es importante remarcar dos cosas:
-			* El salario neto de un trabajador pagado por la empresa no aplica el IS puesto que para la empresa supone un gasto y no una ganancia. A este salario se le aplicarían las reglas de IRPF explicadas anteriormente, y incluyen también a empresas con un solo trabajador.
-			* Los dividendos pagados de un empresario a sí mismo cotizan al 0%, por lo que si un empresario decide no pagarse un salario y pagarse a sí mismo a través de dividendos, se le aplicaría únicamente el 10% de IS.
+			<ul>
+				<li>El salario neto de un trabajador pagado por la empresa no aplica el IS puesto que para la empresa supone un gasto y no una ganancia. A este salario se le aplicarían las reglas de IRPF explicadas anteriormente, y incluyen también a empresas con un solo trabajador.</li>
+				<li>Los dividendos pagados de un empresario a sí mismo cotizan al 0%, por lo que si un empresario decide no pagarse un salario y pagarse a sí mismo a través de dividendos, se le aplicaría únicamente el 10% de IS.</li>
+			</ul>
 		</div>
 	</div>
 	<div>
@@ -91,11 +93,17 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 			El aporte para un autónomo (profesional por cuenta propia) en Andorra es fijo con una mensualidad de {{ site.data.calculator.seguridadSocial }} €.
 		</div>
 	</div>
-
+</div>
+<div class="contact-section margin-section">
 	<div>
-		<h3> Cada caso es único</h3>
+		<h2> Cada caso es único</h2>
 		<div>
 			Puede haber muchas pequeñas variaciones dependiendo del número de trabajadores de la empresa, sector de trabajo, país de procedencia de los clientes, por lo que para poder darte los números exactos de tu caso no dudes en <a href="/contact/">ponerte en contacto con nosotros</a> y te ayudaremos a entender tu mejor escenario.
+		</div>
+		<div class="button-center">
+			<a href="/contact/">
+				<button class="button button--primary button--small subscribe-button" onclick="void()">{{ site.data.calculator.contactCTA }}</button>
+			</a>
 		</div>
 	</div>
 </div>

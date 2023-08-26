@@ -1,0 +1,38 @@
+/* Calculator */
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+/* For hero__subscribe */
+.hero__subscribe {
+  &.calculator {
+    margin-bottom: 50px;
+    min-width: 430px;
+  }
+  .subscribe-email {
+    /* Existing styles here */
+  }
+  .subscribe-email.transparent-input:not(:focus) {
+    background-color: transparent;
+    border-color: var(--light-gray);
+  }
+}
+
+
+
+/* For hiding elements */
+.hidden {
+  display: none;
+}
+
+/* For setting margin-top in tables */
+.margin-section {
+  margin-top: 50px;
+}
+
+/* For button-center */
+.button-center {
+  text-align: center;
+  margin-top: 10%;
+}
