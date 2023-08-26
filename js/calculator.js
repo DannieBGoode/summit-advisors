@@ -10,8 +10,6 @@ function addCommas() {
         document.getElementById("gross-salary-input").value = output;
     }
 }
-   
-
 
 function calculate() {
 	let incomeInput = document.getElementById("gross-salary-input");
@@ -38,10 +36,17 @@ function calculate() {
     let netIncomeYearly = income - tax;
     let netIncomeMonthly = netIncomeYearly / 12;
 
+    let SocialSecurityYearly = socialSecurity * 12;
+
+    let effectiveTaxRate = parseFloat(((tax+SocialSecurityYearly) / income) * 100).toFixed(2);
+
     let GrossYearly = document.querySelectorAll('.gross-salary');
     let netSalaryYearly = document.querySelectorAll('.net-salary-yearly');
 	let netSalaryMonthly = document.querySelectorAll('.net-salary-monthly');
 	let taxYearly = document.querySelectorAll('.tax');
+    let SocialSecurity = document.querySelectorAll('.social-security');
+    let taxPercentage = document.querySelectorAll('.tax-percentage');
+
 
 	let options = { style: 'currency', currency: 'EUR', minimumFractionDigits: 2 };
 	
@@ -58,6 +63,15 @@ function calculate() {
 	taxYearly.forEach(function(element) {
 		element.innerHTML = tax.toLocaleString("de-DE", options);
 	});
+
+    SocialSecurity.forEach(function(element) {
+        element.innerHTML = SocialSecurityYearly.toLocaleString("de-DE", options);
+    });
+
+    taxPercentage.forEach(function(element) {
+        element.innerHTML = effectiveTaxRate + '%';
+    });
+
 
     document.getElementsByClassName("result")[0].style.display = "block";
 }

@@ -24,10 +24,12 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 		<table>
 			<thead>
 				<tr>
-					<td> Sueldo Bruto </td>
+					<td> Sueldo Bruto Anual</td>
 					<td> Sueldo Neto Anual </td>
 					<td> Sueldo Neto Mensual </td>
-					<td> Impuesto Anuales </td>
+					<td> Impuestos Anuales (IRPF / IS) </td>
+					<td> Seguridad Social </td>
+					<td> Impuesto Efectivo </td>
 				</tr>
 			</thead>
 			<tbody>
@@ -36,6 +38,8 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 					<td class="net-salary-yearly"></td>
 					<td class="net-salary-monthly"></td>
 					<td class="tax"></td>
+					<td class="social-security"></td>
+					<td class="tax-percentage"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -44,7 +48,7 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 </div>
 
 <div>
-	<h2> Explicación </h2>
+	<h2> Qué impuestos tendría un autónomo en Andorra </h2>
 	<h3> IRPF - Impuesto de la Renta </h3>
 	<div>
 		En Andorra el IRPF únicamente presenta tres tramos:
@@ -73,9 +77,26 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 			</tbody>
 		</table>
 	</div>
-	<h3> Impuesto de Sociedades </h3>
 	<div>
-		En Andorra el IS o Impuesto de Sociedades es del {{ site.data.calculator.impuestoSociedades }}%.
+		<h3>Impuesto de Sociedades</h3>
+		<div>
+			En Andorra el IS o Impuesto de Sociedades es del {{ site.data.calculator.impuestoSociedades }}%. Es importante remarcar dos cosas:
+			* El salario neto de un trabajador pagado por la empresa no aplica el IS puesto que para la empresa supone un gasto y no una ganancia. A este salario se le aplicarían las reglas de IRPF explicadas anteriormente, y incluyen también a empresas con un solo trabajador.
+			* Los dividendos pagados de un empresario a sí mismo cotizan al 0%, por lo que si un empresario decide no pagarse un salario y pagarse a sí mismo a través de dividendos, se le aplicaría únicamente el 10% de IS.
+		</div>
+	</div>
+	<div>
+		<h3> Seguridad Social </h3>
+		<div>
+			El aporte para un autónomo (profesional por cuenta propia) en Andorra es fijo con una mensualidad de {{ site.data.calculator.seguridadSocial }} €.
+		</div>
+	</div>
+
+	<div>
+		<h3> Cada caso es único</h3>
+		<div>
+			Puede haber muchas pequeñas variaciones dependiendo del número de trabajadores de la empresa, sector de trabajo, país de procedencia de los clientes, por lo que para poder darte los números exactos de tu caso no dudes en <a href="/contact/">ponerte en contacto con nosotros</a> y te ayudaremos a entender tu mejor escenario.
+		</div>
 	</div>
 </div>
 
@@ -84,6 +105,7 @@ C﻿alcula cuanto sería tu sueldo neto si vivieras en Andorra:
 	const tramoMax = parseInt("{{ site.data.calculator.tramoMax }}");
 	const tributacionMin = parseFloat(parseInt("{{ site.data.calculator.tributacionMin }}")) / 100;
 	const tributacionMax = parseFloat(parseInt("{{ site.data.calculator.tributacionMax }}")) / 100;
+	const socialSecurity = parseInt("{{ site.data.calculator.seguridadSocial }}");
 </script>
 
 <script src="/js/calculator.js"/>
