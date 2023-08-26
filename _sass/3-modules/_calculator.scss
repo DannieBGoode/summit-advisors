@@ -8,7 +8,9 @@
 .hero__subscribe {
   &.calculator {
     margin-bottom: 50px;
-    min-width: 430px;
+    @media (min-width: 450px) {
+      min-width: 430px;
+    }
   }
   .subscribe-email {
     /* Existing styles here */
@@ -35,4 +37,79 @@
 .button-center {
   text-align: center;
   margin-top: 10%;
+}
+
+
+/* Styles for larger screens */
+@media (min-width: 768px) {
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    display: table-header-group;
+  }
+  
+  tbody {
+    display: table-row-group;
+  }
+  
+  tr {
+    display: table-row;
+  }
+  
+  th, td {
+    display: table-cell;
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+}
+
+/* Styles for smaller screens */
+@media (max-width: 767px) {
+  table {
+    &.no-invert {
+      /* Styling for tables with .no-invert class goes here, if needed */
+    }
+
+    &:not(.no-invert) {
+      border-top: 1px solid #ddd;
+      border-right: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      thead, tbody, tr, th, td {
+        display: block;
+      }
+
+      thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+      }
+      
+      tbody tr {
+        margin-bottom: 0.625rem;
+      }
+
+      tbody tr td {
+        border: none;
+        border-bottom: 1px solid #ddd !important;
+        position: relative;
+        padding-left: 70% !important;
+        text-align: left;
+
+        &:before {
+          position: absolute;
+          top: 6px;
+          left: 6px;
+          width: 45%;
+          padding-right: 10px;
+          white-space: nowrap;
+          font-weight: bold;
+          content: attr(data-label);
+          text-align: right;
+        }
+      }
+    }
+  }
 }

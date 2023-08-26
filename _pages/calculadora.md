@@ -24,22 +24,22 @@ Cálcula cuanto sería tu sueldo neto si vivieras en Andorra:
 		<table>
 			<thead>
 				<tr>
-					<td> Sueldo Bruto Anual</td>
-					<td> Sueldo Neto Anual </td>
-					<td> Sueldo Neto Mensual </td>
-					<td> Impuestos Anuales (IRPF / IS) </td>
-					<td> Seguridad Social </td>
-					<td> Impuestos Efectivos </td>
+					<th> Sueldo Bruto Anual</th>
+					<th> Sueldo Neto Anual </th>
+					<th> Sueldo Neto Mensual </th>
+					<th> Impuestos Anuales (IRPF / IS) </th>
+					<th> Seguridad Social </th>
+					<th> Impuestos Efectivos </th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
-					<td class="gross-salary"></td>
-					<td class="net-salary-yearly"></td>
-					<td class="net-salary-monthly"></td>
-					<td class="tax"></td>
-					<td class="social-security"></td>
-					<td class="tax-percentage"></td>
+					<td data-label="Sueldo Bruto Anual" class="gross-salary"></td>
+					<td data-label="Sueldo Neto Anual" class="net-salary-yearly"></td>
+					<td data-label="Sueldo Neto Mensual" class="net-salary-monthly"></td>
+					<td data-label="Impuestos Anuales (IRPF / IS)" class="tax"></td>
+					<td data-label="Seguridad Social" class="social-security"></td>
+					<td data-label="Impuestos Efectivos" class="tax-percentage"></td>
 				</tr>
 			</tbody>
 		</table>
@@ -54,7 +54,7 @@ Cálcula cuanto sería tu sueldo neto si vivieras en Andorra:
 		En Andorra el IRPF únicamente presenta tres tramos:
 	</div>
 	<div>
-		<table>
+		<table class="no-invert">
 			<thead>
 				<tr>
 					<th>Tramos</th>
