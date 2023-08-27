@@ -1,4 +1,7 @@
 /* Calculator */
+.subscribe-email.required.email.transparent-input.calculator-error{
+  border-color: var(--error);
+}
 .flex-center {
   display: flex;
   justify-content: center;

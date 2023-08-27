@@ -1,11 +1,11 @@
 function addCommas() {
     let givenNumber = document.getElementById("gross-salary-input").value;
-    givenNumber=givenNumber.replace(/\,/g,''); // remove any existing commas
+    givenNumber=givenNumber.replace(/\./g,''); // remove any existing commas
     if (isNaN(givenNumber) || givenNumber === '') {
         // if the value is not a number or is empty, don't format it
         document.getElementById("gross-salary-input").value = givenNumber;
     } else {
-        let nfObject = new Intl.NumberFormat('en-US');
+        let nfObject = new Intl.NumberFormat('de-DE');
         let output = nfObject.format(givenNumber);
         document.getElementById("gross-salary-input").value = output;
     }
@@ -14,8 +14,8 @@ function addCommas() {
 function calculate() {
 	let incomeInput = document.getElementById("gross-salary-input");
 	let income = incomeInput.value;
-	income= income.replace(/\,/g,''); // 1125, but a string, so convert it to number
-	income= parseInt(income,10);
+	income = income.replace(/\./g,''); // 1125, but a string, so convert it to number
+	income = parseInt(income,10);
 
 
     if (isNaN(income) || income < 0) {
