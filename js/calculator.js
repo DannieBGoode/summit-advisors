@@ -1,6 +1,6 @@
 function addCommas() {
     let givenNumber = document.getElementById("gross-salary-input").value;
-    givenNumber=givenNumber.replace(/\./g,''); // remove any existing commas
+    givenNumber = givenNumber.replace(/\.|,/g, ''); // remove any existing commas and dots
     if (isNaN(givenNumber) || givenNumber === '') {
         // if the value is not a number or is empty, don't format it
         document.getElementById("gross-salary-input").value = givenNumber;
