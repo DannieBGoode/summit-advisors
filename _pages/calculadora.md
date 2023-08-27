@@ -3,6 +3,7 @@ layout: page
 title: Calculadora
 permalink: /calculadora/
 image: /assets/uploads/image_2023-01-15_172707289.png
+smallImage: true
 ---
 Cálcula cuanto sería tu sueldo neto si vivieras en Andorra:
 
