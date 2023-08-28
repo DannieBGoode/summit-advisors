@@ -3,6 +3,7 @@ layout: page
 title: Contacta
 permalink: /contact/
 image: /images/16.jpg
+smallImage: true
 ---
 <div class="form-box">
   <div class="contact-head">
