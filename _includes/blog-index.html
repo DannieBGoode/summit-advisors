@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row">
+      <div class="col col-8 push-2 col-t-12 push-t-0">
+        <div class="page-head">
+          <h1 class="page-title">{{ include.title }}</h1>
+          <p class="page-description">{{ include.description }}</p>
+        </div>
+      </div>
+    </div>
+</div>
+  
+<div class="container animate">
+    <div class="row">
+        {% if include.posts.size > 0 %}
+        {% assign sorted_posts = include.posts | sort: 'date' | reverse %}
+        {% for post in sorted_posts %}
+            {% include article.html %}
+        {% endfor %}    
+        {% endif %}
+    </div>
+</div>
+  
+  {% include pagination.html %}
+  

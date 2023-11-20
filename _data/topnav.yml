@@ -1,0 +1,74 @@
+#-------------------------------
+# English Navigation Settings
+en_menu_settings:
+  menu_items:
+    - title: 'Home'
+      url: '/en/'
+    - title: 'Services'
+      url: '/en/services/'
+    - title: 'About Us'
+      url: '/en/about/'
+    - title: 'Andorra'
+      url: '/en/andorra/'
+    - title: 'Tax Calculator'
+      url: '/en/tax-calculator/'
+    - title: 'Blog'
+      url: '/en/blog/'
+    - title: 'Contact'
+      url: '/en/contact/'
+    - title: 'English'
+      submenu:
+        - url: '/cat/'
+          title: 'Català'
+        - url: '/'
+          title: 'Español'
+
+#-------------------------------
+# Spanish Navigation Settings
+es_menu_settings:
+  menu_items:
+    - title: 'Inicio'
+      url: '/'
+    - title: 'Servicios'
+      url: '/es/servicios/'
+    - title: 'Nosotros'
+      url: '/es/nosotros/'
+    - title: 'Andorra'
+      url: '/es/andorra/'
+    - title: 'Calculadora'
+      url: '/es/calculadora/'
+    - title: 'Blog'
+      url: '/es/blog/'
+    - title: 'Contacto'
+      url: '/es/contacto/'
+    - title: 'Español'
+      submenu:
+        - url: '/cat/'
+          title: 'Català'
+        - url: '/en/'
+          title: 'English'
+
+#-------------------------------
+# Catalan Navigation Settings
+cat_menu_settings:
+  menu_items:
+    - title: 'Inici'
+      url: '/cat/'
+    - title: 'Serveis'
+      url: '/cat/serveis/'
+    - title: 'Nosaltres'
+      url: '/cat/nosaltres/'
+    - title: 'Andorra'
+      url: '/cat/andorra/'
+    - title: 'Calculadora'
+      url: '/cat/calculadora/'
+    - title: 'Bloc'
+      url: '/cat/blog/'
+    - title: 'Contacte'
+      url: '/cat/contacte/'
+    - title: 'Català'
+      submenu:
+        - url: '/'
+          title: 'Español'
+        - url: '/en/'
+          title: 'English'

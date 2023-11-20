@@ -7,6 +7,7 @@ image: https://www.apartamentos3000.com/fotosweb_motor/000fa723-7e56-4172-8e91-a
 tags:
   - lifestyle
   - rest
+language: es
 ---
 Entre las distintas parroquías que se encuentran en Andorra destacan las siguientes:
 

@@ -28,15 +28,19 @@
             </div>
             <div class="nav__title">Menu</div>
             <ul class="nav__list list-reset">
-
-              {% for item in site.data.settings.menu__settings.menu__items %}
+              {% if page.language == 'en' %}
+                {% assign menu_items = site.data.topnav.en_menu_settings.menu_items %}
+              {% elsif page.language == 'es' %}
+                {% assign menu_items = site.data.topnav.es_menu_settings.menu_items %}
+              {% else %}
+                {% assign menu_items = site.data.topnav.cat_menu_settings.menu_items %}
+              {% endif %}
+              {% for item in menu_items %}
                 {% if item.submenu %}
                 <li class="nav__item dropdown">
                   <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
                   <div class="dropdown-menu">
-                    {% for submenu-item in item.submenu %}
-                      <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
-                    {% endfor %}
+                    {% include language-picker.html %}
                   </div>
                 </li>
                 {% else %}

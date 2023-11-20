@@ -1,28 +1,4 @@
 #-------------------------------
-# Navigation Settings
-menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Servicios'
-      url: '/projects/'
-    - url: '/about/'
-      title: 'Nosotros'
-    - url: '/andorra/'
-      title: 'Andorra'
-    - url: '/calculadora/'
-      title: 'Calculadora'
-    - title: 'Blog'
-      url: '/blog/'
-    - url: '/contact/'
-      title: 'Contacto'
-    - title: 'Español'
-      submenu:
-      - url: '/elements/'
-        title: 'English'
-
-
-#-------------------------------
 # Author Settings
 author:
   author__name: Summit Advisors

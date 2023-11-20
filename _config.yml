@@ -3,6 +3,10 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://summit-advisors.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
+languages:
+  - en
+  - es
+  - cat
 
 #-------------------------------
 # Build Settings
@@ -22,9 +26,15 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
+  es_posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /es/blog/:name
+  en_posts:
+    output: true
+    permalink: /en/blog/:name
+  cat_posts:
+    output: true
+    permalink: /cat/blog/:name
   projects:
     output: true
     permalink: /project/:slug

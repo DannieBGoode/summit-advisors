@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Andorra
-permalink: /andorra/
+permalink: /es/andorra/
 description: ""
 image: https://www.triptemptation.com/media/db41319c-db5b-4c83-a807-5534550f4896/qPy2BA/Blog/Ingus/Andorra/Andorra-in-the-mountains.jpg
+language: es
 ---
 ## ¿Por qué vivir en Andorra?
 

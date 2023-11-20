@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Contacta
-permalink: /contact/
+permalink: /es/contacto/
 image: /images/16.jpg
 smallImage: true
+language: es
 ---
 <div class="form-box">
   <div class="contact-head">
