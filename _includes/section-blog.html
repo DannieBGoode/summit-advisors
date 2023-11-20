@@ -14,13 +14,22 @@
           {% endif %}
         </div>
   
-          <div class="row">
-            {% if site.posts.size > 0 %}
-              {% for post in site.posts offset:0 limit:3 %}
-                {% include article.html %}
-              {% endfor %}
-            {% endif %}
-          </div>
+        <div class="row">
+          {% assign posts_collection = 'site.posts' %}
+          {% if page.language == 'en' %}
+            {% assign posts_collection = site.en_posts %}
+          {% elsif page.language == 'es' %}
+            {% assign posts_collection = site.es_posts %}
+          {% elsif page.language == 'cat' %}
+            {% assign posts_collection = site.cat_posts %}
+          {% endif %}
+    
+          {% if posts_collection.size > 0 %}
+            {% for post in posts_collection offset:0 limit:3 %}
+              {% include article.html %}
+            {% endfor %}
+          {% endif %}
+        </div>
 
         </div>
       </div>
