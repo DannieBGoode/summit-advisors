@@ -16,7 +16,7 @@ collections:
     files:
     - label: "Homepage"
       name: "home"
-      file: "_data/homepage.yml"
+      file: "_data/hero.yml"
       fields: 
         - { label: 'Título principal (Español)', name: 'hero__title_es', widget: 'string', hint: 'Título de cabecera en la homepage' }
         - { label: 'Título principal (English)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
