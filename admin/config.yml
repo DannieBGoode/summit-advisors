@@ -149,6 +149,40 @@ collections:
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'en_blog'
+    label: 'Blog (Inglés)'
+    folder: '_en_posts/'
+    create: true
+    editor:
+      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'cat_blog'
+    label: 'Blog (Catalán)'
+    folder: '_cat_posts/'
+    create: true
+    editor:
+      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services'
     label: 'Servicios'
     folder: '_projects/'
