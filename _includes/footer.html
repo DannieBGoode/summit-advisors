@@ -49,10 +49,29 @@
                 <div class="footer__nav">
                   <h3 class="footer__nav-title">Navegación</h3>
                   <ul class="footer__nav-list list-reset">
-                    {% for item in site.data.settings.footer_menu__settings.menu__items %}
-                    <li class="footer__nav-item">
-                      <a href="{{ item.url | relative_url }}" class="footer__nav-link">{{ item.title }}</a>
-                    </li>
+                    {% if page.language == 'en' %}
+                      {% assign menu_items = site.data.topnav.en_menu_settings.menu_items %}
+                    {% elsif page.language == 'es' %}
+                      {% assign menu_items = site.data.topnav.es_menu_settings.menu_items %}
+                    {% else %}
+                      {% assign menu_items = site.data.topnav.cat_menu_settings.menu_items %}
+                    {% endif %}
+                    {% for item in menu_items %}
+                      {% if item.submenu %}
+                        <!-- Add a blank row or separator -->
+                        <li class="footer__nav-separator"></li>
+                        {% for submenu_item in item.submenu %}
+                          {% if submenu_item.title != page.language %}
+                            <li class="footer__nav-item">
+                              <a href="{{ submenu_item.url | relative_url }}" class="footer__nav-link">{{ submenu_item.title }}</a>
+                            </li>
+                          {% endif %}
+                        {% endfor %}
+                      {% else %}
+                        <li class="footer__nav-item">
+                          <a href="{{ item.url | relative_url }}" class="footer__nav-link">{{ item.title }}</a>
+                        </li>
+                      {% endif %}
                     {% endfor %}
                   </ul>
                 </div>

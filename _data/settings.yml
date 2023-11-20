@@ -30,28 +30,6 @@ blog__settings:
   blog__description:
 
 #-------------------------------
-# Footer Navigation Settings
-footer_menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Servicios'
-      url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - url: '/about/'
-      title: 'Nosotros'
-    - url: '/andorra/'
-      title: 'Andorra'
-    - url: '/calculadora/'
-      title: 'Calculadora'
-    - url: '/contact/'
-      title: 'Contacto'
-    - url: '/elements/'
-      title: 'Elements'
-
-
-#-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 

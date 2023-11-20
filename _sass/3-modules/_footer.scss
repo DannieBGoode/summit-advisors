@@ -233,3 +233,11 @@
     background-color: var(--brand-color);
   }
 }
+.footer__nav-separator {
+  /* Adjust the height for more or less space */
+  height: 20px;
+  /* Use this for a horizontal line */
+  /* border-top: 1px solid #ccc; */
+  /* Make sure it's invisible if you're just adding space */
+  visibility: hidden;
+}
