@@ -53,17 +53,17 @@ collections:
           widget: 'string'
           hint: 'A la homepage, a la secció de Testimonis'
         - label: "Descripción sección de Testimonios (Español)"
-          name: testimonial__description
+          name: testimonial__description_es
           required: false
           widget: string
           hint: 'En la homepage, en la sección de Testimonios'
         - label: "Descripción sección de Testimonios (Inglés)"
-          name: testimonial__description
+          name: testimonial__description_en
           required: false
           widget: string
           hint: 'En la homepage, en la sección de Testimonios'
         - label: "Descripción sección de Testimonios (Catalan)"
-          name: testimonial__description
+          name: testimonial__description_cat
           required: false
           widget: string
           hint: 'En la homepage, en la sección de Testimonios'
