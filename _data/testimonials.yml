@@ -1,35 +1,59 @@
 #-------------------------------
 # Testimonials Section
-testimonial__title: Qué dicen nuestros Clientes
-testimonial__description:
+testimonial__title_es: Qué dicen nuestros Clientes
+testimonial__description_es:
+testimonial__title_en: What do our clients say
+testimonial__description_en:
+testimonial__title_cat: Què diuen els nostres clients
+testimonial__description_cat:
 
 testimonial__items:
   - name: "Tatiana Hernandez"
     image: "/images/client-1.jpg"
-    designation: "Diseñadora Digital"
+    designation_es: "Diseñadora Digital"
+    designation_en: "Product Designer"
+    designation_cat: "Diseñadora Digital"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content_es : "Su enfoque personalizado hizo que la mudanza de nuestra empresa a Andorra fuera una experiencia tranquila y sin estrés."
+    content_en : "Their tailored approach made our company's move to Andorra a smooth and stress-free experience."
+    content_cat : "El seu enfocament personalitzat va fer que el trasllat de la nostra empresa a Andorra fos una experiència tranquil·la i sense estrès."
 
   - name: "Lydia Siphron"
     image: "/images/client-2.jpg"
-    designation: "Designer"
+    designation_es: "Diseñadora"
+    designation_en: "Designer"
+    designation_cat: "Designer"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content_es : "Trasladar nuestra empresa a Andorra fue sencillo y eficiente, gracias a su orientación experta y apoyo."
+    content_en : "Relocating our business to Andorra was seamless and efficient, thanks to their expert guidance and support."
+    content_cat : "Traslladar la nostra empresa a Andorra va ser senzill i eficient, gràcies a la seva orientació experta i suport."
 
   - name: "Daniel Calatayud"
     image: "/images/client-3.jpg"
-    designation: "Web developer"
+    designation_es: "Desarrollador de páginas web"
+    designation_en: "Web developer"
+    designation_cat: "Web developer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content_es : "¡Servicio excepcional! Manejaron cada detalle de nuestra mudanza a Andorra con profesionalismo y facilidad."
+    content_en : "Exceptional service! They handled every detail of our move to Andorra with professionalism and ease."
+    content_cat : "Servei excepcional! Van gestionar cada detall del nostre trasllat a Andorra amb professionalitat i facilitat."
 
   - name: "Anika Calzoni"
     image: "/images/client-4.jpg"
-    designation: "Lettering Artist"
+    designation_es: "Lettering Artist"
+    designation_en: "Lettering Artist"
+    designation_cat: "Lettering Artist"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content_es : "De principio a fin, su equipo brindó asistencia invaluable en la reubicación de nuestra empresa a Andorra."
+    content_en : "From start to finish, their team provided invaluable assistance in relocating our company to Andorra."
+    content_cat : "De principi a fi, el seu equip va proporcionar assistència inestimable en la reubicació de la nostra empresa a Andorra."
 
   - name: "Marcus Botosh"
     image: "/images/client-5.jpg"
-    designation: "Full Stack Designer"
+    designation_es: "Full Stack Designer"
+    designation_en: "Full Stack Designer"
+    designation_cat: "Full Stack Designer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content_es : "Un cambio radical para nuestro negocio. Su experiencia en reubicaciones a Andorra marcó la diferencia."
+    content_en : "A game-changer for our business! Their expertise in Andorra relocations made all the difference."
+    content_cat : "Un canvi radical per al nostre negoci. La seva experiència en reubicacions a Andorra va fer tota la diferència."

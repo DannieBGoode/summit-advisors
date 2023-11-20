@@ -2,7 +2,9 @@
 # Author Settings
 author:
   author__name: Summit Advisors
-  author__bio: Si estás plantéandote moverte a Andorra y disfrutar de sus ventajas tanto fiscales cómo de estilo de vida, hablemos más en detalle.
+  author__bio_es: Si estás plantéandote moverte a Andorra y disfrutar de sus ventajas tanto fiscales cómo de estilo de vida, hablemos más en detalle.
+  author__bio_en: If you are considering moving to Andorra and enjoying its tax and lifestyle benefits, let's talk in more detail.
+  author__bio_cat: Si et planteges traslladar-te a Andorra i gaudir dels seus avantatges fiscals i d'estil de vida, parlem-ne més en detall.
   author__avatar: '/images/summit.png'
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
@@ -13,21 +15,35 @@ author:
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Tu dirección de email...
-mailchimp__button__text: Te contactamos
+mailchimp__input__text_es: Tu dirección de email...
+mailchimp__button__text_es: Te contactamos
+mailchimp__input__text_en: La teva adreça de correu electrònic...
+mailchimp__button__text_en: We reach out to you
+mailchimp__input__text_cat: Tu dirección de email...
+mailchimp__button__text_cat: Et contactem
 
 
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Servicios
-  projects__description: Ofrecemos servicios personalizados a tu caso específico de manera totalmente transparente y directa.
+  projects__title_es: Servicios
+  projects__description_es: Ofrecemos servicios personalizados a tu caso específico de manera totalmente transparente y directa.
+  projects__title_en: Services
+  projects__description_en: We offer personalized services for your specific case in a completely transparent and direct manner.
+  projects__title_cat: Serveis
+  projects__description_cat: Oferim serveis personalitzats al teu cas específic de manera totalment transparent i directa.
+
 
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Últimas entradas
-  blog__description:
+  blog__title_es: Últimas entradas
+  blog__description_es: Descubre nuestras últimas publicaciones y novedades.
+  blog__title_en: Latest Posts
+  blog__description_en: Discover our latest publications and news.
+  blog__title_cat: Darreres entrades
+  blog__description_cat: Descobreix les nostres últimes publicacions i novetats.
+
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -37,3 +53,11 @@ disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For
 #-------------------------------
 # Google Analytics
 google-analytics: # Add your GA Tracking Id
+
+#-------------------------------
+# Misc
+
+navigation:
+  navigation__title_es: Navegación
+  navigation__title_en: Navigation
+  navigation__title_cat: Navegació

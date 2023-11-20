@@ -18,8 +18,12 @@ collections:
       name: "home"
       file: "_data/homepage.yml"
       fields: 
-        - { label: Título principal, name: hero__title, widget: string, hint: 'Título de cabecera en la homepage' }
-        - { label: Subtítulo, name: hero__description, widget: string, hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Título principal (Español)', name: 'hero__title_es', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Título principal (English)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Título principal (Català)', name: 'hero__title_cat', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Subtítulo (Español)', name: 'hero__description_es', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Subtítulo (English)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Subtítulo (Català)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
     - label: "Calculadora"
       name: "calculator"
@@ -36,11 +40,29 @@ collections:
       name: "testimonials"
       file: "_data/testimonials.yml"
       fields: 
-        - label: "Título sección de Testimonios"
-          name: testimonial__title
+        - label: 'Título sección de Testimonios (Español)'
+          name: 'testimonial__title_es'
+          widget: 'string'
+          hint: 'En la homepage, en la sección de Testimonios'
+        - label: 'Título sección de Testimonios (English)'
+          name: 'testimonial__title_en'
+          widget: 'string'
+          hint: 'On the homepage, in the Testimonials section'
+        - label: 'Título sección de Testimonios (Català)'
+          name: 'testimonial__title_cat'
+          widget: 'string'
+          hint: 'A la homepage, a la secció de Testimonis'
+        - label: "Descripción sección de Testimonios (Español)"
+          name: testimonial__description
+          required: false
           widget: string
           hint: 'En la homepage, en la sección de Testimonios'
-        - label: "Descripción sección de Testimonios"
+        - label: "Descripción sección de Testimonios (Inglés)"
+          name: testimonial__description
+          required: false
+          widget: string
+          hint: 'En la homepage, en la sección de Testimonios'
+        - label: "Descripción sección de Testimonios (Catalan)"
           name: testimonial__description
           required: false
           widget: string
@@ -50,10 +72,14 @@ collections:
           widget: "list"
           fields:
           - { label: Nombre, name: name, widget: string, hint: 'Nombre de la persona que da el testimonio' }
-          - { label: Oficio, name: designation, widget: string, hint: 'Ocupación' }
+          - { label: Oficio (Español), name: designation_es, widget: string, hint: 'Ocupación' }
+          - { label: Oficio (Inglés), name: designation_en, widget: string, hint: 'Ocupación' }
+          - { label: Oficio (Catalán), name: designation_cat, widget: string, hint: 'Ocupación' }
           - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
           - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
-          - { label: Content, name: content, widget: string, hint: 'Testimonio, una sola frase.' }
+          - { label: Testimonio (Español), name: content_es, widget: string, hint: 'Testimonio, una sola frase.' }
+          - { label: Testimonio (Inglés), name: content_en, widget: string, hint: 'Testimonio, una sola frase.' }
+          - { label: Testimonio (Catalán), name: content_cat, widget: string, hint: 'Testimonio, una sola frase.' }
     - label: "Footer"
       name: "footer"
       file: "_data/footer.yml"
@@ -89,8 +115,8 @@ collections:
           widget: "list"
           collapse: false
           fields:
-            - { label: Icono, name: icon, widget: string }
-            - { label: Link, name: link, widget: string }
+            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
+            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: 'pages'
     label: 'Páginas'
     folder: '_pages/'
@@ -110,6 +136,8 @@ collections:
     label: 'Blog (Español)'
     folder: '_es_posts/'
     create: true
+    editor:
+      preview: false
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }

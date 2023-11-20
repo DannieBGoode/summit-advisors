@@ -1,3 +1,9 @@
+{% assign lang_prefix = page.language | default: 'es' %}
+{% assign title_key = 'blog__title_' | append: lang_prefix %}
+{% assign description_key = 'blog__description_' | append: lang_prefix %}
+{% assign title = site.data.settings.blog__settings[title_key] %}
+{% assign description = site.data.settings.blog__settings[description_key] %}
+
 <!-- begin blog -->
 <section class="section blog animate">
   <div class="container">
@@ -7,10 +13,10 @@
   
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">{{ site.data.settings.blog__settings.blog__title }}</h2>
+            <h2 class="section__title">{{ title }}</h2>
           </div>
-          {% if site.data.settings.blog__settings.blog__description %}
-            <p class="section__description">{{ site.data.settings.blog__settings.blog__description }}</p>
+          {% if description %}
+            <p class="section__description">{{ description }}</p>
           {% endif %}
         </div>
   

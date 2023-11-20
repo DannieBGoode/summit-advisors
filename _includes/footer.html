@@ -28,7 +28,9 @@
                   </div>
                   <div class="footer__author-info">
                     <h3 class="footer__author-name">{{site.data.settings.author.author__name}}</h3>
-                    <p class="footer__author-bio">{{site.data.settings.author.author__bio}}</p>
+                    {% assign lang_prefix = page.language | default: 'es' %}
+                    {% assign bio_key = 'author__bio_' | append: lang_prefix %}
+                    <p class="footer__author-bio">{{ site.data.settings.author[bio_key] }}</p>
                     {% if site.data.social.social %}
                     <div class="social">
                       <ul class="social__list list-reset">
@@ -47,7 +49,8 @@
       
               <div class="col col-4 col-d-12">
                 <div class="footer__nav">
-                  <h3 class="footer__nav-title">Navegación</h3>
+                  {% assign navigation_key = 'navigation__title_' | append: lang_prefix %}
+                  <h3 class="footer__nav-title">{{ site.data.settings.navigation[navigation_key] }}</h3>
                   <ul class="footer__nav-list list-reset">
                     {% if page.language == 'en' %}
                       {% assign menu_items = site.data.topnav.en_menu_settings.menu_items %}

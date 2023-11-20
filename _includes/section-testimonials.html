@@ -1,51 +1,53 @@
 <!-- begin testimonials -->
+{% assign lang_prefix = page.language | default: 'es' %}
+{% assign title_key = 'testimonial__title_' | append: lang_prefix %}
+{% assign description_key = 'testimonial__description_' | append: lang_prefix %}
+{% assign title = site.data.testimonials[title_key] %}
+{% assign description = site.data.testimonials[description_key] %}
+
 <section class="section testimonials animate">
   <div class="container">
     <div class="row">
       <div class="col col-12">
-
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">{{ site.data.testimonials.testimonial__title }}</h2>
+            <h2 class="section__title">{{ title }}</h2>
           </div>
-          {% if site.data.testimonials.testimonial__description %}
-           <p class="section__description">{{ site.data.testimonials.testimonial__description }}</p>
+          {% if description %}
+           <p class="section__description">{{ description }}</p>
           {% endif %}
         </div>
 
         <div class="testimonials__slider my-slider">
-          {% for testimonial__item in site.data.testimonials.testimonial__items %}
+          {% for item in site.data.testimonials.testimonial__items %}
             <div class="testimonial-item">
               <div class="testimonial-content">
                 <div class="client-meta">
-                  {% if testimonial__item.image %}
+                  {% if item.image %}
                     <div class="image-container">
-                      <img class="client-avatar" src="{{ testimonial__item.image | relative_url }}" alt="{{ testimonial__item.name }}" loading="lazy">
+                      <img class="client-avatar" src="{{ item.image | relative_url }}" alt="{{ item.name }}" loading="lazy">
                     </div>
                   {% endif %}
                   <div class="client-info">
-                    {% if testimonial__item.name %}
+                    {% if item.name %}
                       <h3 class="client-name">
-                        {% if testimonial__item.link %}
-                          <a href="{{testimonial__item.link}}" target="_blank" rel="noopener">{{ testimonial__item.name }}</a>
+                        {% if item.link %}
+                          <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.name }}</a>
                         {% else %}
-                          {{ testimonial__item.name }}
+                          {{ item.name }}
                         {% endif %}
                       </h3>
                     {% endif %}
-                    {% if testimonial__item.designation %}
-                      <p class="client-designation">{{ testimonial__item.designation }}</p>
-                    {% endif %}
+                    {% assign designation_key = 'designation_' | append: lang_prefix %}
+                    {% assign content_key = 'content_' | append: lang_prefix %}
+                    <p class="client-designation">{{ item[designation_key] }}</p>
+                    <p class="client-text">{{ item[content_key] }}</p>
                   </div>
-                  {% if testimonial__item.content %}
-                    <p class="client-text">{{ testimonial__item.content }}</p>
-                  {% endif %}
                 </div>
               </div>
             </div>
           {% endfor %}
         </div>
-
       </div>
     </div>
   </div>
