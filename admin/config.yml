@@ -106,13 +106,11 @@ collections:
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
+  - name: 'es_blog'
+    label: 'Blog (Español)'
+    folder: '_es_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
@@ -120,6 +118,8 @@ collections:
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services'
     label: 'Servicios'
