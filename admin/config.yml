@@ -76,7 +76,8 @@ collections:
         - { label: Descripción, name: description, widget: text, hint: 'Descripción del formulario de contacto' }
   - name: 'pages'
     label: 'Páginas (Español)'
-    folder: '_pages/es/'
+    folder: '_pages/'
+    filter: {field: "CMSeditable", value: "true"}
     create: false
     slug: '{{slug}}'
     editor:

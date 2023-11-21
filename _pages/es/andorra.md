@@ -8,6 +8,7 @@ description: Descubre Andorra, un encantador principado en los Pirineos.
   naturales.
 image: /assets/uploads/image_2023-11-21_093301559.png
 language: es
+CMSeditable: true
 ref: andorra
 ---
 ## ¿Dónde está Andorra?
