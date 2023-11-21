@@ -100,7 +100,9 @@ collections:
       file: "_data/global.yml"
       fields: 
         - { label: Título principal, name: title, widget: string, hint: 'Título de la página para el SEO' }
-        - { label: Descripción, name: description, widget: string, hint: 'Descripción de la página para el SEO' }
+        - { label: Descripción (Español), name: description_es, widget: string, hint: 'Descripción de la página para el SEO en español' }
+        - { label: Descripción (Inglés), name: description_en, widget: string, hint: 'Descripción de la página para el SEO en inglés' }
+        - { label: Descripción (Catalán), name: description_cat, widget: string, hint: 'Descripción de la página para el SEO en catalán' }
         - { label: Logo Fondo Oscuro, name: logo_dark, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
         - { label: Logo Fondo Blanco, name: logo_light, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
         - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
@@ -189,8 +191,8 @@ collections:
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services'
-    label: 'Servicios'
-    icon: deployed_code
+    label: 'Servicios (Español)'
+    icon: language_spanish
     folder: '_projects/'
     create: true
     slug: '{{slug}}'
