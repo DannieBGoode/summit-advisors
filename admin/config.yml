@@ -170,7 +170,7 @@ collections:
         - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: number, hint: 'En porcentaje, por ejemplo 5' }
         - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
         - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
-        - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: float, hint: 'En Euros, por ejemplo 502.63', value_type: float }
+        - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
         - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
         - { label: Botón, name: buttonCTA, widget: string, hint: '' }
     - label: "Fotos del Footer"
