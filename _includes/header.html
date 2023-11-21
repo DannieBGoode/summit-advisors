@@ -5,22 +5,27 @@
       <div class="header__inner col col-12">
 
         <div class="logo">
-          <a class="logo__link logo-light" href="{{ site.baseurl }}/">
-          {% if site.data.global.logo_light %}
-            <img width="150" src="{{ site.data.global.logo_light }}" alt="{{ site.data.global.title }}" style="">
-          {% else %}
-            {{ site.data.global.title }}
+          {% assign url_prefix = '' %}
+          {% if page.language and page.language != 'es' %}
+            {% assign url_prefix = '/' | append: page.language %}
           {% endif %}
-          </a>
-          <a class="logo-dark" href="{{ site.baseurl }}/" style="display:none">
-            {% if site.data.global.logo_dark %}
-            <img width="150" src="{{ site.data.global.logo_dark }}" style="">
+        
+          <a class="logo__link logo-light" href="{{ site.baseurl }}{{ url_prefix }}/">
+            {% if site.data.global.logo_light %}
+              <img width="150" src="{{ site.data.global.logo_light }}" alt="{{ site.data.global.title }}" style="">
             {% else %}
               {{ site.data.global.title }}
             {% endif %}
           </a>
-        </div>
-
+          <a class="logo-dark" href="{{ site.baseurl }}{{ url_prefix }}/" style="display:none">
+            {% if site.data.global.logo_dark %}
+              <img width="150" src="{{ site.data.global.logo_dark }}" style="">
+            {% else %}
+              {{ site.data.global.title }}
+            {% endif %}
+          </a>
+        </div>        
+        
         <nav class="main-nav">
           <div class="main-nav__box">
             <div class="nav__icon-close">
