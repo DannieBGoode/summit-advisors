@@ -109,9 +109,9 @@ collections:
         required: false
         widget: 'relation'
         collection: 'tags'
-        searchFields: ["es"]
-        valueField: "code"
-        displayFields: ["es"]
+        searchFields: ["tags.es"]  # Adjusted to point to the nested list
+        valueField: "tags.code"    # Adjusted for nested structure
+        displayFields: ["tags.es"] # Adjusted to display the correct field
         multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
@@ -218,14 +218,16 @@ collections:
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: "tags"
     label: "Tags"
-    file: "_data/tags.yml"
-    create: true
-    fields:
-      - label: "Tags List"
-        name: "tags"
-        widget: "list"
+    files:
+      - name: "tags_file"
+        label: "Tags File"
+        file: "_data/tags.yml"
         fields:
-          - { label: "Tag Code", name: "code", widget: "string" }
-          - { label: "Tag Name (Spanish)", name: "es", widget: "string" }
-          - { label: "Tag Name (English)", name: "en", widget: "string" }
-          - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
+          - label: "Tags List"
+            name: "tags"
+            widget: "list"
+            fields:
+              - { label: "Tag Code", name: "code", widget: "string" }
+              - { label: "Tag Name (Spanish)", name: "es", widget: "string" }
+              - { label: "Tag Name (English)", name: "en", widget: "string" }
+              - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
