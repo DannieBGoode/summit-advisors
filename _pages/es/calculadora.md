@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Calculadora
 permalink: /es/calculadora/
-image: /assets/uploads/image_2023-01-15_172707289.png
-smallImage: true
-language: es
 ref: calculadora
+smallImage: true
+title: Calculadora
+description: Calculadora de impuestos para Andorra
+image: /assets/uploads/image_2023-01-15_172707289.png
+language: es
 ---
 Cálcula cuanto sería tu sueldo neto si vivieras en Andorra:
 
