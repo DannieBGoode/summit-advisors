@@ -77,7 +77,7 @@ collections:
   - name: 'pages'
     label: 'Páginas (Español)'
     folder: '_pages/es/'
-    filter: {field: "CMSeditable", value: "true"}
+    filter: {field: "CMSeditable", value: true}
     create: false
     slug: '{{slug}}'
     editor:
@@ -104,7 +104,14 @@ collections:
       - { label: 'Descripción', name: 'description', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - label: 'Tags'
+        name: 'tags'
+        widget: 'relation'
+        collection: 'tags'
+        searchFields: ["es"]
+        valueField: "code"
+        displayFields: ["es"]
+        multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
