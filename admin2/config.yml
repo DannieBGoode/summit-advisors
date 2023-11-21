@@ -119,6 +119,7 @@ collections:
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: 'pages'
     label: 'Páginas (Español)'
+    icon: language_spanish
     folder: '_pages/es/'
     create: false
     slug: '{{slug}}'
@@ -171,6 +172,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'cat_blog'
     label: 'Blog (Catalán)'
+    icon: copyright
     folder: '_cat_posts/'
     create: true
     editor:
