@@ -3,9 +3,8 @@
 display_url: https://summit-advisors.netlify.app
 locale: 'es'
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
-# when using the default proxy server port
+  name: github
+  repo: DannieBGoode/summit-advisors
 local_backend: true
 media_folder: 'assets/uploads'
 collections:
