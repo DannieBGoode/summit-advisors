@@ -63,6 +63,8 @@
                       {% if item.submenu %}
                         <!-- Add a blank row or separator -->
                         <li class="footer__nav-separator"></li>
+                        {% assign languages_key = 'languages_title_' | append: lang_prefix %}
+                        <li><h3 class="footer__nav-title">{{ site.data.settings.navigation[languages_key] }}</h3></li>
                         {% for submenu_item in item.submenu %}
                           {% if submenu_item.title != page.language %}
                             <li class="footer__nav-item">
