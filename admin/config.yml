@@ -106,12 +106,11 @@ collections:
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - label: 'Tags'
         name: 'tags'
-        required: false
         widget: 'relation'
         collection: 'tags'
-        searchFields: ["tags.es"]  # Adjusted to point to the nested list
-        valueField: "tags.code"    # Adjusted for nested structure
-        displayFields: ["tags.es"] # Adjusted to display the correct field
+        searchFields: ['tags.*.es']  # Search Spanish names in all tags
+        valueField: 'tags.*.code'   # Reference the code of the tag
+        displayFields: ['tags.*.es'] # Display the Spanish name of the tag
         multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
