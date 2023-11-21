@@ -222,7 +222,7 @@ collections:
     label: "Tags"
     files:
       - name: "tags_file"
-        label: "Lista de Tags"
+        label: "Lista de Tags (no borrar tags vinculados a blog posts)"
         file: "_data/tags.yml"
         collection: "tags"
         fields:
