@@ -25,17 +25,6 @@ collections:
         - { label: 'Subtítulo (English)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: 'Subtítulo (Català)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
-    - label: "Calculadora"
-      name: "calculator"
-      file: "_data/calculator.yml"
-      fields: 
-        - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
-        - { label: tramo Máximo, name: tramoMax, widget: number, hint: 'En Euros, por ejemplo 40000' }
-        - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: number, hint: 'En porcentaje, por ejemplo 5' }
-        - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
-        - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
-        - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
-        - { label: Botón, name: buttonCTA, widget: string, hint: '' }
     - label: "Testimonios de Clientes"
       name: "testimonials"
       file: "_data/testimonials.yml"
@@ -80,45 +69,11 @@ collections:
           - { label: Testimonio (Español), name: content_es, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Inglés), name: content_en, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Catalán), name: content_cat, widget: string, hint: 'Testimonio, una sola frase.' }
-    - label: "Footer"
-      name: "footer"
-      file: "_data/footer.yml"
-      fields: 
-        - label: "Galeria del Footer"
-          name: "gallery"
-          widget: "list"
-          fields:
-          - { label: Titulo, name: alt, widget: string, hint: 'Nombre de la imagen por motivos de SEO de Google.' }
-          - { label: Imagen, name: url, widget: image, choose_url: true, hint: 'Imagen que aparece en el footer en todas las páginas.' }
     - label: "Contacto"
       name: "contact"
       file: "_data/contact.yml"
       fields: 
         - { label: Descripción, name: description, widget: text, hint: 'Descripción del formulario de contacto' }
-    - label: "Ajustes"
-      name: "global"
-      file: "_data/global.yml"
-      fields: 
-        - { label: Título principal, name: title, widget: string, hint: 'Título de la página para el SEO' }
-        - { label: Descripción (Español), name: description_es, widget: string, hint: 'Descripción de la página para el SEO en español' }
-        - { label: Descripción (Inglés), name: description_en, widget: string, hint: 'Descripción de la página para el SEO en inglés' }
-        - { label: Descripción (Catalán), name: description_cat, widget: string, hint: 'Descripción de la página para el SEO en catalán' }
-        - { label: Logo Fondo Oscuro, name: logo_dark, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
-        - { label: Logo Fondo Blanco, name: logo_light, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
-        - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
-        - { label: Color de Marca para theme dark (HEX), name: brand_color_dark, widget: string, required: false, hint: 'Cuando el usuario visualize el theme oscuro (dark) el color de contraste para botones y selecciones será este. Por defecto es: #ad72df' }
-        - { label: Color de Marca para theme light (HEX), name: brand_color_light, widget: string, required: false, hint: 'Cuando el usuario visualize el theme claro (light) el color de contraste para botones y selecciones será este. Por defecto es: #fec824' }
-    - label: "Social Links"
-      name: "social"
-      file: "_data/social.yml"
-      fields:
-        - label: "Redes Sociales"
-          name: "social"
-          widget: "list"
-          collapse: false
-          fields:
-            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
-            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: 'pages'
     label: 'Páginas (Español)'
     folder: '_pages/es/'
@@ -201,3 +156,53 @@ collections:
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'Ajustes'
+    label: 'Ajustes'
+    editor:
+      preview: false
+    files:
+    - label: "Calculadora (Parámetros)"
+      name: "calculator"
+      file: "_data/calculator.yml"
+      fields: 
+        - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
+        - { label: tramo Máximo, name: tramoMax, widget: number, hint: 'En Euros, por ejemplo 40000' }
+        - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: number, hint: 'En porcentaje, por ejemplo 5' }
+        - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
+        - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
+        - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
+        - { label: Botón, name: buttonCTA, widget: string, hint: '' }
+    - label: "Fotos del Footer"
+      name: "footer"
+      file: "_data/footer.yml"
+      fields: 
+        - label: "Galeria del Footer"
+          name: "gallery"
+          widget: "list"
+          fields:
+          - { label: Titulo, name: alt, widget: string, hint: 'Nombre de la imagen por motivos de SEO de Google.' }
+          - { label: Imagen, name: url, widget: image, choose_url: true, hint: 'Imagen que aparece en el footer en todas las páginas.' }
+    - label: "Ajustes Globales"
+      name: "global"
+      file: "_data/global.yml"
+      fields: 
+        - { label: Título principal, name: title, widget: string, hint: 'Título de la página para el SEO' }
+        - { label: Descripción (Español), name: description_es, widget: string, hint: 'Descripción de la página para el SEO en español' }
+        - { label: Descripción (Inglés), name: description_en, widget: string, hint: 'Descripción de la página para el SEO en inglés' }
+        - { label: Descripción (Catalán), name: description_cat, widget: string, hint: 'Descripción de la página para el SEO en catalán' }
+        - { label: Logo Fondo Oscuro, name: logo_dark, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
+        - { label: Logo Fondo Blanco, name: logo_light, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
+        - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
+        - { label: Color de Marca para theme dark (HEX), name: brand_color_dark, widget: string, required: false, hint: 'Cuando el usuario visualize el theme oscuro (dark) el color de contraste para botones y selecciones será este. Por defecto es: #ad72df' }
+        - { label: Color de Marca para theme light (HEX), name: brand_color_light, widget: string, required: false, hint: 'Cuando el usuario visualize el theme claro (light) el color de contraste para botones y selecciones será este. Por defecto es: #fec824' }
+    - label: "Redes Sociales"
+      name: "social"
+      file: "_data/social.yml"
+      fields:
+        - label: "Redes Sociales"
+          name: "social"
+          widget: "list"
+          collapse: false
+          fields:
+            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
+            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
