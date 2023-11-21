@@ -28,4 +28,20 @@
       </div>
     </form>
   </div>
+  <script>
+    function isValidEmail(email) {
+      var pattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      return pattern.test(email);
+    }
   
+    document.addEventListener('DOMContentLoaded', function() {
+      var urlParams = new URLSearchParams(window.location.search);
+      var emailParam = urlParams.get('email');
+      if (emailParam && isValidEmail(emailParam)) {
+        var emailInput = document.getElementById('form-email');
+        if (emailInput) {
+          emailInput.value = emailParam;
+        }
+      }
+    });
+  </script>
