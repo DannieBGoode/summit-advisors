@@ -1,22 +1,21 @@
 tags:
-  - code: "tag1"
-    es: "EtiquetaUno"
-    en: "TagOne"
-    cat: "EtiquetaUn"
-  - code: "tag2"
-    es: "EtiquetaDos"
-    en: "TagTwo"
-    cat: "EtiquetaDos"
-  - code: "tag3"
-    es: "EtiquetaTres"
-    en: "TagThree"
-    cat: "EtiquetaTres"
-  - code: "tag4"
-    es: "EtiquetaCuatro"
-    en: "TagFour"
-    cat: "EtiquetaQuatre"
-  - code: "tag5"
-    es: "EtiquetaCinco"
-    en: "TagFive"
-    cat: "EtiquetaCinc"
-  # Add more tags as needed
+  - code: impuestos
+    es: Impuestos
+    en: Taxes
+    cat: Impostos
+  - code: Lifestyle
+    es: Estilo de Vida
+    en: Lifestyle
+    cat: estil de vida
+  - code: poker
+    es: Poker
+    en: Poker
+    cat: Poker
+  - code: tech
+    es: Tecnología
+    en: Technology
+    cat: Tecnologia
+  - code: naturaleza
+    es: Naturaleza
+    en: Nature
+    cat: naturalesa
