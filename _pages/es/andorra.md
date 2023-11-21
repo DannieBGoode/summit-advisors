@@ -2,7 +2,10 @@
 layout: page
 title: Andorra
 permalink: /es/andorra/
-description: ""
+description: Descubre Andorra, un encantador principado en los Pirineos.
+  Información sobre su ubicación, idioma, accesibilidad a aeropuertos cercanos y
+  relación con la UE. Explora su mezcla única de cultura, historia y paisajes
+  naturales.
 image: /assets/uploads/image_2023-11-21_093301559.png
 language: es
 ref: andorra
