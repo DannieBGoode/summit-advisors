@@ -8,6 +8,7 @@ description: Recuperar el IVA de productos comprados en España
 image: /images/02.jpg
 tags:
   - impuestos
+  - tramites
 ---
 La compra de productos en España y la recuperación del 21% de IVA al cruzar la frontera es una opción para las personas que viven en Andorra. Sin embargo, hay ciertos requisitos y procedimientos que deben seguirse para asegurar que el proceso sea legal y cumpla con las regulaciones fiscales. A continuación se presenta una guía para ayudar a las personas que viven en Andorra a comprar productos en España y recuperar el 21% de IVA:
 
