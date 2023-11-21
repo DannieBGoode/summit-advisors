@@ -119,7 +119,7 @@ collections:
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: 'pages'
     label: 'Páginas'
-    folder: '_pages/'
+    folder: '_pages/es/'
     create: false
     slug: '{{slug}}'
     editor:
