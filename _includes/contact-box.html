@@ -6,7 +6,7 @@
         <p class="contact-description">{{ description }}</p>
       {% endif %}
     </div>
-    <form class="form" action="{% if site.data.contact.email %}https://formspree.io/f/{{ site.data.contact.email }}{% else %}#{% endif %}" method="POST">
+    <form class="form" name="contact" netlify>
       {% assign name_key = 'name_' | append: page.language %}
       {% assign email_key = 'email_' | append: page.language %}
       {% assign message_key = 'message_' | append: page.language %}
@@ -21,6 +21,16 @@
       <div class="form__group">
         <label class="form__label screen-reader-text" for="form-text">{{ site.data.contact[message_key] }}</label>
         <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="{{ site.data.contact[message_key] }}" required></textarea>
+      </div>
+      <div>
+        {% assign language_map = 'en:Inglés,es:Español,cat:Catalán' | split: ',' %}
+        {% assign current_language = page.language | default: 'es' %}
+        {% for item in language_map %}
+          {% assign key_value = item | split: ':' %}
+          {% if key_value[0] == current_language %}
+            <input type="hidden" name="Idioma" value="{{ key_value[1] }}">
+          {% endif %}
+        {% endfor %}
       </div>
       <div class="form__group">
         {% assign send_key = 'send_' | append: page.language %}
