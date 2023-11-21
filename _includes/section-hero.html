@@ -30,9 +30,9 @@
               <form class="subscribe-form validate"
                 action="{% if site.data.settings.mailchimp__identifier %}//{{site.data.settings.mailchimp__identifier}}{% else %}#{% endif %}" method="POST"
                 id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
-                <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+                <label class="screen-reader-text" for="mce-EMAIL">{{ mailchimp_input_text }}</label>
                 <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
-                  placeholder="{% if site.data.settings.mailchimp__input__text %}{{ mailchimp_input_text }}{% else %}Email address{% endif %}">
+                  placeholder="{% if mailchimp_input_text %}{{ mailchimp_input_text }}{% else %}Email address{% endif %}">
                 <button class="button button--primary button--small subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{
                   mailchimp_button_text }}</button>
               </form>

@@ -130,8 +130,8 @@ collections:
       - { label: 'Permalink', name: 'permalink', widget: 'hidden' }
       - { label: 'Descripción', name: 'description', widget: 'string', required: false }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'es_blog'
     label: 'Blog (Español)'
@@ -182,7 +182,7 @@ collections:
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services'
     label: 'Servicios'
