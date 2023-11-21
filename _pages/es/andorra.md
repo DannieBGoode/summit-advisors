@@ -3,9 +3,25 @@ layout: page
 title: Andorra
 permalink: /es/andorra/
 description: ""
-image: https://www.triptemptation.com/media/db41319c-db5b-4c83-a807-5534550f4896/qPy2BA/Blog/Ingus/Andorra/Andorra-in-the-mountains.jpg
+image: /assets/uploads/image_2023-11-21_093301559.png
 language: es
 ---
+## ¿Dónde está Andorra?
+
+Andorra es un pequeño principado sin salida al mar, ubicado en las montañas de los Pirineos orientales, limitado al sur por España y al norte por Francia. Conocido por sus estaciones de esquí y su estatus de paraíso fiscal, ofrece una mezcla única de altas montañas y estrechos valles.
+
+El idioma oficial de Andorra es el catalán, aunque el español, el portugués y el francés también se hablan comúnmente debido a su ubicación y la industria del turismo. Este ambiente multilingüe refleja la diversidad de influencias culturales del país.
+
+En términos de accesibilidad, Andorra no tiene su propio aeropuerto. Los aeropuertos más cercanos están en España y Francia. El Aeropuerto de Barcelona El Prat en España está aproximadamente a 3 horas en coche, mientras que el Aeropuerto de Toulouse-Blagnac en Francia está a unas 2,5 horas. Estas proximidades hacen que Andorra sea relativamente fácil de acceder a pesar de su terreno montañoso.
+
+Políticamente, Andorra no es miembro de la Unión Europea (UE), pero utiliza el euro (€) como moneda bajo un acuerdo monetario con la UE. El país tiene una unión aduanera con la UE y se trata como un miembro de la UE para el comercio de productos manufacturados (sin aranceles) y como un no miembro de la UE para productos agrícolas.
+
+Este principado ofrece una combinación única de encanto histórico y comodidades modernas, ambientado en el impresionante paisaje de los Pirineos. Es un destino popular tanto para los entusiastas de los deportes de invierno como para aquellos que buscan un retiro tranquilo en las montañas.
+
+
+
+![Andorra en Europa](/assets/uploads/image_2023-11-21_093020663.png "Dónde está Andorra")
+
 ## ¿Por qué vivir en Andorra?
 
 Los motivos por los cuales una persona podría decidir en un país en específico son muy personales, pero Andorra destaca en algunos factores de manera internacional.
