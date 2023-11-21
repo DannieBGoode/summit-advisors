@@ -4,6 +4,9 @@
 {% assign title = site.data.settings.blog__settings[title_key] %}
 {% assign description = site.data.settings.blog__settings[description_key] %}
 
+{% assign seeBlog_key = 'see__blog_' | append: lang_prefix %}
+{% assign seeBlog = site.data.settings.misc[seeBlog_key] %}
+
 <!-- begin blog -->
 <section class="section blog animate">
   <div class="container">
@@ -43,7 +46,7 @@
   </div>
 
   <div class="section__navigation">
-    <a href="{{ '/blog' | relative_url }}" class="button button--primary section-button">Ir al Blog</a>
+    <a href="{{ '/blog' | relative_url }}" class="button button--primary section-button">{{ seeBlog }}</a>
   </div>
 </section>
 <!-- end blog -->

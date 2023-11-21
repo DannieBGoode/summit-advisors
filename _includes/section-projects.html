@@ -4,6 +4,8 @@
 {% assign title = site.data.settings.projects__settings[title_key] %}
 {% assign description = site.data.settings.projects__settings[description_key] %}
 
+{% assign seeAll_key = 'see__all_' | append: lang_prefix %}
+{% assign seeAll = site.data.settings.misc[seeAll_key] %}
 
 <!-- begin projects -->
 <section class="section projects animate">
@@ -44,7 +46,7 @@
   </div>
 
   <div class="section__navigation">
-    <a href="{{ '/projects' | relative_url }}" class="button button--primary section-button">Ver todos</a>
+    <a href="{{ '/projects' | relative_url }}" class="button button--primary section-button">{{ seeAll }}</a>
   </div>
 </section>
 <!-- end projects -->

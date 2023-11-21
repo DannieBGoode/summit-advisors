@@ -61,3 +61,11 @@ navigation:
   navigation__title_es: Navegación
   navigation__title_en: Navigation
   navigation__title_cat: Navegació
+
+misc:
+  see__all_es: Ver todos
+  see__all_en: See all
+  see__all_cat: Veure tots
+  see__blog_es: Ir al Blog
+  see__blog_en: Go to the Blog
+  see__blog_cat: Anar al Blog
