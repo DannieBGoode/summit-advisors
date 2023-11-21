@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  Entrevista para High Five
-description: L’Albert Hernández i el Jordi Yll són l’ànima de Summit Advisory Group, una assessoria empresarial, que té com a principal objectiu donar suport als seus clients, oferint-los solucions integrals d’assessoria i consultoria en l’àmbit administratiu, fiscal, laboral i comptable.
-date:   2022-03-02 15:01:35 +0300
-image:  'https://hivefive.spaces.nexudus.com/es/blog/getlargeimage?id=1414944073&w=1500'
-tags:   [lifestyle, rest, notes]
+title: Entrevista para High Five
+description: L’Albert Hernández i el Jordi Yll són l’ànima de Summit Advisory
+  Group, una assessoria empresarial, que té com a principal objectiu donar
+  suport als seus clients, oferint-los solucions integrals d’assessoria i
+  consultoria en l’àmbit administratiu, fiscal, laboral i comptable.
+date: 2022-03-02 15:01:35 +0300
+image: https://hivefive.spaces.nexudus.com/es/blog/getlargeimage?id=1414944073&w=1500
+tags: []
 ---
 
 L’Albert Hernández i el Jordi Yll són l’ànima de Summit Advisory Group, una assessoria empresarial, que té com a principal objectiu donar suport als seus clients, oferint-los solucions integrals d’assessoria i consultoria en l’àmbit administratiu, fiscal, laboral i comptable. Com ells mateixos expliquen: ‘els brinden seguretat i confiança en la seva presa de decisions particulars, o bé empresarials, mitjançant l’elaboració de solucions adaptades a cada una de les seves casuístiques i, tot això, sempre actuant amb un alt grau de compromís i en benefici del client, al qual representem d’una manera ètica i responsable’.
