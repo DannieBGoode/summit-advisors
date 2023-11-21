@@ -220,7 +220,7 @@ collections:
     label: "Tags"
     files:
       - name: "tags_file"
-        label: "Tags File"
+        label: "Lista de Tags"
         file: "_data/tags.yml"
         collection: "tags"
         fields:
