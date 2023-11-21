@@ -166,6 +166,7 @@
   @media only screen and (max-width: $desktop) {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
 
     .footer__nav-item {
       margin-right: 40px;
