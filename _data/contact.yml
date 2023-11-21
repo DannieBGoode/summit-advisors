@@ -1,8 +1,34 @@
 email: your@email.com
-description: >-2
+name_es: Tu Nombre
+email_es: Tu Email
+message_es: Tu Mensaje para nosotros
+name_en: Your Name
+email_en: Your Email address
+message_en: Your message to us
+name_cat: El teu nom
+email_cat: El teu Email
+message_cat: El teu Missatge
+send_es: Enviar
+send_en: Send
+send_cat: Enviar
+description_es: >-2
    ¡Estamos aquí para ayudarte!
 
   Nuestro equipo de expertos se encargará de estudiar tu caso cuidadosamente y encargarse de todos los trámites necesarios para que tú solo te preocupes por disfrutar de este hermoso país.
 
 
   No dudes en ponerte en contacto con nosotros a través del siguiente formulario sin ningún compromiso.
+description_en: >-2
+   We are here to help you!
+
+  Our team of experts will be in charge of studying your case carefully and taking care of all the necessary procedures so that you only have to worry about enjoying this beautiful country.
+
+
+  Do not hesitate to contact us through the following form without any obligation.
+description_cat: >-2
+   Som aquí per ajudar-te!
+
+  El nostre equip d'experts s'encarregarà d'estudiar el teu cas amb cura i encarregar-se de tots els tràmits necessaris perquè només et preocupis per gaudir d'aquest bell país.
+
+
+  No dubtis en posar-te en contacte amb nosaltres a través del següent formulari sense cap compromís.

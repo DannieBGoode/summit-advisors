@@ -73,7 +73,9 @@ collections:
       name: "contact"
       file: "_data/contact.yml"
       fields: 
-        - { label: Descripción, name: description, widget: text, hint: 'Descripción del formulario de contacto' }
+        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
+        - { label: "Descripción (English)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
+        - { label: "Descripción (Català)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
   - name: 'pages'
     label: 'Páginas (Español)'
     folder: '_pages/es/'
