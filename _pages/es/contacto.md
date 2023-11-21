@@ -5,6 +5,7 @@ permalink: /es/contacto/
 image: /images/16.jpg
 smallImage: true
 language: es
+ref: contacto
 ---
 <div class="form-box">
   <div class="contact-head">
