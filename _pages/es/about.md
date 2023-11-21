@@ -4,6 +4,7 @@ title: Nosotros
 permalink: /es/nosotros/
 image: /images/01-2.jpg
 language: es
+ref: nosotros
 ---
 Summit Advisors es una empresa de consultoría y asesoramiento empresarial liderada por Albert Hernández y Jordi Yll.
 
