@@ -1,0 +1,31 @@
+<div class="form-box">
+    <div class="contact-head">
+      {% assign description_key = 'description_' | append: page.language %}
+      {% assign description = site.data.contact[description_key] %}
+      {% if description %}
+        <p class="contact-description">{{ description }}</p>
+      {% endif %}
+    </div>
+    <form class="form" action="{% if site.data.contact.email %}https://formspree.io/f/{{ site.data.contact.email }}{% else %}#{% endif %}" method="POST">
+      {% assign name_key = 'name_' | append: page.language %}
+      {% assign email_key = 'email_' | append: page.language %}
+      {% assign message_key = 'message_' | append: page.language %}
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-name">{{ site.data.contact[name_key] }}</label>
+        <input class="form__input" id="form-name" type="text" name="name" placeholder="{{ site.data.contact[name_key] }}" required>
+      </div>
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-email">{{ site.data.contact[email_key] }}</label>
+        <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="{{ site.data.contact[email_key] }}" required>
+      </div>
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-text">{{ site.data.contact[message_key] }}</label>
+        <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="{{ site.data.contact[message_key] }}" required></textarea>
+      </div>
+      <div class="form__group">
+        {% assign send_key = 'send_' | append: page.language %}
+        <button class="button button--primary" type="submit">{{ site.data.contact[send_key] }}</button>
+      </div>
+    </form>
+  </div>
+  

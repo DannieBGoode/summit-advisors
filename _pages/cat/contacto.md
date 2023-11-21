@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contacta
-permalink: /es/contacto/
+title: Contacte
+permalink: /cat/contacte/
 image: /images/16.jpg
 smallImage: true
-language: es
+language: cat
 CMSeditable: false
 ref: contacto
 ---

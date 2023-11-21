@@ -19,11 +19,11 @@ collections:
       file: "_data/hero.yml"
       fields: 
         - { label: 'Título principal (Español)', name: 'hero__title_es', widget: 'string', hint: 'Título de cabecera en la homepage' }
-        - { label: 'Título principal (English)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
-        - { label: 'Título principal (Català)', name: 'hero__title_cat', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Título principal (Inglés)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Título principal (Catalàn)', name: 'hero__title_cat', widget: 'string', hint: 'Título de cabecera en la homepage' }
         - { label: 'Subtítulo (Español)', name: 'hero__description_es', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
-        - { label: 'Subtítulo (English)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
-        - { label: 'Subtítulo (Català)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Subtítulo (Inglés)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Subtítulo (Catalàn)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
     - label: "Testimonios de Clientes"
       name: "testimonials"
@@ -33,11 +33,11 @@ collections:
           name: 'testimonial__title_es'
           widget: 'string'
           hint: 'En la homepage, en la sección de Testimonios'
-        - label: 'Título sección de Testimonios (English)'
+        - label: 'Título sección de Testimonios (Inglés)'
           name: 'testimonial__title_en'
           widget: 'string'
           hint: 'On the homepage, in the Testimonials section'
-        - label: 'Título sección de Testimonios (Català)'
+        - label: 'Título sección de Testimonios (Catalàn)'
           name: 'testimonial__title_cat'
           widget: 'string'
           hint: 'A la homepage, a la secció de Testimonis'
@@ -74,8 +74,8 @@ collections:
       file: "_data/contact.yml"
       fields: 
         - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
-        - { label: "Descripción (English)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
-        - { label: "Descripción (Català)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
+        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
   - name: 'pages'
     label: 'Páginas (Español)'
     folder: '_pages/es/'
@@ -232,5 +232,5 @@ collections:
             fields:
               - { label: "Tag Code", name: "code", widget: "string" }
               - { label: "Tag Name (Spanish)", name: "es", widget: "string" }
-              - { label: "Tag Name (English)", name: "en", widget: "string" }
+              - { label: "Tag Name (Inglés)", name: "en", widget: "string" }
               - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
