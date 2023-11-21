@@ -118,7 +118,7 @@ collections:
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: 'pages'
-    label: 'Páginas'
+    label: 'Páginas (Español)'
     folder: '_pages/es/'
     create: false
     slug: '{{slug}}'
@@ -131,6 +131,7 @@ collections:
       - { label: 'Descripción', name: 'description', widget: 'string', required: false }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'es_blog'
     label: 'Blog (Español)'
@@ -163,7 +164,7 @@ collections:
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'en' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'cat_blog'
@@ -180,7 +181,7 @@ collections:
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services'
