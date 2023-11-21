@@ -8,6 +8,7 @@ tags:
   - lifestyle
   - rest
 language: es
+ref: parroquias
 ---
 Entre las distintas parroquías que se encuentran en Andorra destacan las siguientes:
 
