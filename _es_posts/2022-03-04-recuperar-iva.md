@@ -1,14 +1,13 @@
 ---
 layout: post
+date: 2022-03-04 15:01:35 +0300
+ref: retorno-igi
+video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 title: Cómo recuperar el IVA (21%) de los productos comprados en España
 description: Recuperar el IVA de productos comprados en España
-date: 2022-03-04 15:01:35 +0300
 image: /images/02.jpg
-video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:
-  - vat
-  - notes
-  - study
+  - impuestos
 ---
 La compra de productos en España y la recuperación del 21% de IVA al cruzar la frontera es una opción para las personas que viven en Andorra. Sin embargo, hay ciertos requisitos y procedimientos que deben seguirse para asegurar que el proceso sea legal y cumpla con las regulaciones fiscales. A continuación se presenta una guía para ayudar a las personas que viven en Andorra a comprar productos en España y recuperar el 21% de IVA:
 
