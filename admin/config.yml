@@ -218,11 +218,14 @@ collections:
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
   - name: "tags"
     label: "Tags"
-    folder: "_data/tags.yml"
+    file: "_data/tags.yml"
     create: true
-    slug: "{{slug}}"
     fields:
-      - { label: "Tag Code", name: "code", widget: "string" }
-      - { label: "Tag Name (Spanish)", name: "es", widget: "string" }
-      - { label: "Tag Name (English)", name: "en", widget: "string" }
-      - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
+      - label: "Tags List"
+        name: "tags"
+        widget: "list"
+        fields:
+          - { label: "Tag Code", name: "code", widget: "string" }
+          - { label: "Tag Name (Spanish)", name: "es", widget: "string" }
+          - { label: "Tag Name (English)", name: "en", widget: "string" }
+          - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
