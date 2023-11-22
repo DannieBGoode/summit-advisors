@@ -1,9 +1,3 @@
----
-layout: default
-title: Tags
-permalink: /es/tags/
-language: es
----
 {% assign tags_data = site.data.tags.tags %}
 {% assign current_language = page.language | default: 'es' %}
 {% assign posts_collection = current_language | append: '_posts' %}
@@ -17,7 +11,7 @@ language: es
         <div class="row">
           <div class="col col-12">
             <div class="tag__info">
-              <h2 class="tag__name">{{ tag.es }}</h2>
+              <h2 class="tag__name">{{ tag[page.language] }}</h2>
               <!-- Counter for posts with this tag is not displayed as it requires a different approach -->
             </div>
           </div>
