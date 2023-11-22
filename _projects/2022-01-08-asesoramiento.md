@@ -1,31 +1,34 @@
 ---
 title: Asesoramiento Contable, Laboral y Tributario
-date: 2022-01-08 08:01:35 +0300
 subtitle: Legalidad
-image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
+description: Expertos en asesoramiento contable, tributario y laboral, guiando
+  tu negocio hacia el éxito con servicios integrales y personalizados.
+date: 2022-01-08 08:01:35 +0300
+image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
 language: es
 ---
+En Summit Advisors, entendemos que la **contabilidad financiera es fundamental** para la salud y el éxito de tu empresa. Nuestro equipo de expertos se dedica a garantizar que tu contabilidad esté siempre al día, cumpla con todas las normativas fiscales y te brinde la claridad necesaria para tomar decisiones estratégicas informadas.
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+## **Servicios Contables Ofrecidos**
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+- **Gestión y Asesoramiento Contable:** Supervisamos y orientamos todas las operaciones contables de tu empresa.
+  
+- **Elaboración y Presentación de Libros Contables:** Nos encargamos de la confección y presentación adecuada de todos los libros contables requeridos.
+  
+- **Gestión de Facturación:** Ofrecemos asesoramiento y gestión en la elaboración de tus facturas, asegurando su precisión y conformidad con las normativas vigentes.
+  
+- **Informes de Seguimiento Empresarial:** Proporcionamos informes detallados sobre la evolución mensual de ingresos y gastos, ayudándote a entender mejor la situación financiera de tu empresa.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+## **Servicios en el Ámbito Laboral**
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
-  </div>
-</div>
+- **Asesoramiento en Contratación Laboral:** Revisamos y asesoramos en la creación de nuevos contratos laborales, así como en el proceso de renovación de los mismos.
+  
+- **Gestión de Altas y Bajas en la CASS:** Nos encargamos de las altas y bajas de trabajadores en la Caja Andorrana de Seguridad Social (CASS).
+  
+- **Cálculo y Declaración de Nóminas:** Realizamos el cálculo de nóminas y su correspondiente declaración mensual en la CASS.
+  
+- **Emisión de Boletines de Trabajo:** Aseguramos la emisión correcta y oportuna de boletines de trabajo para tus empleados.
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+Con **Summit Advisors**, puedes estar seguro de que cada aspecto de tu contabilidad y gestión laboral está en manos expertas. Nuestro enfoque es proporcionarte un servicio integral que simplifique tus procesos empresariales y te permita concentrarte en lo más importante: el crecimiento y éxito de tu negocio.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+---
