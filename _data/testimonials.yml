@@ -1,59 +1,70 @@
-#-------------------------------
-# Testimonials Section
 testimonial__title_es: Qué dicen nuestros Clientes
-testimonial__description_es:
 testimonial__title_en: What do our clients say
-testimonial__description_en:
 testimonial__title_cat: Què diuen els nostres clients
-testimonial__description_cat:
-
+testimonial__description_es: null
+testimonial__description_en: null
+testimonial__description_cat: null
 testimonial__items:
-  - name: "Tatiana Hernandez"
-    image: "/images/client-1.jpg"
-    designation_es: "Diseñadora Digital"
-    designation_en: "Product Designer"
-    designation_cat: "Diseñadora Digital"
-    link: "https://twitter.com/"
-    content_es : "El trato personalizado hizo que la mudanza de nuestra empresa a Andorra fuera una experiencia tranquila y sin estrés."
-    content_en : "Their tailored approach made our company's move to Andorra a smooth and stress-free experience."
-    content_cat : "El seu enfocament personalitzat va fer que el trasllat de la nostra empresa a Andorra fos una experiència tranquil·la i sense estrès."
-
-  - name: "Lydia Siphron"
-    image: "/images/client-2.jpg"
-    designation_es: "Diseñadora"
-    designation_en: "Designer"
-    designation_cat: "Designer"
-    link: "https://facebook.com/"
-    content_es : "Trasladar nuestra empresa a Andorra fue sencillo y eficiente, gracias a su orientación experta y apoyo."
-    content_en : "Relocating our business to Andorra was seamless and efficient, thanks to their expert guidance and support."
-    content_cat : "Traslladar la nostra empresa a Andorra va ser senzill i eficient, gràcies a la seva orientació experta i suport."
-
-  - name: "Daniel Calatayud"
-    image: "/images/client-3.jpg"
-    designation_es: "Desarrollador de páginas web"
-    designation_en: "Web developer"
-    designation_cat: "Web developer"
-    link: "https://twitter.com/"
-    content_es : "¡Servicio excepcional! Manejaron cada detalle de nuestra mudanza a Andorra con profesionalismo y facilidad."
-    content_en : "Exceptional service! They handled every detail of our move to Andorra with professionalism and ease."
-    content_cat : "Servei excepcional! Van gestionar cada detall del nostre trasllat a Andorra amb professionalitat i facilitat."
-
-  - name: "Anika Calzoni"
-    image: "/images/client-4.jpg"
-    designation_es: "Lettering Artist"
-    designation_en: "Lettering Artist"
-    designation_cat: "Lettering Artist"
-    link: "https://facebook.com/"
-    content_es : "De principio a fin, su equipo brindó asistencia invaluable en la reubicación de nuestra empresa a Andorra."
-    content_en : "From start to finish, their team provided invaluable assistance in relocating our company to Andorra."
-    content_cat : "De principi a fi, el seu equip va proporcionar assistència inestimable en la reubicació de la nostra empresa a Andorra."
-
-  - name: "Marcus Botosh"
-    image: "/images/client-5.jpg"
-    designation_es: "Full Stack Designer"
-    designation_en: "Full Stack Designer"
-    designation_cat: "Full Stack Designer"
-    link: "https://twitter.com/"
-    content_es : "Un cambio radical para nuestro negocio. Su experiencia en reubicaciones a Andorra marcó la diferencia."
-    content_en : "A game-changer for our business! Their expertise in Andorra relocations made all the difference."
-    content_cat : "Un canvi radical per al nostre negoci. La seva experiència en reubicacions a Andorra va fer tota la diferència."
+  - name: Tatiana Hernandez
+    designation_cat: Diseñadora Digital
+    content_en: Their tailored approach made our company's move to Andorra a smooth
+      and stress-free experience.
+    content_cat: El seu enfocament personalitzat va fer que el trasllat de la nostra
+      empresa a Andorra fos una experiència tranquil·la i sense estrès.
+    designation_en: Product Designer
+    content_es: El trato personalizado hizo que la mudanza de nuestra empresa a
+      Andorra fuera una experiencia tranquila y sin estrés.
+    designation_es: Diseñadora Digital
+    link: https://twitter.com/
+    image: /images/client-1.jpg
+  - name: Marc Ribera
+    designation_cat: Designer
+    content_en: Relocating our business to Andorra was seamless and efficient,
+      thanks to their expert guidance and support.
+    content_cat: Traslladar la nostra empresa a Andorra va ser senzill i eficient,
+      gràcies a la seva orientació experta i suport.
+    designation_en: Designer
+    content_es: a week agoNEW El trato y la implicacion es excelente. Lo que mas
+      valoro es la profesionalidad de hacer las cosas. Sin duda, la mejor
+      asesoría habiendo pasado por muchas ya.
+    designation_es: Diseñadora
+    link: https://facebook.com/
+    image: /images/client-2.jpg
+  - name: Daniel Calatayud
+    designation_cat: Web developer
+    content_en: Exceptional service! They handled every detail of our move to
+      Andorra with professionalism and ease.
+    content_cat: Servei excepcional! Van gestionar cada detall del nostre trasllat a
+      Andorra amb professionalitat i facilitat.
+    designation_en: Web developer
+    content_es: ¡Servicio excepcional! Manejaron cada detalle de nuestra mudanza a
+      Andorra con profesionalismo y facilidad.
+    designation_es: Desarrollador de páginas web
+    link: https://twitter.com/
+    image: /images/client-3.jpg
+  - name: Kike Mayor
+    designation_cat: Lettering Artist
+    content_en: From start to finish, their team provided invaluable assistance in
+      relocating our company to Andorra.
+    content_cat: De principi a fi, el seu equip va proporcionar assistència
+      inestimable en la reubicació de la nostra empresa a Andorra.
+    designation_en: Lettering Artist
+    content_es: Grandes profesionales, muy atentos. Te ayudan con todo no solo en el
+      ámbito laboral o administrativo, también en cualquier tema que puedan en
+      tu estancia en Andorra. Muy recomendables
+    designation_es: Lettering Artist
+    link: https://facebook.com/
+    image: /images/client-4.jpg
+  - name: David GV
+    designation_cat: Full Stack Designer
+    content_en: A game-changer for our business! Their expertise in Andorra
+      relocations made all the difference.
+    content_cat: Un canvi radical per al nostre negoci. La seva experiència en
+      reubicacions a Andorra va fer tota la diferència.
+    designation_en: Full Stack Designer
+    content_es: Profesionalidad, eficacia, seriedad y cercanía. Mi experiencia ha
+      sido y está siendo excepcional. Sin su ayuda hubiera tenido muchas
+      dificultades con mis trámites. GRACIAS
+    designation_es: Full Stack Designer
+    link: https://twitter.com/
+    image: /images/client-5.jpg
