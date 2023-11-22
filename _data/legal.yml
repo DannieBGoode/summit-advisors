@@ -1,0 +1,32 @@
+legal_notice:
+  en:
+    title: Legal Notice
+    link: /en/legal-notice
+  es:
+    title: Aviso Legal
+    link: /es/aviso-legal
+  cat:
+    title: Avís Legal
+    link: /cat/avis-legal
+
+privacy_policy:
+  en:
+    title: Privacy Policy
+    link: /en/privacy-policy
+  es:
+    title: Política de Privacidad
+    link: /es/politica-de-privacidad
+  cat:
+    title: Política de Privacitat
+    link: /cat/politica-de-privacitat
+
+cookies_policy:
+  en:
+    title: Cookies Policy
+    link: /en/cookies-policy
+  es:
+    title: Política de Cookies
+    link: /es/politica-de-cookies
+  cat:
+    title: Política de Cookies
+    link: /cat/politica-de-cookies

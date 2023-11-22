@@ -1,0 +1,17 @@
+en:
+  message: "By clicking the 'Accept' button below, you agree to our Cookie Policy."
+  cookie_policy: "Cookie Policy"
+  accept_button: "Accept"
+  cookie_policy_url: "/en/cookie-policy" # English URL
+
+cat:
+  message: "Fent clic al botó 'Acceptar' a continuació, accepteu la nostra Política de galetes."
+  cookie_policy: "Política de galetes"
+  accept_button: "Acceptar"
+  cookie_policy_url: "/cat/politica-de-cookies" # Catalan URL
+
+es:
+  message: "Al hacer clic en el botón 'Aceptar' a continuación, acepta nuestra Política de cookies."
+  cookie_policy: "Política de cookies"
+  accept_button: "Aceptar"
+  cookie_policy_url: "/es/politica-de-cookies" # Spanish URL

@@ -80,6 +80,20 @@
                         </li>
                       {% endif %}
                     {% endfor %}
+                    <li class="footer__nav-separator"></li>
+                  </ul>
+                  {% assign legal_links = site.data.legal %}
+                  <h3 class="footer__nav-title">{{ legal_links.legal_notice[page.language].title }}</h3>
+                  <ul class="footer__nav-list list-reset">
+                    <li class="footer__nav-item">
+                      <a href="{{ legal_links.legal_notice[page.language].link | relative_url }}" class="footer__nav-link">{{ legal_links.legal_notice[page.language].title }}</a>
+                    </li>
+                    <li class="footer__nav-item">
+                      <a href="{{ legal_links.privacy_policy[page.language].link | relative_url }}" class="footer__nav-link">{{ legal_links.privacy_policy[page.language].title }}</a>
+                    </li>
+                    <li class="footer__nav-item">
+                      <a href="{{ legal_links.cookies_policy[page.language].link | relative_url }}" class="footer__nav-link">{{ legal_links.cookies_policy[page.language].title }}</a>
+                    </li>
                   </ul>
                 </div>
               </div>
