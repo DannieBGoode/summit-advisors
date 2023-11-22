@@ -5,6 +5,7 @@
 {% assign description = site.data.settings.blog__settings[description_key] %}
 
 {% assign seeBlog_key = 'see__blog_' | append: lang_prefix %}
+{% assign blog_url = '/blog' | prepend: lang_prefix %}
 {% assign seeBlog = site.data.settings.misc[seeBlog_key] %}
 
 <!-- begin blog -->
@@ -46,7 +47,7 @@
   </div>
 
   <div class="section__navigation">
-    <a href="{{ '/blog' | relative_url }}" class="button button--primary section-button">{{ seeBlog }}</a>
+    <a href="{{ blog_url | relative_url }}" class="button button--primary section-button">{{ seeBlog }}</a>
   </div>
 </section>
 <!-- end blog -->
