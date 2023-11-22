@@ -11,7 +11,7 @@ smallImage: true
 title: Nosotros
 language: es
 ---
-**Summit Advisors**, bajo la dirección de **Albert Hernández** y **Jordi Yll**, se destaca como una consultoría especializada en servicios de reubicación y asesoramiento empresarial. Nuestra misión es asegurar transiciones fluidas y eficientes para individuos y empresas que enfrentan el reto de adaptarse a nuevos entornos.
+**Summit Advisors**, bajo la dirección de **[Albert Hernández](https://ad.linkedin.com/in/albert-hernández-79921361)** y **Jordi Yll**, se destaca como una consultoría especializada en servicios de reubicación y asesoramiento empresarial. Nuestra misión es asegurar transiciones fluidas y eficientes para individuos y empresas que enfrentan el reto de adaptarse a nuevos entornos.
 
 ### **Nuestra Filosofía**
 
