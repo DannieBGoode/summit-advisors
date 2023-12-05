@@ -7,12 +7,24 @@
 {% assign seeAll_key = 'see__all_' | append: lang_prefix %}
 {% assign seeAll = site.data.settings.misc[seeAll_key] %}
 
+{% assign lang_prefix = page.language | default: 'es' %}
+{% assign menu_setting_var = lang_prefix | append: '_menu_settings' %}
+{% assign menu_settings = site.data.topnav[menu_setting_var] %}
+
+{% assign services_url = '' %}
+{% for item in menu_settings.menu_items %}
+  {% if item.title == 'Services' or item.title == 'Servicios' or item.title == 'Serveis' %}
+    {% assign services_url = item.url %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
 <!-- begin projects -->
 <section class="section projects animate">
   <div class="container">
     <div class="row">
       <div class="col col-12">
-        <div class="contaniner__inner">
+        <div class="container__inner">
 
           <div class="section__info">
             <h2 class="section__title">{{ title }}</h2>
@@ -24,19 +36,21 @@
           <div class="row">
             {% assign sorted = site.projects | sort: 'date' | reverse %}
             {% for project in sorted limit:6 %}
-            <article class="project col col-4 col-d-6 col-t-12">
-              <div class="project__content">
-                <a href="{{ project.url }}" class="project__image">
-                  <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
-                </a>
-                <div class="project__info">
-                  <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
-                  {% if project.subtitle %}
-                    <div class="project__subtitle">{{ project.subtitle }}</div>
-                  {% endif %}
-                </div>
-              </div>
-            </article>
+              {% if project.language == page.language %}
+                <article class="project col col-4 col-d-6 col-t-12">
+                  <div class="project__content">
+                    <a href="{{ project.url }}" class="project__image">
+                      <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+                    </a>
+                    <div class="project__info">
+                      <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
+                      {% if project.subtitle %}
+                        <div class="project__subtitle">{{ project.subtitle }}</div>
+                      {% endif %}
+                    </div>
+                  </div>
+                </article>
+              {% endif %}
             {% endfor %}
           </div>
 
@@ -46,7 +60,7 @@
   </div>
 
   <div class="section__navigation">
-    <a href="{{ '/projects' | relative_url }}" class="button button--primary section-button">{{ seeAll }}</a>
+    <a href="{{ services_url | relative_url }}" class="button button--primary section-button">{{ seeAll }}</a>
   </div>
 </section>
 <!-- end projects -->
