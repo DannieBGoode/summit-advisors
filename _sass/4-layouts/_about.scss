@@ -1,0 +1,129 @@
+.about-page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+
+  .page-title {
+    margin-bottom: 30px;
+  }
+
+  .page-description {
+    margin-bottom: 50px;
+  }
+}
+
+.team-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-bottom: 50px;
+
+  .team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 250px;
+    text-align: center;
+    border-radius: 10px;
+
+    .team-member-link {
+      text-decoration: none; // Removes underline from links
+      color: inherit; // Inherits text color from parent
+      display: block; // Makes the link block-level for the hover effect to work properly
+
+      &:hover .team-member-image-container {
+        transform: scale(1.05); // Scales the image container slightly
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); // Adds a shadow to lift the image
+      }
+    }
+
+    .team-member-image-container {
+      width: 250px;
+      height: 250px;
+      background-color: var(--brand-color);
+      border-radius: 10px;
+      overflow: hidden; // Ensures nothing spills out of the container
+      transition: transform 0.3s ease, box-shadow 0.3s ease; // Animation for hover effect
+    }
+
+    .team-member-image {
+      width: 100%; 
+      height: 100%;
+      object-fit: cover; 
+
+      &.default-image {
+        object-fit: contain;
+        width: 80%;
+        height: 80%;
+      }
+    }
+
+    .member-info {
+      width: 250px; // Matches the width of the image container
+      padding: 15px;
+      text-align: left;
+      box-sizing: border-box;
+
+      .member-name-and-link {
+        display: flex; // This makes it possible to position elements side by side
+        align-items: center; // Aligns items vertically
+        justify-content: space-between; // Puts maximum space between elements
+
+        .member-name {
+          font-size: 1.2em;
+          font-weight: bold;
+          margin: 0; // Adjust margin as needed
+          flex: 1; // Allows the name to fill the space
+          white-space: nowrap; // Prevents the name from wrapping
+          overflow: hidden; // Prevents content from spilling out
+          text-overflow: ellipsis; // Adds an ellipsis if the name is too long
+        }
+      }
+
+      .member-title {
+        font-size: 1em;
+        color: #666;
+      }
+
+      .linkedin-btn {
+        color: inherit; // Default color
+        background: transparent;
+        border: none;
+        padding: 0 8px; // Padding on the sides
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 10;
+
+        i {
+          font-size: 24px;
+        }
+
+        &:hover,
+        &:focus {
+          color: #0077b5; // LinkedIn blue on hover/focus
+        }
+      }
+    }
+  }
+}
+
+.about-text {
+  text-align: left;
+}
+
+@media (max-width: 1024px) {
+  .team-member {
+    width: 45%; // Adjusts width for tablet screens
+  }
+}
+
+@media (max-width: 768px) {
+  .team-member {
+    width: 100%; // Adjusts width for mobile screens
+  }
+}

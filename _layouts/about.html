@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+
+    <div class="about-page-container">
+      <h1 class="page-title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+        <p class="page-description">{{ page.description }}</p>
+      {% endif %}
+
+      <!-- Team Section -->
+      <div class="team-section">
+        {% for member in site.data.about.team %}
+          <div class="team-member">
+            <a href="{{ member.linkedin }}" target="_blank" class="team-member-link">
+              <div class="team-member-image-container">
+                <img src="{{ member.image | default: '/assets/uploads/placeholder-removebg-preview.jpg' }}" alt="{{ member.name }}" class="team-member-image {% unless member.image and member.image != '' %}default-image{% endunless %}">
+              </div>
+            </a>
+            <div class="member-info">
+              <div class="member-name-and-link">
+                <h3 class="member-name">{{ member.name }}</h3>
+              {% if member.linkedin and member.linkedin != '' %}
+                <a href="{{ member.linkedin }}" target="_blank" class="linkedin-btn">
+                  <i class="ion ion-logo-linkedin"></i>
+                </a>
+              {% endif %}
+              </div>
+            </div>
+              {% assign lang_prefix = page.language | default: 'es' %}
+              {% assign member_key = 'position_' | append: lang_prefix %}
+              <p class="member-title">{{ member[member_key] }}</p>
+          </div>
+        {% endfor %}
+      </div>      
+      
+      <!-- About Section Text -->
+      <div class="container animate">
+        <article class="page">
+          <div class="page__content about-text">
+            {% capture about_text %}{{ site.data.about.description[page.language] | markdownify }}{% endcapture %}
+            {{ about_text }}
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</div>
