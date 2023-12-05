@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Política de Cookies
 permalink: /es/politica-de-cookies
-description: Summit Advisors utiliza cookies para mejorar su experiencia en nuestro sitio web y proteger su privacidad.
-image:
-language: es
 CMSeditable: true
+title: Política de Cookies
+description: Summit Advisors utiliza cookies para mejorar su experiencia en
+  nuestro sitio web y proteger su privacidad.
+image: null
+language: es
 ref: cookies
 ---
 **Fecha de entrada en vigor:** {{ page.date | date: "%d/%m/%Y" }}
@@ -22,23 +23,18 @@ Las cookies son pequeños archivos de texto que se almacenan en su dispositivo c
 
 Utilizamos cookies en el sitio web de Summit Advisors por diversas razones, que incluyen:
 
-- Mejorar la funcionalidad del sitio: Las cookies nos permiten recordar sus preferencias, como el idioma y la región, para brindarle una experiencia más personalizada.
-
-- Análisis y rendimiento: Utilizamos cookies para recopilar información sobre cómo los visitantes utilizan nuestro sitio web. Esto nos ayuda a mejorar constantemente nuestro sitio y a comprender mejor las necesidades de nuestros usuarios.
-
-- Publicidad y marketing: Algunas cookies se utilizan para mostrar anuncios relevantes para usted y sus intereses. Esto nos ayuda a ofrecer contenido más relevante y a medir la efectividad de nuestras campañas publicitarias.
+* Mejorar la funcionalidad del sitio: Las cookies nos permiten recordar sus preferencias, como el idioma y la región, para brindarle una experiencia más personalizada.
+* Análisis y rendimiento: Utilizamos cookies para recopilar información sobre cómo los visitantes utilizan nuestro sitio web. Esto nos ayuda a mejorar constantemente nuestro sitio y a comprender mejor las necesidades de nuestros usuarios.
+* Publicidad y marketing: Algunas cookies se utilizan para mostrar anuncios relevantes para usted y sus intereses. Esto nos ayuda a ofrecer contenido más relevante y a medir la efectividad de nuestras campañas publicitarias.
 
 ## 4. Tipos de cookies que utilizamos
 
 A continuación, se detallan los tipos de cookies que utilizamos en el sitio web de Summit Advisors:
 
-- **Cookies esenciales:** Estas cookies son necesarias para el funcionamiento básico del sitio web y le permiten navegar por él y utilizar sus funciones.
-
-- **Cookies de rendimiento:** Estas cookies recopilan información sobre cómo los visitantes utilizan nuestro sitio web, como las páginas que visitan con mayor frecuencia y si experimentan errores. Esta información nos ayuda a mejorar el rendimiento y la usabilidad del sitio.
-
-- **Cookies de funcionalidad:** Estas cookies permiten que el sitio web recuerde las elecciones que ha hecho, como su idioma o región, para proporcionar una experiencia más personalizada.
-
-- **Cookies de publicidad y seguimiento:** Utilizamos estas cookies para mostrar anuncios relevantes para usted y sus intereses. También nos ayudan a medir la efectividad de nuestras campañas publicitarias.
+* **Cookies esenciales:** Estas cookies son necesarias para el funcionamiento básico del sitio web y le permiten navegar por él y utilizar sus funciones.
+* **Cookies de rendimiento:** Estas cookies recopilan información sobre cómo los visitantes utilizan nuestro sitio web, como las páginas que visitan con mayor frecuencia y si experimentan errores. Esta información nos ayuda a mejorar el rendimiento y la usabilidad del sitio.
+* **Cookies de funcionalidad:** Estas cookies permiten que el sitio web recuerde las elecciones que ha hecho, como su idioma o región, para proporcionar una experiencia más personalizada.
+* **Cookies de publicidad y seguimiento:** Utilizamos estas cookies para mostrar anuncios relevantes para usted y sus intereses. También nos ayudan a medir la efectividad de nuestras campañas publicitarias.
 
 ## 5. Cómo gestionar las cookies
 
@@ -52,7 +48,7 @@ Nos reservamos el derecho de actualizar esta Política de Cookies en cualquier m
 
 Si tiene alguna pregunta o inquietud sobre nuestra Política de Cookies, no dude en ponerse en contacto con nosotros a través de la información de contacto proporcionada en nuestro sitio web.
 
-Esta Política de Cookies forma parte integral de nuestra política de privacidad general, que puede consultar en [enlace a la Política de Privacidad].
+Esta Política de Cookies forma parte integral de nuestra política de privacidad general, que puede consultar en [Política de Privacidad](/es/politica-de-privacidad).
 
 **Última actualización:** {{ page.date | date: "%d/%m/%Y" }}
 
