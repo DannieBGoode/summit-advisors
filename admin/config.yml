@@ -230,7 +230,8 @@ collections:
           collapse: false
           fields:
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
-            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }    - label: "Miembros del Equipo"
+            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
+    - label: "Miembros del Equipo"
       name: "team"
       file: "_data/about.yml"
       fields:
