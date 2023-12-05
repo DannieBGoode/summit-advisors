@@ -76,6 +76,20 @@ collections:
         - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
         - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
         - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+    - label: "Miembros del Equipo"
+      name: "team"
+      file: "_data/about.yml"
+      fields:
+        - label: "Miembros del Equipo"
+          name: "team"
+          widget: "list"
+          fields:
+            - { label: "Nombre", name: "name", widget: "string" }
+            - { label: "Posición (Español)", name: "position_es", widget: "string" }
+            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
+            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
+            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
+            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
     - label: "Nosotros"
       name: "about"
       file: "_data/about.yml"
@@ -89,24 +103,10 @@ collections:
         - label: "Descripción (Catalán)"
           name: "description_cat"
           widget: "markdown"
-    - label: "Miembros del Equipo"
-      name: "team"
-      file: "_data/about.yml"
-      fields:
-        - label: "Miembros del Equipo"
-          name: "team"
-          widget: "list"
-          fields:
-            - { label: "Nombre", name: "name", widget: "string" }
-            - { label: "Posición (Español)", name: "position_es", widget: "string" }
-            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
-            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
-            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", hint: 'con https://linkedin.com/ incluido' }
-            - { label: "Imagen", name: "image", widget: "image", choose_url: true }
   - name: 'pages'
     label: 'Páginas (Español)'
     folder: '_pages/es/'
-    filter: {field: "CMSeditable", value: true}
+    filter: { field: "CMSeditable", value: true }
     create: false
     slug: '{{slug}}'
     editor:
