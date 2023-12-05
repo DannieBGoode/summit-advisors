@@ -12,6 +12,9 @@ layout: default
       {% endif %}
 
       <!-- Team Section -->
+      {% assign lang_prefix = page.language | default: 'es' %}
+      {% assign team_key = 'team_' | append: lang_prefix %}
+      <h2>{{ site.data.settings.misc[team_key] }}</h2>
       <div class="team-section">
         {% for member in site.data.about.team %}
           <div class="team-member">
