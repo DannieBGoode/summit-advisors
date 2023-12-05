@@ -76,20 +76,6 @@ collections:
         - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
         - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
         - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
-    - label: "Miembros del Equipo"
-      name: "team"
-      file: "_data/about.yml"
-      fields:
-        - label: "Miembros del Equipo"
-          name: "team"
-          widget: "list"
-          fields:
-            - { label: "Nombre", name: "name", widget: "string" }
-            - { label: "Posición (Español)", name: "position_es", widget: "string" }
-            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
-            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
-            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
-            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
     - label: "Nosotros"
       name: "about"
       file: "_data/about.yml"
@@ -244,7 +230,20 @@ collections:
           collapse: false
           fields:
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
-            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
+            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }    - label: "Miembros del Equipo"
+      name: "team"
+      file: "_data/about.yml"
+      fields:
+        - label: "Miembros del Equipo"
+          name: "team"
+          widget: "list"
+          fields:
+            - { label: "Nombre", name: "name", widget: "string" }
+            - { label: "Posición (Español)", name: "position_es", widget: "string" }
+            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
+            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
+            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
+            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
   - name: "tags"
     label: "Tags"
     files:
