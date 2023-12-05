@@ -41,7 +41,9 @@ layout: default
       <div class="container animate">
         <article class="page">
           <div class="page__content about-text">
-            {% capture about_text %}{{ site.data.about.description[page.language] | markdownify }}{% endcapture %}
+            {% assign lang_prefix = page.language | default: 'es' %}
+            {% assign about_text_key = 'description_' | append: lang_prefix %}
+            {% capture about_text %}{{ site.data.about[about_text_key] | markdownify }}{% endcapture %}
             {{ about_text }}
           </div>
         </article>

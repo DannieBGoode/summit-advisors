@@ -1,5 +1,4 @@
-description:
-  en: |
+description_en: |
     **Summit Advisors**, under the leadership of **[Albert Hernández](https://ad.linkedin.com/in/albert-hernández-79921361)** and **Jordi Yll**, stands out as a consultancy specialized in relocation services and business advice. Our mission is to ensure smooth and efficient transitions for individuals and companies facing the challenge of adapting to new environments.
 
     ### **Our Philosophy**
@@ -23,7 +22,7 @@ description:
 
     With our proven methodology and a team of experts, we are committed to providing an exceptional relocation experience.
 
-  es: |
+description_es: |
     **Summit Advisors**, bajo la dirección de **[Albert Hernández](https://ad.linkedin.com/in/albert-hernández-79921361)** y **Jordi Yll**, se destaca como una consultoría especializada en servicios de reubicación y asesoramiento empresarial. Nuestra misión es asegurar transiciones fluidas y eficientes para individuos y empresas que enfrentan el reto de adaptarse a nuevos entornos.
 
     ### **Nuestra Filosofía**
@@ -49,7 +48,7 @@ description:
 
     Para más información sobre cómo podemos asistirte en tu proceso de reubicación, [contáctanos](/es/contacto).
 
-  cat: |
+description_cat: |
     # Catalan Translation of the Description Here
 
 team:
