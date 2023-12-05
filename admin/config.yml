@@ -76,19 +76,6 @@ collections:
         - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
         - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
         - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
-    - label: "Nosotros"
-      name: "about"
-      file: "_data/about.yml"
-      fields:
-        - label: "Descripción (Español)"
-          name: "description.es"
-          widget: "markdown"
-        - label: "Descripción (Inglés)"
-          name: "description.en"
-          widget: "markdown"
-        - label: "Descripción (Catalán)"
-          name: "description.cat"
-          widget: "markdown"
     - label: "Miembros del Equipo"
       name: "team"
       file: "_data/about.yml"
