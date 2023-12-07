@@ -1,3 +1,4 @@
+image: /assets/uploads/about-cover-2.avif
 description_es: >-
   **Summit Advisors**, bajo la dirección de **[Albert
   Hernández](https://ad.linkedin.com/in/albert-hernández-79921361)** y **Jordi
@@ -5,9 +6,6 @@ description_es: >-
   reubicación y asesoramiento empresarial. La firma tiene como misión garantizar
   transiciones fluidas y eficaces para individuos y empresas en el proceso de
   adaptación a nuevos entornos.
-
-
-  ### **Filosofía de la Empresa**
 
 
   > "Nuestro compromiso es brindar tranquilidad y confianza a nuestros clientes, ofreciendo soluciones personalizadas y un enfoque ético y responsable, siempre poniendo los intereses de nuestros clientes primero."
@@ -42,9 +40,6 @@ description_en: >
   environments.
 
 
-  ### **Company Philosophy**
-
-
   > "Our commitment is to provide peace of mind and confidence to our clients, offering personalized solutions and an ethical and responsible approach, always putting the interests of our clients first."
 
 
@@ -77,9 +72,6 @@ description_cat: >
   entorns.
 
 
-  ### **Filosofia de l'Empresa**
-
-
   > "El nostre compromís és proporcionar tranquil·litat i confiança als nostres clients, oferint solucions personalitzades i un enfocament ètic i responsable, posant sempre els interessos dels nostres clients en primer lloc."
 
 
@@ -103,7 +95,6 @@ description_cat: >
 
 
   Per a més informació sobre com podem assistir-vos en el vostre procés de reubicació, [contacteu-nos](/cat/contacte).
-image: /assets/uploads/about-cover-2.avif
 team:
   - name: Albert Hernández
     position_en: Partner
