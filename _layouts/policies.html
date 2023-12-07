@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+
+    <div class="col col-12">
+      <div class="page-head">
+        <h1 class="page-title">{{ page.title | escape }}</h1>
+        {% if page.description %}
+          <p class="page-description">{{ page.description }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- begin page -->
+<div class="container animate">
+  <article class="page">
+    <div class="page__content">
+      {% if page.ref %}
+        {% assign policy_lang = page.ref | append: '_' | append: page.language %}
+        {% for policy in site.data.policies %}
+          {% if policy[0] == policy_lang %}
+            {% assign policy_content = policy[1] %}
+            {% assign formatted_date = page.date | date: "%d/%m/%Y" %}
+            {% assign policy_content_with_date = policy_content | replace: 'DATE_PLACEHOLDER', formatted_date %}
+            {{ policy_content_with_date | markdownify }}
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        {{ content }}
+      {% endif %}
+    </div>
+  </article>
+</div>
+<!-- end page -->
+
