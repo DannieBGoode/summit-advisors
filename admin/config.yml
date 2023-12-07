@@ -101,7 +101,7 @@ collections:
       file: "_data/andorra.yml"
       fields:
         - label: "Imagen"
-          name: "image"
+          name: "andorra_image"
           widget: "image"
           hint: 'Imagen de cabecera en las páginas de Andorra'
         - label: "Texto (Español)"
