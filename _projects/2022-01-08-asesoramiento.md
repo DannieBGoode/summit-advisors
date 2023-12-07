@@ -30,5 +30,3 @@ En Summit Advisors, entendemos que la **contabilidad financiera es fundamental**
 - **Emisión de Boletines de Trabajo:** Aseguramos la emisión correcta y oportuna de boletines de trabajo para tus empleados.
 
 Con **Summit Advisors**, puedes estar seguro de que cada aspecto de tu contabilidad y gestión laboral está en manos expertas. Nuestro enfoque es proporcionarte un servicio integral que simplifique tus procesos empresariales y te permita concentrarte en lo más importante: el crecimiento y éxito de tu negocio.
-
----
