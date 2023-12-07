@@ -190,7 +190,7 @@ collections:
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services_en'
-    label: 'Services (English)'
+    label: 'Services (Inglés)'
     folder: '_projects/'
     create: true
     slug: '{{slug}}'
@@ -207,7 +207,7 @@ collections:
       - { label: 'Header Image', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services_cat'
-    label: 'Serveis (Català)'
+    label: 'Servicios (Catalàn)'
     folder: '_projects/'
     create: true
     slug: '{{slug}}'
