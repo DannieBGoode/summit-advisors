@@ -5,7 +5,7 @@ description: Gestión de trámites administrativos en Andorra, ofreciendo un
   servicio completo desde legalizaciones hasta asesoramiento en importación de
   vehículos
 date: 2022-01-07 08:01:35 +0300
-image: https://images.unsplash.com/photo-1516579486067-6d7ef4d67c1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
+image: /assets/uploads/otros-tramites.avif
 language: es
 ---
 Summit Advisors va más allá para facilitarte una amplia gama de trámites administrativos en Andorra, asegurando un proceso ágil y sin complicaciones.

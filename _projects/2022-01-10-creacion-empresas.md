@@ -3,7 +3,7 @@ title: Creación de nuevas sociedades
 subtitle: nacionales / inversión extranjera
 description: Servicio de asistencia para la creación de empresas (SLs y otras) en Andorra
 date: 2022-01-10 08:01:35 +0300
-image: https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+image: /assets/uploads/empresas.avif
 language: es
 ---
 En **Summit Advisors**, comprendemos que **crear una empresa o sociedad limitada (SL) en Andorra** puede parecer un laberinto de complejidades legales y regulaciones. Pero ¡no te preocupes! Estamos aquí para convertir este desafío en una experiencia fluida y satisfactoria.
