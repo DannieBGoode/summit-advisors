@@ -227,6 +227,7 @@ collections:
         - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
         - { label: Color de Marca para theme dark (HEX), name: brand_color_dark, widget: string, required: false, hint: 'Cuando el usuario visualize el theme oscuro (dark) el color de contraste para botones y selecciones será este. Por defecto es: #ad72df' }
         - { label: Color de Marca para theme light (HEX), name: brand_color_light, widget: string, required: false, hint: 'Cuando el usuario visualize el theme claro (light) el color de contraste para botones y selecciones será este. Por defecto es: #fec824' }
+        - { label: "Google Analytics Measurement ID", name: "google_analytics", widget: string, required: false, hint: 'Ingrese el ID de Google Analytics para habilitar el seguimiento en el sitio.' }
     - label: "Redes Sociales"
       name: "social"
       file: "_data/social.yml"

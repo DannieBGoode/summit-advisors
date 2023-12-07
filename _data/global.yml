@@ -7,3 +7,7 @@ logo_light: /assets/uploads/image.webp
 color_scheme: auto
 brand_color_dark: "#7ABACC"
 brand_color_light: "#7ABACC"
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
