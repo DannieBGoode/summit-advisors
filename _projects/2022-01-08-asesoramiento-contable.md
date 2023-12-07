@@ -1,8 +1,7 @@
 ---
 title: Asesoramiento Contable, Laboral y Tributario
 subtitle: Legalidad
-description: Expertos en asesoramiento contable, tributario y laboral, guiando
-  tu negocio hacia el éxito con servicios integrales y personalizados.
+description: Expertos en asesoramiento contable, tributario y laboral, guiando tu negocio hacia el éxito con servicios integrales y personalizados.
 date: 2022-01-08 08:01:35 +0300
 image: /assets/uploads/asesoramiento.avif
 language: es
