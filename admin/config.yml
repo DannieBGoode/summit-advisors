@@ -96,23 +96,26 @@ collections:
           name: "description_cat"
           widget: "markdown"
           hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
-  - name: 'pages'
-    label: 'Páginas (Español)'
-    folder: '_pages/es/'
-    filter: { field: "CMSeditable", value: true }
-    create: false
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Permalink', name: 'permalink', widget: 'hidden' }
-      - { label: 'Descripción', name: 'description', widget: 'string', required: false }
-      - { label: 'Imagen de cabecera', name: 'image', widget: 'image', required: false }
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+    - label: "Andorra"
+      name: "about"
+      file: "_data/andorra.yml"
+      fields:
+        - label: "Imagen"
+          name: "image"
+          widget: "image"
+          hint: 'Imagen de cabecera en las páginas de Andorra'
+        - label: "Texto (Español)"
+          name: "body_es"
+          widget: "markdown"
+          hint: 'Texto debajo de la página de Andorra'
+        - label: "Descripción (Inglés)"
+          name: "body_en"
+          widget: "markdown"
+          hint: 'Texto debajo de la página de Andorra'
+        - label: "Descripción (Catalán)"
+          name: "body_cat"
+          widget: "markdown"
+          hint: 'Texto debajo de la página de Andorra'
   - name: 'es_blog'
     label: 'Blog (Español)'
     folder: '_es_posts/'

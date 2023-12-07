@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+
+    <div class="col col-12">
+      <div class="page-head">
+        <h1 class="page-title">{{ page.title | escape }}</h1>
+        {% if page.description %}
+          <p class="page-description">{{ page.description }}</p>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if page.image %}
+      {% if page.smallImage %}
+        <div class="col col-2"></div>
+          <div class="col col-8">
+            <div class="page-image animate">
+              <img class="lazy" data-src="{{site.baseurl}}{{site.data.andorra.image}}" alt="{{page.title}}">
+            </div>
+          </div>
+        <div class="col col-2"></div>
+      {%else %}
+      <div class="col col-12">
+        <div class="page-image animate">
+          <img class="lazy" data-src="{{site.baseurl}}{{site.data.andorra.image}}" alt="{{page.title}}">
+        </div>
+      </div>
+      {% endif %}
+    {% endif %}
+
+  </div>
+</div>
+
+<!-- begin page -->
+<div class="container animate">
+  <article class="page">
+    <div class="page__content">
+        {% assign body_key = "body_" | append: page.language %}
+        {% assign data_key = page.ref %}
+        {{ site.data[data_key][body_key] | markdownify }}
+    </div>
+  </article>
+</div>
+<!-- end page -->
