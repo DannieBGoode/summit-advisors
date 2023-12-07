@@ -97,7 +97,7 @@ collections:
           widget: "markdown"
           hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
     - label: "Andorra"
-      name: "about"
+      name: "andorra"
       file: "_data/andorra.yml"
       fields:
         - label: "Imagen"

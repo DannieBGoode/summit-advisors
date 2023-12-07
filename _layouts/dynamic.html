@@ -2,8 +2,7 @@
 layout: default
 ---
 {% assign data_key = page.ref %}
-{% assign image_key = data_key | append: "_image" %}
-{% assign page_image = site.data[data_key][image_key] %}
+{% assign page_image = site.data[data_key].image %}
 
 <div class="container">
   <div class="row">
