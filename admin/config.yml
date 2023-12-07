@@ -80,15 +80,22 @@ collections:
       name: "about"
       file: "_data/about.yml"
       fields:
+        - label: "Imagen"
+          name: "image"
+          widget: "image"
+          hint: 'Imagen de cabecera en las páginas de Nosotros / About'
         - label: "Descripción (Español)"
           name: "description_es"
           widget: "markdown"
+          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
         - label: "Descripción (Inglés)"
           name: "description_en"
           widget: "markdown"
+          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
         - label: "Descripción (Catalán)"
           name: "description_cat"
           widget: "markdown"
+          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
   - name: 'pages'
     label: 'Páginas (Español)'
     folder: '_pages/es/'

@@ -11,6 +11,16 @@ layout: default
         <p class="page-description">{{ page.description }}</p>
       {% endif %}
 
+      <!-- Header Image-->
+      {% assign aboutImage = site.data.about.image %}
+      {% if aboutImage %}
+      <div class="col col-12">
+        <div class="page-image animate">
+          <img class="lazy" data-src="{{site.baseurl}}{{aboutImage}}" alt="{{page.title}}">
+        </div>
+      </div>
+      {% endif %}
+
       <!-- Team Section -->
       {% assign lang_prefix = page.language | default: 'es' %}
       {% assign team_key = 'team_' | append: lang_prefix %}
