@@ -19,11 +19,11 @@ collections:
       file: "_data/hero.yml"
       fields: 
         - { label: 'Título principal (Español)', name: 'hero__title_es', widget: 'string', hint: 'Título de cabecera en la homepage' }
-        - { label: 'Título principal (English)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
-        - { label: 'Título principal (Català)', name: 'hero__title_cat', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Título principal (Inglés)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
+        - { label: 'Título principal (Catalàn)', name: 'hero__title_cat', widget: 'string', hint: 'Título de cabecera en la homepage' }
         - { label: 'Subtítulo (Español)', name: 'hero__description_es', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
-        - { label: 'Subtítulo (English)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
-        - { label: 'Subtítulo (Català)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Subtítulo (Inglés)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
+        - { label: 'Subtítulo (Catalàn)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
     - label: "Testimonios de Clientes"
       name: "testimonials"
@@ -33,11 +33,11 @@ collections:
           name: 'testimonial__title_es'
           widget: 'string'
           hint: 'En la homepage, en la sección de Testimonios'
-        - label: 'Título sección de Testimonios (English)'
+        - label: 'Título sección de Testimonios (Inglés)'
           name: 'testimonial__title_en'
           widget: 'string'
           hint: 'On the homepage, in the Testimonials section'
-        - label: 'Título sección de Testimonios (Català)'
+        - label: 'Título sección de Testimonios (Catalàn)'
           name: 'testimonial__title_cat'
           widget: 'string'
           hint: 'A la homepage, a la secció de Testimonis'
@@ -73,24 +73,49 @@ collections:
       name: "contact"
       file: "_data/contact.yml"
       fields: 
-        - { label: Descripción, name: description, widget: text, hint: 'Descripción del formulario de contacto' }
-  - name: 'pages'
-    label: 'Páginas (Español)'
-    icon: language_spanish
-    folder: '_pages/es/'
-    create: false
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Permalink', name: 'permalink', widget: 'hidden' }
-      - { label: 'Descripción', name: 'description', widget: 'string', required: false }
-      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
+        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
+        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+    - label: "Nosotros"
+      name: "about"
+      file: "_data/about.yml"
+      fields:
+        - label: "Imagen"
+          name: "image"
+          widget: "image"
+          hint: 'Imagen de cabecera en las páginas de Nosotros / About'
+        - label: "Descripción (Español)"
+          name: "description_es"
+          widget: "markdown"
+          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
+        - label: "Descripción (Inglés)"
+          name: "description_en"
+          widget: "markdown"
+          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
+        - label: "Descripción (Catalán)"
+          name: "description_cat"
+          widget: "markdown"
+          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
+    - label: "Andorra"
+      name: "andorra"
+      file: "_data/andorra.yml"
+      fields:
+        - label: "Imagen"
+          name: "andorra_image"
+          widget: "image"
+          hint: 'Imagen de cabecera en las páginas de Andorra'
+        - label: "Texto (Español)"
+          name: "body_es"
+          widget: "markdown"
+          hint: 'Texto de la página de Andorra'
+        - label: "Descripción (Inglés)"
+          name: "body_en"
+          widget: "markdown"
+          hint: 'Texto de la página de Andorra'
+        - label: "Descripción (Catalán)"
+          name: "body_cat"
+          widget: "markdown"
+          hint: 'Texto de la página de Andorra'
   - name: 'es_blog'
     label: 'Blog (Español)'
     icon: language_spanish
@@ -105,7 +130,15 @@ collections:
       - { label: 'Descripción', name: 'description', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - label: 'Tags'
+        name: 'tags'
+        required: false
+        widget: 'relation'
+        collection: 'tags'
+        searchFields: ['tags.*.es']  # Search Spanish names in all tags
+        valueField: 'tags.*.code'   # Reference the code of the tag
+        displayFields: ['tags.*.es'] # Display the Spanish name of the tag
+        multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -145,7 +178,7 @@ collections:
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'services'
+  - name: 'services_es'
     label: 'Servicios (Español)'
     icon: language_spanish
     folder: '_projects/'
@@ -153,13 +186,49 @@ collections:
     slug: '{{slug}}'
     editor:
       preview: false
+    filter: { field: 'language', value: 'es' }
     fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Subtitlo', name: 'subtitle', hint:'Texto bajo el título', widget: 'string' }
+      - { label: 'Subtítulo', name: 'subtitle', widget: 'string', hint: 'Texto bajo el título' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'services_en'
+    label: 'Services (Inglés)'
+    folder: '_projects/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    filter: { field: 'language', value: 'en' }
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string', hint: 'Text below the title' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Header Image', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'services_cat'
+    label: 'Servicios (Catalàn)'
+    folder: '_projects/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    filter: { field: 'language', value: 'cat' }
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'cat' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Títol', name: 'title', widget: 'string' }
+      - { label: 'Subtítol', name: 'subtitle', widget: 'string', hint: 'Text sota el títol' }
+      - { label: 'Descripció', name: 'description', widget: 'string' }
+      - { label: 'Data de publicació', name: 'date', widget: 'datetime' }
+      - { label: 'Imatge de capçalera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Ajustes'
     label: 'Ajustes'
@@ -202,6 +271,7 @@ collections:
         - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }
         - { label: Color de Marca para theme dark (HEX), name: brand_color_dark, widget: string, required: false, hint: 'Cuando el usuario visualize el theme oscuro (dark) el color de contraste para botones y selecciones será este. Por defecto es: #ad72df' }
         - { label: Color de Marca para theme light (HEX), name: brand_color_light, widget: string, required: false, hint: 'Cuando el usuario visualize el theme claro (light) el color de contraste para botones y selecciones será este. Por defecto es: #fec824' }
+        - { label: "Google Analytics Measurement ID", name: "google_analytics", widget: string, required: false, hint: 'Ingrese el ID de Google Analytics para habilitar el seguimiento en el sitio.' }
     - label: "Redes Sociales"
       name: "social"
       file: "_data/social.yml"
@@ -213,3 +283,67 @@ collections:
           fields:
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
+    - label: "Miembros del Equipo"
+      name: "team"
+      file: "_data/about.yml"
+      fields:
+        - label: "Miembros del Equipo"
+          name: "team"
+          widget: "list"
+          fields:
+            - { label: "Nombre", name: "name", widget: "string" }
+            - { label: "Posición (Español)", name: "position_es", widget: "string" }
+            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
+            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
+            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
+            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
+  - name: "tags"
+    label: "Tags"
+    files:
+      - name: "tags_file"
+        label: "Lista de Tags (no borrar tags vinculados a blog posts)"
+        file: "_data/tags.yml"
+        collection: "tags"
+        fields:
+          - label: "Tags List"
+            name: "tags"
+            widget: "list"
+            fields:
+              - { label: "Tag Code", name: "code", widget: "string" }
+              - { label: "Tag Name (Spanish)", name: "es", widget: "string" }
+              - { label: "Tag Name (Inglés)", name: "en", widget: "string" }
+              - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
+  - name: "policies"
+    label: "Políticas de Privacidad"
+    files:
+      - name: "todas-las-politicas"
+        label: "Todas las Políticas"
+        file: "_data/policies.yml"
+        fields:
+          - label: "Política de Cookies (Español)"
+            name: "cookies_es"
+            widget: "markdown"
+          - label: "Política de Cookies (Inglés)"
+            name: "cookies_en"
+            widget: "markdown"
+          - label: "Política de Cookies (Catalán)"
+            name: "cookies_cat"
+            widget: "markdown"
+          - label: "Política de Privacidad (Español)"
+            name: "privacy_es"
+            widget: "markdown"
+          - label: "Política de Privacidad (Inglés)"
+            name: "privacy_en"
+            widget: "markdown"
+          - label: "Política de Privacidad (Catalán)"
+            name: "privacy_cat"
+            widget: "markdown"
+          - label: "Aviso Legal (Español)"
+            name: "legal-notice_es"
+            widget: "markdown"
+          - label: "Aviso Legal (Inglés)"
+            name: "legal-notice_en"
+            widget: "markdown"
+          - label: "Aviso Legal (Catalán)"
+            name: "legal-notice_cat"
+            widget: "markdown"
