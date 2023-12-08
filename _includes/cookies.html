@@ -1,84 +1,3 @@
-<style>
-    .cookie-overlay {
-        position: fixed;
-        bottom: 1rem;
-        right: 1rem; /* Align to the bottom right */
-        background: #2a2a2a; /* Dark background for on-brand styling */
-        color: #fff; /* Light text for contrast */
-        z-index: 2051;
-        line-height: 1.5;
-        font-size: 14px;
-        border-radius: 6px;
-        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
-        padding: 1rem;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        max-width: 300px; /* Set a max-width for better appearance */
-        display: none; /* Initially hide the popup */
-    }
-
-    .cookie-overlay a {
-        color: #4b8bec; /* Use a brand color for links if applicable */
-        text-decoration: underline;
-    }
-
-    .close-cookies {
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        color: #fff; /* Set close button color */
-        font-size: 20px;
-        position: absolute;
-        top: 0.5rem;
-        right: 0.5rem; /* Position the close button inside the top right corner of the popup */
-    }
-
-    .btn-primary {
-        background-color: #4b8bec; /* On-brand button color */
-        border: none;
-        padding: 0.5rem 1rem;
-        margin-top: 1rem;
-        cursor: pointer;
-    }
-
-    .cookie-content p {
-        margin-top: 15px;
-        margin-bottom: 5px;
-    }
-
-    .cookie-button {
-        display: flex;
-        justify-content: center;
-    }
-
-    .accept-cookies {
-        color: #000;
-    }
-
-    /* Center the button and text on mobile */
-    @media (max-width: 991px) {
-        .cookie-overlay {
-            align-items: center;
-            text-align: center;
-        }
-        .cookie-content {
-            margin-top: 10px;
-        }
-
-        .btn-primary {
-            margin-top: 1rem;
-        }
-    }
-
-    /* Responsive alignment for larger screens */
-    @media (min-width: 992px) {
-        .cookie-overlay {
-            bottom: 1rem;
-            right: 1rem; /* Keep it at the bottom right on larger screens */
-        }
-    }
-</style>
 <div class="cookie-overlay">
     <div class="cookie-content">
         <p>{{ site.data.cookies[page.language].message }}</p>
@@ -92,49 +11,11 @@
 
 
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var cookieOverlay = document.querySelector(".cookie-overlay");
-        var gaMeasurementId = '{{ site.data.global.google-analytics }}'.trim();
-
-        // Function to initialize and load Google Analytics
-        function loadGoogleAnalytics() {
-            if (!gaMeasurementId) return;
-
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', gaMeasurementId);
-
-            var gaScript = document.createElement('script');
-            gaScript.async = true;
-            gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaMeasurementId;
-            document.head.appendChild(gaScript);
-        }
-
-        // Function to handle cookie consent
-        function handleCookieConsent() {
-            var date = new Date();
-            date.setTime(date.getTime() + (365*24*60*60*1000)); // Set cookie to expire in one year
-            var expires = "expires=" + date.toUTCString();
-            document.cookie = "accepted_cookies=yes; " + expires + "; path=/";
-            cookieOverlay.style.display = "none";
-            loadGoogleAnalytics();
-        }
-
-        // Check for existing consent or load GA if consented
-        if (document.cookie.indexOf("accepted_cookies=yes") !== -1) {
-            loadGoogleAnalytics();
-        } else {
-            cookieOverlay.style.display = "flex";
-        }
-
-        // Event listeners
-        document.querySelector(".accept-cookies").addEventListener("click", handleCookieConsent);
-        document.querySelector(".close-cookies").addEventListener("click", function() {
-            cookieOverlay.style.display = "none";
-        });
-    });
+    var siteData = {
+        gaMeasurementId: '{{ site.data.global.google-analytics }}'.trim(),
+        // ... any other site data needed
+    };
 </script>
-
+<script src="/js/cookie-consent.js"></script>
 
 
