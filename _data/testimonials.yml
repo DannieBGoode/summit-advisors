@@ -16,7 +16,7 @@ testimonial__items:
       Andorra fuera una experiencia tranquila y sin estrés.
     designation_es: Diseñadora Digital
     link: https://twitter.com/
-    image: /images/client-1.jpg
+    image: /assets/uploads/image_2023-12-09_164140502.png
   - name: Marc Ribera
     designation_cat: Designer
     content_en: Relocating our business to Andorra was seamless and efficient,
@@ -29,7 +29,7 @@ testimonial__items:
       pasado por muchas ya.
     designation_es: Diseñadora
     link: https://facebook.com/
-    image: /images/client-2.jpg
+    image: /assets/uploads/image_2023-12-09_164111062.png
   - name: Daniel Calatayud
     designation_cat: Web developer
     content_en: Exceptional service! They handled every detail of our move to
@@ -41,7 +41,7 @@ testimonial__items:
       Andorra con profesionalismo y facilidad.
     designation_es: Desarrollador de páginas web
     link: https://twitter.com/
-    image: /images/client-3.jpg
+    image: /assets/uploads/image_2023-12-09_164158408.png
   - name: Kike Mayor
     designation_cat: Lettering Artist
     content_en: From start to finish, their team provided invaluable assistance in
@@ -54,7 +54,7 @@ testimonial__items:
       tu estancia en Andorra. Muy recomendables
     designation_es: Lettering Artist
     link: https://facebook.com/
-    image: /images/client-4.jpg
+    image: /assets/uploads/image_2023-12-09_164212080.png
   - name: David GV
     designation_cat: Full Stack Designer
     content_en: A game-changer for our business! Their expertise in Andorra
@@ -67,4 +67,4 @@ testimonial__items:
       dificultades con mis trámites. GRACIAS
     designation_es: Full Stack Designer
     link: https://twitter.com/
-    image: /images/client-5.jpg
+    image: /assets/uploads/image_2023-12-09_164234667.png
