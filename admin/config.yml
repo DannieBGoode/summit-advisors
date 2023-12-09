@@ -86,16 +86,28 @@ collections:
           hint: 'Imagen de cabecera en las páginas de Nosotros / About'
         - label: "Descripción (Español)"
           name: "description_es"
-          widget: "markdown"
-          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
+          widget: "string"
+          hint: 'Descripcción de la página de Nosotros / About'
         - label: "Descripción (Inglés)"
           name: "description_en"
-          widget: "markdown"
-          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
+          widget: "string"
+          hint: 'Descripcción de la página de Nosotros / About'
         - label: "Descripción (Catalán)"
           name: "description_cat"
+          widget: "string"
+          hint: 'Descripcción de la página de Nosotros / About'
+        - label: "Texto (Español)"
+          name: "body_es"
           widget: "markdown"
-          hint: ' Texto debajo de la presentación de los miembros del equipo en la página de Nosotros / About'
+          hint: 'Texto principal de la págok ina Nosotros en Español'
+        - label: "Texto (Inglés)"
+          name: "body_en"
+          widget: "markdown"
+          hint: 'Texto principal de la página Nosotros en Inglés'
+        - label: "Texto (Catalán)"
+          name: "body_cat"
+          widget: "markdown"
+          hint: 'Texto principal de la página Nosotros en Catalán'
     - label: "Andorra"
       name: "andorra"
       file: "_data/andorra.yml"
@@ -104,18 +116,30 @@ collections:
           name: "andorra_image"
           widget: "image"
           hint: 'Imagen de cabecera en las páginas de Andorra'
+        - label: "Descripción (Español)"
+          name: "description_es"
+          widget: "string"
+          hint: 'Descripción breve de la página de Andorra en Español'
+        - label: "Descripción (Inglés)"
+          name: "description_en"
+          widget: "string"
+          hint: 'Descripción breve de la página de Andorra en Inglés'
+        - label: "Descripción (Catalán)"
+          name: "description_cat"
+          widget: "string"
+          hint: 'Descripción breve de la página de Andorra en Catalán'
         - label: "Texto (Español)"
           name: "body_es"
           widget: "markdown"
-          hint: 'Texto de la página de Andorra'
-        - label: "Descripción (Inglés)"
+          hint: 'Texto principal de la página de Andorra en Español'
+        - label: "Texto (Inglés)"
           name: "body_en"
           widget: "markdown"
-          hint: 'Texto de la página de Andorra'
-        - label: "Descripción (Catalán)"
+          hint: 'Texto principal de la página de Andorra en Inglés'
+        - label: "Texto (Catalán)"
           name: "body_cat"
           widget: "markdown"
-          hint: 'Texto de la página de Andorra'
+          hint: 'Texto principal de la página de Andorra en Catalán'
   - name: 'es_blog'
     label: 'Blog (Español)'
     folder: '_es_posts/'
