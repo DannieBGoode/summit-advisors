@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /es/calculadora/
-ref: calculadora
+ref: calculator
 smallImage: true
 title: Calculadora
 description: Calculadora de impuestos para Andorra
@@ -11,13 +11,14 @@ language: es
 Cálcula cuanto sería tu sueldo neto si vivieras en Andorra:
 
 <div class="flex-center">
-	<div class="hero__subscribe calculator">
-		<form class="subscribe-form" action="javascript:void(0);">
-			<label class="screen-reader-text" for="gross-salary">Sueldo Bruto Anual €</label>
-			<input class="subscribe-email required email transparent-input" id="gross-salary-input" type="text" name="gross-salary" placeholder="{{ site.data.calculator.placeholder }}" min="1" step="any" onkeyup="addCommas()">
-			<button class="button button--primary button--small subscribe-button" onclick="calculate()">{{ site.data.calculator.buttonCTA }}</button>
-		</form>
-	</div>
+    <div class="hero__subscribe calculator">
+        <form class="subscribe-form" action="javascript:void(0);">
+            <label class="form-label" for="gross-salary-input">Sueldo Bruto Anual €</label>
+            <input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="Ejemplo: 30000" min="1" step="any" onkeyup="addCommas()">
+            <small class="input-description">Introduce tu salario anual bruto en euros.</small>
+            <button class="button button--primary button--small subscribe-button" onclick="calculate()">Calcular</button>
+        </form>
+    </div>
 </div>
 
 <div class="result hidden">

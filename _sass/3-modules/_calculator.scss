@@ -1,12 +1,38 @@
 /* Calculator */
-.subscribe-email.required.email.transparent-input.calculator-error{
+.subscribe-email.required.email.calculator-error{
   border-color: var(--error);
 }
 .flex-center {
   display: flex;
   justify-content: center;
 }
+.hero__subscribe .form-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
 
+.hero__subscribe .input-description {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.8em;
+  color: #666;
+}
+
+.subscribe-email {
+  /* Existing styles + additional styles for better visuals */
+  border: 1px solid var(--light-gray);
+  padding: 10px;
+  font-size: 1em;
+}
+
+.button--primary {
+  /* Existing styles + make it more prominent */
+  background-color: #0044cc;
+  color: white;
+  padding: 10px 15px;
+  font-size: 1em;
+}
 /* For hero__subscribe */
 .hero__subscribe {
   &.calculator {
@@ -18,8 +44,7 @@
   .subscribe-email {
     /* Existing styles here */
   }
-  .subscribe-email.transparent-input:not(:focus) {
-    background-color: transparent;
+  .subscribe-email:not(:focus) {
     border-color: var(--light-gray);
   }
 }
