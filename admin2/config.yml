@@ -4,6 +4,7 @@ display_url: https://summit-advisors.netlify.app
 locale: 'es'
 backend:
   name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
 local_backend: true
 media_folder: 'assets/uploads'
 collections:
