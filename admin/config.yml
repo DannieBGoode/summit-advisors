@@ -334,6 +334,8 @@ collections:
               - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
   - name: "policies"
     label: "Políticas de Privacidad"
+    editor:
+      preview: false
     files:
       - name: "cookie-policy"
         label: "Política de Cookies"
