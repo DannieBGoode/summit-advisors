@@ -5,16 +5,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Summit Advisors Content Manager</title>
+    <link rel="stylesheet" href="https://unpkg.com/@staticcms/app@3.4.6/dist/main.css" />
     <!-- Include the identity widget -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" type="text/javascript"></script>
   </head>
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
-    <script src="https://unpkg.com/@staticcms/app@^3.0.0/dist/static-cms-app.js"></script>
+    <script src="https://unpkg.com/@staticcms/app@3.4.6/dist/static-cms-app.js"></script>
     <script type="module">
-      import CMS from 'https://unpkg.com/@staticcms/core@latest/dist/static-cms-core.min.js';
-      CMS.init();
-      // Add your CMS configuration here
+      window.CMS.init();
     </script>
   </body>
 </html>
