@@ -334,10 +334,10 @@ collections:
               - { label: "Tag Name (Catalan)", name: "cat", widget: "string" }
   - name: "policies"
     label: "Políticas de Privacidad"
-    files:
-      - name: "cookie-policy"
-        label: "Política de Cookies"
-        file: "_data/cookie-policy.yml"
+    file: "_data/policies.yml"
+    fields:
+      - label: "Política de Cookies"
+        name: "cookie_policy"
         fields:
           - label: "Política de Cookies (Español)"
             name: "cookies_es"
@@ -348,9 +348,8 @@ collections:
           - label: "Política de Cookies (Catalán)"
             name: "cookies_cat"
             widget: "markdown"
-      - name: "privacy-policy"
-        label: "Política de Privacidad"
-        file: "_data/privacy-policy.yml"
+      - label: "Política de Privacidad"
+        name: "privacy_policy"
         fields:
           - label: "Política de Privacidad (Español)"
             name: "privacy_es"
@@ -361,9 +360,8 @@ collections:
           - label: "Política de Privacidad (Catalán)"
             name: "privacy_cat"
             widget: "markdown"
-      - name: "legal-notice"
-        label: "Aviso Legal"
-        file: "_data/legal-notice.yml"
+      - label: "Aviso Legal"
+        name: "legal_notice"
         fields:
           - label: "Aviso Legal (Español)"
             name: "legal-notice_es"
