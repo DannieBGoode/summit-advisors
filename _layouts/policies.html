@@ -4,7 +4,6 @@ layout: default
 
 <div class="container">
   <div class="row">
-
     <div class="col col-12">
       <div class="page-head">
         <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -21,15 +20,16 @@ layout: default
   <article class="page">
     <div class="page__content">
       {% if page.ref %}
+        {% assign policy_type = 'policy_' | append: page.ref %}
         {% assign policy_lang = page.ref | append: '_' | append: page.language %}
-        {% for policy in site.data.policies %}
-          {% if policy[0] == policy_lang %}
-            {% assign policy_content = policy[1] %}
-            {% assign formatted_date = page.date | date: "%d/%m/%Y" %}
-            {% assign policy_content_with_date = policy_content | replace: 'DATE_PLACEHOLDER', formatted_date %}
-            {{ policy_content_with_date | markdownify }}
-          {% endif %}
-        {% endfor %}
+        {% assign policy_content = site.data[policy_type][policy_lang] %}
+        {% if policy_content %}
+          {% assign formatted_date = page.date | date: "%d/%m/%Y" %}
+          {% assign policy_content_with_date = policy_content | replace: 'DATE_PLACEHOLDER', formatted_date %}
+          {{ policy_content_with_date | markdownify }}
+        {% else %}
+          <p>Error: No content found for '{{ policy_lang }}'</p>
+        {% endif %}
       {% else %}
         {{ content }}
       {% endif %}
@@ -37,4 +37,3 @@ layout: default
   </article>
 </div>
 <!-- end page -->
-
