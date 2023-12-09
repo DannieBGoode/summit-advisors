@@ -11,8 +11,10 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/@staticcms/app@^3.0.0/dist/static-cms-app.js"></script>
-    <script>
-      import CMS from '@staticcms/core';
+    <script type="module">
+      import CMS from 'https://unpkg.com/@staticcms/core@latest/dist/static-cms-core.min.js';
+      CMS.init();
+      // Add your CMS configuration here
     </script>
   </body>
 </html>
