@@ -335,9 +335,9 @@ collections:
   - name: "policies"
     label: "Políticas de Privacidad"
     files:
-      - name: "todas-las-politicas"
-        label: "Todas las Políticas"
-        file: "_data/policies.yml"
+      - name: "cookie-policy"
+        label: "Política de Cookies"
+        file: "_data/cookie-policy.yml"
         fields:
           - label: "Política de Cookies (Español)"
             name: "cookies_es"
@@ -348,6 +348,10 @@ collections:
           - label: "Política de Cookies (Catalán)"
             name: "cookies_cat"
             widget: "markdown"
+      - name: "privacy-policy"
+        label: "Política de Privacidad"
+        file: "_data/privacy-policy.yml"
+        fields:
           - label: "Política de Privacidad (Español)"
             name: "privacy_es"
             widget: "markdown"
@@ -357,6 +361,10 @@ collections:
           - label: "Política de Privacidad (Catalán)"
             name: "privacy_cat"
             widget: "markdown"
+      - name: "legal-notice"
+        label: "Aviso Legal"
+        file: "_data/legal-notice.yml"
+        fields:
           - label: "Aviso Legal (Español)"
             name: "legal-notice_es"
             widget: "markdown"
