@@ -3,8 +3,7 @@
 display_url: https://summit-advisors.netlify.app
 locale: 'es'
 backend:
-  name: github
-  repo: DannieBGoode/summit-advisors
+  name: git-gateway
 local_backend: true
 media_folder: 'assets/uploads'
 collections:
