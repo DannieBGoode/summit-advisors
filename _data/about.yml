@@ -1,7 +1,13 @@
 image: /assets/uploads/about-cover-2.avif
-description_es: Summit Advisors, liderada por expertos en finanzas y asesoría, es tu socio estratégico en reubicación y asesoramiento empresarial, garantizando transiciones eficientes y personalizadas a Andorra.
-description_en: Summit Advisors, led by finance and advisory experts, is your strategic partner in relocation and business consulting, ensuring efficient and personalized transitions to Andorra.
-description_cat: Summit Advisors, liderada per experts en finances i assessorament, és el teu soci estratègic en reubicació i assessorament empresarial, garantint transicions eficients i personalitzades a Andorra.
+description_es: Summit Advisors, liderada por expertos en finanzas y asesoría,
+  es tu socio estratégico en reubicación y asesoramiento empresarial,
+  garantizando transiciones eficientes y personalizadas a Andorra.
+description_en: Summit Advisors, led by finance and advisory experts, is your
+  strategic partner in relocation and business consulting, ensuring efficient
+  and personalized transitions to Andorra.
+description_cat: Summit Advisors, liderada per experts en finances i
+  assessorament, és el teu soci estratègic en reubicació i assessorament
+  empresarial, garantint transicions eficients i personalitzades a Andorra.
 body_es: >-
   **Summit Advisors**, bajo la dirección de **[Albert
   Hernández](https://ad.linkedin.com/in/albert-hernández-79921361)** y **Jordi
@@ -104,16 +110,16 @@ team:
     position_es: Socio
     position_cat: Soci
     linkedin: https://ad.linkedin.com/in/albert-hern%C3%A1ndez-79921361
-    image: /assets/uploads/albert-removebg-preview-color.jpg
+    image: /assets/uploads/front-view-handsome-corporate-man-1-1-.jpg
   - name: Yordi Yll
     position_en: Partner
     position_es: Socio
     position_cat: Soci
     linkedin: ""
-    image: ""
+    image: /assets/uploads/smiling-entrepreneur-posing-camera.jpg
   - name: Laura Reina Roquero
     position_en: Associate
     position_es: Asociada
-    position_cat: Associada
+    position_cat: Associada.
     linkedin: https://ad.linkedin.com/in/laura-reina-roquero-9a84a6270
-    image: /assets/uploads/laura-removebg-preview-color.jpg
+    image: /assets/uploads/smiley-businesswoman-posing-outdoors.jpg
