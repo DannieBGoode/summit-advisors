@@ -10,7 +10,7 @@ local_backend: true
 media_folder: 'assets/uploads'
 collections:
   - name: 'general'
-    label: 'General'
+    label: 'Inicio'
     editor:
       preview: false
     files:
@@ -76,6 +76,62 @@ collections:
         - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
         - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
         - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+  - name: 'services_es'
+    label: 'Servicios (Español)'
+    folder: '_projects/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    filter: { field: 'language', value: 'es' }
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Subtítulo', name: 'subtitle', widget: 'string', hint: 'Texto bajo el título' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'services_en'
+    label: 'Services (Inglés)'
+    folder: '_projects/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    filter: { field: 'language', value: 'en' }
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string', hint: 'Text below the title' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Header Image', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'services_cat'
+    label: 'Servicios (Catalàn)'
+    folder: '_projects/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    filter: { field: 'language', value: 'cat' }
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'cat' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Títol', name: 'title', widget: 'string' }
+      - { label: 'Subtítol', name: 'subtitle', widget: 'string', hint: 'Text sota el títol' }
+      - { label: 'Descripció', name: 'description', widget: 'string' }
+      - { label: 'Data de publicació', name: 'date', widget: 'datetime' }
+      - { label: 'Imatge de capçalera', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'nosotros'
+    label: 'Nosotros'
+    editor:
+      preview: false
+    files:
     - label: "Nosotros"
       name: "about"
       file: "_data/about.yml"
@@ -108,6 +164,25 @@ collections:
           name: "body_cat"
           widget: "markdown"
           hint: 'Texto principal de la página Nosotros en Catalán'
+    - label: "Miembros del Equipo"
+      name: "team"
+      file: "_data/about.yml"
+      fields:
+        - label: "Miembros del Equipo"
+          name: "team"
+          widget: "list"
+          fields:
+            - { label: "Nombre", name: "name", widget: "string" }
+            - { label: "Posición (Español)", name: "position_es", widget: "string" }
+            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
+            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
+            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
+            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
+  - name: 'andorra'
+    label: 'andorra'
+    editor:
+      preview: false
+    files:
     - label: "Andorra"
       name: "andorra"
       file: "_data/andorra.yml"
@@ -140,6 +215,23 @@ collections:
           name: "body_cat"
           widget: "markdown"
           hint: 'Texto principal de la página de Andorra en Catalán'
+  - name: 'calculadora'
+    label: 'Calculadora'
+    editor:
+      preview: false
+    files:
+    - label: "Calculadora (Parámetros)"
+      name: "calculator"
+      file: "_data/calculator.yml"
+      fields: 
+        - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
+        - { label: tramo Máximo, name: tramoMax, widget: number, hint: 'En Euros, por ejemplo 40000' }
+        - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: number, hint: 'En porcentaje, por ejemplo 5' }
+        - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
+        - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
+        - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
+        - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
+        - { label: Botón, name: buttonCTA, widget: string, hint: '' }
   - name: 'es_blog'
     label: 'Blog (Español)'
     folder: '_es_posts/'
@@ -199,74 +291,11 @@ collections:
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'services_es'
-    label: 'Servicios (Español)'
-    folder: '_projects/'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    filter: { field: 'language', value: 'es' }
-    fields:
-      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Subtítulo', name: 'subtitle', widget: 'string', hint: 'Texto bajo el título' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
-      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'services_en'
-    label: 'Services (Inglés)'
-    folder: '_projects/'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    filter: { field: 'language', value: 'en' }
-    fields:
-      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Subtitle', name: 'subtitle', widget: 'string', hint: 'Text below the title' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Header Image', name: 'image', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'services_cat'
-    label: 'Servicios (Catalàn)'
-    folder: '_projects/'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    filter: { field: 'language', value: 'cat' }
-    fields:
-      - { label: 'Language', name: 'language', widget: 'hidden', default: 'cat' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Títol', name: 'title', widget: 'string' }
-      - { label: 'Subtítol', name: 'subtitle', widget: 'string', hint: 'Text sota el títol' }
-      - { label: 'Descripció', name: 'description', widget: 'string' }
-      - { label: 'Data de publicació', name: 'date', widget: 'datetime' }
-      - { label: 'Imatge de capçalera', name: 'image', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
       preview: false
     files:
-    - label: "Calculadora (Parámetros)"
-      name: "calculator"
-      file: "_data/calculator.yml"
-      fields: 
-        - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
-        - { label: tramo Máximo, name: tramoMax, widget: number, hint: 'En Euros, por ejemplo 40000' }
-        - { label: tributacion Tramo Minínimo, name: tributacionMin, widget: number, hint: 'En porcentaje, por ejemplo 5' }
-        - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
-        - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
-        - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
-        - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
-        - { label: Botón, name: buttonCTA, widget: string, hint: '' }
     - label: "Fotos del Footer"
       name: "footer"
       file: "_data/footer.yml"
@@ -302,20 +331,6 @@ collections:
           fields:
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
-    - label: "Miembros del Equipo"
-      name: "team"
-      file: "_data/about.yml"
-      fields:
-        - label: "Miembros del Equipo"
-          name: "team"
-          widget: "list"
-          fields:
-            - { label: "Nombre", name: "name", widget: "string" }
-            - { label: "Posición (Español)", name: "position_es", widget: "string" }
-            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
-            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
-            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
-            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
   - name: "tags"
     label: "Tags"
     files:
