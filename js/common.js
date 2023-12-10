@@ -76,40 +76,67 @@ document.addEventListener("DOMContentLoaded", function() {
   /* =======================
   // Responsive Videos
   ======================= */
-  reframe(".post__content iframe:not(.reframe-off), .page__content iframe:not(.reframe-off), .project-content iframe:not(.reframe-off)");
+  if (typeof reframe !== "undefined") {
+    reframe(".post__content iframe:not(.reframe-off), .page__content iframe:not(.reframe-off), .project-content iframe:not(.reframe-off)");
+  }
+
 
 
   /* =======================
   // LazyLoad Images
   ======================= */
-  var lazyLoadInstance = new LazyLoad({
-    elements_selector: ".lazy"
-  })
+  // LazyLoad Images - Check if LazyLoad is defined
+  if (typeof LazyLoad !== "undefined") {
+    // Initialize LazyLoad as usual
+    var lazyLoadInstance = new LazyLoad({
+      elements_selector: ".lazy"
+    });
+  } else {
+    // Fallback: Immediately load all lazy images
+    var lazyImages = document.querySelectorAll('.lazy');
+    lazyImages.forEach(function(img) {
+      var src = img.getAttribute('data-src');
+      if (src) {
+        img.setAttribute('src', src);
+        img.classList.remove('lazy'); // Optional: remove the 'lazy' class
+      }
 
-
+      // If your images use srcset
+      var srcset = img.getAttribute('data-srcset');
+      if (srcset) {
+        img.setAttribute('srcset', srcset);
+      }
+    });
+  }
   /* =======================
   // Zoom Image
   ======================= */
-  const lightense = document.querySelector(".page__content img, .post__content img, .project-content img, .gallery__image img"),
-  imageLink = document.querySelectorAll(".page__content a img, .post__content a img, .project-content a img, .gallery__image a img");
+  try {
+    const lightense = document.querySelector(".page__content img, .post__content img, .project-content img, .gallery__image img"),
+    imageLink = document.querySelectorAll(".page__content a img, .post__content a img, .project-content a img, .gallery__image a img");
 
-  if (imageLink) {
-    for (var i = 0; i < imageLink.length; i++) imageLink[i].parentNode.classList.add("image-link");
-    for (var i = 0; i < imageLink.length; i++) imageLink[i].classList.add("no-lightense");
-  }
+    if (imageLink) {
+      for (var i = 0; i < imageLink.length; i++) {
+        imageLink[i].parentNode.classList.add("image-link");
+        imageLink[i].classList.add("no-lightense");
+      }
+    }
 
-  if (lightense) {
-    Lightense(".page__content img:not(.no-lightense), .post__content img:not(.no-lightense), .project-content img:not(.no-lightense), .gallery__image img:not(.no-lightense)", {
-    padding: 60,
-    offset: 30
-    });
+    if (lightense && typeof Lightense !== "undefined") {
+      Lightense(".page__content img:not(.no-lightense), .post__content img:not(.no-lightense), .project-content img:not(.no-lightense), .gallery__image img:not(.no-lightense)", {
+        padding: 60,
+        offset: 30
+      });
+    }
+  } catch (error) {
+    console.error("Lightense library not loaded:", error);
   }
 
 
   /* ============================
   // Testimonials Slider
   ============================ */
-  if (document.querySelector(".my-slider")) {
+  if (document.querySelector(".my-slider") && typeof tns !== "undefined") {
     var slider = tns({
       container: ".my-slider",
       items: 3,
