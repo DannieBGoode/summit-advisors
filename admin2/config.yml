@@ -181,7 +181,7 @@ collections:
       file: "_data/andorra.yml"
       fields:
         - label: "Imagen"
-          name: "andorra_image"
+          name: "image"
           widget: "image"
           hint: 'Imagen de cabecera en las páginas de Andorra'
         - label: "Descripción (Español)"
@@ -293,6 +293,7 @@ collections:
       name: "contact"
       file: "_data/contact.yml"
       fields: 
+        - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera de la página de Contacto' }
         - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
         - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
         - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }

@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: dynamic
 title: Contacta
 permalink: /es/contacto/
-image: /images/16.jpg
 smallImage: true
 language: es
 CMSeditable: false
-ref: contacto
+ref: contact
 ---
 {% include contact-box.html %}

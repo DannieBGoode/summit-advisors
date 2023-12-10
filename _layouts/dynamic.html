@@ -48,6 +48,7 @@ layout: default
         {% assign body_key = "body_" | append: page.language %}
         {% assign data_key = page.ref %}
         {{ site.data[data_key][body_key] | markdownify }}
+        {{content}}
     </div>
   </article>
 </div>
