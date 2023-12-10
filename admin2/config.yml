@@ -176,7 +176,7 @@ collections:
     editor:
       preview: false
     files:
-    - label: "Andorra (Texto)"
+    - label: "Página de Andorra"
       name: "andorra"
       file: "_data/andorra.yml"
       fields:
