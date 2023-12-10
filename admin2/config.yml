@@ -10,8 +10,7 @@ local_backend: true
 media_folder: 'assets/uploads'
 collections:
   - name: 'general'
-    label: 'General'
-    icon: cards
+    label: 'Inicio'
     editor:
       preview: false
     files:
@@ -70,141 +69,8 @@ collections:
           - { label: Testimonio (Español), name: content_es, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Inglés), name: content_en, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Catalán), name: content_cat, widget: string, hint: 'Testimonio, una sola frase.' }
-    - label: "Contacto"
-      name: "contact"
-      file: "_data/contact.yml"
-      fields: 
-        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
-        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
-        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
-    - label: "Nosotros"
-      name: "about"
-      file: "_data/about.yml"
-      fields:
-        - label: "Imagen"
-          name: "image"
-          widget: "image"
-          hint: 'Imagen de cabecera en las páginas de Nosotros / About'
-        - label: "Descripción (Español)"
-          name: "description_es"
-          widget: "string"
-          hint: 'Descripcción de la página de Nosotros / About'
-        - label: "Descripción (Inglés)"
-          name: "description_en"
-          widget: "string"
-          hint: 'Descripcción de la página de Nosotros / About'
-        - label: "Descripción (Catalán)"
-          name: "description_cat"
-          widget: "string"
-          hint: 'Descripcción de la página de Nosotros / About'
-        - label: "Texto (Español)"
-          name: "body_es"
-          widget: "markdown"
-          hint: 'Texto principal de la págok ina Nosotros en Español'
-        - label: "Texto (Inglés)"
-          name: "body_en"
-          widget: "markdown"
-          hint: 'Texto principal de la página Nosotros en Inglés'
-        - label: "Texto (Catalán)"
-          name: "body_cat"
-          widget: "markdown"
-          hint: 'Texto principal de la página Nosotros en Catalán'
-    - label: "Andorra"
-      name: "andorra"
-      file: "_data/andorra.yml"
-      fields:
-        - label: "Imagen"
-          name: "andorra_image"
-          widget: "image"
-          hint: 'Imagen de cabecera en las páginas de Andorra'
-        - label: "Descripción (Español)"
-          name: "description_es"
-          widget: "string"
-          hint: 'Descripción breve de la página de Andorra en Español'
-        - label: "Descripción (Inglés)"
-          name: "description_en"
-          widget: "string"
-          hint: 'Descripción breve de la página de Andorra en Inglés'
-        - label: "Descripción (Catalán)"
-          name: "description_cat"
-          widget: "string"
-          hint: 'Descripción breve de la página de Andorra en Catalán'
-        - label: "Texto (Español)"
-          name: "body_es"
-          widget: "markdown"
-          hint: 'Texto principal de la página de Andorra en Español'
-        - label: "Texto (Inglés)"
-          name: "body_en"
-          widget: "markdown"
-          hint: 'Texto principal de la página de Andorra en Inglés'
-        - label: "Texto (Catalán)"
-          name: "body_cat"
-          widget: "markdown"
-          hint: 'Texto principal de la página de Andorra en Catalán'
-  - name: 'es_blog'
-    label: 'Blog (Español)'
-    folder: '_es_posts/'
-    create: true
-    editor:
-      preview: false
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
-      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - label: 'Tags'
-        name: 'tags'
-        required: false
-        widget: 'relation'
-        collection: 'tags'
-        searchFields: ['tags.*.es']  # Search Spanish names in all tags
-        valueField: 'tags.*.code'   # Reference the code of the tag
-        displayFields: ['tags.*.es'] # Display the Spanish name of the tag
-        multiple: true
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'en_blog'
-    label: 'Blog (Inglés)'
-    icon: language_international
-    folder: '_en_posts/'
-    create: true
-    editor:
-      preview: false
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
-      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'en' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'cat_blog'
-    label: 'Blog (Catalán)'
-    icon: copyright
-    folder: '_cat_posts/'
-    create: true
-    editor:
-      preview: false
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
-      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'services_es'
     label: 'Servicios (Español)'
-    icon: language_spanish
     folder: '_projects/'
     create: true
     slug: '{{slug}}'
@@ -254,9 +120,96 @@ collections:
       - { label: 'Data de publicació', name: 'date', widget: 'datetime' }
       - { label: 'Imatge de capçalera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Ajustes'
-    label: 'Ajustes'
-    icon: settings
+  - name: 'nosotros'
+    label: 'Nosotros'
+    editor:
+      preview: false
+    files:
+    - label: "Nosotros"
+      name: "about"
+      file: "_data/about.yml"
+      fields:
+        - label: "Imagen"
+          name: "image"
+          widget: "image"
+          hint: 'Imagen de cabecera en las páginas de Nosotros / About'
+        - label: "Descripción (Español)"
+          name: "description_es"
+          widget: "string"
+          hint: 'Descripcción de la página de Nosotros / About'
+        - label: "Descripción (Inglés)"
+          name: "description_en"
+          widget: "string"
+          hint: 'Descripcción de la página de Nosotros / About'
+        - label: "Descripción (Catalán)"
+          name: "description_cat"
+          widget: "string"
+          hint: 'Descripcción de la página de Nosotros / About'
+        - label: "Texto (Español)"
+          name: "body_es"
+          widget: "markdown"
+          hint: 'Texto principal de la págok ina Nosotros en Español'
+        - label: "Texto (Inglés)"
+          name: "body_en"
+          widget: "markdown"
+          hint: 'Texto principal de la página Nosotros en Inglés'
+        - label: "Texto (Catalán)"
+          name: "body_cat"
+          widget: "markdown"
+          hint: 'Texto principal de la página Nosotros en Catalán'
+    - label: "Miembros del Equipo"
+      name: "team"
+      file: "_data/team.yml"
+      fields:
+        - label: "Miembros del Equipo"
+          name: "team"
+          widget: "list"
+          fields:
+            - { label: "Nombre", name: "name", widget: "string" }
+            - { label: "Posición (Español)", name: "position_es", widget: "string" }
+            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
+            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
+            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
+            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
+  - name: 'andorra'
+    label: 'Andorra'
+    editor:
+      preview: false
+    files:
+    - label: "Andorra (Texto)"
+      name: "andorra"
+      file: "_data/andorra.yml"
+      fields:
+        - label: "Imagen"
+          name: "andorra_image"
+          widget: "image"
+          hint: 'Imagen de cabecera en las páginas de Andorra'
+        - label: "Descripción (Español)"
+          name: "description_es"
+          widget: "string"
+          hint: 'Descripción breve de la página de Andorra en Español'
+        - label: "Descripción (Inglés)"
+          name: "description_en"
+          widget: "string"
+          hint: 'Descripción breve de la página de Andorra en Inglés'
+        - label: "Descripción (Catalán)"
+          name: "description_cat"
+          widget: "string"
+          hint: 'Descripción breve de la página de Andorra en Catalán'
+        - label: "Texto (Español)"
+          name: "body_es"
+          widget: "markdown"
+          hint: 'Texto principal de la página de Andorra en Español'
+        - label: "Texto (Inglés)"
+          name: "body_en"
+          widget: "markdown"
+          hint: 'Texto principal de la página de Andorra en Inglés'
+        - label: "Texto (Catalán)"
+          name: "body_cat"
+          widget: "markdown"
+          hint: 'Texto principal de la página de Andorra en Catalán'
+  - name: 'calculadora'
+    label: 'Calculadora'
     editor:
       preview: false
     files:
@@ -272,6 +225,82 @@ collections:
         - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
         - { label: Texto Botón, name: placeholder, widget: string, hint: '' }
         - { label: Botón, name: buttonCTA, widget: string, hint: '' }
+  - name: 'es_blog'
+    label: 'Blog (Español)'
+    folder: '_es_posts/'
+    create: true
+    editor:
+      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - label: 'Tags'
+        name: 'tags'
+        required: false
+        widget: 'relation'
+        collection: 'tags'
+        searchFields: ['tags.*.es']  # Search Spanish names in all tags
+        valueField: 'tags.*.code'   # Reference the code of the tag
+        displayFields: ['tags.*.es'] # Display the Spanish name of the tag
+        multiple: true
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'en_blog'
+    label: 'Blog (Inglés)'
+    folder: '_en_posts/'
+    create: true
+    editor:
+      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'cat_blog'
+    label: 'Blog (Catalán)'
+    folder: '_cat_posts/'
+    create: true
+    editor:
+      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'contacto'
+    label: 'Contacto'
+    editor:
+      preview: false
+    files:
+    - label: "Contacto"
+      name: "contact"
+      file: "_data/contact.yml"
+      fields: 
+        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
+        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
+        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+  - name: 'Ajustes'
+    label: 'Ajustes'
+    editor:
+      preview: false
+    files:
     - label: "Fotos del Footer"
       name: "footer"
       file: "_data/footer.yml"
@@ -307,20 +336,6 @@ collections:
           fields:
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
             - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
-    - label: "Miembros del Equipo"
-      name: "team"
-      file: "_data/about.yml"
-      fields:
-        - label: "Miembros del Equipo"
-          name: "team"
-          widget: "list"
-          fields:
-            - { label: "Nombre", name: "name", widget: "string" }
-            - { label: "Posición (Español)", name: "position_es", widget: "string" }
-            - { label: "Posición (Inglés)", name: "position_en", widget: "string" }
-            - { label: "Posición (Catalán)", name: "position_cat", widget: "string" }
-            - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
-            - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
   - name: "tags"
     label: "Tags"
     files:
