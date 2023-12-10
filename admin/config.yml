@@ -294,9 +294,9 @@ collections:
       file: "_data/contact.yml"
       fields: 
         - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera de la página de Contacto' }
-        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
-        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
-        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+        - { label: "Descripción (Español)", name: body_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
+        - { label: "Descripción (Inglés)", name: body_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
+        - { label: "Descripción (Catalàn)", name: body_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
