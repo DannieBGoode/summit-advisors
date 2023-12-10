@@ -69,13 +69,6 @@ collections:
           - { label: Testimonio (Español), name: content_es, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Inglés), name: content_en, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Catalán), name: content_cat, widget: string, hint: 'Testimonio, una sola frase.' }
-    - label: "Contacto"
-      name: "contact"
-      file: "_data/contact.yml"
-      fields: 
-        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
-        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
-        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
   - name: 'services_es'
     label: 'Servicios (Español)'
     folder: '_projects/'
@@ -166,7 +159,7 @@ collections:
           hint: 'Texto principal de la página Nosotros en Catalán'
     - label: "Miembros del Equipo"
       name: "team"
-      file: "_data/about.yml"
+      file: "_data/team.yml"
       fields:
         - label: "Miembros del Equipo"
           name: "team"
@@ -179,11 +172,11 @@ collections:
             - { label: "Enlace de LinkedIn", name: "linkedin", widget: "string", required: false, hint: 'con https://linkedin.com/ incluido' }
             - { label: "Imagen", name: "image", widget: "image", required: false, choose_url: true }
   - name: 'andorra'
-    label: 'andorra'
+    label: 'Andorra'
     editor:
       preview: false
     files:
-    - label: "Andorra"
+    - label: "Andorra (Texto)"
       name: "andorra"
       file: "_data/andorra.yml"
       fields:
@@ -291,6 +284,18 @@ collections:
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'contacto'
+    label: 'Contacto'
+    editor:
+      preview: false
+    files:
+    - label: "Contacto"
+      name: "contact"
+      file: "_data/contact.yml"
+      fields: 
+        - { label: "Descripción (Español)", name: description_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
+        - { label: "Descripción (Inglés)", name: description_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
+        - { label: "Descripción (Catalàn)", name: description_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:

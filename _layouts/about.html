@@ -28,10 +28,10 @@ layout: default
       <!-- Team Section -->
       {% assign lang_prefix = page.language | default: 'es' %}
       {% assign team_key = 'team_' | append: lang_prefix %}
-      {% if site.data.about.team and site.data.about.team.size > 0 %}
+      {% if site.data.team.team and site.data.team.team.size > 0 %}
         <h2>{{ site.data.settings.misc[team_key] }}</h2>
         <div class="team-section">
-          {% for member in site.data.about.team %}
+          {% for member in site.data.team.team %}
             <div class="team-member">
               <a href="{{ member.linkedin }}" target="_blank" class="team-member-link">
                 <div class="team-member-image-container">
