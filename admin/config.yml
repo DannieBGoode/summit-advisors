@@ -225,9 +225,9 @@ collections:
         - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
         - { label: Texto Botón, name: placeholder, widget: string, hint: 'Texto de placeholder dentro del input cuando no hay nada escrito.' }
         - { label: Botón, name: buttonCTA, widget: string, hint: 'Texto del botón' }
-        - { label: Texto (Español), name: body_es, widget: string, hint: 'Explicación de la calculadora' }
-        - { label: Texto (Inglés), name: body_en, widget: string, hint: 'Explicación de la calculadora' }
-        - { label: Texto (Catalán), name: body_cat, widget: string, hint: 'Explicación de la calculadora' }
+        - { label: Texto (Español), name: body_es, widget: markdown, hint: 'Explicación de la calculadora' }
+        - { label: Texto (Inglés), name: body_en, widget: markdown, hint: 'Explicación de la calculadora' }
+        - { label: Texto (Catalán), name: body_cat, widget: markdown, hint: 'Explicación de la calculadora' }
   - name: 'es_blog'
     label: 'Blog (Español)'
     folder: '_es_posts/'
