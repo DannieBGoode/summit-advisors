@@ -25,29 +25,31 @@
   padding: 10px;
   font-size: 1em;
 }
-.subscribe-form
-  .button--primary {
-    /* Existing styles + make it more prominent */
-    background-color: #0044cc;
-    color: white;
-    padding: 10px 15px;
-    font-size: 1em;
-  }
-/* For hero__subscribe */
-.hero__subscribe {
-  &.calculator {
-    margin-bottom: 50px;
-    @media (min-width: 450px) {
-      min-width: 430px;
+.calculator-child {
+    .button--primary {
+      /* Existing styles + make it more prominent */
+      background-color: #0044cc;
+      color: white;
+      padding: 10px 15px;
+      font-size: 1em;
     }
-  }
-  .subscribe-email {
-    /* Existing styles here */
-  }
-  .subscribe-email:not(:focus) {
-    border-color: var(--light-gray);
-  }
+    /* For hero__subscribe */
+    .hero__subscribe {
+      &.calculator {
+        margin-bottom: 50px;
+        @media (min-width: 450px) {
+          min-width: 430px;
+        }
+      }
+      .subscribe-email {
+        /* Existing styles here */
+      }
+      .subscribe-email:not(:focus) {
+        border-color: var(--light-gray);
+      }
+    }
 }
+
 
 .calculator-child {
   margin-bottom: 300px;
