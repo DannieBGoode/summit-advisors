@@ -1,137 +1,80 @@
+/* Calculator */
+.subscribe-email.required.email.calculator-error{
+  border-color: var(--error);
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+.hero__subscribe .form-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
 
+.hero__subscribe .input-description {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.8em;
+  color: #666;
+}
 
-
-$primary-color: #0056b3; // Primary color for interactive elements
-$text-color: #212529; // Dark color for text for better readability
-
-$form-background-color: rgba(255, 255, 255, 0.9); // Semi-transparent white
-$form-border-color: rgba(0, 0, 0, 0.1); // Soft border color for subtle definition
-$shadow-color: rgba(0, 0, 0, 0.1); // Soft shadow color
-
-.form-container {
-  background-color: $form-background-color;
-  border: 1px solid $form-border-color;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px $shadow-color;
-  padding: 2rem;
-  margin: 1rem auto 2rem auto;
-  max-width: 600px;
-  // Add a backdrop filter for a frosted glass effect
-  // Note: This is not supported in all browsers
-  backdrop-filter: blur(10px);
-  /* Calculator */
-  .subscribe-email.required.email.calculator-error{
-    border-color: var(--error);
-  }
-  .flex-center {
-    display: flex;
-    justify-content: center;
-  }
-  .hero__subscribe {
-    display: flex;
-    flex-direction: column; /* Stack the labels and inputs vertically */
-    align-items: flex-start; /* Align items to the start of the flex container */
-  }
-  .hero__subscribe .form-label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-    margin-top: 20px;
-  }
-  .form-label {
-    font-size: 1rem;
-    font-weight: 600; /* Slightly bolder labels for better readability */
-    margin-top: 20px; /* Increased top margin for labels */
-  }
-
-  .hero__subscribe .input-description {
-    display: block;
-    margin-top: 5px;
-    font-size: 0.8em;
-    color: #666;
-    margin-bottom: 20px;
-  }
-
-  .input-description {
-    font-size: 0.85rem; /* Adjusted font size for descriptions */
-    color: #555; /* Slightly darker color for better readability */
-    margin-bottom: 10px; /* Reduced bottom margin for descriptions */
-  }
-
-  .subscribe-email {
-    /* Existing styles + additional styles for better visuals */
-    border: 1px solid var(--light-gray);
-    padding: 10px;
+.subscribe-email {
+  /* Existing styles + additional styles for better visuals */
+  border: 1px solid var(--light-gray);
+  padding: 10px;
+  font-size: 1em;
+}
+.subscribe-form
+  .button--primary {
+    /* Existing styles + make it more prominent */
+    background-color: #0044cc;
+    color: white;
+    padding: 10px 15px;
     font-size: 1em;
   }
-
-  .button--primary {
-    background-color: #0056b3; /* Adjust to your primary color */
-    background-image: linear-gradient(to bottom right, #0066cc, #0044cc); /* Gradient effect */
-    border: none; /* Remove border */
-    border-radius: 4px; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for depth */
-    padding: 12px 20px; /* Larger padding */
-    font-size: 1rem; /* Larger font size */
-    transition: background-color 0.3s; /* Smooth transition for hover effect */
-  }
-
-  .button--primary:hover {
-    background-image: linear-gradient(to bottom right, #0077dd, #0055bb); /* Darker gradient on hover */
-    cursor: pointer; /* Change cursor to indicate clickability */
-  }
-
-  /* For hero__subscribe */
-  .hero__subscribe {
-    &.calculator {
-      margin-bottom: 50px;
-      @media (min-width: 450px) {
-        min-width: 430px;
-      }
-    }
-    .subscribe-email {
-      /* Existing styles here */
-    }
-    .subscribe-email:not(:focus) {
-      border-color: var(--light-gray);
+/* For hero__subscribe */
+.hero__subscribe {
+  &.calculator {
+    margin-bottom: 50px;
+    @media (min-width: 450px) {
+      min-width: 430px;
     }
   }
-
-
-
-  /* For hiding elements */
-  .hidden {
-    display: none;
+  .subscribe-email {
+    /* Existing styles here */
   }
-
-  /* For setting margin-top in tables */
-  .margin-section {
-    margin-top: 50px;
-  }
-
-  /* For button-center */
-  .button-center {
-    text-align: center;
-    margin-top: 10%;
+  .subscribe-email:not(:focus) {
+    border-color: var(--light-gray);
   }
 }
 
-.form-input {
-  border: 1px solid #e1e1e1; /* Lighter border color */
-  border-radius: 4px; /* Rounded corners for input fields */
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05); /* Inner shadow for inset effect */
-  padding: 12px 15px; /* Increased padding for larger touch area */
-  background-color: #ffffff; // White background for the input fields for contrast
-  color: $text-color; // Text color
-  border: 1px solid $form-border-color;
+.calculator-child {
+  margin-bottom: 300px;
+  padding: 2rem;
+  border-radius: 8px; // Rounded corners for the container
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); // Subtle shadow for depth
+  max-width: 600px; // Max-width for better control on large screens
+  margin: 2rem auto; // Center the calculator in the page
+  border: 1px solid var(--brand-color);
 }
 
-.form-input:focus {
-  border-color: #0056b3; /* Highlight color on focus */
-  box-shadow: 0 0 0 3px rgba(0, 86, 179, 0.25); /* Glow effect on focus */
-  outline: none; /* Remove default focus outline */
-  transition: border-color 0.3s, box-shadow 0.3s; /* Smooth transitions */
+/* For hiding elements */
+.hidden {
+  display: none;
 }
+
+/* For setting margin-top in tables */
+.margin-section {
+  margin-top: 50px;
+}
+
+/* For button-center */
+.button-center {
+  text-align: center;
+  margin-top: 10%;
+}
+
 
 /* Styles for larger screens */
 @media (min-width: 768px) {

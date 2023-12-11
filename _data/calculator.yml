@@ -8,3 +8,53 @@ seguridadSocial: "502.63"
 placeholder: "Tu sueldo bruto anual €"
 buttonCTA: "Calcular Sueldo Neto"
 contactCTA: "Te ayudamos"
+body_es: >-
+  ### Impuesto de Sociedades
+  
+  En Andorra el IS o Impuesto de Sociedades es del IMPUESTO_DE_SOCIEDADES%. Es importante remarcar dos cosas:
+
+  - El salario neto de un trabajador pagado por la empresa no aplica el IS puesto que para la empresa supone un gasto y no una ganancia. A este salario se le aplicarían las reglas de IRPF explicadas anteriormente, y incluyen también a empresas con un solo trabajador.
+  
+  - Los dividendos pagados de un empresario a sí mismo cotizan al 0%, por lo que si un empresario decide no pagarse un salario y pagarse a sí mismo a través de dividendos, se le aplicaría únicamente el 10% de IS.
+
+  
+  ### Seguridad Social
+
+  El aporte para un autónomo (profesional por cuenta propia) en Andorra es fijo con una mensualidad de {{ site.data.calculator.seguridadSocial }} €.
+
+  ## Cada caso es único
+
+  Puede haber muchas pequeñas variaciones dependiendo del número de trabajadores de la empresa, sector de trabajo, título universitario, país de procedencia de los clientes, por lo que para poder darte los números exactos de tu caso no dudes en [ponerte en contacto con nosotros](/es/contacto/) y te ayudaremos a entender tu mejor escenario.
+
+body_en: >-
+  ### Corporate Tax
+
+  In Andorra, the Corporate Tax (IS) is IMPUESTO_DE_SOCIEDADES%. It is important to highlight two things:
+
+  - The net salary paid by a company to an employee does not apply to the IS since it represents an expense and not a profit for the company. This salary would be subject to the rules of personal income tax (IRPF) explained earlier, and this also includes companies with only one worker.
+
+  - Dividends paid from a business owner to themselves are taxed at 0%, so if a business owner decides not to pay themselves a salary and instead pays themselves through dividends, only the 10% IS would apply.
+
+  ### Social Security
+
+  The contribution for a self-employed individual (self-employed professional) in Andorra is fixed with a monthly payment of {{ site.data.calculator.seguridadSocial }} €.
+
+  ## Each Case is Unique
+
+  There can be many small variations depending on the number of employees in the company, the sector of work, university degree, country of origin of the clients, so to give you the exact figures for your case, do not hesitate to [contact us](/en/contact/) and we will help you understand your best scenario.
+body_cat: >-
+  ### Impost de Societats
+
+  A Andorra, l'Impost de Societats (IS) és del IMPUESTO_DE_SOCIEDADES%. És important remarcar dues coses:
+
+  - El salari net d'un treballador pagat per l'empresa no s'aplica a l'IS ja que per a l'empresa suposa una despesa i no un guany. A aquest salari se li aplicarien les regles de l'IRPF explicades anteriorment, i inclou també a empreses amb només un treballador.
+
+  - Els dividends pagats d'un empresari a si mateix tributen al 0%, de manera que si un empresari decideix no pagar-se un salari i pagar-se a si mateix a través de dividends, només s'aplicaria el 10% de l'IS.
+
+  ### Seguretat Social
+
+  L'aportació per a un autònom (professional per compte propi) a Andorra és fixa amb una mensualitat de {{ site.data.calculator.seguridadSocial }} €.
+
+  ## Cada Cas és Únic
+
+  Pot haver-hi moltes petites variacions depenent del nombre de treballadors de l'empresa, sector de treball, títol universitari, país de procedència dels clients, així que per poder donar-te els números exactes del teu cas no dubtis a [posar-te en contacte amb nosaltres](/cat/contacte/) i t'ajudarem a entendre el teu millor escenari.
