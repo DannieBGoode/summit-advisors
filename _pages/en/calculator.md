@@ -5,7 +5,6 @@ ref: calculator
 smallImage: true
 title: Tax Caculator
 description: Andorra Tax Calculator
-image: /assets/uploads/image_2023-01-15_172707289.png
 language: en
 ---
 {% include calculator-widget.html %}
