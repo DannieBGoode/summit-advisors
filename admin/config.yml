@@ -148,15 +148,15 @@ collections:
         - label: "Texto (Español)"
           name: "body_es"
           widget: "markdown"
-          hint: 'Texto principal de la págok ina Nosotros en Español'
+          hint: 'Texto principal de la págok ina Nosotros (Español)'
         - label: "Texto (Inglés)"
           name: "body_en"
           widget: "markdown"
-          hint: 'Texto principal de la página Nosotros en Inglés'
+          hint: 'Texto principal de la página Nosotros (Inglés)'
         - label: "Texto (Catalán)"
           name: "body_cat"
           widget: "markdown"
-          hint: 'Texto principal de la página Nosotros en Catalán'
+          hint: 'Texto principal de la página Nosotros (Catalán)'
     - label: "Miembros del Equipo"
       name: "team"
       file: "_data/team.yml"
@@ -187,27 +187,27 @@ collections:
         - label: "Descripción (Español)"
           name: "description_es"
           widget: "string"
-          hint: 'Descripción breve de la página de Andorra en Español'
+          hint: 'Descripción breve de la página de Andorra (Español)'
         - label: "Descripción (Inglés)"
           name: "description_en"
           widget: "string"
-          hint: 'Descripción breve de la página de Andorra en Inglés'
+          hint: 'Descripción breve de la página de Andorra (Inglés)'
         - label: "Descripción (Catalán)"
           name: "description_cat"
           widget: "string"
-          hint: 'Descripción breve de la página de Andorra en Catalán'
+          hint: 'Descripción breve de la página de Andorra (Catalán)'
         - label: "Texto (Español)"
           name: "body_es"
           widget: "markdown"
-          hint: 'Texto principal de la página de Andorra en Español'
+          hint: 'Texto principal de la página de Andorra (Español)'
         - label: "Texto (Inglés)"
           name: "body_en"
           widget: "markdown"
-          hint: 'Texto principal de la página de Andorra en Inglés'
+          hint: 'Texto principal de la página de Andorra (Inglés)'
         - label: "Texto (Catalán)"
           name: "body_cat"
           widget: "markdown"
-          hint: 'Texto principal de la página de Andorra en Catalán'
+          hint: 'Texto principal de la página de Andorra (Catalán)'
   - name: 'calculadora'
     label: 'Calculadora'
     editor:
@@ -225,9 +225,13 @@ collections:
         - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
         - { label: Texto Botón, name: placeholder, widget: string, hint: 'Texto de placeholder dentro del input cuando no hay nada escrito.' }
         - { label: Botón, name: buttonCTA, widget: string, hint: 'Texto del botón' }
-        - { label: Texto (Español), name: body_es, widget: markdown, hint: 'Explicación de la calculadora' }
-        - { label: Texto (Inglés), name: body_en, widget: markdown, hint: 'Explicación de la calculadora' }
-        - { label: Texto (Catalán), name: body_cat, widget: markdown, hint: 'Explicación de la calculadora' }
+        - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera en las páginas de Calculadora' }
+        - { label: "Descripción (Español)", name: "description_es", widget: "string", hint: 'Descripción breve de la página de Calculadora (Español)' }
+        - { label: "Descripción (Inglés)", name: "description_en", widget: "string", hint: 'Descripción breve de la página de Calculadora (Inglés)' }
+        - { label: "Descripción (Catalán)", name: "description_cat", widget: "string", hint: 'Descripción breve de la página de Calculadora (Catalán)' }
+        - { label: Texto (Español), name: body_lower_es, widget: markdown, hint: 'Explicación de la calculadora' }
+        - { label: Texto (Inglés), name: body_lower_en, widget: markdown, hint: 'Explicación de la calculadora' }
+        - { label: Texto (Catalán), name: body_lower_cat, widget: markdown, hint: 'Explicación de la calculadora' }
   - name: 'es_blog'
     label: 'Blog (Español)'
     folder: '_es_posts/'
@@ -297,9 +301,9 @@ collections:
       file: "_data/contact.yml"
       fields: 
         - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera de la página de Contacto' }
-        - { label: "Descripción (Español)", name: body_es, widget: text, hint: 'Descripción del formulario de contacto en español' }
-        - { label: "Descripción (Inglés)", name: body_en, widget: text, hint: 'Descripción del formulario de contacto en inglés' }
-        - { label: "Descripción (Catalàn)", name: body_cat, widget: text, hint: 'Descripción del formulario de contacto en catalán' }
+        - { label: "Descripción (Español)", name: body_es, widget: text, hint: 'Descripción del formulario de contacto (español)' }
+        - { label: "Descripción (Inglés)", name: body_en, widget: text, hint: 'Descripción del formulario de contacto (inglés)' }
+        - { label: "Descripción (Catalàn)", name: body_cat, widget: text, hint: 'Descripción del formulario de contacto (catalán)' }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
@@ -320,9 +324,9 @@ collections:
       file: "_data/global.yml"
       fields: 
         - { label: Título principal, name: title, widget: string, hint: 'Título de la página para el SEO' }
-        - { label: Descripción (Español), name: description_es, widget: string, hint: 'Descripción de la página para el SEO en español' }
-        - { label: Descripción (Inglés), name: description_en, widget: string, hint: 'Descripción de la página para el SEO en inglés' }
-        - { label: Descripción (Catalán), name: description_cat, widget: string, hint: 'Descripción de la página para el SEO en catalán' }
+        - { label: Descripción (Español), name: description_es, widget: string, hint: 'Descripción de la página para el SEO (español)' }
+        - { label: Descripción (Inglés), name: description_en, widget: string, hint: 'Descripción de la página para el SEO (inglés)' }
+        - { label: Descripción (Catalán), name: description_cat, widget: string, hint: 'Descripción de la página para el SEO (catalán)' }
         - { label: Logo Fondo Oscuro, name: logo_dark, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
         - { label: Logo Fondo Blanco, name: logo_light, widget: image, required: false, hint: 'Logo que aparecería en todas las páginas en la esquina superior izquierda' }
         - { label: Color de la página, name: color_scheme, widget: select, options: ["auto", "light", "dark"], hint: 'Auto permite al usuario elegir si quiere ver la página clara u oscura haciendo click en el icono de arriba a la derecha. Las otras opciones fuerzan la decisión.' }

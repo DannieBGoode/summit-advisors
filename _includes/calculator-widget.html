@@ -1,0 +1,136 @@
+{% assign lang_prefix = page.language | default: 'es' %}
+{% assign calcula_key = 'calcula_' | append: lang_prefix %}
+{% assign sueldoBruto_key = 'sueldoBruto_' | append: lang_prefix %}
+{% assign introduce_key = 'introduce_' | append: lang_prefix %}
+{% assign calcular_key = 'calcular_' | append: lang_prefix %}
+{% assign calculatorTexts = site.data.calculator.textos %}
+{% assign queImpuestos_key = 'queImpuestos_' | append: lang_prefix %}
+{% assign irpf_key = 'irpf_' | append: lang_prefix %}
+{% assign irpf_description_key = 'irpf_description_' | append: lang_prefix %}
+{% assign tramos_key = 'tramos_' | append: lang_prefix %}
+{% assign hasta_key = 'hasta_' | append: lang_prefix %}
+{% assign de_key = 'de_' | append: lang_prefix %}
+{% assign a_key = 'a_' | append: lang_prefix %}
+{% assign adelante_key = 'adelante_' | append: lang_prefix %}
+{% assign sueldoBrutoAnual_key = 'sueldoBrutoAnual_' | append: lang_prefix %}
+{% assign sueldoNetoAnual_key = 'sueldoNetoAnual_' | append: lang_prefix %}
+{% assign sueldoNetoMensual_key = 'sueldoNetoMensual_' | append: lang_prefix %}
+{% assign impuestosAnuales_key = 'impuestosAnuales_' | append: lang_prefix %}
+{% assign seguridadSocial_key = 'seguridadSocial_' | append: lang_prefix %}
+{% assign impuestosEfectivos_key = 'impuestosEfectivos_' | append: lang_prefix %}
+{% assign texto1_key = 'texto1_' | append: lang_prefix %}
+{% assign texto2_key = 'texto2_' | append: lang_prefix %}
+{% assign texto3_key = 'texto3_' | append: lang_prefix %}
+{% assign texto4_key = 'texto4_' | append: lang_prefix %}
+{% assign texto5_key = 'texto5_' | append: lang_prefix %}
+{% assign texto6_key = 'texto6_' | append: lang_prefix %}
+{% assign texto7_key = 'texto7_' | append: lang_prefix %}
+{% assign texto8_key = 'texto8_' | append: lang_prefix %}
+
+{{ calculatorTexts[calcula_key] }}:
+
+<div class="calculator-parent">
+	<div class="flex-center calculator-child">
+		<div class="hero__subscribe calculator">
+			<form class="subscribe-form" action="javascript:void(0);">
+				<label class="form-label" for="gross-salary-input">{{ calculatorTexts[sueldoBruto_key] }}</label>
+				<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="Ejemplo: 30000" min="1" step="any" onkeyup="addCommas()">
+				<small class="input-description">{{ calculatorTexts[introduce_key] }}</small>
+				<button class="button button--primary button--small subscribe-button" onclick="calculate()">{{ calculatorTexts[calcular_key] }}</button>
+			</form>
+		</div>
+	</div>
+
+	<div class="result hidden">
+		<div>
+			{{ calculatorTexts[texto1_key] }}
+			<span class="gross-salary"></span>
+			{{ calculatorTexts[texto2_key] }}
+			<b><span class="net-salary-yearly"></span> {{ calculatorTexts[texto3_key] }}</b>
+			{{ calculatorTexts[texto4_key] }}
+			<b><span class="net-salary-monthly"></span> {{ calculatorTexts[texto5_key] }}</b>
+			{{ calculatorTexts[texto6_key] }}
+			{{ calculatorTexts[seguridadSocial_key] }}
+			{{ calculatorTexts[texto7_key] }}
+			<span class="tax"></span> {{ calculatorTexts[texto8_key] }}
+		</div>
+		<div class="margin-section">
+			<table>
+				<thead>
+					<tr>
+						<th> {{ calculatorTexts[sueldoBrutoAnual_key] }}</th>
+						<th> {{ calculatorTexts[sueldoNetoAnual_key] }} </th>
+						<th> {{ calculatorTexts[sueldoNetoMensual_key] }} </th>
+						<th> {{ calculatorTexts[impuestosAnuales_key] }} </th>
+						<th> {{ calculatorTexts[seguridadSocial_key] }} </th>
+						<th> {{ calculatorTexts[impuestosEfectivos_key ] }} </th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td data-label="Sueldo Bruto Anual" class="gross-salary"></td>
+						<td data-label="Sueldo Neto Anual" class="net-salary-yearly"></td>
+						<td data-label="Sueldo Neto Mensual" class="net-salary-monthly"></td>
+						<td data-label="Impuestos Anuales (IRPF / IS)" class="tax"></td>
+						<td data-label="Seguridad Social" class="social-security"></td>
+						<td data-label="Impuestos Efectivos" class="tax-percentage"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div>
+			<h2> {{ calculatorTexts[queImpuestos_key] }} </h2>
+			<h3> {{ calculatorTexts[irpf_key] }} </h3>
+			<div>
+				{{ calculatorTexts[irpf_description_key] }}:
+			</div>
+			<div>
+				<table class="no-invert">
+					<thead>
+						<tr>
+							<th>{{ calculatorTexts[tramos_key] }}</th>
+							<th>IRPF</th>
+						</tr>	
+					</thead>
+					<tbody>
+						<tr>
+							<td>{{ calculatorTexts[hasta_key] }} {{ site.data.calculator.tramoMin }} €</td>
+							<td>0%</td>
+						</tr>	
+						<tr>
+							<td>{{ calculatorTexts[de_key] }} {{ site.data.calculator.tramoMin }} € {{ calculatorTexts[a_key] }} {{ site.data.calculator.tramoMax }} €</td>
+							<td>{{ site.data.calculator.tributacionMin }}%</td>
+						</tr>	
+						<tr>
+							<td>De {{ site.data.calculator.tramoMax }} € {{ calculatorTexts[adelante_key] }}</td>
+							<td>{{ site.data.calculator.tributacionMax }}%</td>
+						</tr>	
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div>
+			{% capture body_key %}body_lower_{{ page.language }}{% endcapture %}
+			{% assign body_text = site.data.calculator[body_key] %}
+
+			{% assign impuestoSociedades_value = site.data.calculator.impuestoSociedades %}
+			{% assign seguridadSocial_value = site.data.calculator.seguridadSocial %}
+
+			{% assign body_text_with_values = body_text | replace: 'IMPUESTO_DE_SOCIEDADES', impuestoSociedades_value | replace: 'SEGURIDAD_SOCIAL', seguridadSocial_value %}
+
+			{{ body_text_with_values | markdownify }}
+
+			
+		</div>
+	</div>
+</div>
+
+<script>
+	const tramoMin = parseInt("{{ site.data.calculator.tramoMin }}");
+	const tramoMax = parseInt("{{ site.data.calculator.tramoMax }}");
+	const tributacionMin = parseFloat(parseInt("{{ site.data.calculator.tributacionMin }}")) / 100;
+	const tributacionMax = parseFloat(parseInt("{{ site.data.calculator.tributacionMax }}")) / 100;
+	const socialSecurity = parseInt("{{ site.data.calculator.seguridadSocial }}");
+</script>
+
+<script src="/js/calculator.js"/>

@@ -1,11 +1,11 @@
 ---
 layout: dynamic
-permalink: /en/tax-calculator/
+permalink: /cat/tax-calculator/
 ref: calculator
 smallImage: true
-title: Tax Caculator
-description: Andorra Tax Calculator
+title: Calculadora d'impostos
+description: Calculadora d'impostos per a Andorra
 image: /assets/uploads/image_2023-01-15_172707289.png
-language: en
+language: cat
 ---
 {% include calculator-widget.html %}
