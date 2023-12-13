@@ -173,17 +173,17 @@
     display: none;
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: $wide) {
     display: block;
 
     align-items: center;
     width: 100%;
     max-width: 240px;
-    height: 80vh;
-    padding-top: 180px;
+    height: 100%;
+    padding-top: 50px;
     margin: 0 auto;
     text-align: center;
-    overflow-y: auto;
+    overflow-y: hidden;
 
     .nav__icon-close {
       display: flex;
@@ -379,6 +379,12 @@
     display: none;
   }
 }
+.language-picker-icon {
+  display: flex;
+}
+.current-lang {
+  opacity: 0.7;
+}
 
 .nav-button {
   display: flex;
@@ -389,6 +395,7 @@
 
   .icon__menu {
     display: none;
+    margin-left: 20px;
     margin-right: 20px;
     cursor: pointer;
   }
@@ -416,6 +423,8 @@
 /* Toggle Theme */
 .toggle-theme {
   position: relative;
+  margin-right: 5px;
+  margin-left: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -425,10 +434,31 @@
   user-select: none;
   cursor: pointer;
   background: var(--background-alt-color);
-  
+  transition: background-color 0.3s ease; /* Add transition for background color */
+
+  .toggle-moon, .toggle-sun {
+    display: flex;
+  }
+
+  &.whatsapp-header-cta{
+    a {
+      display: flex;
+      scale: 1.05;
+    }
+    &:hover {
+      background-color: #25D366; /* WhatsApp green background on hover */
+
+      a {
+        color: white; /* White color for the icon */
+        transform: scale(1.1); /* Slightly scale up the icon */
+        transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for color and transform */
+      }
+    }
+  }
+
   &.theme-light {
     transform: none;
-    cursor: auto;
+    cursor: pointer;
 
     .toggle-sun {
       display: block;
@@ -437,7 +467,7 @@
 
   &.theme-dark {
     transform: none;
-    cursor: auto;
+    cursor: pointer;
 
     .toggle-moon {
       display: block;
@@ -457,14 +487,23 @@
 
 .toggle-sun {
   display: none;
+  ion-icon {
+    display: none;
+  }
 }
 
 .dark-mode {
   .toggle-sun {
     display: block;
+    ion-icon {
+      display: flex;
+    }
   }
 
   .toggle-moon {
     display: none;
+    ion-icon {
+      display: none;
+    }
   }
 }
