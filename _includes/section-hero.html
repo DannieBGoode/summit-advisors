@@ -1,9 +1,9 @@
 {% assign lang_prefix = page.language | default: 'es' %}
 {% assign title_key = 'hero__title_' | append: lang_prefix %}
 {% assign description_key = 'hero__description_' | append: lang_prefix %}
-{% assign title = site.data.hero[title_key] %}
-{% assign description = site.data.hero[description_key] %}
-{% assign image = site.data.hero.hero__image %}
+{% assign title = site.data.home[title_key] %}
+{% assign description = site.data.home[description_key] %}
+{% assign image = site.data.home.image %}
 {% assign input_text_key = 'mailchimp__input__text_' | append: lang_prefix %}
 {% assign button_text_key = 'mailchimp__button__text_' | append: lang_prefix %}
 {% assign mailchimp_input_text = site.data.settings[input_text_key] %}
@@ -20,7 +20,7 @@
   {% endif %}
 {% endfor %}
 
-<link rel="preload" as="image" href="{{ site.data.hero.hero__image }}" as="image">
+<link rel="preload" as="image" href="{{ site.data.home.image }}" as="image">
 
 <!-- begin hero -->
 <section class="hero">
@@ -30,8 +30,8 @@
         <div class="hero__inner">
 
           <div class="hero__left">
-            <div class="hero__image">
-              <img class="lazy" data-src="{{ site.data.hero.hero__image }}" alt="{{ site.data.settings.author.author__name }}'s Picture">
+            <div class="image">
+              <img class="lazy" data-src="{{ site.data.home.image }}" alt="{{ site.data.settings.author.author__name }}'s Picture">
             </div>
           </div>
 

@@ -16,7 +16,7 @@ collections:
     files:
     - label: "Homepage"
       name: "home"
-      file: "_data/hero.yml"
+      file: "_data/home.yml"
       fields: 
         - { label: 'Título principal (Español)', name: 'hero__title_es', widget: 'string', hint: 'Título de cabecera en la homepage' }
         - { label: 'Título principal (Inglés)', name: 'hero__title_en', widget: 'string', hint: 'Título de cabecera en la homepage' }
@@ -24,7 +24,7 @@ collections:
         - { label: 'Subtítulo (Español)', name: 'hero__description_es', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: 'Subtítulo (Inglés)', name: 'hero__description_en', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
         - { label: 'Subtítulo (Catalàn)', name: 'hero__description_cat', widget: 'string', hint: 'Descripción bajo el título de cabecera' }
-        - { label: Imagén Principal, name: hero__image, widget: image, choose_url: true, hint: 'Imagen principal' }
+        - { label: Imagén Principal, name: image, widget: image, choose_url: true, hint: 'Imagen principal' }
     - label: "Testimonios de Clientes"
       name: "testimonials"
       file: "_data/testimonials.yml"
