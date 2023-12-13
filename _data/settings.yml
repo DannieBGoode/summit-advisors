@@ -47,7 +47,7 @@ blog__settings:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: www-summitadvisors-ad # Add your shortname for Disqus Comment. For example anvodstudio-demo
 hide-comments: false
 
 #-------------------------------
