@@ -1,6 +1,6 @@
 ---
 layout: dynamic
-permalink: /cat/tax-calculator/
+permalink: /cat/calculadora/
 ref: calculator
 smallImage: true
 title: Calculadora d'impostos
