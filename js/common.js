@@ -31,6 +31,11 @@ document.addEventListener("DOMContentLoaded", function() {
   if (toggleTheme) {
     toggleTheme.addEventListener("click", () => {
       darkMode();
+      disqus_loaded = false
+      // Check if disqus is a valid function before calling it
+      if (typeof disqus === 'function') {
+        disqus();
+      }
     });
   };
 
