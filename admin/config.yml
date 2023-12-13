@@ -309,7 +309,7 @@ collections:
           - { label: "Horario (Inglés)", name: "hours_body_en", widget: "text", hint: 'Horario de apertura (inglés)' }
           - { label: "Horario (Catalàn)", name: "hours_body_cat", widget: "text", hint: 'Horario de apertura (catalán)' }
           - { label: "Telefono de Contacto #1", name: "phone1", widget: "text", hint: 'Telefóno de contacto principal', required: false }
-          - { label: "Telefono de Contacto #2", name: "phone1", widget: "text", hint: 'Telefóno de contacto secundario', required: false }
+          - { label: "Telefono de Contacto #2", name: "phone2", widget: "text", hint: 'Telefóno de contacto secundario', required: false }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
