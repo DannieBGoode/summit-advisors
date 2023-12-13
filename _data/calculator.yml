@@ -80,7 +80,11 @@ textos:
   sueldoNetoMensual_en: Monthly Net Salary
   texto7_cat: € al mes per Seguretat Social i
   de_es: De
-  a_es: to
+  de_en: From
+  de_cat: Des de
+  a_es: a
+  a_en: to
+  a_cat: fins a
   calcula_cat: Calcula el teu sou net si visquessis a Andorra
   irpf_description_en: In Andorra, the IRPF only has three brackets
   queImpuestos_es: Qué impuestos tendría un autónomo en Andorra
