@@ -1,12 +1,12 @@
 ---
+language: es
 title: Servicio Integral de Asesoramiento
 subtitle: Paquete completo
 description: Ofreciendo un servicio integral de asesoramiento para una
   transición fluida y eficiente a la vida y negocios en Andorra, adaptado a tus
   necesidades personales y empresariales
 date: 2022-01-05 08:01:35 +0300
-image: /assets/uploads/servicio-integral.avif
-language: es
+image: /assets/uploads/istockphoto-492005666-612x612.jpg
 ---
 En Summit Advisors, ofrecemos un **Servicio Integral de Asesoramiento**, uniendo todos nuestros servicios para proveer una solución holística y personalizada a aquellos clientes que buscan asistencia en todos los aspectos de su vida y negocios al mudarse a Andorra.
 
