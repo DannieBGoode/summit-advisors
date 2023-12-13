@@ -26,6 +26,7 @@ body_es: >-2
   No dudes en ponerte en contacto con nosotros a través del siguiente formulario sin ningún compromiso.
 hours_body_cat: |-
   De dilluns a dijous: 09:00h a 18:00h
+
   Divendres: 09:00h a 15:00h
 email_en: Your Email address
 contact_es: Contacto
@@ -48,6 +49,7 @@ hours_body_es: |-
   Viernes: 09:00h a 15:00h
 hours_body_en: |-
   Monday to Thursday: 09:00 AM to 06:00 PM
+
   Friday: 09:00 AM to 03:00 PM
 contact_cat: Contacte
 hours_en: Hours
