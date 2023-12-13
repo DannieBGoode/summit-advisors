@@ -232,6 +232,14 @@
         background-color: darken(#bd081c, 10%);
       }
     }
+
+    &.share__linkedin {
+      background-color: #0072b1;
+
+      &:hover {
+        background-color: darken(#0072b1, 10%);
+      }
+    }
   }
 
   @media only screen and (max-width: $mobile) {
