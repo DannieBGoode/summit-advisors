@@ -1,106 +1,24 @@
-textos:
-  calcula_es: Calcula cuanto sería tu sueldo neto si vivieras en Andorra
-  calcula_en: Calculate your net salary if you lived in Andorra
-  calcula_cat: Calcula el teu sou net si visquessis a Andorra
-  sueldoBruto_es: Sueldo Bruto Anual €
-  sueldoBruto_en: Annual Gross Salary €
-  sueldoBruto_cat: Sou Brut Anual €
-  introduce_es: Introduce tu salario anual bruto en euros.
-  introduce_en: Enter your annual gross salary in euros.
-  introduce_cat: Introdueix el teu salari anual brut en euros.
-  calcular_es: Calcular
-  calcular_en: Calculate
-  calcular_cat: Calcula
-  queImpuestos_es: Qué impuestos tendría un autónomo en Andorra
-  queImpuestos_en: What taxes would a freelancer have in Andorra
-  queImpuestos_cat: Quins impostos tindria un autònom a Andorra
-  irpf_es: IRPF - Impuesto de la Renta
-  irpf_en: IRPF - Income Tax
-  irpf_cat: IRPF - Impost sobre la Renda
-  irpf_description_es: En Andorra el IRPF únicamente presenta tres tramos
-  irpf_description_en: In Andorra, the IRPF only has three brackets
-  irpf_description_cat: A Andorra, l'IRPF només presenta tres trams
-  tramos_es: Tramos
-  tramos_en: Brackets
-  tramos_cat: Trams
-  hasta_es: Hasta
-  hasta_en: Up to
-  hasta_cat: Fins a
-  de_es: De
-  de_en: From
-  de_cat: De
-  a_es: to
-  a_en: to
-  a_cat: a
-  adelante_es: en adelante
-  adelante_en: onwards
-  adelante_cat: endavant
-  sueldoBrutoAnual_es: Sueldo Bruto Anual
-  sueldoBrutoAnual_en: Annual Gross Salary
-  sueldoBrutoAnual_cat: Sou Brut Anual
-  sueldoNetoAnual_es: Sueldo Neto Anual
-  sueldoNetoAnual_en: Annual Net Salary
-  sueldoNetoAnual_cat: Sou Net Anual
-  sueldoNetoMensual_es: Sueldo Neto Mensual
-  sueldoNetoMensual_en: Monthly Net Salary
-  sueldoNetoMensual_cat: Sou Net Mensual
-  impuestosAnuales_es: Impuestos Anuales (IRPF / IS)
-  impuestosAnuales_en: Annual Taxes (IRPF / IS)
-  impuestosAnuales_cat: Impostos Anuals (IRPF / IS)
-  seguridadSocial_es: Seguridad Social
-  seguridadSocial_en: Social Security
-  seguridadSocial_cat: Seguretat Social
-  impuestosEfectivos_es: Impuestos Efectivos
-  impuestosEfectivos_en: Effective Taxes
-  impuestosEfectivos_cat: Impostos Efectius
-  texto1_es: "Si tuvieras un sueldo bruto anual de"
-  texto1_en: "If you had an annual gross salary of"
-  texto1_cat: "Si tinguessis un sou brut anual de"
-  texto2_es: "en Andorra se traduciría en un sueldo neto de"
-  texto2_en: "in Andorra, it would translate into a net salary of"
-  texto2_cat: "a Andorra es traduiria en un sou net de"
-  texto3_es: "anuales"
-  texto3_en: "yearly"
-  texto3_cat: "anuals"
-  texto4_es: "ó"
-  texto4_en: "or"
-  texto4_cat: "o"
-  texto5_es: "mensuales"
-  texto5_en: "monthly"
-  texto5_cat: "mensuals"
-  texto6_es: "de los cuales se habrían deducido"
-  texto6_en: "of which would have been deducted"
-  texto6_cat: "dels quals s'haurien deduït"
-  texto7_es: "€ al mes por Seguridad Social y"
-  texto7_en: "€ per month for Social Security and"
-  texto7_cat: "€ al mes per Seguretat Social i"
-  texto8_es: "anuales en IRPF."
-  texto8_en: "annually in IRPF."
-  texto8_cat: "anuals en IRPF."
-
-image: /assets/uploads/image_2023-01-15_172707289.png
-description_es: Calculadora de impuestos para Andorra
-description_en: Tax Calculator for Andorra
-description_cat: Calculadora d'impostos per a Andorra
 tramoMin: "24000"
-tributacionMin: "5"
 tramoMax: "40000"
+tributacionMin: "5"
 tributacionMax: "10"
 impuestoSociedades: "10"
 seguridadSocial: "502.63"
-placeholder: "Tu sueldo bruto anual €"
-buttonCTA: "Calcular Sueldo Neto"
-contactCTA: "Te ayudamos"
+placeholder: Tu sueldo bruto anual €
+buttonCTA: Calcular Sueldo Neto
+image: /assets/uploads/image_2023-01-15_172707289.png
+description_es: Calculadora de impuestos para Andorra
+description_en: Tax Calculator for Andorra
 body_lower_es: >-
   ### Impuesto de Sociedades
-  
+
   En Andorra el IS o Impuesto de Sociedades es del IMPUESTO_DE_SOCIEDADES%. Es importante remarcar dos cosas:
 
   - El salario neto de un trabajador pagado por la empresa no aplica el IS puesto que para la empresa supone un gasto y no una ganancia. A este salario se le aplicarían las reglas de IRPF explicadas anteriormente, y incluyen también a empresas con un solo trabajador.
-  
+
   - Los dividendos pagados de un empresario a sí mismo cotizan al 0%, por lo que si un empresario decide no pagarse un salario y pagarse a sí mismo a través de dividendos, se le aplicaría únicamente el 10% de IS.
 
-  
+
   ### Seguridad Social
 
   El aporte para un autónomo (profesional por cuenta propia) en Andorra es fijo con una mensualidad de SEGURIDAD_SOCIAL €.
@@ -108,36 +26,128 @@ body_lower_es: >-
   ## Cada caso es único
 
   Puede haber muchas pequeñas variaciones dependiendo del número de trabajadores de la empresa, sector de trabajo, título universitario, país de procedencia de los clientes, por lo que para poder darte los números exactos de tu caso no dudes en [ponerte en contacto con nosotros](/es/contacto/) y te ayudaremos a entender tu mejor escenario.
-
 body_lower_en: >-
   ### Corporate Tax
 
+
   In Andorra, the Corporate Tax (IS) is IMPUESTO_DE_SOCIEDADES%. It is important to highlight two things:
 
-  - The net salary paid by a company to an employee does not apply to the IS since it represents an expense and not a profit for the company. This salary would be subject to the rules of personal income tax (IRPF) explained earlier, and this also includes companies with only one worker.
 
-  - Dividends paid from a business owner to themselves are taxed at 0%, so if a business owner decides not to pay themselves a salary and instead pays themselves through dividends, only the 10% IS would apply.
+  * The net salary paid by a company to an employee does not apply to the IS since it represents an expense and not a profit for the company. This salary would be subject to the rules of personal income tax (IRPF) explained earlier, and this also includes companies with only one worker.
+
+  * Dividends paid from a business owner to themselves are taxed at 0%, so if a business owner decides not to pay themselves a salary and instead pays themselves through dividends, only the 10% IS would apply.
+
 
   ### Social Security
 
-  The contribution for a self-employed individual (self-employed professional) in Andorra is fixed with a monthly payment of {{ site.data.calculator.seguridadSocial }} €.
+
+  The contribution for a self-employed individual (self-employed professional) in Andorra is fixed with a monthly payment of SEGURIDAD_SOCIAL €.
+
 
   ## Each Case is Unique
 
+
   There can be many small variations depending on the number of employees in the company, the sector of work, university degree, country of origin of the clients, so to give you the exact figures for your case, do not hesitate to [contact us](/en/contact/) and we will help you understand your best scenario.
+contactCTA: Te ayudamos
+textos:
+  adelante_en: onwards
+  sueldoNetoAnual_es: Sueldo Neto Anual
+  hasta_en: Up to
+  sueldoBruto_es: Sueldo Bruto Anual €
+  sueldoBrutoAnual_en: Annual Gross Salary
+  sueldoBruto_cat: Sou Brut Anual €
+  impuestosEfectivos_en: Effective Taxes
+  sueldoNetoAnual_cat: Sou Net Anual
+  adelante_es: en adelante
+  tramos_cat: Trams
+  hasta_es: Hasta
+  texto1_cat: Si tinguessis un sou brut anual de
+  sueldoBrutoAnual_es: Sueldo Bruto Anual
+  de_en: From
+  a_en: to
+  texto2_cat: a Andorra es traduiria en un sou net de
+  queImpuestos_en: What taxes would a freelancer have in Andorra
+  impuestosAnuales_en: Annual Taxes (IRPF / IS)
+  texto3_cat: anuals
+  impuestosEfectivos_es: Impuestos Efectivos
+  irpf_en: IRPF - Income Tax
+  texto4_cat: o
+  introduce_en: Enter your annual gross salary in euros.
+  texto5_cat: mensuals
+  texto6_cat: dels quals s'haurien deduït
+  seguridadSocial_en: Social Security
+  calcular_en: Calculate
+  sueldoNetoMensual_en: Monthly Net Salary
+  texto7_cat: € al mes per Seguretat Social i
+  de_es: De
+  a_es: to
+  calcula_cat: Calcula el teu sou net si visquessis a Andorra
+  irpf_description_en: In Andorra, the IRPF only has three brackets
+  queImpuestos_es: Qué impuestos tendría un autónomo en Andorra
+  impuestosAnuales_es: Impuestos Anuales (IRPF / IS)
+  texto8_cat: anuals en IRPF.
+  irpf_es: IRPF - Impuesto de la Renta
+  introduce_es: Introduce tu salario anual bruto en euros.
+  seguridadSocial_es: Seguridad Social
+  calcular_es: Calcular
+  sueldoNetoMensual_es: Sueldo Neto Mensual
+  irpf_description_es: En Andorra el IRPF únicamente presenta tres tramos
+  texto8_en: annually in IRPF.
+  texto7_en: € per month for Social Security and
+  irpf_description_cat: A Andorra, l'IRPF només presenta tres trams
+  calcula_en: Calculate your net salary if you lived in Andorra
+  texto6_en: of which would have been deducted
+  sueldoNetoMensual_cat: Sou Net Mensual
+  calcular_cat: Calcula
+  seguridadSocial_cat: Seguretat Social
+  texto5_en: monthly
+  irpf_cat: IRPF - Impost sobre la Renda
+  texto4_en: or
+  introduce_cat: Introdueix el teu salari anual brut en euros.
+  texto3_en: yearly
+  texto8_es: anuales en IRPF.
+  impuestosAnuales_cat: Impostos Anuals (IRPF / IS)
+  queImpuestos_cat: Quins impostos tindria un autònom a Andorra
+  texto7_es: € al mes por Seguridad Social y
+  a_cat: a
+  calcula_es: Calcula cuanto sería tu sueldo neto si vivieras en Andorra
+  de_cat: De
+  texto2_en: in Andorra, it would translate into a net salary of
+  texto6_es: de los cuales se habrían deducido
+  texto1_en: If you had an annual gross salary of
+  texto5_es: mensuales
+  tramos_en: Brackets
+  texto4_es: ó
+  sueldoNetoAnual_en: Annual Net Salary
+  texto3_es: anuales
+  impuestosEfectivos_cat: Impostos Efectius
+  sueldoBruto_en: Annual Gross Salary €
+  texto2_es: en Andorra se traduciría en un sueldo neto de
+  sueldoBrutoAnual_cat: Sou Brut Anual
+  hasta_cat: Fins a
+  texto1_es: Si tuvieras un sueldo bruto anual de
+  adelante_cat: endavant
+  tramos_es: Tramos
+description_cat: Calculadora d'impostos per a Andorra
 body_lower_cat: >-
   ### Impost de Societats
 
+
   A Andorra, l'Impost de Societats (IS) és del IMPUESTO_DE_SOCIEDADES%. És important remarcar dues coses:
 
-  - El salari net d'un treballador pagat per l'empresa no s'aplica a l'IS ja que per a l'empresa suposa una despesa i no un guany. A aquest salari se li aplicarien les regles de l'IRPF explicades anteriorment, i inclou també a empreses amb només un treballador.
 
-  - Els dividends pagats d'un empresari a si mateix tributen al 0%, de manera que si un empresari decideix no pagar-se un salari i pagar-se a si mateix a través de dividends, només s'aplicaria el 10% de l'IS.
+  * El salari net d'un treballador pagat per l'empresa no s'aplica a l'IS ja que per a l'empresa suposa una despesa i no un guany. A aquest salari se li aplicarien les regles de l'IRPF explicades anteriorment, i inclou també a empreses amb només un treballador.
+
+  * Els dividends pagats d'un empresari a si mateix tributen al 0%, de manera que si un empresari decideix no pagar-se un salari i pagar-se a si mateix a través de dividends, només s'aplicaria el 10% de l'IS.
+
 
   ### Seguretat Social
 
-  L'aportació per a un autònom (professional per compte propi) a Andorra és fixa amb una mensualitat de {{ site.data.calculator.seguridadSocial }} €.
+
+  L'aportació per a un autònom (professional per compte propi) a Andorra és fixa amb una mensualitat de SEGURIDAD_SOCIAL €.
+
 
   ## Cada Cas és Únic
+
 
   Pot haver-hi moltes petites variacions depenent del nombre de treballadors de l'empresa, sector de treball, títol universitari, país de procedència dels clients, així que per poder donar-te els números exactes del teu cas no dubtis a [posar-te en contacte amb nosaltres](/cat/contacte/) i t'ajudarem a entendre el teu millor escenari.
