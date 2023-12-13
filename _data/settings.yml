@@ -48,6 +48,7 @@ blog__settings:
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+hide-comments: false
 
 #-------------------------------
 # Misc
@@ -70,3 +71,6 @@ misc:
   team_es: El Equipo de Summit Advisors
   team_en: The Summit Advisors Team
   team_cat: El Equip de Summit Advisors
+  comments_es: Ver Comentarios
+  comments_en: Comments
+  comments_cat: Veure comentaris 

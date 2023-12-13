@@ -1,6 +1,8 @@
+{% assign lang_prefix = page.language | default: 'es' %}
+{% assign calcula_key = 'comments_' | append: lang_prefix %}
 <!-- begin comments -->
 <div class="show-comments">
-  <button class="button button--primary" id="show-comments-button" onclick="disqus();return false;">Comments</button>
+  <button class="button button--primary" id="show-comments-button" onclick="disqus();return false;">{{ site.data.settings.misc[calcula_key] }}</button>
 </div>
 
 <div id="disqus_thread" class="post__comments">
@@ -27,6 +29,9 @@
       disqus_container.classList.add("is-open");
     }
   }
+  {% if site.data.settings.hide-comments %}
+    disqus()
+  {% endif %}
 </script>
 
 <noscript>Please enable JavaScript to view the
