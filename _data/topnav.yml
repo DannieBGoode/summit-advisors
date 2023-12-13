@@ -18,10 +18,12 @@ en_menu_settings:
       url: '/en/contact/'
     - title: 'English'
       submenu:
-        - url: '/cat/'
-          title: 'Català'
         - url: '/'
           title: 'Español'
+        - url: '/en/'
+          title: 'English'
+        - url: '/cat/'
+          title: 'Català'
 
 #-------------------------------
 # Spanish Navigation Settings
@@ -43,10 +45,12 @@ es_menu_settings:
       url: '/es/contacto/'
     - title: 'Español'
       submenu:
-        - url: '/cat/'
-          title: 'Català'
+        - url: '/'
+          title: 'Español'
         - url: '/en/'
           title: 'English'
+        - url: '/cat/'
+          title: 'Català'
 
 #-------------------------------
 # Catalan Navigation Settings
@@ -72,3 +76,5 @@ cat_menu_settings:
           title: 'Español'
         - url: '/en/'
           title: 'English'
+        - url: '/cat/'
+          title: 'Català'

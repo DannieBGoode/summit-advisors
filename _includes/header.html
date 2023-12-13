@@ -29,7 +29,8 @@
         <nav class="main-nav">
           <div class="main-nav__box">
             <div class="nav__icon-close">
-              <i class="ion ion-md-close"></i>
+              <!--<i class="ion ion-md-close"></i>-->
+              <ion-icon name="close" class="ion-md-close"></ion-icon>
             </div>
             <div class="nav__title">Menu</div>
             <ul class="nav__list list-reset">
@@ -43,7 +44,9 @@
               {% for item in menu_items %}
                 {% if item.submenu %}
                 <li class="nav__item dropdown">
-                  <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                  <span class="nav__link dropdown-toggle language-picker-icon">
+                    <ion-icon name="globe-outline"></ion-icon>
+                  </span>
                   <div class="dropdown-menu">
                     {% include language-picker.html %}
                   </div>
@@ -59,27 +62,38 @@
         </nav>
 
         <div class="nav-button">
-          <i class="nav__icon icon__menu ion ion-md-menu"></i>
+          
 
+          
+          <div class="toggle-theme whatsapp-header-cta">
+            {% for item in site.data.social.social %}
+              {% if item.name == 'WhatsApp' %}
+                <a class="whatsapp-icon" href="{{ item.link }}" target="_blank" rel="noopener" aria-label="{{ item.name }}"><ion-icon name="logo-whatsapp"></ion-icon></a>
+              {% endif %}
+            {% endfor %}
+          </div>
+          
           {% if site.data.global.color_scheme == "auto" %}
           <div class="toggle-theme toggle-theme-js">
-            <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-            <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+            <div class="toggle-moon" title="Enable dark mode"><ion-icon name="moon"></ion-icon></div>
+            <div class="toggle-sun" title="Enable light mode"><ion-icon name="sunny"></ion-icon></div>
           </div>
           {% elsif site.data.global.color_scheme == "light" %}
           <!-- <div class="toggle-theme theme-light">
-            <div class="toggle-sun" title="Light mode"><i class="ion ion-ios-sunny"></i></div>
+            <div class="toggle-sun" title="Light mode"><ion-icon name="sunny-outline"></ion-icon></div>
           </div> -->
           {% elsif site.data.global.color_scheme == "dark" %}
           <!-- <div class="toggle-theme theme-dark">
-            <div class="toggle-moon" title="Dark mode"><i class="ion ion-ios-moon"></i></div>
+            <div class="toggle-moon" title="Dark mode"><ion-icon name="moon-outline"></ion-icon></div>
           </div> -->
           {% else %}
           <div class="toggle-theme toggle-theme-js">
-            <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-            <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+            <div class="toggle-moon" title="Enable dark mode"><ion-icon name="moon-outline"></ion-icon></div>
+            <div class="toggle-sun" title="Enable light mode"><ion-icon name="sunny-outline"></ion-icon></div>
           </div>
           {% endif %}
+
+          <ion-icon name="menu" class="nav__icon icon__menu"></ion-icon>
         </div>
 
       </div>

@@ -1,22 +1,30 @@
 {% assign current_ref = page.ref | default: 'home' %}
 {% assign current_lang = page.language | default: 'es' %}
 {% for lang in site.languages %}
-  {% if lang != current_lang %}
-    {% if lang == 'es' %}
+  {% assign lang_name = '' %}
+  {% assign lang_url = '' %}
+  {% case lang %}
+    {% when 'es' %}
       {% assign lang_url = '/' %}
       {% assign lang_name = 'Español' %}
-    {% elsif lang == 'en' %}
+    {% when 'en' %}
       {% assign lang_url = '/en/' %}
       {% assign lang_name = 'English' %}
-    {% elsif lang == 'cat' %}
+    {% when 'cat' %}
       {% assign lang_url = '/cat/' %}
       {% assign lang_name = 'Català' %}
-    {% endif %}
-    {% assign lang_page = site.pages | where: 'language', lang | where: 'ref', current_ref | first %}
+  {% endcase %}
+
+  {% assign lang_page = site.pages | where: 'language', lang | where: 'ref', current_ref | first %}
+  
+  {% if lang != current_lang %}
     {% if lang_page %}
       <a href="{{ lang_page.url | relative_url }}" class="nav__link{% if page.url == lang_page.url %} active-link{% endif %}">{{ lang_name }}</a>
     {% else %}
       <a href="{{ lang_url | relative_url }}" class="nav__link">{{ lang_name }}</a>
     {% endif %}
+  {% else %}
+    <!-- Output for the current language -->
+    <span class="nav__link current-lang">{{ lang_name }}</span>
   {% endif %}
 {% endfor %}

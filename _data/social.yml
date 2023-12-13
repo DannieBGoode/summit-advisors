@@ -1,13 +1,19 @@
 social:
-  - icon: ion-logo-twitter
+  - name: Twitter
+    icon: logo-twitter
     link: https://twitter.com/_SummitAdvisors
-  - icon: ion-logo-instagram
+  - name: Instagram
+    icon: logo-instagram
     link: https://www.instagram.com/summit_advisors/
-  - icon: ion-logo-linkedin
+  - name: LinkedIn
+    icon: logo-linkedin
     link: https://www.linkedin.com/company/summit-advisors-andorra/
-  - link: mailto:info@summitadvisors.ad
-    icon: ion-md-mail
-  - icon: ion-logo-whatsapp
+  - name: Email
+    icon: mail-outline
+    link: mailto:info@summitadvisors.ad
+  - name: WhatsApp
+    icon: logo-whatsapp
     link: https://wa.me/+376370380?text=%C2%A1Hola%20Summit%20Advisors!
-  - icon: ion-md-paper-plane
+  - name: Telegram
+    icon: paper-plane-outline
     link: https://t.me/summitadvisors

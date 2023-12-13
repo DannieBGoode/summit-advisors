@@ -342,8 +342,9 @@ collections:
           widget: "list"
           collapse: false
           fields:
-            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
-            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
+            - { label: Nombre, name: name, widget: string, hint: 'Nombre de la red social elegida.' }
+            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionic.io/ionicons.' }
+            - { label: Link, name: link, widget: string, hint: 'Enlace a la red social elegida.' }
   - name: "tags"
     label: "Tags"
     files:
