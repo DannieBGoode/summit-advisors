@@ -6,16 +6,13 @@
     </div>
     <div class="cookie-button">
         <button class="btn btn-primary accept-cookies">{{ site.data.cookies[page.language].accept_button }}</button>
+        <button class="btn btn-primary reject-cookies">{{ site.data.cookies[page.language].reject_button }}</button>
     </div>
 </div>
-
 
 <script>
     var siteData = {
         gaMeasurementId: '{{ site.data.global.google-analytics }}'.trim(),
-        // ... any other site data needed
     };
 </script>
-<script defer async src="/js/cookie-consent.js"></script>
-
-
+<script src="/js/cookie-consent.js"></script>

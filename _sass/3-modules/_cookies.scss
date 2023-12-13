@@ -54,6 +54,9 @@
 
 .accept-cookies {
     color: #000;
+    &:hover {
+        color: white;
+    }
 }
 
 /* Center the button and text on mobile */
@@ -76,5 +79,18 @@
     .cookie-overlay {
         bottom: 1rem;
         right: 1rem; /* Keep it at the bottom right on larger screens */
+    }
+}
+.reject-cookies {
+    background-color: transparent; // Light background for less prominence
+    color: white; // Darker text for readability
+    padding: 0.375rem 0.75rem; // Padding consistent with the design
+    font-size: 0.875rem; // Slightly smaller font size than the 'Accept' button
+    line-height: 1.5;
+    border-radius: 0.25rem; // Match the border-radius of the 'Accept' button
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; // Smooth transition for hover effects
+
+    &:hover {
+        color: #5a6268; // Also darken the text a bit on hover
     }
 }

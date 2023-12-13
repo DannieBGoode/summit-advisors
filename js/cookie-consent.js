@@ -18,25 +18,38 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // Function to handle cookie consent
-    function handleCookieConsent() {
+    function handleCookieConsent(consentGiven) {
         var date = new Date();
         date.setTime(date.getTime() + (365*24*60*60*1000)); // Set cookie to expire in one year
         var expires = "expires=" + date.toUTCString();
-        document.cookie = "accepted_cookies=yes; " + expires + "; path=/";
+        var consent = consentGiven ? "yes" : "no";
+        document.cookie = "accepted_cookies=" + consent + "; " + expires + "; path=/";
         cookieOverlay.style.display = "none";
-        loadGoogleAnalytics();
+        
+        if (consentGiven) {
+            loadGoogleAnalytics();
+        }
     }
 
     // Check for existing consent or load GA if consented
     if (document.cookie.indexOf("accepted_cookies=yes") !== -1) {
         loadGoogleAnalytics();
-    } else {
+    } else if (document.cookie.indexOf("accepted_cookies=no") === -1) {
+        // Only display the cookie overlay if there is no cookie set to 'no'
         cookieOverlay.style.display = "flex";
     }
 
+
     // Event listeners
-    document.querySelector(".accept-cookies").addEventListener("click", handleCookieConsent);
+    document.querySelector(".accept-cookies").addEventListener("click", function() {
+        handleCookieConsent(true);
+    });
+    document.querySelector(".reject-cookies").addEventListener("click", function() {
+        handleCookieConsent(false);
+    });
     document.querySelector(".close-cookies").addEventListener("click", function() {
         cookieOverlay.style.display = "none";
     });
 });
+
+
