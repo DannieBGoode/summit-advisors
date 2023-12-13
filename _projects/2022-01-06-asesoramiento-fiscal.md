@@ -1,12 +1,12 @@
 ---
+language: es
 title: Asesoramiento Fiscal
 subtitle: Elaboración de informes, consultas...
 description: " Expertise en asesoramiento fiscal, especializados en la
   elaboración de informes detallados y consultas personalizadas para optimizar
   tu estrategia tributaria."
 date: 2022-01-06 08:01:35 +0300
-image: /assets/uploads/asesoramiento-fiscal.avif
-language: es
+image: /assets/uploads/andorra-skii.webp
 ---
 Summit Advisors se especializa en proporcionar **asesoramiento fiscal de alta calidad**, ofreciendo una gama de servicios para garantizar que tus obligaciones tributarias estén optimizadas y en conformidad con la legislación vigente.
 
