@@ -1,43 +1,43 @@
 <div class="form-box">
-    <div class="contact-head">
-      {% assign description_key = 'description_' | append: page.language %}
-      {% assign description = site.data.contact[description_key] %}
-      {% if description %}
-        <p class="contact-description">{{ description }}</p>
-      {% endif %}
-    </div>
-    <form class="form" name="contact" netlify>
-      {% assign name_key = 'name_' | append: page.language %}
-      {% assign email_key = 'email_' | append: page.language %}
-      {% assign message_key = 'message_' | append: page.language %}
-      <div class="form__group">
-        <label class="form__label screen-reader-text" for="form-name">{{ site.data.contact[name_key] }}</label>
-        <input class="form__input" id="form-name" type="text" name="name" placeholder="{{ site.data.contact[name_key] }}" required>
-      </div>
-      <div class="form__group">
-        <label class="form__label screen-reader-text" for="form-email">{{ site.data.contact[email_key] }}</label>
-        <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="{{ site.data.contact[email_key] }}" required>
-      </div>
-      <div class="form__group">
-        <label class="form__label screen-reader-text" for="form-text">{{ site.data.contact[message_key] }}</label>
-        <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="{{ site.data.contact[message_key] }}" required></textarea>
-      </div>
-      <div>
-        {% assign language_map = 'en:Inglés,es:Español,cat:Catalán' | split: ',' %}
-        {% assign current_language = page.language | default: 'es' %}
-        {% for item in language_map %}
-          {% assign key_value = item | split: ':' %}
-          {% if key_value[0] == current_language %}
-            <input type="hidden" name="Idioma" value="{{ key_value[1] }}">
-          {% endif %}
-        {% endfor %}
-      </div>
-      <div class="form__group">
-        {% assign send_key = 'send_' | append: page.language %}
-        <button class="button button--primary" type="submit">{{ site.data.contact[send_key] }}</button>
-      </div>
-    </form>
+  <div class="contact-head">
+    {% assign description_key = 'description_' | append: page.language %}
+    {% assign description = site.data.contact[description_key] %}
+    {% if description %}
+      <p class="contact-description">{{ description }}</p>
+    {% endif %}
   </div>
+  <form class="form" name="contact" netlify>
+    {% assign name_key = 'name_' | append: page.language %}
+    {% assign email_key = 'email_' | append: page.language %}
+    {% assign message_key = 'message_' | append: page.language %}
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-name">{{ site.data.contact[name_key] }}</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="{{ site.data.contact[name_key] }}" required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-email">{{ site.data.contact[email_key] }}</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="{{ site.data.contact[email_key] }}" required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-text">{{ site.data.contact[message_key] }}</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="{{ site.data.contact[message_key] }}" required></textarea>
+    </div>
+    <div>
+      {% assign language_map = 'en:Inglés,es:Español,cat:Catalán' | split: ',' %}
+      {% assign current_language = page.language | default: 'es' %}
+      {% for item in language_map %}
+        {% assign key_value = item | split: ':' %}
+        {% if key_value[0] == current_language %}
+          <input type="hidden" name="Idioma" value="{{ key_value[1] }}">
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="form__group">
+      {% assign send_key = 'send_' | append: page.language %}
+      <button class="button button--primary" type="submit">{{ site.data.contact[send_key] }}</button>
+    </div>
+  </form>
+</div>
   <script>
     function isValidEmail(email) {
       var pattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -55,3 +55,46 @@
       }
     });
   </script>
+
+
+{% assign direction_key = 'direction_' | append: page.language %}
+{% assign contact_key = 'direction_' | append: page.language %}
+{% assign hours_key = 'hours_' | append: page.language %}
+{% assign hours_body_key = 'hours_body_' | append: page.language %}
+
+<div>
+  <div class="contact-info">
+    <div class="contact-info__column">
+      <div class="contact-info__title"><ion-icon name="home"></ion-icon> <strong>{{ site.data.contact[direction_key] }}</strong></div>
+      <address class="contact-info__address">
+        {{ site.data.contact.direction | markdownify }}
+      </address>
+    </div>
+    <div class="contact-info__column">
+      <div class="contact-info__title"><ion-icon name="time"></ion-icon> <strong>{{ site.data.contact[hours_key] }}</strong></div>
+      <div class="contact-info__hours">
+        {{ site.data.contact[hours_body_key] | markdownify }}
+      </div>
+    </div>
+    <div class="contact-info__column">
+      <div class="contact-info__title"><ion-icon name="call"></ion-icon> <strong>{{ site.data.contact[contact_key] }}</strong></div>
+      <div class="contact-info__contact">
+        <p>
+          <a href="tel:{{ site.data.contact.phone1 | remove: ' ' }}">{{ site.data.contact.phone1 }}</a><br>
+          <a href="tel:{{ site.data.contact.phone2 | remove: ' ' }}">{{ site.data.contact.phone2 }}</a>
+        </p>
+        {% for social in site.data.social.social %}
+          {% if social.name == 'Email' %}
+            <p>
+              <a href="{{ social.link }}">{{ social.link | replace: 'mailto:', '' }}</a>
+            </p>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>  
+  <div class="office-map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2941.2251390764404!2d1.5229864642262831!3d42.50802332550625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a58b0bec780f25%3A0x9be036dd947957b8!2sSUMMIT%20ADVISORS!5e0!3m2!1sen!2sad!4v1702503919968!5m2!1sen!2sad" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</div>

@@ -296,14 +296,20 @@ collections:
     editor:
       preview: false
     files:
-    - label: "Contacto"
-      name: "contact"
-      file: "_data/contact.yml"
-      fields: 
-        - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera de la página de Contacto' }
-        - { label: "Descripción (Español)", name: body_es, widget: text, hint: 'Descripción del formulario de contacto (español)' }
-        - { label: "Descripción (Inglés)", name: body_en, widget: text, hint: 'Descripción del formulario de contacto (inglés)' }
-        - { label: "Descripción (Catalàn)", name: body_cat, widget: text, hint: 'Descripción del formulario de contacto (catalán)' }
+      - label: "Contacto"
+        name: "contact"
+        file: "_data/contact.yml"
+        fields: 
+          - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera de la página de Contacto' }
+          - { label: "Descripción (Español)", name: "body_es", widget: "text", hint: 'Descripción del formulario de contacto (español)' }
+          - { label: "Descripción (Inglés)", name: "body_en", widget: "text", hint: 'Descripción del formulario de contacto (inglés)' }
+          - { label: "Descripción (Catalàn)", name: "body_cat", widget: "text", hint: 'Descripción del formulario de contacto (catalán)' }
+          - { label: "Dirección", name: "direction", widget: "string", hint: 'Dirección física del contacto' }
+          - { label: "Horario (Español)", name: "hours_body_es", widget: "text", hint: 'Horario de apertura (español)' }
+          - { label: "Horario (Inglés)", name: "hours_body_en", widget: "text", hint: 'Horario de apertura (inglés)' }
+          - { label: "Horario (Catalàn)", name: "hours_body_cat", widget: "text", hint: 'Horario de apertura (catalán)' }
+          - { label: "Telefono de Contacto #1", name: "phone1", widget: "text", hint: 'Telefóno de contacto principal', required: false }
+          - { label: "Telefono de Contacto #2", name: "phone1", widget: "text", hint: 'Telefóno de contacto secundario', required: false }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
@@ -342,8 +348,9 @@ collections:
           widget: "list"
           collapse: false
           fields:
-            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionicons.com/v4/ , usar el mismo formato (ion- delante del nombre del icono).' }
-            - { label: Link, name: link, widget: string, hint: "Enlace a la red social elegida." }
+            - { label: Nombre, name: name, widget: string, hint: 'Nombre de la red social elegida.' }
+            - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionic.io/ionicons.' }
+            - { label: Link, name: link, widget: string, hint: 'Enlace a la red social elegida.' }
   - name: "tags"
     label: "Tags"
     files:

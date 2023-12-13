@@ -41,3 +41,75 @@
     background-color: transparent;
   }
 }
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+  margin-bottom: 20px;
+  background-color: #f0f0f0; // Slightly off-white background for light mode
+  color: var(--heading-font-color); // Use variable for text color
+  html.dark-mode & {
+    background-color: #1a1a1f; // Dark mode background, slightly lighter than #111016
+    color: #fff; // Dark mode text color
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); // Darker shadow for contrast in dark mode
+
+    .contact-info__title, .contact-info__title strong {
+      color: #fff; // White color for titles in dark mode
+    }
+  }
+}
+
+.contact-info__column {
+  flex: 1;
+  padding: 0 10px;
+  text-align: center;;
+}
+
+.contact-info__column > div:first-child {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.contact-info__title {
+  ion-icon {
+    font-size: 1.2em;
+    margin-right: 9px;
+    position: relative;
+    bottom: 2px;
+  }
+}
+
+
+.contact-info__column > div:first-child strong {
+  font-size: 1.2em; /* Slightly larger text for headers */
+  margin-bottom: 5px;
+  color: #333; /* Darker color for text */
+}
+
+.contact-info__address,
+.contact-info__hours,
+.contact-info__contact {
+  margin-bottom: 10px;
+  font-size: 0.9em; /* Slightly smaller font size for content */
+}
+
+.contact-info__contact a {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .contact-info {
+    flex-direction: column;
+  }
+
+  .contact-info__column {
+    margin-bottom: 10px;
+  }
+}
+.office-map {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+}

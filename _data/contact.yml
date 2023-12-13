@@ -12,6 +12,37 @@ message_cat: El teu Missatge
 send_es: Enviar
 send_en: Send
 send_cat: Enviar
+direction_es: Dirección
+direction_en: Address
+direction_cat: Adreça
+hours_es: Horario
+hours_en: Hours
+hours_cat: Horari
+contact_es: Contacto
+contact_en: Contact
+contact_cat: Contacte
+phone1: "+376 370380"
+phone2: "+376 885080"
+direction: >-
+   C/ la Llacuna, 2, 4B
+
+
+   AD500 – Andorra la Vella
+   Principat d’Andorra 
+hours_body_es: >-
+  De lunes a jueves: 09:00h a 18:00h
+
+
+  Viernes: 09:00h a 15:00h
+hours_body_en: >-
+  Monday to Thursday: 09:00 AM to 06:00 PM
+
+
+  Friday: 09:00 AM to 03:00 PM
+hours_body_cat: >-
+  De dilluns a dijous: 09:00h a 18:00h
+
+  Divendres: 09:00h a 15:00h
 body_es: >-2
    ¡Estamos aquí para ayudarte!
 
