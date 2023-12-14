@@ -56,6 +56,11 @@ collections:
           required: false
           widget: string
           hint: 'En la homepage, en la sección de Testimonios'
+        - label: "Mostrar Imagenes de Clientes"
+          name: "testimonial__show_images"
+          widget: "boolean"
+          hint: 'Mostrar las imagenes de los clientes en la sección de Testimonios (o esconderlos)'
+          default: true
         - label: "Testimonios de Clientes"
           name: "testimonial__items"
           widget: "list"

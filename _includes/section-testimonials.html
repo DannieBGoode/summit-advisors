@@ -23,7 +23,7 @@
             <div class="testimonial-item">
               <div class="testimonial-content">
                 <div class="client-meta">
-                  {% if item.image %}
+                  {% if item.image and testimonial__show_images %}
                     <div class="image-container">
                       <img class="client-avatar" src="{{ item.image | relative_url }}" alt="{{ item.name }}" loading="lazy">
                     </div>
