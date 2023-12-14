@@ -26,17 +26,7 @@
   font-size: 1em;
 }
 .calculator-child {
-    .button--primary {
-      /* Existing styles + make it more prominent */
-      background-color: #0044cc;
-      color: white;
-      padding: 10px 15px;
-      font-size: 1em;
-      @media (max-width: 576px) {
-        margin-top: 50px;
-      }
-      
-    }
+
     /* For hero__subscribe */
     .hero__subscribe {
       &.calculator {
@@ -152,6 +142,26 @@
           text-align: right;
         }
       }
+    }
+  }
+}
+/* Additional styles for quick buttons */
+.quick-buttons {
+  margin-top: 10px;
+  button {
+    margin: 0 5px;
+    padding: 8px 12px;
+    background-color: var(--brand-color);
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    &:hover {
+      background-color: #003399; /* Darker shade of the brand color for hover state */
+    }
+    &:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px rgba(0, 68, 204, 0.3); /* Assuming --brand-color is #0044cc */
     }
   }
 }

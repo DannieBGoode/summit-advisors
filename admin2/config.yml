@@ -230,7 +230,7 @@ collections:
         - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
     - label: "Calculadora (Textos)"
       name: "calculator_text"
-      file: "_data/calculator_text.yml"
+      file: "_data/calculator.yml"
       fields: 
         - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera en las páginas de Calculadora' }
         - { label: "Descripción (Español)", name: "description_es", widget: "string", hint: 'Descripción breve de la página de Calculadora (Español)' }
