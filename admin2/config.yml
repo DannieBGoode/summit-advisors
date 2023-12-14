@@ -219,7 +219,7 @@ collections:
       preview: false
     files:
     - label: "Calculadora (Parámetros)"
-      name: "calculator"
+      name: "calculator_parameters"
       file: "_data/calculator.yml"
       fields: 
         - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
@@ -229,7 +229,7 @@ collections:
         - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
         - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
     - label: "Calculadora (Textos)"
-      name: "calculator"
+      name: "calculator_text"
       file: "_data/calculator_text.yml"
       fields: 
         - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera en las páginas de Calculadora' }
