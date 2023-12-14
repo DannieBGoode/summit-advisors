@@ -34,10 +34,15 @@
     border-color: var(--gray);
   }
 }
+@media (max-width: $mobile) {
+  .subscribe-form .subscribe-email::placeholder {
+    font-size: 12px; /* Smaller font size for placeholder */
+  }
+}
 
 /* Calculator specific styles */
 .calculator-child {
-  min-width: 400px;
+  min-width: 340px;
   margin-bottom: 300px;
   padding: 2rem;
   border-radius: 8px;
@@ -62,12 +67,16 @@
       }
       .subscribe-form {
         font-size: 14px;
+      
         label {
-          color: white;
-          font-weight: 200;
           margin-bottom: 15px;
         }
-      }
+      
+        html.dark-mode & label {
+          font-weight: 200;
+          color: white;
+        }
+      }      
     }
   }
 }
