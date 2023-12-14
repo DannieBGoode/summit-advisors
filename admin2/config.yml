@@ -137,6 +137,7 @@ collections:
         - label: "Imagen"
           name: "image"
           widget: "image"
+          required: false
           hint: 'Imagen de cabecera en las páginas de Nosotros / About'
         - label: "Descripción (Español)"
           name: "description_es"
@@ -189,6 +190,7 @@ collections:
           name: "image"
           widget: "image"
           hint: 'Imagen de cabecera en las páginas de Andorra'
+          required: false
         - label: "Descripción (Español)"
           name: "description_es"
           widget: "string"
@@ -232,7 +234,7 @@ collections:
       name: "calculator_text"
       file: "_data/calculator.yml"
       fields: 
-        - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera en las páginas de Calculadora' }
+        - { label: "Imagen", name: "image", widget: "image", required: false, hint: 'Imagen de cabecera en las páginas de Calculadora' }
         - { label: "Descripción (Español)", name: "description_es", widget: "string", hint: 'Descripción breve de la página de Calculadora (Español)' }
         - { label: "Descripción (Inglés)", name: "description_en", widget: "string", hint: 'Descripción breve de la página de Calculadora (Inglés)' }
         - { label: "Descripción (Catalán)", name: "description_cat", widget: "string", hint: 'Descripción breve de la página de Calculadora (Catalán)' }
@@ -307,7 +309,7 @@ collections:
         name: "contact"
         file: "_data/contact.yml"
         fields: 
-          - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera de la página de Contacto' }
+          - { label: "Imagen", name: "image", widget: "image", required: false, hint: 'Imagen de cabecera de la página de Contacto' }
           - { label: "Descripción (Español)", name: "body_es", widget: "text", hint: 'Descripción del formulario de contacto (español)' }
           - { label: "Descripción (Inglés)", name: "body_en", widget: "text", hint: 'Descripción del formulario de contacto (inglés)' }
           - { label: "Descripción (Catalàn)", name: "body_cat", widget: "text", hint: 'Descripción del formulario de contacto (catalán)' }
