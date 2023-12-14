@@ -34,11 +34,16 @@
     border-color: var(--gray);
   }
 }
-@media (max-width: $mobile) {
-  .subscribe-form .subscribe-email::placeholder {
+  
+.subscribe-form .subscribe-email::placeholder {
+  html:not(.dark-mode) & {
+    color: var(--dark);
+  }
+  @media (max-width: $mobile) {
     font-size: 12px; /* Smaller font size for placeholder */
   }
 }
+
 
 /* Calculator specific styles */
 .calculator-child {
