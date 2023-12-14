@@ -4,7 +4,7 @@ testimonial__title_cat: Què diuen els nostres clients
 testimonial__description_es: null
 testimonial__description_en: null
 testimonial__description_cat: null
-testimonial__show_images: false
+testimonial__show_images: true
 testimonial__items:
   - name: Tatiana Hernandez
     designation_cat: Diseñadora Digital
