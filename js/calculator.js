@@ -77,3 +77,11 @@ function calculate() {
 
     document.getElementsByClassName("result")[0].style.display = "block";
 }
+function setGrossSalary(amount) {
+    const grossSalaryInput = document.getElementById('gross-salary-input');
+    if (grossSalaryInput) {
+      grossSalaryInput.value = amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+      calculate(); // Trigger calculation, assuming you have this function defined
+    }
+  }
+  

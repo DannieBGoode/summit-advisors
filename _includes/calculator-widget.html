@@ -1,4 +1,5 @@
 {% assign lang_prefix = page.language | default: 'es' %}
+{% assign calculadora_titulo_key = 'calculadora_titulo_' | append: lang_prefix %}
 {% assign calcula_key = 'calcula_' | append: lang_prefix %}
 {% assign sueldoBruto_key = 'sueldoBruto_' | append: lang_prefix %}
 {% assign introduce_key = 'introduce_' | append: lang_prefix %}
@@ -34,10 +35,16 @@
 	<div class="flex-center calculator-child">
 		<div class="hero__subscribe calculator">
 			<form class="subscribe-form" action="javascript:void(0);">
-				<label class="form-label" for="gross-salary-input">{{ calculatorTexts[sueldoBruto_key] }}</label>
-				<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="Ejemplo: 30000" min="1" step="any" onkeyup="addCommas()">
-				<small class="input-description">{{ calculatorTexts[introduce_key] }}</small>
-				<button class="button button--primary button--small subscribe-button" onclick="calculate()">{{ calculatorTexts[calcular_key] }}</button>
+				<label class="form-label" for="gross-salary-input">{{ calculatorTexts[calculadora_titulo_key] }}</label>
+				<input class="subscribe-email required email" id="gross-salary-input" type="text" name="gross-salary" placeholder="{{ calculatorTexts[introduce_key] }}" min="1" step="any" onkeyup="addCommas()">
+				<button class="button button--primary button--small subscribe-button calculate-button" onclick="calculate()">{{ calculatorTexts[calcular_key] }}</button>
+				<small class="input-description">{{ calculatorTexts.introduce_key }}</small>
+				<div class="quick-buttons">
+					<button type="button" onclick="setGrossSalary(60000)">€60.000</button>
+					<button type="button" onclick="setGrossSalary(150000)">€150.000</button>
+					<button type="button" onclick="setGrossSalary(350000)">€350.000</button>
+					<button type="button" onclick="setGrossSalary(500000)">€500.000</button>
+				</div>
 			</form>
 		</div>
 	</div>
