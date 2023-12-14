@@ -220,7 +220,7 @@ collections:
     files:
     - label: "Calculadora (Parámetros)"
       name: "calculator_parameters"
-      file: "_data/calculator.yml"
+      file: "_data/calculator_parameters.yml"
       fields: 
         - { label: tramo Mínimo, name: tramoMin, widget: number, hint: 'En Euros, por ejemplo 24000' }
         - { label: tramo Máximo, name: tramoMax, widget: number, hint: 'En Euros, por ejemplo 40000' }
