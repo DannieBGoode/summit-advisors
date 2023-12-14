@@ -56,6 +56,11 @@ collections:
           required: false
           widget: string
           hint: 'En la homepage, en la sección de Testimonios'
+        - label: "Mostrar Imagenes de Clientes"
+          name: "testimonial__show_images"
+          widget: "boolean"
+          hint: 'Mostrar las imagenes de los clientes en la sección de Testimonios (o esconderlos)'
+          default: true
         - label: "Testimonios de Clientes"
           name: "testimonial__items"
           widget: "list"
@@ -64,7 +69,7 @@ collections:
           - { label: Oficio (Español), name: designation_es, widget: string, hint: 'Ocupación' }
           - { label: Oficio (Inglés), name: designation_en, widget: string, hint: 'Ocupación' }
           - { label: Oficio (Catalán), name: designation_cat, widget: string, hint: 'Ocupación' }
-          - { label: Hero Image, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona' }
+          - { label: Imagen, name: image, widget: image, choose_url: true, hint: 'Imagen de la persona', required: false }
           - { label: Link, name: link, widget: string, hint: 'Enlace externo que representa a la persona', required: false }
           - { label: Testimonio (Español), name: content_es, widget: string, hint: 'Testimonio, una sola frase.' }
           - { label: Testimonio (Inglés), name: content_en, widget: string, hint: 'Testimonio, una sola frase.' }
@@ -223,8 +228,10 @@ collections:
         - { label: tributacion Tramo Máximo, name: tributacionMax, widget: number, hint: 'En porcentaje, por ejemplo 10' }
         - { label: impuesto de Sociedades, name: impuestoSociedades, widget: number, hint: 'En porcentaje, por ejemplo 10' }
         - { label: Seguridad Social como Autónomo, name: seguridadSocial, widget: number, hint: 'En Euros, por ejemplo 502.63', value_type: float }
-        - { label: Texto Botón, name: placeholder, widget: string, hint: 'Texto de placeholder dentro del input cuando no hay nada escrito.' }
-        - { label: Botón, name: buttonCTA, widget: string, hint: 'Texto del botón' }
+    - label: "Calculadora (Textos)"
+      name: "calculator"
+      file: "_data/calculator_text.yml"
+      fields: 
         - { label: "Imagen", name: "image", widget: "image", hint: 'Imagen de cabecera en las páginas de Calculadora' }
         - { label: "Descripción (Español)", name: "description_es", widget: "string", hint: 'Descripción breve de la página de Calculadora (Español)' }
         - { label: "Descripción (Inglés)", name: "description_en", widget: "string", hint: 'Descripción breve de la página de Calculadora (Inglés)' }

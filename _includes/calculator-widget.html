@@ -4,6 +4,7 @@
 {% assign introduce_key = 'introduce_' | append: lang_prefix %}
 {% assign calcular_key = 'calcular_' | append: lang_prefix %}
 {% assign calculatorTexts = site.data.calculator.textos %}
+{% assign calculatorParameters = site.data.calculator_parameters %}
 {% assign queImpuestos_key = 'queImpuestos_' | append: lang_prefix %}
 {% assign irpf_key = 'irpf_' | append: lang_prefix %}
 {% assign irpf_description_key = 'irpf_description_' | append: lang_prefix %}
@@ -50,7 +51,7 @@
 			{{ calculatorTexts[texto4_key] }}
 			<b><span class="net-salary-monthly"></span> {{ calculatorTexts[texto5_key] }}</b>
 			{{ calculatorTexts[texto6_key] }}
-			{{ site.data.calculator.seguridadSocial }}
+			{{ calculatorParameters.seguridadSocial }}
 			{{ calculatorTexts[texto7_key] }}
 			<span class="tax"></span> {{ calculatorTexts[texto8_key] }}
 		</div>
@@ -94,16 +95,16 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>{{ calculatorTexts[hasta_key] }} {{ site.data.calculator.tramoMin }} €</td>
+							<td>{{ calculatorTexts[hasta_key] }} {{ calculatorParameters.tramoMin }} €</td>
 							<td>0%</td>
 						</tr>	
 						<tr>
-							<td>{{ calculatorTexts[de_key] }} {{ site.data.calculator.tramoMin }} € {{ calculatorTexts[a_key] }} {{ site.data.calculator.tramoMax }} €</td>
-							<td>{{ site.data.calculator.tributacionMin }}%</td>
+							<td>{{ calculatorTexts[de_key] }} {{ calculatorParameters.tramoMin }} € {{ calculatorTexts[a_key] }} {{ calculatorParameters.tramoMax }} €</td>
+							<td>{{ calculatorParameters.tributacionMin }}%</td>
 						</tr>	
 						<tr>
-							<td>De {{ site.data.calculator.tramoMax }} € {{ calculatorTexts[adelante_key] }}</td>
-							<td>{{ site.data.calculator.tributacionMax }}%</td>
+							<td>De {{ calculatorParameters.tramoMax }} € {{ calculatorTexts[adelante_key] }}</td>
+							<td>{{ calculatorParameters.tributacionMax }}%</td>
 						</tr>	
 					</tbody>
 				</table>
@@ -113,8 +114,8 @@
 			{% capture body_key %}body_lower_{{ page.language }}{% endcapture %}
 			{% assign body_text = site.data.calculator[body_key] %}
 
-			{% assign impuestoSociedades_value = site.data.calculator.impuestoSociedades %}
-			{% assign seguridadSocial_value = site.data.calculator.seguridadSocial %}
+			{% assign impuestoSociedades_value = calculatorParameters.impuestoSociedades %}
+			{% assign seguridadSocial_value = calculatorParameters.seguridadSocial %}
 
 			{% assign body_text_with_values = body_text | replace: 'IMPUESTO_DE_SOCIEDADES', impuestoSociedades_value | replace: 'SEGURIDAD_SOCIAL', seguridadSocial_value %}
 
@@ -126,11 +127,11 @@
 </div>
 
 <script>
-	const tramoMin = parseInt("{{ site.data.calculator.tramoMin }}");
-	const tramoMax = parseInt("{{ site.data.calculator.tramoMax }}");
-	const tributacionMin = parseFloat(parseInt("{{ site.data.calculator.tributacionMin }}")) / 100;
-	const tributacionMax = parseFloat(parseInt("{{ site.data.calculator.tributacionMax }}")) / 100;
-	const socialSecurity = parseInt("{{ site.data.calculator.seguridadSocial }}");
+	const tramoMin = parseInt("{{ calculatorParameters.tramoMin }}");
+	const tramoMax = parseInt("{{ calculatorParameters.tramoMax }}");
+	const tributacionMin = parseFloat(parseInt("{{ calculatorParameters.tributacionMin }}")) / 100;
+	const tributacionMax = parseFloat(parseInt("{{ calculatorParameters.tributacionMax }}")) / 100;
+	const socialSecurity = parseInt("{{ calculatorParameters.seguridadSocial }}");
 </script>
 
 <script src="/js/calculator.js"/>
