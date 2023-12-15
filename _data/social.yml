@@ -9,11 +9,11 @@ social:
     icon: logo-linkedin
     link: https://www.linkedin.com/company/summit-advisors-andorra/
   - name: Email
-    icon: mail-outline
+    icon: mail
     link: mailto:info@summitadvisors.ad
   - name: WhatsApp
     icon: logo-whatsapp
     link: https://wa.me/+376370380?text=%C2%A1Hola%20Summit%20Advisors!
   - name: Telegram
-    icon: paper-plane-outline
+    icon: paper-plane
     link: https://t.me/summitadvisors
