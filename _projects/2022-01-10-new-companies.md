@@ -38,10 +38,12 @@ At **Summit Advisors**, we understand that **creating a company or limited liabi
 * Feasibility study of your business project.
 * Drafting and formalization of your company's statutes.
 * Management of the reservation of the corporate name and Administrative Identification Number.
-* Application and processing of direct foreign investment permit.
+* Application and processing of authorization for direct foreign investment.
+* Application and processing to obtain the qualification of a company that promotes the digital economy.
 * Support in opening bank accounts and establishing financial relationships.
 * Assistance during the incorporation of the company before a notary.
 * Registration of the company in the Commercial Register.
-* Management of commercial licenses with local authorities, if necessary.
+* Management of commercial licenses with local authorities.
+* Processing of residence and work permits.
 
 **Summit Advisors** is your ally in transforming your business vision into a tangible reality in Andorra. With our guidance and support, you'll be ready to explore and conquer new business horizons.`
