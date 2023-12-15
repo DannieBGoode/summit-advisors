@@ -39,11 +39,11 @@ En **Summit Advisors**, comprendemos que **crear una empresa o sociedad limitada
 * Redacción y formalización de los estatutos de tu empresa.
 * Gestión de la reserva de denominación social y Número de Identificación Administrativa.
 * Solicitud y tramitación de la autorización de inversión extranjera directa.
-* Solicitud y tramitación para obtener la calificación de sociedad que promueve la economía digital, si aplica.
+* Solicitud y tramitación para obtener la calificación de sociedad que promueve la economía digital.
 * Apoyo en la apertura de cuentas bancarias y establecimiento de relaciones financieras.
 * Asistencia durante la constitución de la sociedad ante notario.
 * Inscripción de la empresa en el Registro Mercantil.
-* Gestión de licencias comerciales con las autoridades locales, si aplica.
+* Gestión de licencias comerciales con las autoridades locales.
 * Tramitación del permiso de residencia y trabajo.
 
 **Summit Advisors** es tu aliado para transformar tu visión empresarial en una realidad tangible en Andorra. Con nuestra guía y soporte, estarás listo para explorar y conquistar nuevos horizontes comerciales.
