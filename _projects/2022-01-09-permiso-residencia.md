@@ -20,21 +20,24 @@ Summit Advisors ofrece un **servicio integral** para la obtención de permisos d
 
 #### **Residencias Activas**
 
-1. **Residencia y Trabajo por Cuenta Propia:**
+**Residencia y Trabajo por Cuenta Propia:**
 
-   * Necesario poseer más del 34% del capital social de una empresa andorrana.
-   * Obligatorio formar parte del órgano de administración.
-   * Requerido un depósito de 50.000 € en la AFA (Autoridad Financiera Andorrana).
-   * Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
-   * Ejercer una actividad económica por cuenta de la sociedad.
-   * Presentación del certificado de antecedentes penales, tanto del país de origen como de donde se haya residido.
-   * Certificación del estado civil.
-2. **Residencia y Trabajo por Cuenta de Tercero:**
+* Necesario poseer más del 34% del capital social de una empresa andorrana.
+* Obligatorio formar parte del órgano de administración.
+* Requerido un depósito de 50.000 € en la AFA (Autoridad Financiera Andorrana).*
+* Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
+* Ejercer una actividad económica por cuenta de la sociedad.
+* Presentación del certificado de antecedentes penales, tanto del país de origen como de donde se haya residido.
+* Certificación del estado civil.
 
-   * Disponer de un contrato de trabajo de una empresa establecida en Andorra.
-   * Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
-   * Presentación del certificado de antecedentes penales, tanto del país de origen como de donde se haya residido.
-   * Certificación del estado civil.
+\*En el caso de constituir una sociedad que promueve la economía digital, la emprendeduría o el emprendimiento, no es necesario llevar a cabo ningún depósito a la Autoridad Financiera Andorrana.
+
+**Residencia y Trabajo por Cuenta de Tercero:**
+
+* Disponer de un contrato de trabajo de una empresa establecida en Andorra.
+* Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
+* Presentación del certificado de antecedentes penales, tanto del país de origen como de donde se haya residido.
+* Certificación del estado civil.
 
 #### **Residencias Pasivas**
 
