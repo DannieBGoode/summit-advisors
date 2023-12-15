@@ -46,4 +46,4 @@ At **Summit Advisors**, we understand that **creating a company or limited liabi
 * Management of commercial licenses with local authorities.
 * Processing of residence and work permits.
 
-**Summit Advisors** is your ally in transforming your business vision into a tangible reality in Andorra. With our guidance and support, you'll be ready to explore and conquer new business horizons.`
+**Summit Advisors** is your ally in transforming your business vision into a tangible reality in Andorra. With our guidance and support, you'll be ready to explore and conquer new business horizons.
