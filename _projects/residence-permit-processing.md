@@ -25,7 +25,7 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 
 **Active Residences**
 
-1. **Self-Employed Residence and Work**:
+**Self-Employed Residence and Work**:
 
 * Must own more than 34% of the share capital of an Andorran company.
 * Must be part of the management board.
@@ -34,15 +34,17 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 * Engage in economic activity on behalf of the company.
 * Submission of a criminal record certificate from both the home country and any country of residence.
 * Civil status certification.
-
-\*If establishing a company promoting the digital economy, entrepreneurship, or innovation, no deposit to the Andorran Financial Authority is necessary.
+* \*If establishing a company promoting the digital economy, entrepreneurship, or innovation, no deposit to the Andorran Financial Authority is necessary.
 
 2. **Third-Party Employment Residence and Work**:
 
-* Must have an employment contract with a company established in Andorra.
-* Must have a rental contract or be a property owner in Andorra.
-* Submission of a criminal record certificate from both the home country and any country of residence.
-* Civil status certification.
+Must have an employment contract with a company established in Andorra.
+
+Must have a rental contract or be a property owner in Andorra.
+
+Submission of a criminal record certificate from both the home country and any country of residence.
+
+Civil status certification.
 
 ###### **Non Lucrative Residences**
 
