@@ -36,7 +36,7 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 
 \*If establishing a company promoting the digital economy, entrepreneurship, or innovation, no deposit to the Andorran Financial Authority is necessary.
 
-\    2. ***Third-Party Employment Residence and Work***:
+   2. ***Third-Party Employment Residence and Work***:
 
 * Must have an employment contract with a company established in Andorra.
 * Must have a rental contract or be a property owner in Andorra.
