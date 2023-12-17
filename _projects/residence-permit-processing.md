@@ -7,7 +7,7 @@ description: Residence Permit Processing
 date: 2023-12-17T16:58:12.126Z
 image: /assets/uploads/residencia.jpg
 ---
-> Summit Advisors offers a **comprehensive service** for obtaining residence permits in the Principality of Andorra. Our team of professionals has extensive experience and is highly qualified to guide you through every step of the process.
+Summit Advisors offers a **comprehensive service** for obtaining residence permits in the Principality of Andorra. Our team of professionals has extensive experience and is highly qualified to guide you through every step of the process.
 
 **What Sets Us Apart?**
 
@@ -21,9 +21,9 @@ image: /assets/uploads/residencia.jpg
 
 **Updated Knowledge of Regulations**: We stay up-to-date with Andorra’s laws and regulations, providing you with the most accurate and current information.
 
-###### **Type of Residence Permits We Handle**
+**Type of Residence Permits We Handle**
 
-###### **Active Residences**
+**Active Residences**
 
 1. **Self-Employed Residence and Work**:
 
@@ -37,7 +37,7 @@ image: /assets/uploads/residencia.jpg
 
 \*If establishing a company promoting the digital economy, entrepreneurship, or innovation, no deposit to the Andorran Financial Authority is necessary.
 
-\    2. **Third-Party Employment Residence and Work**:
+2. **Third-Party Employment Residence and Work**:
 
 * \    Must have an employment contract with a company established in Andorra.
 * \    Must have a rental contract or be a property owner in Andorra.
