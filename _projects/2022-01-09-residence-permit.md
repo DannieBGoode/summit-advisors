@@ -20,8 +20,6 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 
 **Updated Knowledge of Regulations**: We stay up-to-date with Andorra's laws and regulations, providing you with the most accurate and current information.
 
-
-
 ###### **Type of Residence Permits We Handle**
 
 **Active Residences**
