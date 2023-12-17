@@ -22,7 +22,7 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 
 ###### **Type of Residence Permits We Handle**
 
-**Active Residences**
+***Active Residences***
 
 1. ***Self-Employed Residence and Work***:
 
@@ -43,7 +43,7 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 * Submission of a criminal record certificate from both the home country and any country of residence.
 * Civil status certification.
 
-**Non Lucrative Residences**
+***Non Lucrative Residences***
 
 **Residence without Profitable Activity**: Ideal for those spending limited time in the country.
 
