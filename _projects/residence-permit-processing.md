@@ -7,7 +7,7 @@ description: Residence Permit Processing
 date: 2023-12-17T16:58:12.126Z
 image: /assets/uploads/residencia.jpg
 ---
-Summit Advisors offers a **comprehensive service** for obtaining residence permits in the Principality of Andorra. Our team of professionals has extensive experience and is highly qualified to guide you through every step of the process.
+> Summit Advisors offers a **comprehensive service** for obtaining residence permits in the Principality of Andorra. Our team of professionals has extensive experience and is highly qualified to guide you through every step of the process.
 
 **What Sets Us Apart?**
 
@@ -44,8 +44,6 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 * \    Submission of a criminal record certificate from both the home country and any country of residence.
 * \    Civil status certification.
 
-
-
 ###### **Non Lucrative Residences**
 
 1. **Residence without Profitable Activity**: Ideal for those spending limited time in the country.
@@ -53,7 +51,5 @@ Summit Advisors offers a **comprehensive service** for obtaining residence permi
 3. **Residence for Professionals with International Projection**: Designed for professionals needing travel flexibility.
 
 **Note**: Non Lucrative Residences require establishing residency in Andorra for at least 90 days a year, granting more travel freedom.
-
-
 
 At **Summit Advisors**, we are committed to making your Andorran residency process as smooth and efficient as possible. With our team of experts by your side, you’re one step closer to achieving your goals in Andorra.
