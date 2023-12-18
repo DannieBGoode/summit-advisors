@@ -19,16 +19,16 @@ testimonial__items:
     link: https://twitter.com/
     image: /assets/uploads/image_2023-12-09_164140502.png
   - name: Marc Ribera
-    designation_cat: Designer
+    designation_cat: Jugador Professional de Pòquer
     content_en: Relocating our business to Andorra was seamless and efficient,
       thanks to their expert guidance and support.
     content_cat: Traslladar la nostra empresa a Andorra va ser senzill i eficient,
       gràcies a la seva orientació experta i suport.
-    designation_en: Designer
+    designation_en: Professional Poker Player
     content_es: El trato y la implicacion es excelente. Lo que mas valoro es la
       profesionalidad de hacer las cosas. Sin duda, la mejor asesoría habiendo
       pasado por muchas.
-    designation_es: Diseñadora
+    designation_es: Jugador Professional de Póker
     link: https://facebook.com/
     image: /assets/uploads/image_2023-12-09_164111062.png
   - name: Daniel Calatayud
@@ -49,7 +49,7 @@ testimonial__items:
       relocating our company to Andorra.
     content_cat: De principi a fi, el seu equip va proporcionar assistència
       inestimable en la reubicació de la nostra empresa a Andorra.
-    designation_en: Professional Poker Players
+    designation_en: Professional Poker Player
     content_es: Grandes profesionales, muy atentos. Te ayudan con todo no solo en el
       ámbito laboral o administrativo, también en cualquier tema que puedan en
       tu estancia en Andorra. Muy recomendables
