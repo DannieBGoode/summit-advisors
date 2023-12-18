@@ -69,3 +69,23 @@ testimonial__items:
     designation_es: Emprendedor
     link: https://twitter.com/
     image: /assets/uploads/image_2023-12-09_164234667.png
+  - name: Kaju
+    designation_es: Jugador Professional de Póker
+    designation_en: Professional Poker Player
+    designation_cat: Jugador Professional de Pòquer
+    content_es: Los mejores de Andorra con diferencia, los únicos que te quitan
+      cosas que hacer en vez de lo contrario, más que recomendable.
+    content_en: By far the best in Andorra, the only ones that take away things to
+      do instead of the other way around, highly recommended.
+    content_cat: Els millors d'Andorra de llarg, els únics que et resten coses a fer
+      en comptes de l'invers, més que recomanable.
+  - name: Ivan Martínez Moyano
+    designation_es: Emprendedor
+    designation_en: Entrepreneur
+    designation_cat: Emprenedor
+    content_es: Grandes profesionales y rápidos, super contento con ellos en la
+      apertura de la empresa, mil gracias.
+    content_en: Very professional and fast, extremely pleased with them for the
+      company opening, a thousand thanks.
+    content_cat: Grans professionals i ràpids, encantadíssim amb ells per l'obertura
+      de l'empresa, mil gràcies.
