@@ -89,3 +89,16 @@ testimonial__items:
       company opening, a thousand thanks.
     content_cat: Grans professionals i ràpids, encantadíssim amb ells per l'obertura
       de l'empresa, mil gràcies.
+  - name: Ari Vatanem
+    designation_es: Jugador Professional de Poker
+    designation_en: Professional Poker Player
+    designation_cat: Jugador Professional de Pòquer
+    content_es: Muy agradecido con la profesionalidad,entusiasmo y eficacia del
+      equipo de Summit. Demuestran un amplio conocimiento del sector, se
+      involucran en las gestiones como si fueran propias y nunca fallan.
+    content_en: Very grateful for the professionalism, enthusiasm, and effectiveness
+      of the Summit team. They demonstrate extensive knowledge of the sector,
+      get involved in tasks as if they were their own, and never disappoint.
+    content_cat: Molt agraït per la professionalitat, entusiasme i eficàcia de
+      l'equip de Summit. Mostren un ampli coneixement del sector, s'impliquen en
+      les tasques com si fossin pròpies i mai fallen.
