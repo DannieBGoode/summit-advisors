@@ -48,37 +48,6 @@
                   </div>
                 </div>
               </div>
-      
-              <div class="col col-4 col-d-12">
-                <div class="footer__nav">
-                  {% assign navigation_key = 'navigation__title_' | append: lang_prefix %}
-                  <h3 class="footer__nav-title">{{ site.data.settings.navigation[navigation_key] }}</h3>
-                  <ul class="footer__nav-list list-reset">
-                    {% if page.language == 'en' %}
-                      {% assign menu_items = site.data.topnav.en_menu_settings.menu_items %}
-                    {% elsif page.language == 'es' %}
-                      {% assign menu_items = site.data.topnav.es_menu_settings.menu_items %}
-                    {% else %}
-                      {% assign menu_items = site.data.topnav.cat_menu_settings.menu_items %}
-                    {% endif %}
-                    {% for item in menu_items %}
-                      {% if item.submenu %}
-                      
-                        <!-- do nothing -->
-                      {% else %}
-                        
-                      <li class="footer__nav-item">
-                        <a href="{{ item.url | relative_url }}" class="footer__nav-link">{{ item.title }}</a>
-                      </li>
-                      {% endif %}
-                    {% endfor %}
-                        <!-- Add a blank row or separator -->
-                        <li class="footer__nav-separator"></li>
-                    </ul>
-                    
-                </div>
-              </div>
-      
             </div>
             <div class="row">
               <div class="col col-1"></div>
