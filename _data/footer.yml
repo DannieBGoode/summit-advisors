@@ -7,3 +7,11 @@ gallery:
     url: /assets/uploads/istockphoto-849558280-612x612.jpg
   - alt: Invierno
     url: /assets/uploads/istockphoto-1160844746-612x612.jpg
+
+languages:
+    - url: '/'
+      title: 'Español'
+    - url: '/en/'
+      title: 'English'
+    - url: '/cat/'
+      title: 'Català'
