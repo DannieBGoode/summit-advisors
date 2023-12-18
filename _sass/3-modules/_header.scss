@@ -51,6 +51,7 @@
       opacity: 1;
       visibility: visible;
       transition: all .25s ease;
+      overflow-y: scroll;
     }
 
     .nav__list {
@@ -183,7 +184,6 @@
     padding-top: 50px;
     margin: 0 auto;
     text-align: center;
-    overflow-y: hidden;
 
     .nav__icon-close {
       display: flex;
@@ -203,7 +203,7 @@
   }
 
   @media only screen and (max-width: $tablet) {
-    padding-top: 100px;
+    padding-top: 0px;
   }
 }
 
