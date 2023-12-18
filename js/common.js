@@ -180,7 +180,50 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 
+  /* =======================
+  // Scroll Sticky Topnav
+  ======================= */
+  // Debounce function to limit the rate at which a function can fire.
+  window.addEventListener('scroll', function() {
+    var scrollPosition = window.scrollY;
+    var headerInner = document.querySelector('.header__inner');
+    var lightLogoImage = document.querySelector('.logo__link.logo-light img'); // Select the light logo image
+    var darkLogoImage = document.querySelector('.logo-dark img'); // Select the dark logo image
+  
+    // Set initial and final values for the logo width and bottom position
+    var initialLogoWidth = 150; // Initial logo width
+    var finalLogoWidth = 100; // Final logo width when scrolled
+    var initialBottom = 50; // Initial bottom position for logos
+    var finalBottomLight = 40; // Final bottom position for light logo
+    var finalBottomDark = 35; // Final bottom position for dark logo
+    var maxScrollForEffect = 200; // Max scroll distance for full effect
+    var initialYPadding = 60;
+    var finalYPadding = 16;
+  
+    // Calculate the scale of change based on scroll position
+    var scrollScale = scrollPosition / maxScrollForEffect;
+    scrollScale = scrollScale > 1 ? 1 : scrollScale; // Cap the scale to 1
+  
+    // Calculate new logo width values
+    var newLogoWidth = initialLogoWidth - ((initialLogoWidth - finalLogoWidth) * scrollScale);
+  
+    // Apply the new width to both logos
+    lightLogoImage.style.width = newLogoWidth + 'px';
+    darkLogoImage.style.width = newLogoWidth + 'px';
+  
+    // Calculate and apply the new bottom positions based on scroll
+    var newBottomLight = initialBottom - ((initialBottom - finalBottomLight) * scrollScale);
+    var newBottomDark = initialBottom - ((initialBottom - finalBottomDark) * scrollScale);
+    lightLogoImage.style.bottom = newBottomLight + 'px';
+    darkLogoImage.style.bottom = newBottomDark + 'px';
+    var newYPadding = initialYPadding - ((initialYPadding - finalYPadding) * scrollScale);
+    headerInner.style.paddingBottom = newYPadding + 'px';
+    headerInner.style.paddingTop = newYPadding + 'px';
+  });
+  
 
+  
+  
   /* =======================
   // Scroll Top Button
   ======================= */

@@ -1,5 +1,29 @@
 /* Header */
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: var(--background-color);
+  transition: all 0.3s ease;
+
+  &.smaller-header {
+    padding: 10px $base-spacing-unit; // Reducing the padding will make the header narrower
+    
+    .header__inner {
+      padding: 10px $base-spacing-unit; // Adjust this value to make the header inner part narrower
+    }
+    
+    .logo img {
+      width: 100px; // Adjust the width of the logo to make it smaller
+      top: -42px; // Adjust the position if necessary
+    }
+    
+    // If you want to adjust the font size of the navigation items as well
+    .nav__list .nav__link {
+      font-size: 16px; // Smaller font size when the header is smaller
+    }
+  }
+
   .header__inner {
     position: relative;
     display: flex;
