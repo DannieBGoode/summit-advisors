@@ -14,17 +14,11 @@ Este paso significa una importante consolidación y organización del sector y c
 
 Los principales objetivos de su creación, detallados en mayor medida en los estatutos, son los siguientes:
 
-\- Promover una relación más fluida con las instituciones públicas y privadas del país.
-
-\- Dar a conocer el colectivo y luchar para conseguir unas mejores condiciones laborales en el país mediante el reconocimiento de la figura profesional del “jugador de
-
-póker profesional”. 
-
-\- Organizar eventos relacionados con el mundo del póker.
-
-\- Crear una comunidad donde poder resolver dudas e inquietudes a nivel fiscal, tributario o legal asociadas a la profesión.
-
-\- Fomentar el juego responsable, así como realizar acciones para evitar posibles problemas de ludopatía o adición.
+* Promover una relación más fluida con las instituciones públicas y privadas del país.
+*  Dar a conocer el colectivo y luchar para conseguir unas mejores condiciones laborales en el país mediante el reconocimiento de la figura profesional del “jugador de póker profesional”. 
+* Organizar eventos relacionados con el mundo del póker.
+* Crear una comunidad donde poder resolver dudas e inquietudes a nivel fiscal, tributario o legal asociadas a la profesión.
+* Fomentar el juego responsable, así como realizar acciones para evitar posibles problemas de ludopatía o adición.
 
 El hecho de poder disponer de una asociación profesional que represente sus intereses como colectivo, que brinde habilidades y conocimientos para su desarrollo profesional, que genere networking para compartir vivencias o experiencias y que ponga a disposición unos beneficios especiales a sus miembros genera una gran seguridad al jugador y ofrece una herramienta más al país para que futuros residentes puedan decidir establecerse en él.
 
