@@ -27,11 +27,11 @@
         <div class="row">
           {% assign posts_collection = 'site.posts' %}
           {% if page.language == 'en' %}
-            {% assign posts_collection = site.en_posts %}
+            {% assign posts_collection = site.en_posts | sort: 'date' | reverse %}
           {% elsif page.language == 'es' %}
-            {% assign posts_collection = site.es_posts %}
+            {% assign posts_collection = site.es_posts | sort: 'date' | reverse %}
           {% elsif page.language == 'cat' %}
-            {% assign posts_collection = site.cat_posts %}
+            {% assign posts_collection = site.cat_posts | sort: 'date' | reverse %}
           {% endif %}
     
           {% if posts_collection.size > 0 %}
