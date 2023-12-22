@@ -1,58 +1,30 @@
 ---
 layout: post
-title: Cómo homologar el carnet de conducir
-description: Bring to the table win-win survival strategies to ensure proactive
-  domination. At the end of the day, going forward, a new normal that.
-  Capitalize on low hanging fruit to identify a ballpark value activity to beta
-  test. Override the digital divide with additional.
+title: ¿Es necesario homologar el permiso de conducir Español en Andorra?
+description: Si eres español y recientemente has trasladado tu residencia fiscal
+  a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar
+  tu vehículo en el Principado de Andorra.
 date: 2022-03-01 15:01:35 +0300
-image: /images/03.jpg
+image: /assets/uploads/istockphoto-849558280-612x612.jpg
 tags:
   - lifestyle
   - tramites
 ref: carnet-conducir
 ---
+Si eres extranjero y recientemente has trasladado tu residencia fiscal a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar tu vehículo en el Principado de Andorra.
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
+Conducir en Andorra con un carnet extranjero siendo residente está totalmente prohibido. De acuerdo con la normativa andorrana (Decreto 545/2022, del 22 de diciembre de 2022, que aprueba el Reglamento de permisos y autorizaciones administrativas complementarias para conducir y el Registro de Permisos de Conducir), una vez obtenido el permiso de residencia en andorra, se dispone de hasta 6 meses para homologar el permiso de conducir que disponga por uno andorrano.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+En función del país de origen del permiso de conducir, el proceso puede variar:
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/03-1.jpg" loading="lazy" alt="Tram">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/h7N5c9A34Es" target="_blank">Alina K</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+* La homologación será automática para los permisos de conducir emitidos en un país de la Unión Europea o países con convenios bilaterales con Andorra. 
+* Para el resto de paises, se requerirán documentos adicionales que deberan ir acompañados de la Apostilla de la Haya y traducciones juradas de la documentación en función del idioma en que este el documento. Además, se deberá pasar un examen práctico (circuito cerrado y abierto en vía pública) en Andorra. 
+* Existen algunos países que no hay posibilidad de homologar el permiso y requeriran al usuario examinarse en la autoescuela como si se obtuviera un nuevo permiso.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Además, el permiso de conducir debe estar vigente y tener plenos efectos en el momento de presentar la solicitud de homologación, y que se haya obtenido antes de adquirir la residencia en Andorra. Esto significa que el titular del permiso no debe estar privado por una resolución judicial o administrativa del derecho a conducir vehículos motorizados ni estar suspendido, intervenido administrativamente o haber perdido la vigencia del permiso. En caso contrario, no se homologará el permiso.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/03-2.jpg" loading="lazy" alt="City">
-    <img src="/images/03-3.jpg" loading="lazy" alt="San Francisco">
-  </div>
-</div>
+Si no se puede obtener la documentación necesaria, el interesado debe completar el proceso completo de obtención de permiso de conducir en un plazo de 2 años desde la obtención del permiso de residencia andorrano, y este proceso se realizará en catalán.
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
+En todos los casos para poder homologar el permiso, se requiere un reconocimiento médico y una foto de carnet.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/03-4.jpg" loading="lazy" alt="Tram">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/a3ZPAE2kaGU" target="_blank">Jack Patrick</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Charis Sims.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+Para obtener el permiso de conducir andorrano, es necesario entregar el permiso original extranjero a la administración andorrana para su cambio. No se permite conservar el original junto al andorrano.
