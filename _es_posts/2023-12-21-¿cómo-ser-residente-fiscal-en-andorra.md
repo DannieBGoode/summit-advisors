@@ -6,6 +6,7 @@ date: 2023-12-21T12:45:11.793Z
 image: /assets/uploads/image-residencia-fiscal.jpg
 tags:
   - tramites
+  - residence
 language: es
 ---
 Para establecer tu residencia fiscal en Andorra, es esencial obtener un tipo de permiso de residencia que te permita vivir en el país. Existen distintos tipos de permisos:
