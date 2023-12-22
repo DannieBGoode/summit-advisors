@@ -1,7 +1,14 @@
 ---
 layout: post
 title: "How to become tax resident in Andorra? "
-description: Requirements to obtain tax residency in Andorra
+description: "Requirements to obtain tax residency in Andorra. To establish your
+  tax residency in Andorra, it is essential to obtain a type of residence permit
+  that allows you to live in the country. There are different types of
+  permits:  Active residencies, for employees or self-employed individuals.
+  Passive residencies, ideal for investors, athletes, or scientists. Residencies
+  for digital nomads and entrepreneurs.  However, having a residence permit does
+  not automatically guarantee tax residency, a point that often creates
+  confusion among newcomers to Andorra and even among some local advisors."
 date: 2023-12-22T08:13:12.444Z
 image: /assets/uploads/image-residencia-fiscal.jpg
 language: en
