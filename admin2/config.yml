@@ -284,9 +284,9 @@ collections:
         required: false
         widget: 'relation'
         collection: 'tags'
-        searchFields: ['tags.*.en']  # Search Spanish names in all tags
+        searchFields: ['tags.*.en']  # Search English names in all tags
         valueField: 'tags.*.code'   # Reference the code of the tag
-        displayFields: ['tags.*.en'] # Display the Spanish name of the tag
+        displayFields: ['tags.*.en'] # Display the English name of the tag
         multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'en' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
@@ -309,9 +309,9 @@ collections:
         required: false
         widget: 'relation'
         collection: 'tags'
-        searchFields: ['tags.*.cat']  # Search Spanish names in all tags
+        searchFields: ['tags.*.cat']  # Search Catalan names in all tags
         valueField: 'tags.*.code'   # Reference the code of the tag
-        displayFields: ['tags.*.cat'] # Display the Spanish name of the tag
+        displayFields: ['tags.*.cat'] # Display the Catalan name of the tag
         multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
