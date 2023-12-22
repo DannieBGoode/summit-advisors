@@ -6,6 +6,7 @@ description: L’Albert Hernández i el Jordi Yll són l’ànima de Summit Advi
   suport als seus clients, oferint-los solucions integrals d’assessoria i
   consultoria en l’àmbit administratiu, fiscal, laboral i comptable.
 date: 2022-03-02 15:01:35 +0300
+language: cat
 image: https://hivefive.spaces.nexudus.com/es/blog/getlargeimage?id=1414944073&w=1500
 tags:
   - summit

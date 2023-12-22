@@ -4,6 +4,7 @@ title: Life shrinks or expands in proportion to one’s courage
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. 
 date: 2020-09-30T12:20:35.088Z
 image: '/images/07.jpg'
+language: en
 tags:
   - lifestyle
 ---

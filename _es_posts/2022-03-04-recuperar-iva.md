@@ -6,6 +6,7 @@ video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 title: Cómo recuperar el IVA (21%) de los productos comprados en España
 description: Recuperar el IVA de productos comprados en España
 image: /images/02.jpg
+language: es
 tags:
   - impuestos
   - tramites

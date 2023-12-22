@@ -10,6 +10,7 @@ description: "Requirements to obtain tax residency in Andorra. To establish your
   automatically guarantee tax residency, a point that often creates confusion
   among newcomers to Andorra and even among some local advisors."
 date: 2023-12-22T08:13:12.444Z
+language: en
 image: /assets/uploads/image-residencia-fiscal.jpg
 tags:
   - Residence

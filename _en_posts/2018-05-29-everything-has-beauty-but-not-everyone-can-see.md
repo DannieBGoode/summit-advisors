@@ -5,6 +5,7 @@ description: Bring to the table win-win survival strategies to ensure proactive 
 date:   2020-05-29 18:05:55 +0300
 image:  '/images/12.jpg'
 tags:   [fashion, technology, study]
+language: en
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
