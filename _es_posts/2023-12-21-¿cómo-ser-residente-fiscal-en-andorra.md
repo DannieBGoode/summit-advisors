@@ -21,7 +21,7 @@ La residencia fiscal implica que el ciudadano tiene la obligación de declarar s
 
 Generalmente, se define por el tiempo que pasas en un lugar y las conexiones económicas, familiares y sociales que tengas en el país.
 
-Por ejemplo, imagina que eres un profesional autónomo con residencia en Andorra, pero la mayoría de tus ingresos se generan en España. A pesar de tener tu residencia en Andorra, tu principal actividad económica sigue estando en Francia, por lo que tu residencia fiscal se establecería en España, no en Andorra.
+Por ejemplo, imagina que eres un profesional autónomo con residencia en Andorra, pero la mayoría de tus ingresos se generan en España. A pesar de tener tu residencia en Andorra, tu principal actividad económica sigue estando en España, por lo que tu residencia fiscal se establecería en España, no en Andorra.
 
 **¿Cómo se determina la residencia fiscal en Andorra?** 
 
@@ -45,4 +45,4 @@ No. Aunque escuches de alguien decir que con 90 días en Andorra se logra la res
 
  Conseguir la residencia fiscal en Andorra va más allá del simple hecho de obtener un permiso de residencia en Andorra. En muchos casos, es necesario llevar a cabo un análisis previo de tu situación para estudiar si es factible un cambio de residencia fiscal.
 
-Considera la opción de acudir a asesoramiento profesional para entender completamente las implicaciones y evitarte problemas futuros.
+No dudes en contactar con nuestros asesores profesionales para entender completamente las implicaciones y evitarte problemas futuros.
