@@ -13,7 +13,7 @@ description: "Requisits per obtenir la residència fiscal a Andorra. Per establi
 date: 2023-12-22T07:57:49.172Z
 image: /assets/uploads/image-residencia-fiscal.jpg
 tags:
-  - Residència
+  - residence
 language: cat
 ---
 Per establir la teva residència fiscal a Andorra, és essencial obtenir un tipus de permís de residència que et permeti viure al país. Existeixen diferents tipus de permisos:
