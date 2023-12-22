@@ -191,7 +191,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var darkLogoImage = document.querySelector('.logo-dark img'); // Select the dark logo image
   
     // Set initial and final values for the logo width and bottom position
-    var initialLogoWidth = 150; // Initial logo width
+    var initialLogoWidth = 100; // Initial logo width
     var finalLogoWidth = 100; // Final logo width when scrolled
     var initialBottom = 50; // Initial bottom position for logos
     var finalBottomLight = 40; // Final bottom position for light logo

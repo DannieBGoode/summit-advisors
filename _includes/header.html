@@ -12,14 +12,14 @@
         
           <a class="logo__link logo-light" href="{{ site.baseurl }}{{ url_prefix }}/">
             {% if site.data.global.logo_light %}
-              <img width="150" height="96.7" src="{{ site.data.global.logo_light }}" alt="{{ site.data.global.title }}" style="">
+              <img width="100" height="96.7" src="{{ site.data.global.logo_light }}" alt="{{ site.data.global.title }}" style="">
             {% else %}
               {{ site.data.global.title }}
             {% endif %}
           </a>
           <a class="logo-dark" href="{{ site.baseurl }}{{ url_prefix }}/" style="display:none">
             {% if site.data.global.logo_dark %}
-              <img width="150" height="96.7" src="{{ site.data.global.logo_dark }}" style="">
+              <img width="100" height="96.7" src="{{ site.data.global.logo_dark }}" style="">
             {% else %}
               {{ site.data.global.title }}
             {% endif %}

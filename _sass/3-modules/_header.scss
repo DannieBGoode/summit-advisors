@@ -59,7 +59,7 @@
 /* Nav */
 .main-nav {
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: $topnav-collapse) {
     position: fixed;
     top: 0;
     left: 0;
@@ -198,7 +198,7 @@
     display: none;
   }
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: $topnav-collapse) {
     display: block;
 
     align-items: center;
@@ -237,7 +237,11 @@
 
   .nav__item {
     display: inline-block;
-    margin-right: 48px;
+    margin-right: 41px;
+    
+    @media only screen and (min-width: $wide) {
+      margin-right: 48px;
+    }
     margin-bottom: 0;
 
     &:last-child {
@@ -248,7 +252,10 @@
       position: relative;
       padding: 12px 0;
       font-family: $heading-font-family;
-      font-size: 20px;
+      font-size: 19px;
+      @media only screen and (min-width: $wide) {
+        font-size: 20px;
+      }
       line-height: 1;
       font-weight: 700;
       transition: color .2s ease;
@@ -387,7 +394,7 @@
 .logo {
   height: 0;
   & img {
-    width: 150px;
+    width: 100px;
     position: relative;
     bottom: 50px;
   }
@@ -432,7 +439,7 @@
     }
   }
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: $topnav-collapse) {
     display: flex;
     align-items: center;
     margin-left: auto;
