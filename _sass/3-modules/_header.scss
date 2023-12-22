@@ -239,6 +239,10 @@
     display: inline-block;
     margin-right: 41px;
     
+    @media only screen and (min-width: $desktop) and (max-width: $wide) {
+      margin-right: 38px;
+    }
+
     @media only screen and (min-width: $wide) {
       margin-right: 48px;
     }
@@ -253,6 +257,10 @@
       padding: 12px 0;
       font-family: $heading-font-family;
       font-size: 19px;
+      
+      @media only screen and (min-width: $desktop) and (max-width: $wide) {
+        font-size: 18px;
+      }
       @media only screen and (min-width: $wide) {
         font-size: 20px;
       }
@@ -394,7 +402,7 @@
 .logo {
   height: 0;
   & img {
-    width: 100px;
+    width: 150px;
     position: relative;
     bottom: 50px;
   }
