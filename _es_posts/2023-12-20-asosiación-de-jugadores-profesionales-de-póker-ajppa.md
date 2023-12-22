@@ -4,6 +4,8 @@ title: Asosiación de Jugadores Profesionales de Póker - AJPPA
 description: Póker
 date: 2023-12-20T09:13:07.767Z
 image: /assets/uploads/imatge-poker-1.jpg
+tags:
+  - poker
 language: es
 ---
 Después de meses de trabajo, la Asociación de Jugadores Profesionales de Póker de Andorra – AJPPA ya es una realidad.
