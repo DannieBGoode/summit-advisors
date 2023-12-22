@@ -14,7 +14,6 @@ language: en
 image: /assets/uploads/image-residencia-fiscal.jpg
 tags:
   - Residence
-language: en
 ---
 To establish your tax residency in Andorra, it is essential to obtain a type of residence permit that allows you to live in the country. There are different types of permits:
 
