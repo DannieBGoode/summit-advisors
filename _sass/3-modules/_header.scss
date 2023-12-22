@@ -33,11 +33,11 @@
     padding: 60px $base-spacing-unit;
   
     @media only screen and (max-width: $desktop) {
-      padding: 40px $base-spacing-unit;
+      //padding: 40px $base-spacing-unit;
     }
 
     @media only screen and (max-width: $mobile) {
-      padding: 32px $base-spacing-unit;
+      //padding: 32px $base-spacing-unit;
     }
   }
 }
