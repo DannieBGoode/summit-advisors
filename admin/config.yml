@@ -264,7 +264,7 @@ collections:
         displayFields: ['tags.*.es'] # Display the Spanish name of the tag
         multiple: true
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'es' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'en_blog'
     label: 'Blog (Inglés)'
@@ -281,7 +281,7 @@ collections:
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'en' }
-      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permitirá cambiar fácilmente entre idiomas sin pasar por el homepage.' }
+      - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'cat_blog'
     label: 'Blog (Catalán)'
