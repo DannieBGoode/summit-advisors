@@ -20,12 +20,3 @@ La compra de productos en España y la recuperación del 21% de IVA al cruzar la
 5. Esperar a recibir el reembolso: Una vez que se ha presentado el formulario de devolución del IVA y se han proporcionado las facturas originales, es necesario esperar a recibir el reembolso. El tiempo de procesamiento puede variar, por lo que es recomendable consultar con las autoridades fiscales para conocer el estado del proceso. Algunas empresas, como por ejemplo Apple, pide que se le envie un email después de haber escaneado satisfactoriamente el código DIVA incluyendo documentación suficiente como para demostrar que el comprador es residente en Andorra, por lo que lo mejor es preguntar en cada tienda cual es su proceso en el moment de realizar la compra y solicitar el Tax-Free.
 
 Ten en cuenta que es importante seguir todas las regulaciones fiscales y cumplir con los requisitos para recuperar el IVA, de lo contrario se podría incurrir en multas o sanciones legales. Es recomendable asesorarse con un profesional en materia fiscal antes de realizar las compras.
-
-<!--EndFragment-->
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/02-1.jpg" loading="lazy" alt="House">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/-Gj-4Ou9erI" target="_blank">Tyler Nix</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
