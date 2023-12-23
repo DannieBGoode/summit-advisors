@@ -20,6 +20,9 @@ layout: default
           <div class="col col-8">
             <div class="page-image animate">
               <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+              <noscript>
+                <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+              </noscript>
             </div>
           </div>
         <div class="col col-2"></div>
@@ -27,6 +30,9 @@ layout: default
       <div class="col col-12">
         <div class="page-image animate">
           <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+          <noscript>
+            <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+          </noscript>
         </div>
       </div>
       {% endif %}
