@@ -14,13 +14,13 @@ ref: carnet-conducir
 ---
 > ### Si eres extranjero y recientemente has trasladado tu residencia fiscal a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar tu vehículo en el Principado de Andorra.
 
-Conducir en Andorra con un carnet extranjero siendo residente está totalmente prohibido. De acuerdo con la normativa andorrana (Decreto 545/2022, del 22 de diciembre de 2022, que aprueba el Reglamento de permisos y autorizaciones administrativas complementarias para conducir y el Registro de Permisos de Conducir), una vez obtenido el permiso de residencia en andorra, se dispone de hasta 6 meses para homologar el permiso de conducir que disponga por uno andorrano.
+Conducir en Andorra con un carnet extranjero siendo residente está totalmente prohibido. De acuerdo con la normativa andorrana (Decreto 545/2022, del 22 de diciembre de 2022, que aprueba el Reglamento de permisos y autorizaciones administrativas complementarias para conducir y el Registro de Permisos de Conducir), una vez obtenido el permiso de residencia en Andorra, se dispone de hasta 6 meses para homologar el permiso de conducir que disponga por uno andorrano.
 
 En función del país de origen del permiso de conducir, el proceso puede variar:
 
 * La homologación será automática para los permisos de conducir emitidos en un país de la Unión Europea o países con convenios bilaterales con Andorra. 
-* Para el resto de paises, se requerirán documentos adicionales que deberan ir acompañados de la Apostilla de la Haya y traducciones juradas de la documentación en función del idioma en que este el documento. Además, se deberá pasar un examen práctico (circuito cerrado y abierto en vía pública) en Andorra. 
-* Existen algunos países que no hay posibilidad de homologar el permiso y requeriran al usuario examinarse en la autoescuela como si se obtuviera un nuevo permiso.
+* Para el resto de países, se requerirán documentos adicionales que deberán ir acompañados de la Apostilla de la Haya y traducciones juradas de la documentación en función del idioma en que este el documento. Además, se deberá pasar un examen práctico (circuito cerrado y abierto en vía pública) en Andorra. 
+* Existen algunos países que no hay posibilidad de homologar el permiso y requerirán al usuario examinarse en la autoescuela como si se obtuviera un nuevo permiso.
 
 Además, el permiso de conducir debe estar vigente y tener plenos efectos en el momento de presentar la solicitud de homologación, y que se haya obtenido antes de adquirir la residencia en Andorra. Esto significa que el titular del permiso no debe estar privado por una resolución judicial o administrativa del derecho a conducir vehículos motorizados ni estar suspendido, intervenido administrativamente o haber perdido la vigencia del permiso. En caso contrario, no se homologará el permiso.
 
