@@ -1,28 +1,37 @@
 ---
 layout: post
-title:  The way to get started is to quit talking and begin doing
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
-date:   2020-04-23 15:01:35 +0300
-image:  '/images/15.jpg'
-tags:   [fashion, study, travel]
+title: Is it necessary to homologate my driver's license if I'm going to live in
+  Andorra?
+description: If you are a foreigner and have recently moved your tax residency
+  to Andorra, it is mandatory to homologate your driver's license in order to
+  use your vehicle in the Principality of Andorra.  Driving in Andorra with a
+  foreign license while being a resident is strictly prohibited. According to
+  Andorran regulations (Decree 545/2022, dated December 22, 2022, approving the
+  Regulation of permits and complementary administrative authorizations for
+  driving and the Register of Driving Permits), once residency is obtained in
+  Andorra, there is a period of up to 6 months to homologate the driver's
+  license held for an Andorran one.
+date: 2023-12-23T17:54:52.801Z
+image: /assets/uploads/foto-blog-homologar-permís-de-conduir.jpg
+tags: []
 language: en
 ---
+> If you are a foreigner and have recently moved your tax residency to Andorra, it is mandatory to homologate your driver's license in order to use your vehicle in the Principality of Andorra.
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
+Driving in Andorra with a foreign license while being a resident is strictly prohibited. According to Andorran regulations (Decree 545/2022, dated December 22, 2022, approving the Regulation of permits and complementary administrative authorizations for driving and the Register of Driving Permits), once residency is obtained in Andorra, there is a period of up to 6 months to homologate the driver's license held for an Andorran one.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+Depending on the country of origin of the driver's license, the process may vary:
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/15-1.jpg" loading="lazy" alt="Car">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/KRslOy4df2o" target="_blank">Mike Von</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+* Homologation will be automatic for driver's licenses issued in a European Union country or countries with bilateral agreements with Andorra.
+* \    For other countries, additional documents will be required, which must be accompanied by the Hague Apostille and sworn translations of the documentation based on the language of the document. Additionally, a practical exam (closed circuit and open road) must be taken in Andorra.
+* \    There are some countries where it's not possible to homologate the license, and individuals will be required to take the driving test at a driving school as if obtaining a new license.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Furthermore, the driver's license must be valid and fully effective at the time of submitting the homologation application and must have been obtained before acquiring residency in Andorra. This means that the license holder must not be deprived by a judicial or administrative decision of the right to drive motor vehicles or be suspended, administratively intervened, or have lost the validity of the license. Otherwise, the license will not be homologated.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+If the necessary documentation cannot be obtained, the individual must complete the entire process of obtaining a driver's license within a period of 2 years from obtaining the Andorran residency permit, and this process will be conducted in Catalan.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+In all cases, a medical examination and a passport-sized photo are required for homologating the license.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+#### Do I lose my driver's license from my country of origin when I do the homologation?
+
+To obtain the Andorran driver's license, it is necessary to surrender the original foreign license to the Andorran administration for exchange. Keeping the original alongside the Andorran one is not permitted. There's no need to request a duplicate of your driver's license before undergoing homologation since upon surrendering your original license, information is shared with your country of origin, and it is deregistered.
