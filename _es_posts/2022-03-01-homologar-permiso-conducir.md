@@ -5,14 +5,14 @@ description: Si eres español y recientemente has trasladado tu residencia fisca
   a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar
   tu vehículo en el Principado de Andorra.
 date: 2022-03-01 15:01:35 +0300
-image: /assets/uploads/istockphoto-849558280-612x612.jpg
-language: es
+image: /assets/uploads/foto-blog-homologar-permís-de-conduir.jpg
 tags:
   - lifestyle
   - tramites
+language: es
 ref: carnet-conducir
 ---
-Si eres extranjero y recientemente has trasladado tu residencia fiscal a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar tu vehículo en el Principado de Andorra.
+> ### Si eres extranjero y recientemente has trasladado tu residencia fiscal a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar tu vehículo en el Principado de Andorra.
 
 Conducir en Andorra con un carnet extranjero siendo residente está totalmente prohibido. De acuerdo con la normativa andorrana (Decreto 545/2022, del 22 de diciembre de 2022, que aprueba el Reglamento de permisos y autorizaciones administrativas complementarias para conducir y el Registro de Permisos de Conducir), una vez obtenido el permiso de residencia en andorra, se dispone de hasta 6 meses para homologar el permiso de conducir que disponga por uno andorrano.
 
@@ -28,4 +28,6 @@ Si no se puede obtener la documentación necesaria, el interesado debe completar
 
 En todos los casos para poder homologar el permiso, se requiere un reconocimiento médico y una foto de carnet.
 
-Para obtener el permiso de conducir andorrano, es necesario entregar el permiso original extranjero a la administración andorrana para su cambio. No se permite conservar el original junto al andorrano.
+##### ¿Pierdo mi carnet de conducir de mi país de origen cuando hago la homologación?
+
+Para obtener el permiso de conducir andorrano, es necesario entregar el permiso original extranjero a la administración andorrana para su cambio. No se permite conservar el original junto al andorrano. No te esfuerces en pedir un duplicado de tu permiso de conducir antes de llevar a cabo la homologación, ya que en el momento de entregar tu permiso original, se informa a tu país de origen y lo dan de baja.
