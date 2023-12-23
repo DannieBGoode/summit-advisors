@@ -28,6 +28,6 @@ Si no se puede obtener la documentación necesaria, el interesado debe completar
 
 En todos los casos para poder homologar el permiso, se requiere un reconocimiento médico y una foto de carnet.
 
-##### ¿Pierdo mi carnet de conducir de mi país de origen cuando hago la homologación?
+#### ¿Pierdo mi carnet de conducir de mi país de origen cuando hago la homologación?
 
 Para obtener el permiso de conducir andorrano, es necesario entregar el permiso original extranjero a la administración andorrana para su cambio. No se permite conservar el original junto al andorrano. No te esfuerces en pedir un duplicado de tu permiso de conducir antes de llevar a cabo la homologación, ya que en el momento de entregar tu permiso original, se informa a tu país de origen y lo dan de baja.
