@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Es necesario homologar el permiso de conducir Español en Andorra?
+title: ¿Es necesario homologar mi permiso de conducir si voy a ir a vivir en Andorra?
 description: Si eres español y recientemente has trasladado tu residencia fiscal
   a Andorra, es obligatorio homologar tu permiso de conducir para poder utilizar
   tu vehículo en el Principado de Andorra.
