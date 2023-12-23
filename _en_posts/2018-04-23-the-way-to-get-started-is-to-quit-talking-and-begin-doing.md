@@ -34,4 +34,4 @@ In all cases, a medical examination and a passport-sized photo are required for 
 
 #### Do I lose my driver's license from my country of origin when I do the homologation?
 
-To obtain the Andorran driver's license, it is necessary to surrender the original foreign license to the Andorran administration for exchange. Keeping the original alongside the Andorran one is not permitted. There's no need to request a duplicate of your driver's license before undergoing homologation since upon surrendering your original license, information is shared with your country of origin, and it is deregistered
+To obtain the Andorran driver's license, it is necessary to surrender the original foreign license to the Andorran administration for exchange. Keeping the original alongside the Andorran one is not permitted. There's no need to request a duplicate of your driver's license before undergoing homologation since upon surrendering your original license, information is shared with your country of origin, and it is deregistered.
