@@ -8,14 +8,8 @@ layout: default
 
       <div class="col col-12">
         <div class="post-info">
-
-          {% if page.tags.size >= 1 %}
-            <div class="post-tags">
-              {% for tag in page.tags %}
-                <a href="{{ site.baseurl }}/{{page.language}}/tags/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
-              {% endfor %}
-            </div>
-          {% endif %}
+          
+          {% include tags-banners.html tags_context=page.tags language=page.language class_name="post-tags" inner_class_name="post__tag" %}
   
           <h1 class="post-title">{{ page.title | escape }}</h1>
   

@@ -1,0 +1,15 @@
+{% if include.tags_context.size >= 1 %}
+    <div class="{{ include.class_name }}">
+        {% for tag_code in include.tags_context %}
+            {% assign translated_tag = tag_code %}
+            {% for item in site.data.tags.tags %}
+                {% if item.code == tag_code %}
+                    {% assign translation_key = include.language %}
+                    {% assign translated_tag = item[translation_key] | default: tag_code %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+            <a href="{{ site.baseurl }}/{{ include.language }}/tags/?tag={{ tag_code | downcase | url_encode }}" class="{{include.inner_class_name}}">{{ translated_tag }}</a>
+        {% endfor %}
+    </div>
+{% endif %}
