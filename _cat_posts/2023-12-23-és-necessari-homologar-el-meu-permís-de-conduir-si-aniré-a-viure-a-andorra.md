@@ -10,7 +10,7 @@ description: Si ets estranger i has traslladat recentment la teva residència
   conduir i el Registre de Permisos de Conduir), un cop obtinguda la residència
   a Andorra, es disposa de fins a 6 mesos per homologar el permís de conduir que
   es disposi per un Andorrà.
-date: 2023-12-23T18:08:31.946Z
+date: 2023-12-23T18:17:31.478Z
 image: /assets/uploads/foto-blog-homologar-permís-de-conduir.jpg
 language: cat
 ---
