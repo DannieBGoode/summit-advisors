@@ -22,7 +22,7 @@ Driving in Andorra with a foreign license while being a resident is strictly pro
 
 Depending on the country of origin of the driver's license, the process may vary:
 
-*    Homologation will be automatic for driver's licenses issued in a European Union country or countries with bilateral agreements with Andorra.
+* Homologation will be automatic for driver's licenses issued in a European Union country or countries with bilateral agreements with Andorra.
 * \    For other countries, additional documents will be required, which must be accompanied by the Hague Apostille and sworn translations of the documentation based on the language of the document. Additionally, a practical exam (closed circuit and open road) must be taken in Andorra.
 * \    There are some countries where it's not possible to homologate the license, and individuals will be required to take the driving test at a driving school as if obtaining a new license.
 
@@ -32,6 +32,6 @@ If the necessary documentation cannot be obtained, the individual must complete 
 
 In all cases, a medical examination and a passport-sized photo are required for homologating the license.
 
-##### Do I lose my driver's license from my country of origin when I do the homologation?
+#### Do I lose my driver's license from my country of origin when I do the homologation?
 
 To obtain the Andorran driver's license, it is necessary to surrender the original foreign license to the Andorran administration for exchange. Keeping the original alongside the Andorran one is not permitted. There's no need to request a duplicate of your driver's license before undergoing homologation since upon surrendering your original license, information is shared with your country of origin, and it is deregistered
