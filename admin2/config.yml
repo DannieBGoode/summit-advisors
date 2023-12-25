@@ -87,7 +87,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Subtítulo', name: 'subtitle', widget: 'string', hint: 'Texto bajo el título' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string', hint: 'Un párrafo de 2-3 lineas como máximo. ' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', hint: 'Los Servicios se muestran en la web de más reciente a más antiguo.' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -104,7 +104,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Titulo', name: 'title', widget: 'string' }
       - { label: 'Subtitle', name: 'subtitle', widget: 'string', hint: 'Texto debajo del título' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string', hint: 'Un párrafo de 2-3 lineas como máximo. ' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', hint: 'Los Servicios se muestran en la web de más reciente a más antiguo.' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -121,7 +121,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Titulo', name: 'title', widget: 'string' }
       - { label: 'Subtitulo', name: 'subtitle', widget: 'string', hint: 'Texto debajo del título' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string', hint: 'Un párrafo de 2-3 lineas como máximo. ' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', hint: 'Los Servicios se muestran en la web de más reciente a más antiguo.' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -251,7 +251,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string', hint: 'Un párrafo de 2-3 lineas como máximo. ' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - label: 'Tags'
@@ -276,7 +276,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string', hint: 'Un párrafo de 2-3 lineas como máximo. ' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - label: 'Tags'
@@ -301,7 +301,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Descripción', name: 'description', widget: 'string', hint: 'Un párrafo de 2-3 lineas como máximo. ' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Imagen de cabecera', name: 'image', widget: 'image' }
       - label: 'Tags'
