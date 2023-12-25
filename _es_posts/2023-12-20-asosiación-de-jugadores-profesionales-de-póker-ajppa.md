@@ -1,7 +1,15 @@
 ---
 layout: post
 title: Asosiación de Jugadores Profesionales de Póker - AJPPA
-description: Póker
+description: Después de meses de trabajo, la Asociación de Jugadores
+  Profesionales de Póker de Andorra – AJPPA ya es una realidad. Des de Summit
+  Advisors nos hemos encargado de asesorar y llevar a cabo todas las gestiones
+  administrativas y burocráticas necesarias para que la comunidad de póker del
+  país tuviera a su disposición un organismo totalmente competente para poder
+  luchar por los intereses de su profesión y velar por el buen funcionamiento de
+  la misma. Este paso significa una importante consolidación y organización del
+  sector y confirma que el país se ha convertido en uno de los destinos europeos
+  más atractivos para residir si te dedicas al póker como medio de vida.
 date: 2023-12-20T09:13:07.767Z
 image: /assets/uploads/imatge-poker-1.jpg
 tags:
