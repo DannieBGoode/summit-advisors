@@ -27,7 +27,8 @@ Suppose you have made a purchase in Spain and want to request Tax Free.
 In Spain, the entire VAT refund process is digital and is done through the DIVA system of the Tax Agency. These are the steps to follow:
 
 * Request a DER (electronic refund document) or electronic Tax Free form at the establishment. Depending on the establishment, they use one procedure or another. You will need to provide an Andorran passport or a residency permit for them to issue the document.
-* It's important to note that until you return to Andorra, you should keep the purchased item sealed and unused.
+
+  It's important to note that until you return to Andorra, you should keep the purchased item sealed and unused.
 * Stamp the DER or electronic form at the Spanish Customs at the border with Andorra.
 
 Once the document has been stamped and crossed the border, depending on the establishment where the item was purchased, they will request confirmation to verify that the exportation has taken place and process the tax refund for the user. As of today, it operates automatically, and upon stamping the document at customs, the refund is processed automatically.
@@ -35,7 +36,5 @@ Once the document has been stamped and crossed the border, depending on the esta
 #### Once the Tax Free refund process is completed, do I have any obligations with Andorra?
 
 Depending on the value of the purchased item, you will have the obligation to report and pay taxes in Andorra. For items acquired below 300 EUR for which a refund has been requested, no further action with Andorra is necessary. However, for items for which a VAT refund has been requested and have a value exceeding 300 EUR, you will need to stop at the Andorran border to report the importation and pay the 4.5% IGI (this is the tax rate equivalent to the Spanish VAT).
-
-
 
 There are several companies that manage VAT refunds, and depending on the agreements they have with establishments, they apply different rates. In the case of large companies (for example, APPLE), the company managing the refund does not apply any commission for that service, and the refund corresponds entirely to the 21% VAT paid.
