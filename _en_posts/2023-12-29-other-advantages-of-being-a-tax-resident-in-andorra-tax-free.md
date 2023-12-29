@@ -28,7 +28,8 @@ In Spain, the entire VAT refund process is digital and is done through the DIVA 
 
 * Request a DER (electronic refund document) or electronic Tax Free form at the establishment. Depending on the establishment, they use one procedure or another. You will need to provide an Andorran passport or a residency permit for them to issue the document.
 
-  It's important to note that until you return to Andorra, you should keep the purchased item sealed and unused.
+It's important to note that until you return to Andorra, you should keep the purchased item sealed and unused.
+
 * Stamp the DER or electronic form at the Spanish Customs at the border with Andorra.
 
 Once the document has been stamped and crossed the border, depending on the establishment where the item was purchased, they will request confirmation to verify that the exportation has taken place and process the tax refund for the user. As of today, it operates automatically, and upon stamping the document at customs, the refund is processed automatically.
