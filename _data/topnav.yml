@@ -66,7 +66,7 @@ cat_menu_settings:
       url: '/cat/andorra/'
     - title: 'Calculadora'
       url: '/cat/calculadora/'
-    - title: 'Bloc'
+    - title: 'Blog'
       url: '/cat/blog/'
     - title: 'Contacte'
       url: '/cat/contacte/'
