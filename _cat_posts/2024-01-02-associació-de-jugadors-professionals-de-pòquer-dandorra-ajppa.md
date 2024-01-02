@@ -7,6 +7,8 @@ image: /assets/uploads/imatge-poker-1.jpg
 tags:
   - residence
   - lifestyle
+  - poker
+  - Inversión
 language: cat
 ---
 Després de mesos de treball, l'Associació de Jugadors Professionals de Pòquer d'Andorra - AJPPA ja és una realitat. Des de Summit Advisors ens hem encarregat d'assessorar i dur a terme totes les gestions administratives i burocràtiques necessàries perquè la comunitat de pòquer del país tingui a la seva disposició un organisme totalment competents per poder lluitar pels interessos de la seva professió i vetllar pel bon funcionament de la mateixa.
