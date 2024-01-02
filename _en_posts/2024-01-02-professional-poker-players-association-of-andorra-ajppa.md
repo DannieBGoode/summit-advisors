@@ -10,7 +10,9 @@ tags:
   - lifestyle
 language: en
 ---
-After months of work, the Professional Poker Players Association of Andorra - AJPPA is now a reality. Summit Advisors has been responsible for advising and carrying out all the necessary administrative and bureaucratic procedures so that the poker community in the country has a fully competent organization to fight for the interests of their profession and ensure its proper functioning.
+After months of work, the Professional Poker Players Association of Andorra - AJPPA is now a reality. 
+
+Summit Advisors has been responsible for advising and carrying out all the necessary administrative and bureaucratic procedures so that the poker community in the country has a fully competent organization to fight for the interests of their profession and ensure its proper functioning.
 
 This step signifies a significant consolidation and organization of the sector, confirming that the country has become one of the most attractive European destinations to reside in if you pursue poker as a livelihood.
 
