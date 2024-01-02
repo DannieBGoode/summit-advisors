@@ -8,7 +8,6 @@ tags:
   - residence
   - lifestyle
   - poker
-  - Inversión
 language: cat
 ---
 Després de mesos de treball, l'Associació de Jugadors Professionals de Pòquer d'Andorra - AJPPA ja és una realitat. 
