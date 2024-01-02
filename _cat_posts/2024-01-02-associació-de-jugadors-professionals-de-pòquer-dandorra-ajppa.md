@@ -11,7 +11,9 @@ tags:
   - Inversión
 language: cat
 ---
-Després de mesos de treball, l'Associació de Jugadors Professionals de Pòquer d'Andorra - AJPPA ja és una realitat. Des de Summit Advisors ens hem encarregat d'assessorar i dur a terme totes les gestions administratives i burocràtiques necessàries perquè la comunitat de pòquer del país tingui a la seva disposició un organisme totalment competents per poder lluitar pels interessos de la seva professió i vetllar pel bon funcionament de la mateixa.
+Després de mesos de treball, l'Associació de Jugadors Professionals de Pòquer d'Andorra - AJPPA ja és una realitat. 
+
+Des de Summit Advisors ens hem encarregat d'assessorar i dur a terme totes les gestions administratives i burocràtiques necessàries perquè la comunitat de pòquer del país tingui a la seva disposició un organisme totalment competents per poder lluitar pels interessos de la seva professió i vetllar pel bon funcionament de la mateixa.
 
 Aquest pas significa una important consolidació i organització del sector i confirma que el país s'ha convertit en un dels destins europeus més atractius per residir si et dediques al pòquer com a mitjà de vida.
 
