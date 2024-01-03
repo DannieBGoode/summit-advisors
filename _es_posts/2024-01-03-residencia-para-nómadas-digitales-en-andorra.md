@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Residencia para nómadas digitales en Andorra.
+title: Residencia para nómadas digitales en Andorra
 description: La figura del nómada digital es la de un profesional que trabaja de
   forma remota sin estar limitado a hacerlo en una ubicación geográfica
   específica, está en constante crecimiento. Viendo que cada vez hay más
