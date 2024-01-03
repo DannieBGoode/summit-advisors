@@ -16,7 +16,7 @@ tags:
   - residence
 language: es
 ---
-La figura del nómada digital es la de un profesional que trabaja de forma remota sin estar limitado a hacerlo en una ubicación geográfica específica, está en constante crecimiento. Viendo que cada vez hay más perfiles de nómadas digitales, Andorra ha decidido apostar por atraer a los nómadas digitales a su país implementado un permiso de residencia específico para este colectivo. A finales del año 2022, se aprobó una ley para definir los requisitos y condiciones para optar por este nuevo permiso de residencia de Nómada Digital (Ley 42/2022, del 1 de diciembre, de la economía digital, el emprendimiento e innovación).
+La figura del nómada digital es la de un profesional que trabaja de forma remota sin estar limitado a hacerlo en una ubicación geográfica específica, y está en constante crecimiento. Viendo que cada vez hay más perfiles de nómadas digitales, Andorra ha decidido apostar por atraer a los nómadas digitales a su país implementado un permiso de residencia específico para este colectivo. A finales del año 2022, se aprobó una ley para definir los requisitos y condiciones para optar por este nuevo permiso de residencia de Nómada Digital (Ley 42/2022, del 1 de diciembre, de la economía digital, el emprendimiento e innovación).
 
 #### ¿Des de cuando se puede solicitar un permiso de residencia para Nómadas Digitales en Andorra?
 
@@ -43,8 +43,6 @@ Además, se debe de cumplir con los siguientes requisitos:
 * Compromiso de residir en Andorra al menos 90 días al año.
 * Disponer de un seguro médico privado en Andorra.
 
-
-
 #### Solicitud ante el Ministerio encargado de Economía
 
 Uno de los pasos más importantes del proceso, si no el más importante, es el de obtener una resolución favorable por parte del Ministerio encargado de Economía, para ser considerado una persona que para llevar a cabo su trabajo no requiere de ninguna ubicación geográfica concreta y que utiliza las telecomunicaciones y las nuevas tecnologías.
@@ -66,8 +64,8 @@ Este nuevo permiso de residencia busca simplificar la entrada a Andorra para emp
 
 * No es necesario llevar a cabo el depósito de 50.000.-eur requerido por la autoridad financiera andorrana para nuevos residentes.
 * No es necesario disponer de ninguna estructura societaria, aunque en algunos casos es mas conveniente crear una sociedad.
-* No es obligatorio cotizar en la seguridad social andorrana (CASS), aunque si se requiere un seguro médico.
-* Requisito de permanecer mínimo 90 días en el Principado de Andorra.
+* No es obligatorio cotizar en la seguridad social andorrana (CASS), aunque si se requiere un seguro médico privado.
+* Requisito de permanecer un mínimo de 90 días en el Principado de Andorra.
 * Posibilidad de ser residente fiscal si se cumplen los requisitos de fiscalidad en Andorra.
 
 #### ¿Cómo puedo obtener el permiso de nómada digital en Andorra?
