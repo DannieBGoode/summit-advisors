@@ -34,11 +34,21 @@
 <!-- end tags -->
 
 <script>
-  var tag_name = window.location.search.replace("?tag=", "");
-  if (tag_name) {
-      var el = document.querySelector("#" + tag_name);
-      if (el) {
-          el.classList.remove("is-hidden");
+  document.addEventListener('DOMContentLoaded', function() {
+    var urlParams = new URLSearchParams(window.location.search);
+    var tag = urlParams.get('tag');
+    if(tag) {
+      var canonicalLink = document.querySelector("link[rel='canonical']");
+      if(canonicalLink) {
+        canonicalLink.setAttribute('href', window.location.href);
       }
-  }
+    }
+    var tag_name = window.location.search.replace("?tag=", "");
+    if (tag_name) {
+        var el = document.querySelector("#" + tag_name);
+        if (el) {
+            el.classList.remove("is-hidden");
+        }
+    }
+  });
 </script>
