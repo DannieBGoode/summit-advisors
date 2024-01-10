@@ -1,0 +1,20 @@
+# Redirects HTTP to HTTPS and non-www to www (or vice versa)
+[[redirects]]
+  from = "http://summitadvisors.ad/*"
+  to = "https://summitadvisors.ad/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.summitadvisors.ad/*"
+  to = "https://summitadvisors.ad/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.summitadvisors.ad/*"
+  to = "https://summitadvisors.ad/:splat"
+  status = 301
+  force = true
+
+# Additional settings...
