@@ -32,6 +32,11 @@
   color: var(--heading-font-color);
   background-color: var(--background-alt-color);
 
+  &.contact-input {
+    border: 2px solid var(--light-gray);
+  }
+  
+
   &::placeholder {
     color: var(--heading-font-color);
   }
@@ -40,6 +45,9 @@
     border-color: var(--brand-color);
     background-color: transparent;
   }
+}
+html:not(.dark-mode) .form__input.contact-input {
+  border-color: var(--gray);
 }
 .contact-info {
   display: flex;

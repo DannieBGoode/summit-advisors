@@ -12,15 +12,15 @@
     {% assign message_key = 'message_' | append: page.language %}
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">{{ site.data.contact[name_key] }}</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="{{ site.data.contact[name_key] }}" required>
+      <input class="form__input contact-input" id="form-name" type="text" name="name" placeholder="{{ site.data.contact[name_key] }}" required>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-email">{{ site.data.contact[email_key] }}</label>
-      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="{{ site.data.contact[email_key] }}" required>
+      <input class="form__input contact-input" id="form-email" type="email" name="_replyto" placeholder="{{ site.data.contact[email_key] }}" required>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">{{ site.data.contact[message_key] }}</label>
-      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="{{ site.data.contact[message_key] }}" required></textarea>
+      <textarea class="form__input contact-input" id="form-text" name="text" rows="10" placeholder="{{ site.data.contact[message_key] }}" required></textarea>
     </div>
     <div>
       {% assign language_map = 'en:Inglés,es:Español,cat:Catalán' | split: ',' %}
