@@ -183,8 +183,22 @@ document.addEventListener("DOMContentLoaded", function() {
   /* =======================
   // Scroll Sticky Topnav
   ======================= */
-  // Debounce function to limit the rate at which a function can fire.
-  window.addEventListener('scroll', function() {
+  // Throttle function
+  function throttle(func, limit) {
+    let inThrottle;
+    return function() {
+      const args = arguments;
+      const context = this;
+      if (!inThrottle) {
+        func.apply(context, args);
+        inThrottle = true;
+        setTimeout(() => inThrottle = false, limit);
+      }
+    };
+  }
+
+  // Your scroll event handler, wrapped in a throttle function
+  window.addEventListener('scroll', throttle(function() {
     var scrollPosition = window.scrollY;
     var headerInner = document.querySelector('.header__inner');
     var lightLogoImage = document.querySelector('.logo__link.logo-light img'); // Select the light logo image
@@ -219,7 +233,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var newYPadding = initialYPadding - ((initialYPadding - finalYPadding) * scrollScale);
     headerInner.style.paddingBottom = newYPadding + 'px';
     headerInner.style.paddingTop = newYPadding + 'px';
-  });
+  }, 10));
   
 
   
