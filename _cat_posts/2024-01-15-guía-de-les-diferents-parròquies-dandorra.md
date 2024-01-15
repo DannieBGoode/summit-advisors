@@ -101,7 +101,7 @@ Disposa de la porta d’entrada al domini esquiable d’Ordino-Arcalís (GrandVa
 
 Es tracta de la parròquia que disposa de la major superfície geogràfica del país i que juntament amb Ordino té la menor densitat de població. Està formada principalment pels següents nuclis urbans: l’Aldosa, Canillo, El Forn, El Tarter, Els Plans, Incles, Meritxell, Prats i Ransol.
 
-La seva altitud (la més alta del país), l’hi brinda un clima fred i sec durant l’hivern idoni per la pràctica dels esports de neu i l’aproxima al sol durant l’estiu fet que propicia el desenvolupament de nombroses activitats de senderisme.
+La seva altitud (la més alta del país), l’hi brinda un clima fred i sec durant l’hivern, idoni per la pràctica dels esports de neu i l’aproxima al sol durant l’estiu fet que propicia el desenvolupament de nombroses activitats de senderisme.
 
 Els seus principals atractius turístics són: el santuari de Nostra Senyora de Meritxell, l’església romànica de Sant Joan de Caselles, el pont Tibetà, el Mirador del Roc del Quer i el Palau de Gel.
 
