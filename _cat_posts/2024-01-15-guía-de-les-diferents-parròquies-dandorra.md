@@ -34,8 +34,6 @@ També és un dels punts més importants a nivell de mobilitat ja que, gràcies 
 
 Com a tret distintiu destacaríem l’existència d’aigües termals que van esdevenir un focus d’atractiu turístic i que van propiciar la creació d’un dels seus edificis més emblemàtics i coneguts, el centre termolúdic Caldea.
 
-![](/assets/uploads/escaldes_imatge.jpg "Centre Termolúdic Caldea / Escaldes-Engordany")
-
 ***Sant Julià de Lòria*** 
 
 * Extensió: 61 km².  
@@ -63,8 +61,6 @@ Es tracta de la tercera parròquia més extensa del país, darrere d’Ordino i 
 És un dels nuclis muntanyencs per excel·lència, gràcies a la multitud de rutes que la creuen com ara el pas de la famosa ruta transpirinenca G-11, la seva proximitat amb llacs i zones boscoses rellevants com ara els Cortals, Grau Roig i l’estany de Cubil  o la gran quantitat de refugis de muntanya dins dels seus límits (Refugi de l’Illa, Refugi de Montmalús, Refugi d’Ensagents, etc)  
 
 Disposa de la porta d’entrada al domini esquiable més gran del país (GrandValira), per mitjà del Funicamp, que va ser construït l’any 1998 i que gràcies els seus 5,6km de trajecte connecta Encamp amb un dels punts cèntrics de l’estació d’esquí.
-
-![Funicamp Grandvalira / Encamp](/assets/uploads/funicamp_encamp_imatge.jpg)
 
 ***La Massana***
 
