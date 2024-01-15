@@ -6,9 +6,9 @@ date: 2023-09-30T19:50:08.651Z
 image: /assets/uploads/imagen-ordino.jpg
 language: cat
 ---
-El Principat d’Andorra està ubicat en ple Pirineu, entre el Regne d’Espanya i la República Francesa, la seva superfície és d’uns 468 km quadrats aproximadament i està dividit en 7 parròquies (històricament havien estat 6) que conformen la base territorial de la divisió administrativa al país.
+El Principat d’Andorra està ubicat en ple Pirineu, entre el Regne d’Espanya i la República Francesa, la seva superfície és d’uns 468 km² i està dividit en 7 parròquies (històricament havien estat 6) que conformen la base territorial de la divisió administrativa al país.
 
-Les parròquies són entitats politico-administratives que integren l’estructura territorial de l’Estat Andorrà i participen en la conformació política nacional per mitjà de les formes i institucions constitucionalment establertes.
+Les parròquies són entitats politico-administratives que integren l’estructura territorial de l’Estat Andorrà i participen en la conformació política nacional.
 
 Cada una d’elles disposa del seu propi Comú que és l’òrgan de representació i administració a nivell territorial. Es tracta de corporacions públiques amb personalitat jurídica pròpia, amb potestat normativa local sotmesa a la Llei i que gestionen i protegeixen els seus interessos sota el principi d’autogovern. 
 
@@ -19,7 +19,7 @@ Cada una d’elles disposa del seu propi Comú que és l’òrgan de representac
 * Altitud mitjana: 1.022 metres sobre el nivell del mar. 
 * Codi Postal: AD500.
 
-És la parròquia més petita per extensió però la que disposa de major població que es troba agrupada a Andorra la Vella i Santa Coloma. Al disposar de la capital del país fa que la parròquia es converteixi en el centre dinàmic i comercial més rellevant de l’estat. En ella hi ha la seu del Consell General (parlament andorrà) i la majoria d’edificis administratius i burocràtics del Govern.  Disposa de multituds de llocs turístics dels que en destacaríem: la Casa de la Vall (antic parlament), l’església de Sant Esteve, el nou centre d’oci/casino UNNIC, i els seus eixos comercials (Av. Meritxell). 
+És la parròquia més petita per extensió però la que disposa de major població, aquesta es troba agrupada entre Andorra la Vella i Santa Coloma. Al disposar de la capital del país fa que la parròquia es converteixi en el centre dinàmic i comercial més rellevant de l’estat. En ella hi ha la seu del Consell General (parlament andorrà) i la majoria d’edificis administratius i burocràtics del Govern.  Disposa de multituds de llocs turístics dels que en destacaríem: la Casa de la Vall (antic parlament), l’església de Sant Esteve, el nou centre d’oci/casino UNNIC, i els seus eixos comercials (Av. Meritxell). 
 
 També és un dels punts més importants a nivell de mobilitat ja que, gràcies a la construcció de l’estació nacional d’autobusos, permet les connexions de la població i els seus visitants amb les altres zones del país via la seva xarxa nacional de transport públic o bé el transport de persones cap a l’exterior, principalment amb Barcelona, Lleida o Toulouse.  
 
@@ -30,9 +30,11 @@ També és un dels punts més importants a nivell de mobilitat ja que, gràcies 
 * Altitud mitjana: 1.050 metres sobre el nivell del mar. 
 * Codi Postal: AD700.
 
-És la segona parròquia més poblada d’Andorra ja que és la més jove de les 7. El seu naixement, es va produir per una escissió d’Andorra la Vella l’any 1978 i per la unió de dues poblacions situades a la vall central, Les Escaldes i Engordany, que en van esdevenir una degut a l’increment poblacional i a la proximitat d’ambdues. 
+És la segona parròquia més poblada d’Andorra però la més jove de les 7. El seu naixement, es va produir per una escissió d’Andorra la Vella l’any 1978 i per la unió de dues poblacions situades a la vall central, Les Escaldes i Engordany, que en van esdevenir una degut a l’increment poblacional i a la proximitat d’ambdues. 
 
-Com a tret distintiu destacaríem l’existència d’aigües termals que van esdevenir un focus d’atractiu turístic i que van propiciar la creació d’un dels seus edificis més emblemàtics i coneguts, el centre termolúdic Caldea.
+
+
+Com a tret distintiu destacaríem l’existència d’aigües termals que van convertir-se en un focus d’atractiu turístic i que van propiciar la creació d’un dels seus edificis més emblemàtics i coneguts, el centre termolúdic Caldea.
 
 ***Sant Julià de Lòria*** 
 
@@ -73,7 +75,7 @@ Disposa de la porta d’entrada al domini esquiable més gran del país (GrandVa
 
 D’ella en destaquem l’accés al Parc Natural de les Valls del Coma Pedrosa, que dona nom al pic més alt del país (2.942 metres), el pic de l’Estany o bé els seus nombrosos llacs: els Forcats, el de les Truites o el Negre. Així mateix, també és interesant visitar-ne l’històric Hostal Palanques o bé el Museu Farga Rosell, una de les fargues (obradors de ferro) que es troba en millor conservació del país. 
 
-Disposa de la porta d’entrada al domini esquiable de Pal-Arinsal (GrandValira Resorts), per mitjà del seu telecabina situat al centre de vila que serveix de dinamitzador de la seva economia gràcies a l’atracció de turistes de neu a l’hivern i de bicis de muntanya durant l’estiu.
+Disposa de la porta d’entrada al domini esquiable de Pal-Arinsal (GrandValira Resorts), per mitjà del seu telecabina situat al centre de vila que serveix de dinamitzador de la seva economia gràcies a l’atracció de turistes de neu a l’hivern i de bicicletes de muntanya durant l’estiu.
 
 ***Ordino*** 
 
@@ -82,7 +84,7 @@ Disposa de la porta d’entrada al domini esquiable de Pal-Arinsal (GrandValira 
 * Altitud mitjana: 1.298 metres sobre el nivell del mar. 
 * Codi Postal: AD300.
 
-Es tracta d’una de les parròquies menys poblades del país malgrat també tenir una gran diversitat de nuclis, dels que en destaquen Ansalonga, Arans, El Serrat, La Cortinada, Llorts o Sornàs.
+Es tracta d’una de les parròquies menys poblades del país malgrat també tenir una gran diversitat de nuclis, dels que en destaquen: Ansalonga, Arans, El Serrat, La Cortinada, Llorts o Sornàs.
 
 La seva capital, Ordino, és coneguda per ser considerada, per molts, com el “poble més bonic d’Andorra” ja que els seus carrers són una mostra excel·lent de l’arquitectura de muntanya típica dels pirineus de la qual se’n desprèn una tradicionalitat rural que xoca amb els temps actuals.  
 
