@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Guía de les diferents parròquies d'Andorra
+title: Guia de les diferents parròquies d'Andorra
 description: Les parròquies d'Andorra i les seves peculiaritats
-date: 2024-01-15T20:50:08.651Z
+date: 2023-09-30T19:50:08.651Z
 image: /assets/uploads/imagen-ordino.jpg
 language: cat
 ---
