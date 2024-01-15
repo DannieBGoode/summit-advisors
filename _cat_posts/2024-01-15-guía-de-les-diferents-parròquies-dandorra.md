@@ -10,7 +10,7 @@ El Principat d’Andorra està ubicat en ple Pirineu, entre el Regne d’Espanya
 
 Les parròquies són entitats politico-administratives que integren l’estructura territorial de l’Estat Andorrà i participen en la conformació política nacional.
 
-Cada una d’elles disposa del seu propi Comú que és l’òrgan de representació i administració a nivell territorial. Es tracta de corporacions públiques amb personalitat jurídica pròpia, amb potestat normativa local sotmesa a la Llei i que gestionen i protegeixen els seus interessos sota el principi d’autogovern. 
+Cada una d’elles disposa del seu propi Comú que és l’òrgan de representació i administració a nivell territorial. Es tracta de corporacions públiques amb personalitat jurídica pròpia, amb potestat normativa local sotmesa a la llei i que gestionen i protegeixen els seus interessos sota el principi d’autogovern. 
 
 ***Andorra la Vella***
 
@@ -32,7 +32,7 @@ També és un dels punts més importants a nivell de mobilitat ja que, gràcies 
 
 És la segona parròquia més poblada d’Andorra però la més jove de les 7. El seu naixement, es va produir per una escissió d’Andorra la Vella l’any 1978 i per la unió de dues poblacions situades a la vall central, Les Escaldes i Engordany, que en van esdevenir una degut a l’increment poblacional i a la proximitat d’ambdues. 
 
-
+Disposa de l'eix comercial Vivand (Av. Carlemany), que juntament amb l'Avinguda Mertixell d'Andorra la Vella, conformen el principal reclam de turisme de compres del país. En ell s'hi reuneixen tot tipus de serveis, botigues i restaurants que esperen pacientment l'arribada de turistes.
 
 Com a tret distintiu destacaríem l’existència d’aigües termals que van convertir-se en un focus d’atractiu turístic i que van propiciar la creació d’un dels seus edificis més emblemàtics i coneguts, el centre termolúdic Caldea.
 
@@ -60,7 +60,7 @@ També disposa de Naturland, un parc temàtic situat a la muntanya de la Rabassa
 
 Es tracta de la tercera parròquia més extensa del país, darrere d’Ordino i Canillo. Els seus nuclis de població eren històricament Encamp, Tremat, Mosquera, Les Bons, Vila i El Pas de la Casa. Degut al creixement urbanístic, Encamp ha “absorbit” la majoria d’ells, quedant únicament geogràficament diferenciades del nucli principal les poblacions de Vila i el Pas de la Casa. 
 
-És un dels nuclis muntanyencs per excel·lència, gràcies a la multitud de rutes que la creuen com ara el pas de la famosa ruta transpirinenca G-11, la seva proximitat amb llacs i zones boscoses rellevants com ara els Cortals, Grau Roig i l’estany de Cubil  o la gran quantitat de refugis de muntanya dins dels seus límits (Refugi de l’Illa, Refugi de Montmalús, Refugi d’Ensagents, etc)  
+És un dels nuclis muntanyencs per excel·lència, gràcies a la multitud de rutes que la creuen com ara el pas de la famosa ruta transpirinenca G-11, la seva proximitat amb llacs i zones boscoses rellevants com ara els Cortals, Grau Roig i l’estany de Cubil  o la gran quantitat de refugis de muntanya dins dels seus límits (Refugi de l’Illa, Refugi de Montmalús, Refugi d’Ensagents, etc).
 
 Disposa de la porta d’entrada al domini esquiable més gran del país (GrandValira), per mitjà del Funicamp, que va ser construït l’any 1998 i que gràcies els seus 5,6km de trajecte connecta Encamp amb un dels punts cèntrics de l’estació d’esquí.
 
