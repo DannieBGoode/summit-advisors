@@ -30,7 +30,7 @@ També és un dels punts més importants a nivell de mobilitat ja que, gràcies 
 * Altitud mitjana: 1.050 metres sobre el nivell del mar. 
 * Codi Postal: AD700.
 
-És la segona parròquia més poblada d’Andorra però la més jove de les 7. El seu naixement, es va produir per una escissió d’Andorra la Vella l’any 1978 i per la unió de dues poblacions situades a la vall central, Les Escaldes i Engordany, que en van esdevenir una degut a l’increment poblacional i a la proximitat d’ambdues. 
+És la segona parròquia més poblada d’Andorra però la més jove de les 7. El seu naixement, es va produir per una escissió d’Andorra la Vella l’any 1978 i per la unió de dues poblacions situades a la vall central, les Escaldes i Engordany, que en van esdevenir una degut a l’increment poblacional i a la proximitat d’ambdues. 
 
 Disposa de l'eix comercial Vivand (Av. Carlemany), que juntament amb l'Avinguda Mertixell d'Andorra la Vella, conformen el principal reclam de turisme de compres del país. En ell s'hi reuneixen tot tipus de serveis, botigues i restaurants que esperen pacientment l'arribada de turistes.
 
