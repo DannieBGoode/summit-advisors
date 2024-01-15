@@ -64,7 +64,7 @@ Es tracta de la tercera parròquia més extensa del país, darrere d’Ordino i 
 
 Disposa de la porta d’entrada al domini esquiable més gran del país (GrandValira), per mitjà del Funicamp, que va ser construït l’any 1998 i que gràcies els seus 5,6km de trajecte connecta Encamp amb un dels punts cèntrics de l’estació d’esquí.
 
-![](/assets/uploads/funicamp_encamp_imatge.jpg "Funicamp Grandvalira / Encamp")
+![Funicamp Grandvalira / Encamp](/assets/uploads/funicamp_encamp_imatge.jpg)
 
 ***La Massana***
 
