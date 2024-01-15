@@ -104,3 +104,5 @@ La seva altitud (la més alta del país), l’hi brinda un clima fred i sec dura
 Els seus principals atractius turístics són: el santuari de Nostra Senyora de Meritxell, l’església romànica de Sant Joan de Caselles, el pont Tibetà, el Mirador del Roc del Quer i el Palau de Gel.
 
 Disposa també de diversos punts d’entrada al domini esquiable de GrandValira, ja sigui des del centre de la vila de Canillo, des d’El Tarter o des de Soldeu. La seva activitat augmenta de manera significativa durant els mesos d’hivern ja que al tenir a prop les pistes d’esquí els seus hotels i establiments són molt concorreguts per part de turistes d’arreu del món.
+
+![Mirador del Roc del Quer - Canillo](/assets/uploads/canillo_imatge2.jpg)
