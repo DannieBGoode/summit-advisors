@@ -38,58 +38,6 @@ Destaca el eje comercial Vivand (Av. Carlemany), que junto con la Avenida Meritx
 
 Como rasgo distintivo, destacamos la existencia de aguas termales que se convirtieron en un foco de atracción turística y que propiciaron la creación de uno de sus edificios más emblemáticos y conocidos, el centro termolúdico Caldea.
 
-User
-
-Sant Julià de Lòria
-
-
-
-Extensió: 61 km².
-
-Població: 9.694 habitants.
-
-Altitud mitjana: 908 metres sobre el nivell del mar.
-
-Codi Postal: AD600.
-
-Es tracta de la parròquia més meridional del país i fronterera amb Espanya. Disposa de diferents quarts (subdivisions territorials) com ara Juberri, Fontaneda, Auvinyà o Nagol així com nuclis de població destacats com Aixirivall o Aixovall.
-
-
-
-La seva proximitat amb Espanya ha provocat que a la seva geografia s’establís un fort eix comercial proper a la frontera via l’obertura de grans superfícies comercials com ara el Sant Eloi, el River o l’Epizen (antic Punt de Trobada).
-
-
-
-De les seves atraccions turístiques en destacaríem la casa comuna, el seu nucli antic, l’església de Sant Julià i Sant Germà o el Santuari de Mare de Déu de Canòlich.
-
-
-
-També disposa de Naturland, un parc temàtic situat a la muntanya de la Rabassa que combina atraccions com el “tobotronc” i circuits d’e-bike amb l’única estació d’esquí de fons del país.
-
-
-
-Encamp
-
-
-
-Extensió: 84 km².
-
-Població: 12.155 habitants.
-
-Altitud mitjana: 1.238 metres sobre el nivell del mar.
-
-Codi Postal: AD200.
-
-Es tracta de la tercera parròquia més extensa del país, darrere d’Ordino i Canillo. Els seus nuclis de població eren històricament Encamp, Tremat, Mosquera, Les Bons, Vila i El Pas de la Casa. Degut al creixement urbanístic, Encamp ha “absorbit” la majoria d’ells, quedant únicament geogràficament diferenciades del nucli principal les poblacions de Vila i el Pas de la Casa.
-
-
-
-És un dels nuclis muntanyencs per excel·lència, gràcies a la multitud de rutes que la creuen com ara el pas de la famosa ruta transpirinenca G-11, la seva proximitat amb llacs i zones boscoses rellevants com ara els Cortals, Grau Roig i l’estany de Cubil o la gran quantitat de refugis de muntanya dins dels seus límits (Refugi de l’Illa, Refugi de Montmalús, Refugi d’Ensagents, etc).
-
-
-
-Disposa de la porta d’entrada al domini esquiable més gran del país (GrandValira), per mitjà del Funicamp, que va ser construït l’any 1998 i que gràcies els seus 5,6km de trajecte connecta Encamp amb un dels punts cèntrics de l’estació d’esquí.
-
 ***Sant Julià de Lòria***
 
 * Extensión: 61 km².
