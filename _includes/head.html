@@ -21,6 +21,17 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.data.global.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
+  {% assign pages_by_ref = site.pages | where_exp: "page", "page.ref" | group_by: "ref" %}
+  {% assign current_group = pages_by_ref | where: "name", page.ref | first %}
+  
+  <!-- Different languages -->
+  {% if current_group %}
+    {% for p in current_group.items %}
+      <link rel="alternate" href="{{ p.url | absolute_url }}" hreflang="{{ p.language }}" />
+    {% endfor %}
+  {% endif %}
+  
+
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.global.title }}{% else %}{{ page.title }} – {{ site.data.global.title }}{% endif %}">
