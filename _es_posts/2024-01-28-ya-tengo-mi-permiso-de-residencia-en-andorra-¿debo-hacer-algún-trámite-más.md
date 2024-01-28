@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ya tengo mi permiso de residencia en Andorra. ¿debo hacer algún trámite más?
+title: Ya tengo mi permiso de residencia en Andorra ¿debo hacer algún trámite más?
 description: 7 gestiones importantes a realizar una vez se dispone del permiso
   de residencia en Andorra.
 date: 2024-01-07T19:20:39.968Z
