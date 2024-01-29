@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Exit Tax en España: Descripción y Estrategias para Evitarlo"
-description: jjj
-date: 2024-01-29T19:18:03.855Z
+title: " Exit Tax in Spain: Description and Strategies to Avoid It"
+description: ' You might be surprised to know that changing your residence from
+  Spain can entail the payment of taxes. The Exit Tax, also known as the "exit
+  tax," aims to tax the transfer of assets outside the country to prevent
+  potential tax avoidance by moving them to jurisdictions with more favorable
+  tax regimes.'
+date: 2023-11-22T19:18:00.000Z
 image: /assets/uploads/foto-blog-exit-tax.jpg
 language: en
 ---
