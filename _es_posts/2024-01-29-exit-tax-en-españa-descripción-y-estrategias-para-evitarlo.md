@@ -6,7 +6,7 @@ description: Te sorprendería saber que cambiar tu residencia desde España pued
   "impuesto de salida", busca gravar la transferencia de activos fuera del país
   para evitar posibles elusiones fiscales al trasladarlos a jurisdicciones con
   regímenes tributarios más favorables.
-date: 2024-01-29T18:31:39.100Z
+date: 2023-11-22T19:14:52.104Z
 image: /assets/uploads/foto-blog-exit-tax.jpg
 language: es
 ---
