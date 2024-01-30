@@ -9,8 +9,6 @@ language: cat
 ---
 Un cop s'ha obtingut el permís de residència, hi ha una sèrie de gestions/tràmits que cal tenir en compte per informar de l'entrada al país a les autoritats locals i estrangeres. D'entre tots ells, ens agradaria destacar els següents:
 
-
-
 1. Inscripció a l'Ambaixada del país de nacionalitat. Per exemple, en el cas dels ciutadans amb nacionalitat espanyola residents al país, han de inscriure's al Consolat d'Espanya a Andorra per constar al registre consular a efectes de participació en processos electorals convocats a Espanya, renovació i elaboració de documents oficials com el passaport i com a mesura d'acreditació de la residència a l'estranger.
 
    Per poder inscriure't al Consolat d'Espanya a Andorra, és necessari demanar prèviament cita mitjançant la seva pàgina web i aportar la següent documentació: original del permís de residència, original del passaport espanyol (en el seu defecte, DNI) i una foto de carnet. Un cop inscrit, realitzada l'alta consular, serà recomanable sol·licitar el certificat per a l'actualització de la teva adreça al DNI (perquè en canviar el document aparegui la nova adreça a Andorra).
@@ -21,9 +19,7 @@ Un cop s'ha obtingut el permís de residència, hi ha una sèrie de gestions/tr�
 
 3. Informar a l'agència tributària del país d'origen del trasllat de residència fiscal (en els casos que així s'apliqui). Per exemple, en el cas dels ciutadans amb nacionalitat espanyola residents al país, hauran d'elaborar i presentar el Model 030 de l'AEAT (Agència Estatal d'Administració Tributària). Aquest model s'haurà de presentar, entre altres, quan s'hagi realitzat un canvi en el domicili fiscal i així es pugui acreditar. Per això serà necessari, a més del propi model, presentar un certificat de residència fiscal elaborat pel Departament de Tributs i de Fronteres (agència tributària andorrana) així com una còpia del DNI. Es pot presentar a qualsevol oficina de l'AEAT, sent la més propera la situada a la població de La Seu d'Urgell.
 
-
-
-   Cabe destacar que el Departament de Tributs i de Fronteres emetrà el certificat de residència fiscal quan disposi de les suficients proves i acreditacions que aquesta residència fiscal s'ha complert pel que es deuran haver complert, en termes generals i entre altres casuístiques, els 183 dies de residència efectiva al país.
+   Cal destacar que el Departament de Tributs i de Fronteres emetrà el certificat de residència fiscal quan disposi de les suficients proves i acreditacions que aquesta residència fiscal s'ha complert pel que es deuran haver complert, en termes generals i entre altres casuístiques, els 183 dies de residència efectiva al país.
 
 
 4. Inscripció al cens del "Comú" (ajuntament) de la parròquia on es residirà. És necessari realitzar aquesta gestió en el transcurs dels primers 3 mesos des de l'obtenció del permís de residència. Per a realitzar aquesta gestió es haurà de presentar, davant del "Comú" que correspongui, la següent documentació: original i fotocòpia del passaport vigent o el DNI, original i fotocòpia del permís de residència, fotocòpia del contracte de lloguer o títol de propietat, la fotocòpia del llibre de família en els casos que s'apliqui, una fotocòpia de la targeta d'identificació bancària i el formulari d'inscripció al cens degudament emplenat.
@@ -31,7 +27,7 @@ Un cop s'ha obtingut el permís de residència, hi ha una sèrie de gestions/tr�
 
 5. Homologació del permís de conduir estranger al andorrà. En el cas que un resident disposi d'un permís de conduir no andorrà, serà necessari homologar-lo al país per complir amb l'estipulat per la llei i poder conduir sense problema per les carreteres del país.
 
-   (Respecte a aquest aspecte, parlem amb més detall al nostre article (¿Es necesario homologar mi permiso de conducir si voy a ir a vivir en Andorra?))
+   (Respecte a aquest aspecte, parlem amb més detall al nostre article "És necessari homologar el meu permís de conduir si aniré a viure a Andorra?"
 
 
 6. Assignar-se un "metge referent" (mèdic referent / metge de capçalera) que serà el metge o pediatre, amb conveni amb la CASS (Caixa Andorrana de Seguretat Social), triat per l'usuari com a principal interlocutor dins del sistema sanitari del país. Aquest fet facilitarà el seguiment global i llarg de les patologies i els seus tractaments, brindarà una atenció sanitària més personalitzada i dotarà l'usuari d'una relació més fluïda amb l'administració. Cabe destacar que el sistema sanitari andorrà funciona en base al copagament (75% estat i 25% usuari) pel que, en el cas de visites a "metges referents", únicament es deurà abonar el 25% del seu cost, no essent necessari abonar el 100% de la tarifa i esperar al seu retorn parcial.
