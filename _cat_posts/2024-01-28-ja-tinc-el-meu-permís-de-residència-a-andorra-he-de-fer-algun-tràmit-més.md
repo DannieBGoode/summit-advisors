@@ -36,4 +36,4 @@ Un cop s'ha obtingut el permís de residència, hi ha una sèrie de gestions/tr�
 
 
 
-Si tens algun dubte respecte a algun d'aquests tràmits o bé necessites assessorament al respecte, no dubtis en contactar amb nosaltres a través del formulari d'aquesta web, el nostre correu electrònic (info@summitadvisors.ad) o bé per Whatsapp/Telegram.
+Si tens algun dubte respecte a algun d'aquests tràmits o bé necessites assessorament, no dubtis en contactar amb nosaltres a través del formulari d'aquesta web, el nostre correu electrònic (info@summitadvisors.ad) o bé per Whatsapp/Telegram.
