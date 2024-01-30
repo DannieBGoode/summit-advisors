@@ -1,11 +1,7 @@
 ---
 layout: post
-title: "Exit Tax en España: Descripción y Estrategias para Evitarlo"
-description: Te sorprendería saber que cambiar tu residencia desde España puede
-  conllevar el pago de impuestos. El Exit Tax, también conocido como el
-  "impuesto de salida", busca gravar la transferencia de activos fuera del país
-  para evitar posibles elusiones fiscales al trasladarlos a jurisdicciones con
-  regímenes tributarios más favorables.
+title: El Exit Tax en España
+description: Funcionamiento y estrategias para evitarlo
 date: 2023-11-22T19:14:52.104Z
 image: /assets/uploads/foto-blog-exit-tax.jpg
 language: es
