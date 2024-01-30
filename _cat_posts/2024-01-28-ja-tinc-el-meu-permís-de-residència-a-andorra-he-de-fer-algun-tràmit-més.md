@@ -22,10 +22,10 @@ Un cop s'ha obtingut el permís de residència, hi ha una sèrie de gestions/tr�
    Cal destacar que el Departament de Tributs i de Fronteres emetrà el certificat de residència fiscal quan disposi de les suficients proves i acreditacions que aquesta residència fiscal s'ha realitzat, motiu pel qual sera necessari haver complert, en termes generals i entre altres casuístiques, els 183 dies de residència efectiva al país.
 
 
-4. Inscripció al cens del "Comú" (ajuntament) de la parròquia on es residirà. És necessari realitzar aquesta gestió en el transcurs dels primers 3 mesos des de l'obtenció del permís de residència. Per a realitzar aquesta gestió es haurà de presentar, davant del "Comú" que correspongui, la següent documentació: original i fotocòpia del passaport vigent o el DNI, original i fotocòpia del permís de residència, fotocòpia del contracte de lloguer o títol de propietat, la fotocòpia del llibre de família en els casos que s'apliqui, una fotocòpia de la targeta d'identificació bancària i el formulari d'inscripció al cens degudament emplenat.
+4. Inscripció al cens del "Comú" (ajuntament) de la parròquia on es residirà. És necessari realitzar aquesta gestió en el transcurs dels primers 3 mesos des de l'obtenció del permís de residència. Per a realitzar aquesta gestió s'haurà de presentar, davant del "Comú" que correspongui, la següent documentació: original i fotocòpia del passaport vigent o el DNI, original i fotocòpia del permís de residència, fotocòpia del contracte de lloguer o títol de propietat, la fotocòpia del llibre de família en els casos que s'apliqui, una fotocòpia de la targeta d'identificació bancària i el formulari d'inscripció al cens degudament emplenat.
 
 
-5. Homologació del permís de conduir estranger al andorrà. En el cas que un resident disposi d'un permís de conduir no andorrà, serà necessari homologar-lo al país per complir amb l'estipulat per la llei i poder conduir sense problema per les carreteres del país.
+5. Homologació del permís de conduir estranger al andorrà. En el cas que un resident disposi d'un permís de conduir no andorrà, serà necessari homologar-lo per complir amb l'estipulat per la llei i poder conduir sense problema per les carreteres del país.
 
    (Respecte a aquest aspecte, parlem amb més detall al nostre article "És necessari homologar el meu permís de conduir si aniré a viure a Andorra?"
 
