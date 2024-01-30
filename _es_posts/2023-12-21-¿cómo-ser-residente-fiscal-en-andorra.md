@@ -1,24 +1,7 @@
 ---
 layout: post
 title: ¿Cómo ser residente fiscal en Andorra?
-description: "Requisitos para obtener la residencia fiscal en Andorra. Para
-  establecer tu residencia fiscal en Andorra, es esencial obtener un tipo de
-  permiso de residencia que te permita vivir en el país. Existen distintos tipos
-  de permisos: Residencias activas, para asalariados o autónomos. Residencias
-  pasivas, ideales para inversores, atletas o científicos. Residencias para
-  nómadas digitales y emprendedores.  Sin embargo, tener un permiso de
-  residencia no garantiza automáticamente la residencia fiscal, un punto que a
-  menudo crea confusión entre los recién establecidos en Andorra e incluso entre
-  algunos asesores locales. ¿Qué implica la residencia fiscal?  La residencia
-  fiscal implica que el ciudadano tiene la obligación de declarar sus impuestos
-  personales en el país donde sea considerado residente fiscal al adquirir la
-  condición de contribuyente. Generalmente, se define por el tiempo que pasas en
-  un lugar y las conexiones económicas, familiares y sociales que tengas en el
-  país. Por ejemplo, imagina que eres un profesional autónomo con residencia en
-  Andorra, pero la mayoría de tus ingresos se generan en España. A pesar de
-  tener tu residencia en Andorra, tu principal actividad económica sigue estando
-  en España, por lo que tu residencia fiscal se establecería en España, no en
-  Andorra."
+description: Requisitos necesarios para obtener la residencia fiscal en Andorra.
 date: 2023-12-21T12:45:11.793Z
 image: /assets/uploads/image-residencia-fiscal.jpg
 tags:
