@@ -1,11 +1,7 @@
 ---
 layout: post
-title: "Exit Tax a Espanya: Descripció i Estratègies per Evitar-lo"
-description: Et podria sorprendre saber que canviar la teva residència des
-  d'Espanya pot implicar el pagament d'impostos. L'Exit Tax, també conegut com
-  l'"impost de sortida," té com a objectiu gravar la transferència d'actius fora
-  del país per evitar possibles elusions fiscals en traslladar-los a
-  jurisdiccions amb règims fiscals més favorables.
+title: L'Exit Tax a Espanya
+description: " Funcionament i estratègies per evitar-l'ho."
 date: 2023-11-22T19:28:00.684Z
 image: /assets/uploads/foto-blog-exit-tax.jpg
 language: cat
