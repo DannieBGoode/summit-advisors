@@ -1,15 +1,7 @@
 ---
 layout: post
 title: És necessari homologar el meu permís de conduir si aniré a viure a Andorra?
-description: Si ets estranger i has traslladat recentment la teva residència
-  fiscal a Andorra, és obligatori homologar el teu permís de conduir per poder
-  utilitzar el teu vehicle al Principat d'Andorra.  Conduir a Andorra amb un
-  carnet estranger sent resident està totalment prohibit. D'acord amb la
-  normativa andorrana (Decret 545/2022, del 22 de desembre de 2022, que aprova
-  el Reglament de permisos i autoritzacions administratives complementàries per
-  conduir i el Registre de Permisos de Conduir), un cop obtinguda la residència
-  a Andorra, es disposa de fins a 6 mesos per homologar el permís de conduir que
-  es disposi per un Andorrà.
+description: Procés d'homologació del permís de conduir a Andorra.
 date: 2023-12-23T18:17:31.478Z
 image: /assets/uploads/foto-blog-homologar-permís-de-conduir.jpg
 language: cat
