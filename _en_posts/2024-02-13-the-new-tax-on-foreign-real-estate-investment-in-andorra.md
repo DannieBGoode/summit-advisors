@@ -6,7 +6,7 @@ date: 2024-02-13T13:19:38.005Z
 image: /assets/uploads/imagen1.jpg
 language: en
 ---
-On October 31, 2023, the draft Law on the Tax on Foreign Real Estate Investment in the Principality of Andorra was admitted for parliamentary consideration, with the purpose of imposing a tax on foreign investments made on real estate located in the Principality of Andorra.
+On October 31, 2023, the draft Law on the Tax on Foreign Real Estate Investment in the Principality of Andorra was admitted for parliamentary consideration, with the purpose of imposing a tax on foreign investments made on real estate located within its territory
 
 In early February 2024, the project was approved by the General Council to implement for the first time this type of tax on foreign real estate investment carried out in the country.
 
