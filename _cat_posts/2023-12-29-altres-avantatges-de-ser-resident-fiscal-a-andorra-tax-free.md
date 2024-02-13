@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Altres avantatges de ser resident fiscal a Andorra - Tax Free
-description: Si ets resident fiscal a Andorra, a part de les moltes avantatges
-  (no només fiscals) que proporciona viure al Principat d'Andorra, t'interessa
-  saber que quan et trobis fora del país d'Andorra, pots sol·licitar la
-  devolució de l'IVA (més conegut internacionalment com a 'Tax Free') dels
-  productes que adquireixis a nivell personal.
+description: Què és el tax free i com funciona?
 date: 2023-12-29T16:01:25.327Z
 image: /assets/uploads/foto-blog-tax-free.jpg
 language: cat
