@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Other advantages of being a Tax Resident in Andorra - Tax Free
-description: If you are a tax resident in Andorra, apart from the many
-  advantages (not just fiscal ones) that living in the Principality of Andorra
-  provides, you may be interested to know that when you are outside the country
-  of Andorra, you can request a VAT refund (more commonly known internationally
-  as 'Tax Free') for the products you acquire for personal use.
+description: What is tax free and how does it work?
 date: 2023-12-29T15:54:05.201Z
 image: /assets/uploads/foto-blog-tax-free.jpg
 language: en
