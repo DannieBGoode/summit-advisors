@@ -19,7 +19,7 @@ El hecho imponible se producirá cuando se adquieran inmuebles ubicados en el Pr
 Este nuevo impuesto afectará a diversos colectivos:
 
 * Personas físicas no residentes.
-* Personas jurídicas extranjeras. (100%)
+* Personas jurídicas extranjeras (100%)
 * Personas jurídicas andorranas con al menos un 50% del capital social extranjero. 
 * Personas físicas con menos de 3 años de residencia.
 * Personas jurídicas andorranas con participación extranjera en el capital social o de residentes con menos de 3 años de residencia, mas de un 5% i menos de un 50%.
