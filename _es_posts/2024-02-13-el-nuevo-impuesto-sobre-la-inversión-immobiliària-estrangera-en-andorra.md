@@ -1,84 +1,58 @@
 ---
 layout: post
-title: El nuevo impuesto sobre la inversión immobiliària estrangera en Andorra
+title: El nuevo impuesto sobre la inversión estrangera inmobiliaria en Andorra
 description: "Nuevas regulaciones en materia immobiliària. "
 date: 2024-02-13T12:55:32.568Z
 image: /assets/uploads/imagen1.jpg
 language: es
 ---
-El pasado 31 de octubre de 2023 se admitió a trámite parlamentario el Proyecto de Lei del Impuesto sobre la inversión extranjera inmobiliaria en el Principado de Andorra, con el propósito de aplicar un impuesto sobre las inversiones extranjeras que se produzcan sobre bienes inmuebles ubicados en el Principado de Andorra. A principos de Febrero de 2024, se aprobó el proyecto por parte del Consell General para implementar por primera vez en el Principado de Andorra un impuesto sobre la inversión extranjera inmobiliaria que se lleve a cabo en el país.  
+El pasado 31 de octubre de 2023 se admitió a trámite parlamentario el proyecto de Ley del Impuesto sobre la Inversión Extranjera Inmobiliaria en el Principado de Andorra, con el propósito de aplicar un impuesto sobre las inversiones extranjeras que se produzcan sobre bienes inmuebles ubicados en el Principado de Andorra. 
 
-
+A principios de febrero de 2024, se aprobó el proyecto por parte del Consell General para implementar por primera este tipo de impuesto sobre la inversión extranjera inmobiliaria que se lleve a cabo en el país.  
 
 ***¿Cuándo se generará este impuesto sobre Inversión Extranjera Inmobiliaria?***
 
-El hecho generador ocurrirá cuando se adquieran Inmuebles ubicados en el Principado de Andorra, se lleven a cabo Promociones urbanísticas o Inmobiliarias, concesiones administrativas o participación en sociedades que tengan derechos sobre bienes Inmuebles.
+El hecho imponible se producirá cuando se adquieran inmuebles ubicados en el Principado de Andorra, se lleven a cabo promociones urbanísticas o inmobiliarias, concesiones administrativas o bien se participe en sociedades que tengan derechos sobre bienes Inmuebles.
 
-¿A quién afecta el impuesto sobre inversión extranjera inmobiliaria?
+***¿A quién afecta el impuesto sobre inversión extranjera inmobiliaria?***
 
 Este nuevo impuesto afectará a diversos colectivos:
 
-\-	Personas físicas no residentes.
-
-\-	Personas jurídicas extranjeras. (100%)
-
-\-	Personas jurídicas andorranas con al menos un 50% del capital social extranjero. 
-
-\-	Personas físicas con menos de 3 años de residencia.
-
-\-	Personas jurídicas andorranas con participación extranjera en el capital social o de residentes con menos de 3 años de residencia, mas de un 5% i menos de un 50%.*
-
-
+* Personas físicas no residentes.
+* Personas jurídicas extranjeras. (100%)
+* Personas jurídicas andorranas con al menos un 50% del capital social extranjero. 
+* Personas físicas con menos de 3 años de residencia.
+* Personas jurídicas andorranas con participación extranjera en el capital social o de residentes con menos de 3 años de residencia, mas de un 5% i menos de un 50%.
 
 ***¿Si estoy en algún grupo de los descritos anteriormente, cuanto es el tipo impositivo?***
 
-
-
 El tipo de gravamen es progresivo, y va en función de una serie de parámetros:
 
-3%:
+**3%:**
 
-\-	Inversión en la primera parcela para construir una vivienda unifamiliar.
+* Inversión en la primera parcela para construir una vivienda unifamiliar.
+* 1 piso, apartamento o estudio.
+* 1 local comercial de máximo 250 m2.
+* 2 trasteros y 2 plazas de aparcamiento.
 
-\-	1 piso, apartamento o estudio.
+**5%:**
 
-\-	1 local comercial de máximo 250 m2.
+* Segundo inmueble unifamiliar, segundo piso, apartamento o estudio.
+* Segundo local comercial de máximo 250 m2 (junto con 2 trasteros y 2 plazas de aparcamiento).
+* Máximo de 5 viviendas unifamiliares, pisos, apartamentos o locales comerciales de 250 m2 como máximo.
+* O un máximo de 10 plazas de aparcamiento.
 
-\-	2 trasteros y 2 plazas de aparcamiento.
+**8%:**
 
+* Sexto inmueble unifamiliar, sexto piso, apartamento o local comercial de máximo 250 m2 (junto con 2 trasteros y 2 plazas de aparcamiento).
+* Máximo de 9 viviendas unifamiliares, pisos, apartamentos o locales comerciales de 250 m2 como máximo.
+* O un máximo de 18 plazas de aparcamiento.
 
+**10%:**
 
-5%:
-
-\-	Segundo inmueble unifamiliar, segundo piso, apartamento o estudio.
-
-\-	Segundo local comercial de máximo 250 m2 (junto con 2 trasteros y 2 plazas de aparcamiento).
-
-\-	Máximo de 5 viviendas unifamiliares, pisos, apartamentos o locales comerciales de 250 m2 como máximo.
-
-\-	O un máximo de 10 plazas de aparcamiento.
-
-
-
-8%:
-
-\-	Sexto inmueble unifamiliar, sexto piso, apartamento o local comercial de máximo 250 m2 (junto con 2 trasteros y 2 plazas de aparcamiento).
-
-\-	Máximo de 9 viviendas unifamiliares, pisos, apartamentos o locales comerciales de 250 m2 como máximo.
-
-\-	O un máximo de 18 plazas de aparcamiento.
-
-
-
-10%:
-
-\-	Promociones urbanísticas o inmobiliarias.
-
-\-	Más de 1 parcela por vivienda unifamiliar.
-
-\-	Todos los demás casos distintos a los anteriores.
-
-
+* Promociones urbanísticas o inmobiliarias.
+* Más de 1 parcela por vivienda unifamiliar.
+* Todos los demás casos distintos a los anteriores.
 
 ***¿Qué determina la base de tributación?***
 
