@@ -1,14 +1,7 @@
 ---
 layout: post
 title: Residence for digital nomads in Andorra
-description: The figure of the digital nomad is that of a professional who works
-  remotely without being confined to a specific geographic location, and it's
-  constantly growing. Seeing an increasing number of digital nomad profiles,
-  Andorra has decided to attract them to its country by implementing a specific
-  residency permit for this community. At the end of 2022, a law was passed to
-  define the requirements and conditions to apply for this new Digital Nomad
-  Residency Permit (Law 42/2022, dated December 1, on digital economy,
-  entrepreneurship, and innovation).
+description: New residence and work permit for digital nomads.
 date: 2023-05-15T16:33:43.512Z
 image: /assets/uploads/foto-blog-economía-digital.jpg
 tags:
