@@ -8,7 +8,7 @@ language: es
 ---
 El pasado 31 de octubre de 2023 se admitió a trámite parlamentario el proyecto de Ley del Impuesto sobre la Inversión Extranjera Inmobiliaria en el Principado de Andorra, con el propósito de aplicar un impuesto sobre las inversiones extranjeras que se produzcan sobre bienes inmuebles ubicados en el Principado de Andorra. 
 
-A principios de febrero de 2024, se aprobó el proyecto por parte del Consell General para implementar por primera este tipo de impuesto sobre la inversión extranjera inmobiliaria que se lleve a cabo en el país.  
+A principios de febrero de 2024, se aprobó el proyecto por parte del Consell General para implementar por primera vez este tipo de impuesto sobre la inversión extranjera inmobiliaria que se lleve a cabo en el país.  
 
 ***¿Cuándo se generará este impuesto sobre Inversión Extranjera Inmobiliaria?***
 
