@@ -56,7 +56,7 @@ El tipus de gravamen és progressiu, i va en funció d'una sèrie de paràmetres
 
 ***Què determina la base de tributació?***
 
-La base de tributació es determina sobre el valor real de la inversió estrangera immobiliària. En les promocions urbanístiques o immobiliàries la base serà el valor real de la inversió formalitzada. Existeix una excepció en el cas de les persones jurídiques andorranes que tinguin un % del capital estranger (més d'un 5% i menys d'un 50%), en aquest cas, la base de tributació consistirà en el valor real de la inversió immobiliària duta a terme tenint en compte la proporció del capital social estranger que participi la persona jurídica estrangera.
+La base de tributació es determina sobre el valor real de la inversió estrangera immobiliària. En les promocions urbanístiques o immobiliàries la base serà el valor real de la inversió formalitzada. Existeix una excepció en el cas de les persones jurídiques andorranes que tinguin un % del capital estranger (més d'un 5% i menys d'un 50%), en aquest cas, la base de tributació consistirà en el valor real de la inversió immobiliària portada a terme tenint en compte la proporció del capital social estranger que participi la persona jurídica estrangera.
 
 ***Existeix alguna bonificació o deducció?***
 
