@@ -2,15 +2,7 @@
 layout: post
 title: Is it necessary to homologate my driver's license if I'm going to live in
   Andorra?
-description: If you are a foreigner and have recently moved your tax residency
-  to Andorra, it is mandatory to homologate your driver's license in order to
-  use your vehicle in the Principality of Andorra.  Driving in Andorra with a
-  foreign license while being a resident is strictly prohibited. According to
-  Andorran regulations (Decree 545/2022, dated December 22, 2022, approving the
-  Regulation of permits and complementary administrative authorizations for
-  driving and the Register of Driving Permits), once residency is obtained in
-  Andorra, there is a period of up to 6 months to homologate the driver's
-  license held for an Andorran one.
+description: The process of homologating a driving license in Andorra.
 date: 2023-12-23T17:54:52.801Z
 image: /assets/uploads/foto-blog-homologar-permís-de-conduir.jpg
 tags: []
