@@ -11,7 +11,7 @@ tags:
   - tramites
 language: es
 ---
-Si eres residente fiscal en Andorra, a parte de las muchas ventajas (no solo fiscales) que proporciona vivir en el Principado de Andorra, te interesa saber que cuando te encuentres fuera del país de Andorra, puedes solicitar la devolución del IVA (mas conocido de forma internacional como “Tax Free”) de los productos que adquieras a nivel personal.
+Si eres residente fiscal en Andorra, a parte de las muchas ventajas (no solo fiscales) que proporciona vivir en el Principado de Andorra, te interesa saber que cuando te encuentres fuera del país de Andorra, puedes solicitar la devolución del IVA (mas conocido de forma internacional como “Tax Free”) de los productos que adquieras a nivel personal y sin finalidad comercial.
 
 #### ¿Qué es exactamente el Tax Free?
 
@@ -34,6 +34,10 @@ Es importante remarcar que hasta que no hayas vuelto a Andorra mantengas el bien
 * Sellar el DER o formulario electrónico en la Aduana Española de la frontera con Andorra.
 
 Una vez llevado se ha sellado el documento y pasado por la frontera, en función del establecimiento donde se ha adquirido el bien pedirán confirmación para verificar que la exportación se ha llevado a cabo y poder efectuar la devolución del impuesto al usuario. A dia de hoy, funciona de forma automatizada y en el momento de sellar el documento por la aduana se procede a la devolución de forma automática.
+
+#### ¿De cuánto tiempo dispongo para hacer el Tax Free?
+
+Es necesario que selles el documento en la aduana  dentro de los tres meses siguiente a la compra.
 
 #### ¿Una vez finalizado el proceso de devolución Tax Free, tengo alguna obligación con Andorra?
 
