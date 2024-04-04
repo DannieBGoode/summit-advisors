@@ -6,7 +6,7 @@ date: 2023-12-29T16:01:25.327Z
 image: /assets/uploads/foto-blog-tax-free.jpg
 language: cat
 ---
-Si ets resident fiscal a Andorra, a part de les moltes avantatges (no només fiscals) que proporciona viure al Principat d'Andorra, t'interessa saber que quan et trobis fora del país d'Andorra, pots sol·licitar la devolució de l'IVA (més conegut internacionalment com a 'Tax Free') dels productes que adquireixis a nivell personal.
+Si ets resident fiscal a Andorra, a part de les moltes avantatges (no només fiscals) que proporciona viure al Principat d'Andorra, t'interessa saber que quan et trobis fora del país d'Andorra, pots sol·licitar la devolució de l'IVA (més conegut internacionalment com a 'Tax Free') dels productes que adquireixis a nivell personal i sense finalitat comercial.
 
 #### Què és exactament el Tax Free?
 
@@ -30,10 +30,12 @@ A Espanya, tot el procés de devolució de l'IVA és digital i es fa a través d
 
 Un cop segellat el document i creuada la frontera, segons l'establiment on s'hagi adquirit el bé, demanaran confirmació per verificar que s'ha realitzat l'exportació i poder efectuar la devolució de l'impost a l'usuari. En l'actualitat, funciona de manera automatitzada i en el moment de segellar el document per part de l'aduana, es procedeix a la devolució de manera automàtica.
 
+#### ¿De quant temps disposo per fer el Tax Free?
+
+És necessari segellar el document dins dels tres mesos següents a la compra.
+
 #### Un cop finalitzat el procés de devolució Tax Free, tinc alguna obligació amb Andorra?
 
 Segons el valor del bé adquirit, tindràs l'obligació d'informar i pagar impostos a Andorra. En el cas de béns adquirits per un valor inferior a 300 euros pel qual s'hagi sol·licitat la devolució, no serà necessari dur a terme cap acció amb Andorra. No obstant això, pels béns pels quals haguem sol·licitat la devolució de l'IVA i que tinguin un valor superior a 300 euros, haurem de parar a la frontera andorrana per informar de la importació i pagar el 4,5% d'IGI (és el tipus impositiu equivalent a l'IVA espanyol).
-
-
 
 Hi ha diverses companyies que gestionen la devolució de l'IVA i, segons els acords que tinguin amb els establiments, apliquen unes tarifes o altres. En el cas de grans empreses (per exemple, APPLE), la companyia que gestiona la devolució no aplica cap comissió per aquest servei i la devolució correspon íntegrament al 21% de l'IVA pagat.
