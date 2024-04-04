@@ -6,7 +6,7 @@ date: 2023-12-29T15:54:05.201Z
 image: /assets/uploads/foto-blog-tax-free.jpg
 language: en
 ---
-If you are a tax resident in Andorra, apart from the many advantages (not just fiscal ones) that living in the Principality of Andorra provides, you may be interested to know that when you are outside the country of Andorra, you can request a VAT refund (more commonly known internationally as 'Tax Free') for the products you acquire for personal use.
+If you are a tax resident in Andorra, apart from the many advantages (not just fiscal ones) that living in the Principality of Andorra provides, you may be interested to know that when you are outside the country of Andorra, you can request a VAT refund (more commonly known internationally as 'Tax Free') for the products you acquire for personal use and non-commercial.
 
 #### What exactly is Tax Free?
 
@@ -29,6 +29,10 @@ It's important to note that until you return to Andorra, you should keep the pur
 * Stamp the DER or electronic form at the Spanish Customs at the border with Andorra.
 
 Once the document has been stamped and crossed the border, depending on the establishment where the item was purchased, they will request confirmation to verify that the exportation has taken place and process the tax refund for the user. As of today, it operates automatically, and upon stamping the document at customs, the refund is processed automatically.
+
+#### How much time do I have to do the Tax Free?
+
+You need to stamp the document within three months following the purchase.
 
 #### Once the Tax Free refund process is completed, do I have any obligations with Andorra?
 
