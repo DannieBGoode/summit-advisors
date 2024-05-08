@@ -1,0 +1,32 @@
+{% assign default_language = 'es' %}
+{% assign description_key = 'description_' | append: page.language %}
+{% assign description = site.data.about[description_key] | replace: '\n', '' | replace: '\r', '' | strip | escape %}
+
+{% if page.language == default_language %}
+  {% assign url = site.url %}
+{% else %}
+  {% for lang in site.languages %}
+    {% if page.language == lang %}
+      {% assign url = site.url | append: '/' | append: lang %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "FinancialService",
+  "name": "Summit Advisors",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C/ la Llacuna, 2, 4B",
+    "addressLocality": "Andorra la Vella",
+    "addressRegion": "Andorra",
+    "postalCode": "AD500",
+    "addressCountry": "Principat d’Andorra"
+  },
+  "url": "{{ url }}",
+  "telephone": "+376 370380",
+  "description": "{{ description }}"
+}
+</script>
