@@ -24,8 +24,8 @@ En caso de llevar a cabo la adquisición de un bien inmueble para destinarlo a a
 
 El Comú (ayuntamiento) donde se encuentre ubicado el bien inmueble también aplica impuestos adicionales a los propietarios de los bienes inmuebles. Estos son los siguientes: 
 
-*  El impuesto sobre la propiedad inmobiliaria edificada. Cada Comú aplica un tipo de gravamen fijo por metro cuadrado del bien inmueble. Por este motivo, es importante notificar al Comú que eres el nuevo propietario del bien inmueble y se actualicen los datos del propietario. 
-* Impuesto sobre rendimiento de arrendatarios, el tipo de gravamen variará en función del Comú (excepto Canillo que actualmente no lo aplica). Además, en caso de que alquiles el bien inmueble, también tendrás que tributar los rendimientos por IS, IRPF o por IRNR (en función de si eres persona jurídica o persona física residente o no).
+* El impuesto sobre la propiedad inmobiliaria edificada. Cada Comú aplica un tipo de gravamen fijo por metro cuadrado del bien inmueble. Por este motivo, es importante notificar al Comú que eres el nuevo propietario del bien inmueble y se actualicen los datos del propietario. 
+* Impuesto sobre rendimiento de arrendatarios, que grava los rendimientos obtenidos por el alquiler del inmueble. El tipo de gravamen variará en función del Comú (excepto Canillo que actualmente no lo aplica). Además, en caso de que alquiles el bien inmueble, también tendrás que tributar los rendimientos por IS, IRPF o por IRNR (en función de si eres persona jurídica o persona física residente o no).
 
 Así mismo, cabe destacar que también podría ser de aplicación el nuevo impuesto sobre la inversión extranjera inmobiliaria para aquellos inversores no residentes o los residentes con menos de 3 años en el país. En el artículo del pasado 13 de febrero de 2024 lo explicamos con más detalle [(El nuevo impuesto sobre la inversión extranjera inmobiliaria en Andorra).](https://summitadvisors.ad/es/blog/2024-02-13-el-nuevo-impuesto-sobre-la-inversi%C3%B3n-immobili%C3%A0ria-estrangera-en-andorra)
 
