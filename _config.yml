@@ -19,6 +19,8 @@ plugins:
 paginate: 6
 paginate_path: "/blog/page/:num"
 
+# Publish future-dated posts
+future: true
 
 #-------------------------------
 # Collections
