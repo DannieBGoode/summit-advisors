@@ -2,7 +2,7 @@
 layout: post
 title: Impostos associats a la compra d'un bé immoble situat a Andorra
 description: Impostos associats a les operacions de compravenda d'immobles.
-date: 2024-07-03T10:24:00.000Z
+date: 2024-07-02T11:24:00.000Z
 image: /assets/uploads/feinschliff-u2u3nr7iegw-unsplash.jpg
 language: cat
 ---
