@@ -4,10 +4,7 @@ title: Associació de Jugadors Professionals de Pòquer d'Andorra - AJPPA
 description: Neix la primera associació de jugadors professionals de pòquer al país.
 date: 2024-01-02T08:39:30.322Z
 image: /assets/uploads/imatge-poker-1.jpg
-tags:
-  - residence
-  - lifestyle
-  - poker
+tags: []
 language: cat
 ---
 Després de mesos de treball, l'Associació de Jugadors Professionals de Pòquer d'Andorra - AJPPA ja és una realitat. 
