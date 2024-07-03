@@ -21,7 +21,10 @@ En cas de dur a terme l'adquisició d'un bé immoble per destinar-lo a lloguer p
 
 **En convertir-me en propietari d'un bé immoble a Andorra, he de pagar algun altre impost**?
 
- El comú (ajuntament) on es trobi ubicat el bé immoble també aplica impostos addicionals als propietaris dels béns immobles. L'impost sobre la propietat immobiliària edificada. Cada comú aplica un tipus de gravamen fix per metres quadrats del bé immoble. Per aquest motiu, és important notificar al comú que ets el nou propietari del bé immoble i es facin actualitzar les dades del propietari. Impost sobre rendiment d'arrendataris, el tipus de gravamen variarà en funció del comú (excepte Canillo que actualment no l'aplica). A més, en cas que lloguis el bé immoble, també hauràs de tributar els rendiments per IS, IRPF o per IRNR (en funció de si ets persona jurídica o persona física resident o no).
+ El comú (ajuntament) on es trobi ubicat el bé immoble també aplica impostos addicionals als propietaris dels béns immobles. Aquets són els següents: 
+
+* L'impost sobre la propietat immobiliària edificada. Cada comú aplica un tipus de gravamen fix per metres quadrats del bé immoble. Per aquest motiu, és important notificar al comú que ets el nou propietari del bé immoble i es facin actualitzar les dades del propietari. 
+* L'impost sobre rendiment d'arrendataris, que grava el rendiments obtinguts pels lloguer de l'immoble. El tipus de gravamen variarà en funció del comú (excepte Canillo que actualment no l'aplica). A més, en cas que lloguis el bé immoble, també hauràs de tributar els rendiments per IS, IRPF o per IRNR (en funció de si ets persona jurídica o persona física resident o no).
 
 Així mateix, cal destacar que en també podria ser d’aplicació el nou impost sobre la inversió estrangera immobiliària per aquells inversors no residents o els residents amb menys de 3 anys al país. En l’article del passat 13 de febrer de 2024 ho expliquem amb més detall [(El nou impost sobre la inversió estrangera immobiliària a Andorra).](https://summitadvisors.ad/cat/blog/2024-02-13-el-nou-impost-sobre-la-inversi%C3%B3-estrangera-immobili%C3%A0ria-a-andorra)[](https://summitadvisors.ad/cat/blog/2024-02-13-el-nou-impost-sobre-la-inversi%C3%B3-estrangera-immobili%C3%A0ria-a-andorra)
 
