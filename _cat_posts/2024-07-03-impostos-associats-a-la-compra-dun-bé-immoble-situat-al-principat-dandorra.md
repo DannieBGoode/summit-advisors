@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Impostos associats a la compra d'un bé immoble situat al Principat d'Andorra
+title: Impostos associats a la compra d'un bé immoble situat a Andorra
 description: Impostos associats a les operacions de compravenda d'immobles.
 date: 2024-07-03T10:24:00.000Z
 image: /assets/uploads/feinschliff-u2u3nr7iegw-unsplash.jpg
-tags:
-  - impuestos
 language: cat
-ref: compra-de-un-bien
 ---
 Hi ha diversos impostos aplicables al comprador d'un bé immoble situat al Principat d'Andorra en funció de les parts que intervinguin en la transacció de compra-venda. 
 
