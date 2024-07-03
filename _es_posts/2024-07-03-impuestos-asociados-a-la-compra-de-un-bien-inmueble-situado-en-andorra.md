@@ -8,9 +8,8 @@ language: es
 ---
 Hay varios impuestos aplicables al comprador de un bien inmueble situado en el Principado de Andorra en función de las partes que intervengan en la transacción de compra-venta.
 
-*Impuesto Indirecto sobre Transmisiones Patrimoniales (ITP):* Se aplica una tributación del 4% sobre el valor real del bien objeto de la compra-venta. El 3% corresponde al Comú donde está ubicado el bien inmueble y el 1% corresponde al Gobierno de Andorra.
-
-*Impuesto General Indirecto (IGI):* Se aplica una tributación del 4,5% sobre el valor real del bien objeto de la compra-venta.
+1. *Impuesto Indirecto sobre Transmisiones Patrimoniales (ITP):* Se aplica una tributación del 4% sobre el valor real del bien objeto de la compra-venta. El 3% corresponde al Comú donde está ubicado el bien inmueble y el 1% corresponde al Gobierno de Andorra.
+2. *Impuesto General Indirecto (IGI):* Se aplica una tributación del 4,5% sobre el valor real del bien objeto de la compra-venta.
 
 **¿Cuándo aplicamos IGI o ITP?**
 
