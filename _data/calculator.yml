@@ -49,9 +49,12 @@ textos:
   adelante_es: en adelante
   adelante_en: onwards
   adelante_cat: endavant
-  hasta_es: Hasta
-  hasta_en: Up to
-  hasta_cat: Fins a
+  desde_es: de
+  desde_en: from
+  desde_cat: de
+  hasta_es: hasta
+  hasta_en: up to
+  hasta_cat: fins a
   calcula_es: Calcula cual sería tu salario neto
   calcula_en: Calculate your net salary
   calcula_cat: Calcula quin seria el teu salari net

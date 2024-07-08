@@ -12,7 +12,8 @@
 {% assign tramos_key = 'tramos_' | append: lang_prefix %}
 {% assign hasta_key = 'hasta_' | append: lang_prefix %}
 {% assign de_key = 'de_' | append: lang_prefix %}
-{% assign a_key = 'a_' | append: lang_prefix %}
+{% assign a_key = 'hasta_' | append: lang_prefix %}
+{% assign desde_key = 'desde_' | append: lang_prefix %}
 {% assign adelante_key = 'adelante_' | append: lang_prefix %}
 {% assign sueldoBrutoAnual_key = 'sueldoBrutoAnual_' | append: lang_prefix %}
 {% assign sueldoNetoAnual_key = 'sueldoNetoAnual_' | append: lang_prefix %}
@@ -106,11 +107,11 @@
 							<td>0%</td>
 						</tr>	
 						<tr>
-							<td>{{ calculatorTexts[de_key] }} {{ calculatorParameters.tramoMin }} € {{ calculatorTexts[a_key] }} {{ calculatorParameters.tramoMax }} €</td>
+							<td>{{ calculatorTexts[desde_key] }} {{ calculatorParameters.tramoMin }} € {{ calculatorTexts[a_key] }} {{ calculatorParameters.tramoMax }} €</td>
 							<td>{{ calculatorParameters.tributacionMin }}%</td>
 						</tr>	
 						<tr>
-							<td>De {{ calculatorParameters.tramoMax }} € {{ calculatorTexts[adelante_key] }}</td>
+							<td>{{ calculatorTexts[desde_key] }} {{ calculatorParameters.tramoMax }} € {{ calculatorTexts[adelante_key] }}</td>
 							<td>{{ calculatorParameters.tributacionMax }}%</td>
 						</tr>	
 					</tbody>
