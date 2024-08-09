@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andorra Refuerza su Proyección Internacional mediante los CDI
+title: Andorra refuerza su proyección internacional mediante los CDI
 description: Convenios para evitar la doble imposición internacional
 date: 2024-08-09T10:00:00.000Z
 image: /assets/uploads/imagen_cdi.jpg
