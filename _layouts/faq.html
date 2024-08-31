@@ -1,0 +1,135 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="page-head">
+        <h1 class="page-title">{{ page.title | escape }}</h1>
+        {% if page.description %}
+          <p class="page-description">{{ page.description }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="page__content">
+        {{ content }}
+        
+        <div class="faq-list">
+          {% for item in site.data.faq.questions %}
+            {% assign question_key = 'question_' | append: page.language %}
+            {% assign answer_key = 'answer_' | append: page.language %}
+            <div class="faq-item" id="faq-{{ forloop.index }}">
+              <button class="faq-question" aria-expanded="false" aria-controls="faq-answer-{{ forloop.index }}">
+                <h2>{{ item[question_key] }}</h2>
+                <svg class="faq-icon" viewBox="0 0 24 24">
+                  <path fill="currentColor" d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
+                </svg>
+              </button>
+              <div id="faq-answer-{{ forloop.index }}" class="faq-answer">
+                <div class="faq-answer-content">
+                  {{ item[answer_key] | markdownify }}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const faqItems = document.querySelectorAll('.faq-item');
+    
+    faqItems.forEach(item => {
+      const question = item.querySelector('.faq-question');
+      const answer = item.querySelector('.faq-answer');
+      
+      // Ensure answers are hidden initially
+      answer.style.maxHeight = '0';
+      answer.style.opacity = '0';
+      answer.style.visibility = 'hidden';
+      
+      question.addEventListener('click', () => {
+        const isExpanded = question.getAttribute('aria-expanded') === 'true';
+        
+        // Close all other items
+        faqItems.forEach(otherItem => {
+          if (otherItem !== item) {
+            closeItem(otherItem);
+          }
+        });
+        
+        // Toggle current item
+        if (isExpanded) {
+          closeItem(item);
+        } else {
+          openItem(item);
+        }
+      });
+    });
+
+    function openItem(item) {
+      const question = item.querySelector('.faq-question');
+      const answer = item.querySelector('.faq-answer');
+      const answerContent = answer.querySelector('.faq-answer-content');
+
+      item.classList.add('active');
+      question.setAttribute('aria-expanded', 'true');
+      answer.style.visibility = 'visible';
+      answer.style.opacity = '1';
+      
+      // Set padding first, then set max-height
+      answer.style.padding = '0 1.25rem 1.25rem';
+      answer.style.maxHeight = answerContent.offsetHeight + parseFloat(getComputedStyle(answer).paddingBottom) + 'px';
+    }
+
+    function closeItem(item) {
+      const question = item.querySelector('.faq-question');
+      const answer = item.querySelector('.faq-answer');
+
+      item.classList.remove('active');
+      question.setAttribute('aria-expanded', 'false');
+      answer.style.maxHeight = '0';
+      answer.style.opacity = '0';
+      answer.style.padding = '0 1.25rem'; // Remove bottom padding
+      
+      setTimeout(() => {
+        answer.style.visibility = 'hidden';
+      }, 200);
+    }
+  });
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in site.data.faq.questions %}
+    {
+      "@type": "Question",
+      "name": {{ item[question_key] | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item[answer_key] | markdownify | strip_html | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+
+<noscript>
+  <style>
+    .faq-answer { display: block !important; }
+  </style>
+</noscript>
