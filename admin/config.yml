@@ -316,25 +316,6 @@ collections:
       - { label: 'Idioma', name: 'language', widget: 'hidden', default: 'cat' }
       - { label: 'Ref', name: 'ref', required: false, widget: 'string', hint: 'Usar el mismo ref permite cambiar fácilmente entre idiomas sin pasar por el homepage. Por ejemplo cambiar entre /es/andorra y /en/andorra.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'contacto'
-    label: 'Contacto'
-    editor:
-      preview: false
-    files:
-      - label: "Contacto"
-        name: "contact"
-        file: "_data/contact.yml"
-        fields: 
-          - { label: "Imagen", name: "image", widget: "image", required: false, hint: 'Imagen de cabecera de la página de Contacto' }
-          - { label: "Descripción (Español)", name: "body_es", widget: "text", hint: 'Descripción del formulario de contacto (español)' }
-          - { label: "Descripción (Inglés)", name: "body_en", widget: "text", hint: 'Descripción del formulario de contacto (inglés)' }
-          - { label: "Descripción (Catalàn)", name: "body_cat", widget: "text", hint: 'Descripción del formulario de contacto (catalán)' }
-          - { label: "Dirección", name: "direction", widget: "text", hint: 'Dirección física del contacto' }
-          - { label: "Horario (Español)", name: "hours_body_es", widget: "text", hint: 'Horario de apertura (español)' }
-          - { label: "Horario (Inglés)", name: "hours_body_en", widget: "text", hint: 'Horario de apertura (inglés)' }
-          - { label: "Horario (Catalàn)", name: "hours_body_cat", widget: "text", hint: 'Horario de apertura (catalán)' }
-          - { label: "Telefono de Contacto #1", name: "phone1", widget: "string", hint: 'Telefóno de contacto principal', required: false }
-          - { label: "Telefono de Contacto #2", name: "phone2", widget: "string", hint: 'Telefóno de contacto secundario', required: false }
   - name: 'faq'
     label: 'Preguntas Frecuentes'
     editor:
@@ -357,6 +338,25 @@ collections:
               - { label: 'Respuesta (Inglés)', name: 'answer_en', widget: 'markdown' }
               - { label: 'Pregunta (Catalán)', name: 'question_cat', widget: 'string' }
               - { label: 'Respuesta (Catalán)', name: 'answer_cat', widget: 'markdown' }
+  - name: 'contacto'
+    label: 'Contacto'
+    editor:
+      preview: false
+    files:
+      - label: "Contacto"
+        name: "contact"
+        file: "_data/contact.yml"
+        fields: 
+          - { label: "Imagen", name: "image", widget: "image", required: false, hint: 'Imagen de cabecera de la página de Contacto' }
+          - { label: "Descripción (Español)", name: "body_es", widget: "text", hint: 'Descripción del formulario de contacto (español)' }
+          - { label: "Descripción (Inglés)", name: "body_en", widget: "text", hint: 'Descripción del formulario de contacto (inglés)' }
+          - { label: "Descripción (Catalàn)", name: "body_cat", widget: "text", hint: 'Descripción del formulario de contacto (catalán)' }
+          - { label: "Dirección", name: "direction", widget: "text", hint: 'Dirección física del contacto' }
+          - { label: "Horario (Español)", name: "hours_body_es", widget: "text", hint: 'Horario de apertura (español)' }
+          - { label: "Horario (Inglés)", name: "hours_body_en", widget: "text", hint: 'Horario de apertura (inglés)' }
+          - { label: "Horario (Catalàn)", name: "hours_body_cat", widget: "text", hint: 'Horario de apertura (catalán)' }
+          - { label: "Telefono de Contacto #1", name: "phone1", widget: "string", hint: 'Telefóno de contacto principal', required: false }
+          - { label: "Telefono de Contacto #2", name: "phone2", widget: "string", hint: 'Telefóno de contacto secundario', required: false }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
