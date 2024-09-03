@@ -154,7 +154,7 @@ collections:
         - label: "Texto (Español)"
           name: "body_es"
           widget: "markdown"
-          hint: 'Texto principal de la págok ina Nosotros (Español)'
+          hint: 'Texto principal de la página Nosotros (Español)'
         - label: "Texto (Inglés)"
           name: "body_en"
           widget: "markdown"
@@ -335,6 +335,28 @@ collections:
           - { label: "Horario (Catalàn)", name: "hours_body_cat", widget: "text", hint: 'Horario de apertura (catalán)' }
           - { label: "Telefono de Contacto #1", name: "phone1", widget: "string", hint: 'Telefóno de contacto principal', required: false }
           - { label: "Telefono de Contacto #2", name: "phone2", widget: "string", hint: 'Telefóno de contacto secundario', required: false }
+  - name: 'faq'
+    label: 'Preguntas Frecuentes'
+    editor:
+      preview: false
+    files:
+      - label: "FAQ"
+        name: "faq"
+        file: "_data/faq.yml"
+        fields:
+          - { label: 'Título (Español)', name: 'faq_title_es', widget: 'string' }
+          - { label: 'Título (Inglés)', name: 'faq_title_en', widget: 'string' }
+          - { label: 'Título (Catalán)', name: 'faq_title_cat', widget: 'string' }
+          - label: "Preguntas"
+            name: "questions"
+            widget: "list"
+            fields:
+              - { label: 'Pregunta (Español)', name: 'question_es', widget: 'string' }
+              - { label: 'Respuesta (Español)', name: 'answer_es', widget: 'markdown' }
+              - { label: 'Pregunta (Inglés)', name: 'question_en', widget: 'string' }
+              - { label: 'Respuesta (Inglés)', name: 'answer_en', widget: 'markdown' }
+              - { label: 'Pregunta (Catalán)', name: 'question_cat', widget: 'string' }
+              - { label: 'Respuesta (Catalán)', name: 'answer_cat', widget: 'markdown' }
   - name: 'Ajustes'
     label: 'Ajustes'
     editor:
@@ -348,7 +370,7 @@ collections:
           name: "gallery"
           widget: "list"
           fields:
-          - { label: Titulo, name: alt, widget: string, hint: 'Nombre de la imagen por motivos de SEO de Google.' }
+          - { label: Titulo, name: alt, widget: string, hint: 'Nombre de la imagen por motivos de SEO de Google.'}
           - { label: Imagen, name: url, widget: image, choose_url: true, hint: 'Imagen que aparece en el footer en todas las páginas.' }
     - label: "Ajustes Globales"
       name: "global"
@@ -373,7 +395,7 @@ collections:
           widget: "list"
           collapse: false
           fields:
-            - { label: Nombre, name: name, widget: string, hint: 'Nombre de la red social elegida.' }
+            - { label: Nombre, name: name, widget: string, hint: 'Nombre de la red social elegida.'}
             - { label: Icono, name: icon, widget: string, hint: 'Otros iconos se pueden encontrar en https://ionic.io/ionicons.' }
             - { label: Link, name: link, widget: string, hint: 'Enlace a la red social elegida.' }
   - name: "tags"
