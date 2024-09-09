@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El nuevo impuesto sobre la inversión estrangera inmobiliaria en Andorra
+title: El nuevo impuesto sobre la inversión extranjera inmobiliaria en Andorra
 description: "Nuevas regulaciones en materia immobiliària. "
 date: 2024-02-13T12:55:32.568Z
 image: /assets/uploads/imagen1.jpg
