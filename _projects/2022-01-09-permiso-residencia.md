@@ -12,7 +12,7 @@ Existen diversos tipos de permisos de residencia, a continuación, detallamos la
 
 **Residencias Activas**
 
-*1) Permiso de residencia y trabajo por cuenta propia*: Modalidad dirigida a empresarios y emprendedores que quieren establecer su negocio en el país. Se puede obtener mediante la creación de una sociedad (inversión extranjera) o bien mediante la opción de “profesional liberal” (pensada para ciertas profesiones que disponen de colegio profesional). 
+*1) Permiso de residencia y trabajo por cuenta propia*: Modalidad dirigida a empresarios y emprendedores que quieren establecer su negocio en el país. Se puede obtener mediante la creación de una sociedad (inversión extranjera) o bien mediante la opción de “profesional liberal” (pensada para ciertas profesiones que disponen de colegio profesional, tales como arquitectos, economistas, psicólogos, abogados, etc ). 
 
 A modo resumen, estos serían los requerimientos principales para obtenerla:
 
