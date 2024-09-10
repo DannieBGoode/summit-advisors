@@ -17,7 +17,7 @@ Existen diversos tipos de permisos de residencia, a continuación, detallamos la
 A modo resumen, estos serían los requerimientos principales para obtenerla:
 
 * Que la persona interesada resida en el país un mínimo de 183 días durante un año natural. 
-* Que se disponga de una autorización de inversión extranjera donde se autorice la creación de una sociedad andorrana de la que se debe poseer más del 34% del capital social de una empresa andorrana o bien que se disponga de la correspondiente autorización de profesión titulada (en el caso de aplicar por “profesional liberal”). 
+* Que se disponga de una autorización de inversión extranjera donde se autorice la creación de una sociedad andorrana de la que se debe poseer más del 34% del capital social o bien que se disponga de la correspondiente autorización de profesión titulada (en el caso de aplicar por “profesional liberal”). 
 * Obligatorio formar parte del órgano de administración (en el caso de inversión extranjera - creación nueva sociedad).
 * Realizar un depósito de 50.000.-eur no remunerados en la AFA (Autoridad Financiera Andorrana).*
 * Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra
