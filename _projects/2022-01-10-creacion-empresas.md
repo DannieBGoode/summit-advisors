@@ -6,44 +6,28 @@ description: Servicio de asistencia para la creación de empresas (SLs y otras) 
 date: 2022-01-10 08:01:35 +0300
 image: /assets/uploads/empresas.jpg
 ---
-En **Summit Advisors**, comprendemos que **crear una empresa o sociedad limitada (SL) en Andorra** puede parecer un laberinto de complejidades legales y regulaciones. Pero ¡no te preocupes! Estamos aquí para convertir este desafío en una experiencia fluida y satisfactoria.
+En Summit Advisors disponemos de un equipo especializado en la creación de nuevas sociedades ya sea a través de los diferentes procesos de inversión extranjera o bien sociedades de ámbito nacional. Nuestro despacho asesora a empresarios de diferentes nacionalidades y procedencias que tienen como objetivo poder establecerse en Andorra y operar mediante la figura de sociedad en diferentes ámbitos profesionales. La combinación de un régimen fiscal favorable, estabilidad económica y una ubicación estratégica en Europa convierte a Andorra en un destino ideal para establecer y gestionar negocios de diferentes indoles. 
 
-### **¿Por qué elegirnos?**
+Dicho servicio incluye el asesoramiento integral a las sociedades en las diferentes fases de su creación: la planificación inicial (estructura corporativa), el diseño estatutario y de sus órganos de gobierno, la constitución frente notario/a y la consultoría relativa al desarrollo diario de su actividad.
 
-* **Asesoramiento Personalizado:** Analizamos tu situación personal y empresarial para ofrecerte soluciones a medida. Entendemos que cada proyecto es único y requiere una estrategia que se ajuste a tus circunstancias actuales y futuras.
-* **Cumplimiento Legal:** Nos aseguramos de que todos los procesos y gestiones estén en perfecta alineación con las leyes y regulaciones de Andorra, garantizando así una transición sin contratiempos a tu nueva aventura empresarial.
+A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a realizar en un proceso de creación de una nueva sociedad. En el caso de sociedades de inversión extranjera (donde parte del capital está compuesto por personas físicas o jurídicas no nacionales o residentes en el país) sería el que se detalla a continuación:
 
-### **Nuestros Servicios**
+1. Elección de la denominación social, estructura societaria (SL, SLU, SA, etc) y detalle del objeto social.
+2. Solicitud de inversión extranjera, donde se describen las actividades que se pretenden desarrollar, así como unas estimaciones a 5 años vista relacionadas con la inversión, la facturación y la contratación de personal, entre otras.
+3. Pre-apertura de una cuenta corriente de la futura sociedad en una entidad bancaria del país para la realización del desembolso del capital social. 
 
-1. **Creación y Establecimiento de Empresas y SLs**
+   Sociedades de responsabilidad Limitada (SL & SLU): capital mínimo 3.000.-eur 
 
-   * Asesoramiento en la elección del tipo de estructura empresarial más adecuado para tu negocio.
-   * Asistencia en la preparación y presentación de toda la documentación necesaria.
-   * Soporte para obtener los permisos y licencias requeridos.
-2. **Relaciones Comerciales y Fiscales**
+   Sociedades de responsabilidad Anónima (SA): capital mínimo 60.000.-eur 
+4. Elaboración de los estatutos sociales.
+5. Constitución ante notario/a.
+6. Inscripción en el Registro Mercantil.
+7. Alta en el Departamento de Tributos y de Fronteras (DTF - Agencia Tributaria) i posterior solicitud del Número de Registro Tributario (NRT).
+8. Alta frente la Caja Andorrana de Seguridad Social (CASS).
+9. Solicitud y tramitación de un comercio para poder realizar actividades comerciales.
 
-   * Orientación en asuntos fiscales y estrategias para optimizar tu carga tributaria.
-   * Consejos para establecer una presencia en línea efectiva y aprovechar al máximo las herramientas digitales.
-3. **Establecimiento de SLs**
+**¿Por qué elegirnos?** 
 
-   * Ayuda para entender las obligaciones legales y fiscales específicas de las SLs en Andorra.
-   * Apoyo en la definición de una estructura de propiedad y gestión adecuada.
-4. **Proceso Paso a Paso hasta la Aprobación**
-
-   * Te acompañamos desde el inicio hasta obtener tu residencia en Andorra.
-   * Asistencia personalizada en cada etapa del proceso.
-
-### **Pasos Detallados de Nuestro Servicio**
-
-* Estudio de viabilidad de tu proyecto empresarial.
-* Redacción y formalización de los estatutos de tu empresa.
-* Gestión de la reserva de denominación social y Número de Identificación Administrativa.
-* Solicitud y tramitación de la autorización de inversión extranjera directa.
-* Solicitud y tramitación para obtener la calificación de sociedad que promueve la economía digital.
-* Apoyo en la apertura de cuentas bancarias y establecimiento de relaciones financieras.
-* Asistencia durante la constitución de la sociedad ante notario.
-* Inscripción de la empresa en el Registro Mercantil.
-* Gestión de licencias comerciales con las autoridades locales.
-* Tramitación del permiso de residencia y trabajo.
-
-**Summit Advisors** es tu aliado para transformar tu visión empresarial en una realidad tangible en Andorra. Con nuestra guía y soporte, estarás listo para explorar y conquistar nuevos horizontes comerciales.
+* Asesoramiento Personalizado: Analizamos tu situación personal y empresarial para ofrecerte soluciones a medida. Entendemos que cada proyecto es único y requiere una estrategia que se ajuste a tus circunstancias actuales y futuras.
+* Cumplimiento Legal: Nos aseguramos de que todos los procesos y gestiones estén en perfecta alineación con las leyes y regulaciones de Andorra, garantizando así una transición sin contratiempos a tu nueva aventura empresarial.
+* Agilidad y diligencia: Actuamos como delegados frente a los diferentes organismos públicos y privados que aplican en un proceso de creación de una nueva sociedad, con el objetivo de lograr una mayor rapidez en la gestión minimizando así los tramites a que debe realizar el cliente.
