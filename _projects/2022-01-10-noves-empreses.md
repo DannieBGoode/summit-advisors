@@ -25,5 +25,5 @@ En línies generals, el servei que oferim engloba els diferents passos a realitz
 **Per què triar-nos?**
 
 * *Assessorament Personalitzat*: Analitzem la teva situació personal i empresarial per oferir-te solucions a mida. Entenem que cada projecte és únic i requereix una estratègia que s'ajusti a les teves circumstàncies actuals i futures.
-* *Compliment Legal*: Ens assegurem que tots els processos i gestions estiguin en perfecta alineació amb les lleis i regulacions d'Andorra, garantint així una transició sense entrebancs cap a la teva nova aventura empresarial.
+* *Compliment Legal*: Ens assegurem que tots els processos i gestions estiguin en perfecta alineació amb les lleis i regulacions d'Andorra, garantint així una transició sense entrebancs cap a la nova aventura empresarial.
 * *Agilitat i diligència*: Actuem com a delegats davant els diferents organismes públics i privats implicats en un procés de creació d'una nova societat, amb l'objectiu d'aconseguir una major rapidesa en la gestió, minimitzant així els tràmits que ha de realitzar el client.
