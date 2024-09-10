@@ -20,7 +20,7 @@ A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a reali
 6. Inscripción en el Registro Mercantil.
 7. Alta en el Departamento de Tributos y de Fronteras (DTF - Agencia Tributaria) i posterior solicitud del Número de Registro Tributario (NRT).
 8. Alta frente la Caja Andorrana de Seguridad Social (CASS).
-9. Solicitud y tramitación de un comercio para poder realizar actividades comerciales.
+9. Solicitud y tramitación de un comercio que permita el inicio de las actividades comerciales.
 
 **¿Por qué elegirnos?** 
 
