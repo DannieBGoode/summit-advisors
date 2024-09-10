@@ -25,5 +25,5 @@ A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a reali
 **¿Por qué elegirnos?** 
 
 * *Asesoramiento Personalizado*: Analizamos tu situación personal y empresarial para ofrecerte soluciones a medida. Entendemos que cada proyecto es único y requiere una estrategia que se ajuste a tus circunstancias actuales y futuras.
-* *Cumplimiento Legal*: Nos aseguramos de que todos los procesos y gestiones estén en perfecta alineación con las leyes y regulaciones de Andorra, garantizando así una transición sin contratiempos a tu nueva aventura empresarial.
+* *Cumplimiento Legal*: Nos aseguramos de que todos los procesos y gestiones estén en perfecta alineación con las leyes y regulaciones de Andorra, garantizando así una transición sin contratiempos a la nueva aventura empresarial.
 * *Agilidad y diligencia*: Actuamos como delegados frente a los diferentes organismos públicos y privados que aplican en un proceso de creación de una nueva sociedad, con el objetivo de lograr una mayor rapidez en la gestión minimizando así los tramites a que debe realizar el cliente.
