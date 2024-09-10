@@ -1,6 +1,6 @@
 ---
 language: es
-title: Tramitación Permiso de Residencia
+title: Tramitación de Permisos de Residencia
 subtitle: Cuenta Propia / Cuenta Ajena / Pasiva
 description: Servicio de tramitación de residencia para Andorra
 date: 2022-01-09 08:01:35 +0300
