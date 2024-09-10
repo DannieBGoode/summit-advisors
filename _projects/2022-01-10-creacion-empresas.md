@@ -12,7 +12,7 @@ Dicho servicio incluye el asesoramiento integral a las sociedades en las diferen
 
 A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a realizar en un proceso de creación de una nueva sociedad. En el caso de sociedades de inversión extranjera (donde parte del capital está compuesto por personas físicas o jurídicas no nacionales o residentes en el país) sería el que se detalla a continuación:
 
-1. Elección de la denominación social, estructura societaria (SL, SLU, SA, etc) y detalle del objeto social.
+1. Elección de la denominación social (nombre de la futura sociedad), estructura societaria (SL, SLU, SA, etc) y detalle del objeto social.
 2. Solicitud de inversión extranjera, donde se describen las actividades que se pretenden desarrollar, así como unas estimaciones a 5 años vista relacionadas con la inversión, la facturación y la contratación de personal, entre otras.
 3. Pre-apertura de una cuenta corriente de la futura sociedad en una entidad bancaria del país para la realización del desembolso del capital social. Para sociedades de responsabilidad limitada (SL & SLU), el capital social mínimo debe ser 3.000.-eur y para sociedades de responsabilidad anónima (SA) aplicaria un capital social mínimo de 60.000.-eur.
 4. Elaboración de los estatutos sociales.
