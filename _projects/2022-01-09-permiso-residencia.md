@@ -20,12 +20,12 @@ A modo resumen, estos serían los requerimientos principales para obtenerla:
 * Que se disponga de una autorización de inversión extranjera donde se autorice la creación de una sociedad andorrana de la que se debe poseer más del 34% del capital social o bien que se disponga de la correspondiente autorización de profesión titulada (en el caso de aplicar por “profesional liberal”). 
 * Obligatorio formar parte del órgano de administración (en el caso de inversión extranjera - creación nueva sociedad).
 * Realizar un depósito de 50.000.-eur no remunerados en la AFA (Autoridad Financiera Andorrana).*
-* Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra
+* Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
 * Ejercer una actividad económica por cuenta de la sociedad (en el caso de inversión extranjera - creación nueva sociedad).
 * Presentación del certificado de antecedentes penales, tanto del país de origen como de los países de residencia. 
-* Certificación del estado civil (posibilidad de firmar declaración jurado en el caso de que el estado civil sea soltero/a). 
+* Certificación del estado civil (posibilidad de firmar declaración jurada en el caso de que el estado civil sea soltero/a). 
 
-\*En el caso de constituir una sociedad que promueve la economía digital, la emprendeduría o el emprendimiento, no es necesario llevar a cabo ningún depósito a la Autoridad Financiera Andorrana. Tampoco seria de aplicación dicho deposito en el caso de aplicar por un permiso de residencia y trabajo por cuenta propia mediante la opción de “profesional liberal”.
+\*En el caso de constituir una sociedad que promueve la economía digital, la emprendeduría o el emprendimiento, no es necesario llevar a cabo ningún depósito a la Autoridad Financiera Andorrana. Tampoco seria de aplicación dicho depósito en el caso de aplicar por un permiso de residencia y trabajo por cuenta propia mediante la opción de “profesional liberal”.
 
 *2) Residencia y trabajo por cuenta ajena*: Modalidad dirigida a personas que disponen de un contrato laboral con una empresa andorrana por lo que el proceso de obtención se simplifica en muchos aspectos y corre a cargo de la sociedad contratante. 
 
@@ -34,7 +34,7 @@ A modo resumen, estos serían los requerimientos principales para obtenerla:
 * Disponer de un contrato de trabajo de una empresa establecida en Andorra.
 * Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
 * Presentación del certificado de antecedentes penales, tanto del país de origen como de los países de residencia. 
-* Certificación del estado civil (posibilidad de firmar declaración jurado en el caso de que el estado civil sea soltero/a). 
+* Certificación del estado civil (posibilidad de firmar declaración jurada en el caso de que el estado civil sea soltero/a). 
 
 **Residencias Pasivas**
 
@@ -53,12 +53,16 @@ A modo resumen, estos serían los requerimientos principales para obtenerla la d
 * Disponer de un seguro medico privado que cubra enfermedad, incapacidad y vejez.
 * Disponer de un contrato de alquiler o ser propietario de una vivienda en Andorra.
 * Presentación del certificado de antecedentes penales, tanto del país de origen como de los países de residencia. 
-* Certificación del estado civil (posibilidad de firmar declaración jurado en el caso de que el estado civil sea soltero/a). 
+* Certificación del estado civil (posibilidad de firmar declaración jurada en el caso de que el estado civil sea soltero/a). 
 * Demostrar que se disponen de ingresos anuales superiores al 300% del salario mínimo anual vigente.
 * Demostrar que se a invertido de forma permanente i efectiva la cantidad mínima de 600.000.-eur en alguna de las categorías definidas reglamentariamente (bienes inmuebles situados en el país, acciones de sociedades andorranas, participaciones en fondos de inversión andorranos, instrumentos de deuda publica nacional, seguros de vida con entidades andorranas o depósitos no remunerados ante la AFA).*
 * Realizar un depósito de 47.500.-eur en la AFA (Autoridad Financiera Andorrana) y 9.500.-eur adicionales por cada familiar que se pretenda reagrupar (acreditando mayor volumen de solvencia económica). 
 
 \*En el caso que se opte por una inversión inmobiliaria, el valor unitario de al menos una de las propiedades debe superar los 400.000.-eur. 
+
+Cabe destacar que dichos permisos de residencia son autorizaciones administrativas y que, por si solas, no otorgan la residencia fiscal a su poseedor. Dicha residencia fiscal se obtiene mediante el cumplimiento de una serie de normativas fiscales especificadas en las leyes tributarias del país. 
+
+En nuestro blog, se puede encontrar información más detallada al respecto de la residencia fiscal. 
 
 Des de Summit Advisors nos comprometemos a hacer que tu proceso de tramitación de residencia en Andorra sea lo más fluido y eficiente posible. 
 
@@ -70,6 +74,4 @@ Des de Summit Advisors nos comprometemos a hacer que tu proceso de tramitación 
 * *Seguimiento post-presentación:* Realizamos un seguimiento constante de tu solicitud, proporcionando informes periódicos sobre su estado y realizando las gestiones necesarias en caso de requerir aclaraciones o correcciones.
 * *Conocimiento actualizado de normativas*: Nos mantenemos al día con las leyes y regulaciones de Andorra, brindándote la información más precisa y actualizada.
 
-Cabe destacar que dichos permisos de residencia son autorizaciones administrativas y que, por si solas, no otorgan la residencia fiscal a su poseedor. Dicha residencia fiscal se obtiene mediante el cumplimiento de una serie de normativas fiscales especificadas en las leyes tributarias del país. 
-
-En nuestro blog, se puede encontrar información más detallada al respecto de la residencia fiscal. [](https://summitadvisors.ad/es/blog/2023-12-21-c%C3%B3mo-ser-residente-fiscal-en-andorra)
+[](https://summitadvisors.ad/es/blog/2023-12-21-c%C3%B3mo-ser-residente-fiscal-en-andorra)
