@@ -1,31 +1,26 @@
 ---
+language: en
 title: Accounting, Labor and Tax Advisory
 subtitle: Legality
-description: Experts in accounting, tax, and labor advisory, guiding your business towards success with comprehensive and personalized services.
+description: Experts in accounting, tax, and labor advisory, guiding your
+  business towards success with comprehensive and personalized services.
 date: 2022-01-08 08:01:35 +0300
 image: /assets/uploads/asesoramiento.avif
-language: en
 ---
-At Summit Advisors, we understand that **financial accounting is fundamental** to the health and success of your company. Our team of experts is dedicated to ensuring that your accounting is always up-to-date, complies with all tax regulations, and provides the clarity necessary for making informed strategic decisions.
+At Summit Advisors, we understand that financial accounting is essential for the health and success of your business. Our team of experts is dedicated to ensuring that your accounting is always up to date, complies with all tax regulations, and provides you with the clarity needed to make informed strategic decisions.
 
-## **Accounting Services Offered**
+**Services offered in accounting**:
 
-- **Accounting Management and Advisory:** We supervise and guide all the accounting operations of your company.
-  
-- **Preparation and Submission of Accounting Books:** We take care of the preparation and proper submission of all required accounting books.
-  
-- **Billing Management:** We offer advice and management in the preparation of your invoices, ensuring their accuracy and compliance with current regulations.
-  
-- **Business Monitoring Reports:** We provide detailed reports on the monthly evolution of income and expenses, helping you better understand the financial situation of your company.
+* *Accounting management and advice*: We supervise and guide all accounting operations of your business.
+* *Preparation and presentation of accounting books*: We handle the proper preparation and submission of all required accounting books.
+* *Invoicing management*: We offer advice and management in the preparation of your invoices, ensuring their accuracy and compliance with current regulations.
+* *Business tracking reports*: We provide detailed reports on the monthly evolution of income and expenses, helping you better understand your company's financial situation.
 
-## **Services in the Labor Field**
+**Services offered in the labor field**:
 
-- **Labor Contract Advisory:** We review and advise on the creation of new labor contracts, as well as in the renewal process of the same.
-  
-- **Management of Registrations and Cancellations in the CASS:** We handle the registrations and cancellations of workers in the Andorran Social Security Fund (CASS).
-  
-- **Payroll Calculation and Declaration:** We perform payroll calculation and its corresponding monthly declaration in the CASS.
-  
-- **Issuance of Work Bulletins:** We ensure the correct and timely issuance of work bulletins for your employees.
+* *Labor contract advice*: We review and advise on the creation of new employment contracts, as well as the renewal process.
+* *Management of registrations and terminations with the CASS*: We handle the registration and termination of employees with the Andorran Social Security Fund (CASS).
+* *Payroll calculation and declaration*: We calculate payroll and its corresponding monthly declaration to the CASS.
+* *Issuance of work bulletins*: We ensure the correct and timely issuance of work bulletins for your employees.
 
-With **Summit Advisors**, you can be sure that every aspect of your accounting and labor management is in expert hands. Our approach is to provide you with a comprehensive service that simplifies your business processes and allows you to focus on what's most important: the growth and success of your business.
+With Summit Advisors, you can be confident that every aspect of your accounting and labor management is in expert hands. Our approach is to provide you with a comprehensive service that simplifies your business processes and allows you to focus on what matters most: the growth and success of your business.
