@@ -11,16 +11,16 @@ En Summit Advisors, entendemos que la contabilidad financiera es fundamental par
 
 **Servicios ofrecidos en el ámbito contable**:
 
-* *Gestión y Asesoramiento Contable*: Supervisamos y orientamos todas las operaciones contables de tu empresa.
-* *Elaboración y Presentación de Libros Contables*: Nos encargamos de la confección y presentación adecuada de todos los libros contables requeridos.
-* *Gestión de Facturación*: Ofrecemos asesoramiento y gestión en la elaboración de tus facturas, asegurando su precisión y conformidad con las normativas vigentes.
-* *Informes de Seguimiento Empresarial*: Proporcionamos informes detallados sobre la evolución mensual de ingresos y gastos, ayudándote a entender mejor la situación financiera de tu empresa.
+* *Gestión y asesoramiento contable*: Supervisamos y orientamos todas las operaciones contables de tu empresa.
+* *Elaboración y presentación de libros contables*: Nos encargamos de la confección y presentación adecuada de todos los libros contables requeridos.
+* *Gestión de facturación*: Ofrecemos asesoramiento y gestión en la elaboración de tus facturas, asegurando su precisión y conformidad con las normativas vigentes.
+* *Informes de seguimiento empresarial*: Proporcionamos informes detallados sobre la evolución mensual de ingresos y gastos, ayudándote a entender mejor la situación financiera de tu empresa.
 
 **Servicios ofrecidos en el ámbito:**
 
-* *Asesoramiento en Contratación Laboral*: Revisamos y asesoramos en la creación de nuevos contratos laborales, así como en el proceso de renovación de los mismos.
-* *Gestión de Altas y Bajas en la CASS*: Nos encargamos de las altas y bajas de trabajadores en la Caja Andorrana de Seguridad Social (CASS).
-* *Cálculo y Declaración de Nóminas:* Realizamos el cálculo de nóminas y su correspondiente declaración mensual en la CASS.
-* *Emisión de Boletines de Trabajo*: Aseguramos la emisión correcta y oportuna de boletines de trabajo para tus empleados.
+* *Asesoramiento en contratación laboral*: Revisamos y asesoramos en la creación de nuevos contratos laborales, así como en el proceso de renovación de los mismos.
+* *Gestión de altas y bajas frente la CASS*: Nos encargamos de las altas y bajas de trabajadores en la Caja Andorrana de Seguridad Social (CASS).
+* *Cálculo y declaración de nóminas:* Realizamos el cálculo de nóminas y su correspondiente declaración mensual en la CASS.
+* *Emisión de boletines de trabajo*: Aseguramos la emisión correcta y oportuna de boletines de trabajo para tus empleados.
 
 Con Summit Advisors, puedes estar seguro de que cada aspecto de tu contabilidad y gestión laboral está en manos expertas. Nuestro enfoque es proporcionarte un servicio integral que simplifique tus procesos empresariales y te permita concentrarte en lo más importante: el crecimiento y éxito de tu negocio.
