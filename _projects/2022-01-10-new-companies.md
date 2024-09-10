@@ -6,44 +6,24 @@ description: Assistance service for company formation (SLs and others) in Andorr
 date: 2022-01-10 08:01:35 +0300
 image: /assets/uploads/empresas.jpg
 ---
-At **Summit Advisors**, we understand that **creating a company or limited liability company (SL) in Andorra** can seem like a maze of legal complexities and regulations. But don't worry! We're here to turn this challenge into a smooth and satisfying experience.
+At Summit Advisors, we have a team specialized in the creation of new companies, whether through the various foreign investment processes or national-level companies. Our firm advises entrepreneurs from different nationalities and backgrounds who aim to establish themselves in Andorra and operate through corporate structures in various professional sectors. The combination of a favorable tax regime, economic stability, and a strategic location in Europe makes Andorra an ideal destination to establish and manage businesses of different kinds.
 
-### **Why Choose Us?**
+This service includes comprehensive advice to companies in the various stages of their creation: initial planning (corporate structure), statutory design and governance bodies, constitution before a notary, and consultancy regarding the daily development of their activities.
 
-* **Personalized Advice:** We analyze your personal and business situation to offer you tailored solutions. We understand that each project is unique and requires a strategy that fits your current and future circumstances.
-* **Legal Compliance:** We ensure that all processes and procedures are in perfect alignment with Andorra's laws and regulations, thus guaranteeing a seamless transition to your new business venture.
+Broadly speaking, the service we offer encompasses the different steps involved in the process of creating a new company. In the case of foreign investment companies (where part of the capital is composed of non-resident individuals or legal entities), the process would be as detailed below:
 
-### **Our Services**
+1. Selection of the company name (name of the future company), corporate structure (SL, SLU, SA, etc.), and details of the corporate purpose.
+2. Foreign investment application, which describes the activities to be undertaken, along with five-year projections related to investment, revenue, and employee hiring, among other things.
+3. Pre-opening of a current account for the future company in a local bank to make the deposit of the share capital. For limited liability companies (SL & SLU), the minimum share capital must be 3,000 euros, and for public limited companies (SA), a minimum share capital of 60,000 euros applies.
+4. Drafting of the company bylaws.
+5. Constitution before a notary.
+6. Registration with the Commercial Register.
+7. Registration with the Department of Taxes and Borders (DTF - Tax Agency) and subsequent application for the Tax Registration Number (NRT).
+8. Registration with the Andorran Social Security Fund (CASS).
+9. Application and processing of a business license to begin commercial activities.
 
-1. **Creation and Establishment of Companies and SLs**
+**Why choose us?**
 
-   * Advice on choosing the most appropriate type of business structure for your business.
-   * Assistance in preparing and submitting all necessary documentation.
-   * Support in obtaining the required permits and licenses.
-2. **Business and Tax Relations**
-
-   * Guidance on tax matters and strategies to optimize your tax burden.
-   * Advice on establishing an effective online presence and making the most of digital tools.
-3. **Establishment of SLs**
-
-   * Help in understanding the specific legal and tax obligations of SLs in Andorra.
-   * Support in defining an appropriate ownership and management structure.
-4. **Step-by-Step Process Until Approval**
-
-   * We accompany you from the start until you obtain your residence in Andorra.
-   * Personalized assistance at every stage of the process.
-
-### **Detailed Steps of Our Service**
-
-* Feasibility study of your business project.
-* Drafting and formalization of your company's statutes.
-* Management of the reservation of the corporate name and Administrative Identification Number.
-* Application and processing of authorization for direct foreign investment.
-* Application and processing to obtain the qualification of a company that promotes the digital economy.
-* Support in opening bank accounts and establishing financial relationships.
-* Assistance during the incorporation of the company before a notary.
-* Registration of the company in the Commercial Register.
-* Management of commercial licenses with local authorities.
-* Processing of residence and work permits.
-
-**Summit Advisors** is your ally in transforming your business vision into a tangible reality in Andorra. With our guidance and support, you'll be ready to explore and conquer new business horizons.
+* *Personalized Advice:* We analyze your personal and business situation to offer tailor-made solutions. We understand that every project is unique and requires a strategy that fits your current and future circumstances.
+* *Legal Compliance*: We ensure that all processes and procedures are perfectly aligned with Andorran laws and regulations, guaranteeing a smooth transition to your new business venture.
+* *Agility and Diligence*: We act as representatives before the various public and private organizations involved in the company creation process, aiming for faster management and minimizing the paperwork the client has to handle.
