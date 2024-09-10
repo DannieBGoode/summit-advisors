@@ -10,7 +10,7 @@ En Summit Advisors disponemos de un equipo especializado en la creación de nuev
 
 Dicho servicio incluye el asesoramiento integral a las sociedades en las diferentes fases de su creación: la planificación inicial (estructura corporativa), el diseño estatutario y de sus órganos de gobierno, la constitución frente notario/a y la consultoría relativa al desarrollo diario de su actividad.
 
-A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a realizar en un proceso de creación de una nueva sociedad. En el caso de sociedades de inversión extranjera (donde parte del capital está compuesto por personas físicas o jurídicas no nacionales o residentes en el país) sería el que se detalla a continuación:
+A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a realizar en un proceso de creación de una nueva sociedad. En el caso de sociedades de inversión extranjera (donde parte del capital está compuesto por personas físicas o jurídicas no residentes) sería el que se detalla a continuación:
 
 1. Elección de la denominación social (nombre de la futura sociedad), estructura societaria (SL, SLU, SA, etc) y detalle del objeto social.
 2. Solicitud de inversión extranjera, donde se describen las actividades que se pretenden desarrollar, así como unas estimaciones a 5 años vista relacionadas con la inversión, la facturación y la contratación de personal, entre otras.
