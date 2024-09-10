@@ -14,11 +14,7 @@ A grandes rasgos, el servicio que ofrecemos engloba los diferentes pasos a reali
 
 1. Elección de la denominación social, estructura societaria (SL, SLU, SA, etc) y detalle del objeto social.
 2. Solicitud de inversión extranjera, donde se describen las actividades que se pretenden desarrollar, así como unas estimaciones a 5 años vista relacionadas con la inversión, la facturación y la contratación de personal, entre otras.
-3. Pre-apertura de una cuenta corriente de la futura sociedad en una entidad bancaria del país para la realización del desembolso del capital social. 
-
-   Sociedades de responsabilidad Limitada (SL & SLU): capital mínimo 3.000.-eur 
-
-   Sociedades de responsabilidad Anónima (SA): capital mínimo 60.000.-eur 
+3. Pre-apertura de una cuenta corriente de la futura sociedad en una entidad bancaria del país para la realización del desembolso del capital social. Para sociedades de responsabilidad limitada (SL & SLU), el capital social mínimo debe ser 3.000.-eur y para sociedades de responsabilidad anónima (SA) aplicaria un capital social mínimo de 60.000.-eur.
 4. Elaboración de los estatutos sociales.
 5. Constitución ante notario/a.
 6. Inscripción en el Registro Mercantil.
