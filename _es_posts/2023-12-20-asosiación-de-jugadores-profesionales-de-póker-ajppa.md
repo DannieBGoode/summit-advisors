@@ -4,8 +4,7 @@ title: Asosiación de Jugadores Profesionales de Póker de Andorra - AJPPA
 description: Nace la primera asociación de jugadores profesionales de póquer del país.
 date: 2023-12-20T09:13:07.767Z
 image: /assets/uploads/imatge-poker-1.jpg
-tags:
-  - poker
+tags: []
 language: es
 ---
 Después de meses de trabajo, la Asociación de Jugadores Profesionales de Póker de Andorra – AJPPA ya es una realidad.
