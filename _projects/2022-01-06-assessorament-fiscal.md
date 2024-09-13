@@ -1,10 +1,12 @@
 ---
+language: cat
 title: Assessorament Fiscal
 subtitle: Elaboració d'informes, consultes...
-description: " Expertise en assessorament fiscal, especialitzats en l'elaboració d'informes detallats i consultes personalitzades per optimitzar la teva estratègia tributària."
+description: " Expertise en assessorament fiscal, especialitzats en l'elaboració
+  d'informes detallats i consultes personalitzades per optimitzar la teva
+  estratègia tributària."
 date: 2022-01-06 08:01:35 +0300
-image: /assets/uploads/asesoramiento-fiscal.avif
-language: cat
+image: /assets/uploads/servicio-integral.avif
 ---
 Summit Advisors es especialitza en proporcionar **assessorament fiscal d'alta qualitat**, oferint una gamma de serveis per garantir que les teves obligacions fiscals estiguin optimitzades i en conformitat amb la legislació vigent.
 
