@@ -5,7 +5,7 @@ subtitle: Legalitat
 description: Experts en assessorament comptable, tributari i laboral, guiando tu
   negocio hacia el éxito con servicios integrales y personalizados.
 date: 2022-01-08 08:01:35 +0300
-image: /assets/uploads/asesoramiento.avif
+image: /assets/uploads/photo_2024-09-13_12-46-43.jpg
 ---
 A Summit Advisors, entenem que la comptabilitat financera és fonamental per a la salut i l’èxit de la teva empresa. El nostre equip d’experts es dedica a garantir que la teva comptabilitat estigui sempre al dia, compleixi amb totes les normatives fiscals i et proporcioni la claredat necessària per prendre decisions estratègiques informades.
 
