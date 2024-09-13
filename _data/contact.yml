@@ -15,10 +15,8 @@ body_en: >-2
 hours_cat: Horari
 message_es: Tu Mensaje para nosotros
 contact_en: Contact
-contact_es: Contacto
-contact_cat: Contacte
 direction_en: Address
-image: /images/16.jpg
+image: /assets/uploads/foto_meritxell.jpg
 body_es: >-2
    ¡Estamos aquí para ayudarte!
 
@@ -31,7 +29,7 @@ hours_body_cat: |-
 
   Divendres: 09:00h a 15:00h
 email_en: Your Email address
-
+contact_es: Contacto
 direction_es: Dirección
 email_es: Tu Email
 email_cat: El teu Email
@@ -58,6 +56,7 @@ hours_body_en: |-
 
 
   Friday: 09:00 AM to 03:00 PM
+contact_cat: Contacte
 hours_en: Hours
 email: your@email.com
 name_en: Your Name
