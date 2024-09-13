@@ -8,24 +8,24 @@ description: Offering a comprehensive advisory service for a smooth and
 date: 2022-01-05 08:01:35 +0300
 image: /assets/uploads/foto-blog-exit-tax.jpg
 ---
-At Summit Advisors, we offer a **Comprehensive Advisory Service**, combining all our services to provide a holistic and personalized solution for those clients seeking assistance in all aspects of their life and business when moving to Andorra.
+At Summit Advisors, we offer a comprehensive advisory service, bringing together all our services to provide a holistic and personalized solution for clients seeking assistance in all aspects of their life and business when relocating to Andorra.
 
-## **What Does Our Service Include?**
+**What does our service include?**
 
-- **Personalized Advice:** From helping you apply for a mortgage or open a bank account to finding a home through our contacts in real estate agencies.
+\- *Personalized advisory*: From helping you apply for a mortgage or open a bank account to finding a home through our real estate division (VERTICAL REAL ESTATE).
 
-- **Management of Essential Procedures:** We collaborate in processes such as enrolling your children in school and refer you to trusted financial advisors for your investments.
+\- *Management of essential procedures*: We assist with processes such as enrolling your children in school and refer you to trusted financial advisors for your investments.
 
-- **Holistic Support in Decision-Making:** Guidance in both personal and business areas, facilitating your establishment in Andorra quickly and efficiently.
+\- *Holistic support in decision-making:* Guidance in both personal and business matters, facilitating your establishment in Andorra quickly and efficiently.
 
-- **Customized Services According to Needs:**
-  - Initial meeting to analyze your personal and professional situation.
-  - Comprehensive creation of new company, including foreign investment.
-  - Processing of residence permits for the partner and/or family members.
-  - Registration and affiliation of the company with the Andorran Social Security Fund.
-  - Assistance in the search and selection of housing.
-  - Importation and registration of vehicles.
-  - Advice on consular procedures and embassy of the country of origin.
-  - Guidance in tax implantation as a resident in the principality.
+\- *Tailored services according to your need*s:
 
-The **Comprehensive Advisory Service of Summit Advisors** is designed to simplify and expedite your transition to a successful life and business in Andorra.
+* Processing of residence permits for employees of national companies.
+* Processing of residence permits for foreign employees temporarily assigned to Andorra.
+* Registration and affiliation of the company with the Andorran Social Security Fund.
+* Assistance in finding and selecting a home.
+* Import and registration of vehicles.
+* Advisory on consular and embassy procedures for your country of origin.
+* Guidance on tax residency establishment in the Principality.
+
+This service is designed to simplify and expedite your transition to a successful life and business in Andorra. If you have any special needs or would like us to address your case in more detail, do not hesitate to contact us.
