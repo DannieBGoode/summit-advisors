@@ -1,10 +1,12 @@
 ---
+language: en
 title: Tax Advisory
 subtitle: Report preparation, consultations...
-description: " Expertise in tax advisory, specialized in the creation of detailed reports and personalized consultations to optimize your tax strategy."
+description: " Expertise in tax advisory, specialized in the creation of
+  detailed reports and personalized consultations to optimize your tax
+  strategy."
 date: 2022-01-06 08:01:35 +0300
-image: /assets/uploads/asesoramiento-fiscal.avif
-language: en
+image: /assets/uploads/servicio-integral.avif
 ---
 Summit Advisors specializes in providing **high-quality tax advice**, offering a range of services to ensure that your tax obligations are optimized and in compliance with current legislation.
 
