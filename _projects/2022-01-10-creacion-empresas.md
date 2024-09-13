@@ -4,7 +4,7 @@ title: Creación de nuevas sociedades
 subtitle: nacionales / inversión extranjera
 description: Servicio de asistencia para la creación de empresas (SLs y otras) en Andorra
 date: 2022-01-10 08:01:35 +0300
-image: /assets/uploads/studio-republic-fotkkqwnmq4-unsplash.jpg
+image: /assets/uploads/asesoramiento-fiscal.avif
 ---
 En Summit Advisors disponemos de un equipo especializado en la creación de nuevas sociedades ya sea a través de los diferentes procesos de inversión extranjera o bien sociedades de ámbito nacional. Nuestro despacho asesora a empresarios de diferentes nacionalidades y procedencias que tienen como objetivo poder establecerse en Andorra y operar mediante la figura de sociedad en diferentes ámbitos profesionales. La combinación de un régimen fiscal favorable, estabilidad económica y una ubicación estratégica en Europa convierte a Andorra en un destino ideal para establecer y gestionar negocios de diferentes indoles. 
 
