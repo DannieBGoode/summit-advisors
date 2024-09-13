@@ -1,6 +1,6 @@
 ---
 language: cat
-title: Tramitació Permís de Residència
+title: Tramitació de Permisos de Residència
 subtitle: Compte Pròpia / Compte Aliena / Passiva
 description: Servei de tramitació de residència per a Andorra
 date: 2022-01-09 08:01:35 +0300
