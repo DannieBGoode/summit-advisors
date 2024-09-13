@@ -5,7 +5,7 @@ subtitle: Legality
 description: Experts in accounting, tax, and labor advisory, guiding your
   business towards success with comprehensive and personalized services.
 date: 2022-01-08 08:01:35 +0300
-image: /assets/uploads/asesoramiento.avif
+image: /assets/uploads/photo_2024-09-13_12-46-43.jpg
 ---
 At Summit Advisors, we understand that financial accounting is essential for the health and success of your business. Our team of experts is dedicated to ensuring that your accounting is always up to date, complies with all tax regulations, and provides you with the clarity needed to make informed strategic decisions.
 
