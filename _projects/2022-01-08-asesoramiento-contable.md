@@ -5,7 +5,7 @@ subtitle: Legalidad
 description: Expertos en asesoramiento contable, tributario y laboral, guiando
   tu negocio hacia el éxito con servicios integrales y personalizados.
 date: 2022-01-08 08:01:35 +0300
-image: /assets/uploads/asesoramiento.avif
+image: /assets/uploads/photo_2024-09-13_12-46-43.jpg
 ---
 En Summit Advisors, entendemos que la contabilidad financiera es fundamental para la salud y el éxito de tu empresa. Nuestro equipo de expertos se dedica a garantizar que tu contabilidad esté siempre al día, cumpla con todas las normativas fiscales y te brinde la claridad necesaria para tomar decisiones estratégicas informadas.
 
