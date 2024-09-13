@@ -4,8 +4,7 @@ title: Residencia para nómadas digitales en Andorra
 description: "Nuevo permiso de residencia y trabajo para nómadas digitales. "
 date: 2023-05-15T16:02:46.194Z
 image: /assets/uploads/foto-blog-economía-digital.jpg
-tags:
-  - residence
+tags: []
 language: es
 ---
 La figura del nómada digital es la de un profesional que trabaja de forma remota sin estar limitado a hacerlo en una ubicación geográfica específica, y está en constante crecimiento. Viendo que cada vez hay más perfiles de nómadas digitales, Andorra ha decidido apostar por atraer a los nómadas digitales a su país implementado un permiso de residencia específico para este colectivo. A finales del año 2022, se aprobó una ley para definir los requisitos y condiciones para optar por este nuevo permiso de residencia de Nómada Digital (Ley 42/2022, del 1 de diciembre, de la economía digital, el emprendimiento e innovación).
