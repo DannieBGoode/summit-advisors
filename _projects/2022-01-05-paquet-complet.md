@@ -1,25 +1,31 @@
 ---
+language: cat
 title: Servei Integral d'Assessorament
 subtitle: Paquet complet
-description: Oferint un servei integral d'assessorament per a una transició fluida i eficient a la vida i negocis a Andorra, adaptat a les teves necessitats personals i empresarials
+description: Oferint un servei integral d'assessorament per a una transició
+  fluida i eficient a la vida i negocis a Andorra, adaptat a les teves
+  necessitats personals i empresarials
 date: 2022-01-05 08:01:35 +0300
-image: /assets/uploads/servicio-integral.avif
-language: cat
+image: /assets/uploads/foto-blog-exit-tax.jpg
 ---
-A Summit Advisors, oferim un **Servei Integral d'Assessorament**, unint tots els nostres serveis per proveir una solució holística i personalitzada a aquells clients que busquen assistència en tots els aspectes de la seva vida i negocis al mudar-se a Andorra.
+A Summit Advisors, oferim un servei integral d’assessorament, unint tots els nostres serveis per proveir una solució holística i personalitzada a aquells clients que busquen assistència en tots els aspectes de la seva vida i negocis en traslladar-se a Andorra.
 
-## **Què Inclou el Nostre Servei?**
+**Què inclou el nostre servei?**
 
-- **Assessorament Personalitzat:** Des d'ajudar-te a sol·licitar una hipoteca o obrir un compte bancari, fins a trobar una vivenda a través dels nostres contactes en agències immobiliàries.
+\- *Assessorament personalitzat*: Des d'ajudar-te a sol·licitar una hipoteca o obrir un compte bancari, fins a trobar un habitatge a través de la nostra divisió immobiliària (VERTICAL REAL ESTATE).
 
-- **Gestió de Tràmits Essencials:** Col·laborem en processos com la inscripció dels teus fills a l'escola i et derivem a assessors financers de confiança per a les teves inversions.
+\- *Gestió de tràmits essencials*: Col·laborem en processos com la inscripció dels teus fills a l'escola i et derivem a assessors financers de confiança per a les teves inversions.
 
-- **Suport Holístic en Decisions:** Orientació tant en l'àmbit personal com empresarial, facilitant el teu establiment a Andorra amb rapidesa i eficiència.
+\- *Suport holístic en decisions*: Orientació tant en l'àmbit personal com empresarial, facilitant el teu establiment a Andorra amb rapidesa i eficiència.
 
-- **Serveis Personalitzats segons Necessitats:**
-  - Reunió inicial per analitzar la teva situació personal i professional.
-  - Creació integral de nova societat, incloent la inversió estrangera.
-  - Tramitació de permisos de residència per al soci i/o familiars.
-  - Inscripció i alta de la societat a la Caixa Andorrana de Seguretat Social.
-  - Assistència en la cerca i selecció de vivenda.
-  - Importació i matriculaci
+\- *Serveis personalitzats segons necessitats*:
+
+* Tramitació de permisos de residència per a empleats d’empreses nacionals.
+* Tramitació de permisos de residència per a treballadors d’empreses estrangeres desplaçats temporalment a Andorra.
+* Inscripció i alta de la societat a la Caixa Andorrana de Seguretat Social.
+* Assistència en la cerca i selecció d’habitatge.
+* Importació i matriculació de vehicles.
+* Assessorament en tràmits consulars i d’ambaixada del país d’origen.
+* Orientació en la implantació fiscal com a resident al Principat.
+
+Aquest servei està dissenyat per simplificar i agilitzar la teva transició cap a una vida i negocis exitosos a Andorra. Si tens alguna necessitat especial o vols que tractem el teu cas amb més detall, no dubtis en contactar-nos.
