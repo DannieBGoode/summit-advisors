@@ -1,41 +1,75 @@
 ---
+language: cat
 title: Tramitació Permís de Residència
 subtitle: Compte Pròpia / Compte Aliena / Passiva
 description: Servei de tramitació de residència per a Andorra
 date: 2022-01-09 08:01:35 +0300
-image: /assets/uploads/residencia.jpg
-language: cat
+image: /assets/uploads/photo_2024-09-10_13-33-01.jpg
 ---
-Summit Advisors ofrece un **servicio integral** para la obtención de permisos de residencia en el Principado de Andorra. Con más de una década de experiencia, nuestro equipo de profesionales altamente capacitados te guiará en cada paso del proceso.
+Summit Advisors ofereix un servei integral per a l'obtenció de permisos de residència al Principat d'Andorra. El nostre equip de professionals compta amb una àmplia experiència i està altament capacitat per tramitar els diferents tipus de residències davant del Servei d'Immigració del Govern d'Andorra.
 
-### **¿Qué Hacemos Diferente?**
+Hi ha diversos tipus de permisos de residència; a continuació, detallem els més rellevants i els seus principals requisits:
 
-- **Revisión Detallada de Documentación:** Garantizamos que toda tu documentación esté completa y correctamente preparada para el proceso de solicitud.
-  
-- **Asistencia en la Elaboración y Presentación de Formularios:** Te ayudamos a rellenar y presentar todos los formularios requeridos, asegurando que cumplan con los estándares exigidos.
+**Residències Actives**
 
-- **Asesoramiento Continuo:** Nuestro equipo está disponible para brindarte orientación durante todo el proceso, garantizando que tu solicitud sea presentada de forma correcta y eficiente.
+*1) Permís de residència i treball per compte propi*: Modalitat dirigida a empresaris i emprenedors que volen establir el seu negoci al país. Es pot obtenir mitjançant la creació d'una societat (inversió estrangera) o bé mitjançant l'opció de "professional liberal" (pensada per a certes professions que disposen de col·legi professional, com ara arquitectes, economistes, psicòlegs, advocats, etc.).
 
-- **Seguimiento Post-presentación:** Realizamos un seguimiento constante de tu solicitud, proporcionando informes periódicos sobre su estado y realizando las gestiones necesarias en caso de requerir aclaraciones o correcciones.
+Resumint, aquests serien els requisits principals per obtenir-lo:
 
-- **Conocimiento Actualizado de Normativas:** Nos mantenemos al día con las leyes y regulaciones de Andorra, brindándote la información más precisa y actualizada.
+* Que la persona interessada resideixi al país un mínim de 183 dies durant un any natural.
+* Que es disposi d'una autorització d'inversió estrangera on s'autoritzi la creació d'una societat andorrana de la qual es deu posseir més del 34% del capital social o bé que es disposi de l'autorització corresponent de professió titulada (en el cas d'aplicar per "professional liberal").
+* És obligatori formar part de l'òrgan d'administració (en el cas d'inversió estrangera - creació d'una nova societat).
+* Fer un dipòsit de 50.000.-eur no remunerats a l'AFA (Autoritat Financera Andorrana).*
+* Disposar d'un contracte de lloguer o ser propietari d'un habitatge a Andorra.
+* Exercir una activitat econòmica per compte de la societat (en el cas d'inversió estrangera - creació d'una nova societat).
+* Presentació del certificat d'antecedents penals, tant del país d'origen com dels països de residència.
+* Certificació de l'estat civil (possibilitat de signar declaració jurada en el cas que l'estat civil sigui solter/a).
 
-### **Tipos de Permisos de Residencia que Gestionamos**
+\*En el cas de constituir una societat que promogui l'economia digital, l'emprenedoria o el negoci, no cal fer cap dipòsit a l'Autoritat Financera Andorrana. Tampoc seria d'aplicació aquest dipòsit en el cas d'aplicar per un permís de residència i treball per compte propi mitjançant l'opció de "professional liberal".
 
-#### **Residencias Activas**
-1. **Residencia y Trabajo por Cuenta Propia:**
-   - Necesario poseer más del 20% del capital social de una empresa andorrana.
-   - Obligatorio formar parte del órgano de administración.
-   - Requerido un depósito de 15.000 € en la AFA (Autoridad Financiera Andorrana).
+*2) Residència i treball per compte aliè*: Modalitat dirigida a persones que disposen d'un contracte laboral amb una empresa andorrana, pel que el procés d'obtenció es simplifica en molts aspectes i va a càrrec de la societat contractant.
 
-2. **Residencia y Trabajo por Cuenta de Tercero:**
-   - Trabajar para una empresa establecida en Andorra.
+Resumint, aquests serien els requisits principals per obtenir-lo:
 
-#### **Residencias Pasivas**
-- **Residencia sin Actividad Lucrativa:** Ideal para quienes no pasan mucho tiempo en el país.
-- **Residencia por Razones de Interés Científico, Cultural y Deportivo:** Para personas con contribuciones significativas en estas áreas.
-- **Residencia para Profesionales con Proyección Internacional:** Diseñada para profesionales que requieren flexibilidad para viajar.
+* Disposar d'un contracte de treball amb una empresa establerta a Andorra.
+* Disposar d'un contracte de lloguer o ser propietari d'un habitatge a Andorra.
+* Presentació del certificat d'antecedents penals, tant del país d'origen com dels països de residència.
+* Certificació de l'estat civil (possibilitat de signar declaració jurada en el cas que l'estat civil sigui solter/a).
 
-**Nota:** Las residencias pasivas requieren que establezcas tu residencia en Andorra durante al menos 90 días al año, brindándote mayor libertad para viajar.
+**Residències Passives**
 
-En **Summit Advisors**, nos comprometemos a hacer que tu proceso de tramitación de residencia en Andorra sea lo más fluido y eficiente posible. Con nuestro equipo de expertos a tu lado, estarás un paso más cerca de alcanzar tus metas en Andorra.
+Aquesta modalitat de permisos de residència està pensada per a aquells que no necessiten treballar, però decideixen viure al país. Està dirigida a perfils concrets com podrien ser jubilats, artistes, esportistes d'elit o persones amb ingressos passius (inversions personals en actius financers, immobiliaris, etc.).
+
+Així mateix, a causa dels diferents perfils que abasta, hi ha diverses divisions, que són les següents:
+
+1. Residència sense activitat lucrativa.
+2. Residència per a professionals amb projecció internacional.
+3. Residència per raons d'interès científic, cultural i esportiu.
+4. Residència per ingrés en centres geriàtrics privats o ingrés en centres privats de cures mèdiques o terapèutiques.
+
+Resumint, aquests serien els requisits principals per obtenir-la en la seva divisió principal (Residència sense activitat lucrativa):
+
+* Que la persona interessada resideixi al país un mínim de 90 dies durant un any natural.
+* Disposar d'una assegurança mèdica privada que cobreixi malaltia, incapacitat i vellesa.
+* Disposar d'un contracte de lloguer o ser propietari d'un habitatge a Andorra.
+* Presentació del certificat d'antecedents penals, tant del país d'origen com dels països de residència.
+* Certificació de l'estat civil (possibilitat de signar declaració jurada en el cas que l'estat civil sigui solter/a).
+* Demostrar que es disposa d'ingressos anuals superiors al 300% del salari mínim anual vigent.
+* Demostrar que s'ha invertit de manera permanent i efectiva la quantitat mínima de 600.000.-eur en alguna de les categories definides reglamentàriament (béns immobles situats al país, accions de societats andorranes, participacions en fons d'inversió andorrans, instruments de deute públic nacional, assegurances de vida amb entitats andorranes o dipòsits no remunerats davant l'AFA).*
+* Fer un dipòsit de 47.500.-eur a l'AFA (Autoritat Financera Andorrana) i 9.500.-eur addicionals per cada familiar que es vulgui reagrupar (acreditant major volum de solvència econòmica).
+
+\*En el cas que s'opti per una inversió immobiliària, el valor unitari d'almenys una de les propietats ha de superar els 400.000.-eur.
+
+Cal destacar que aquests permisos de residència són autoritzacions administratives i que, per si sols, no atorguen la residència fiscal al seu posseïdor. Aquesta residència fiscal s'obté mitjançant el compliment d'una sèrie de normatives fiscals especificades a les lleis tributàries del país.
+
+Al nostre blog, es pot trobar informació més detallada respecte a la residència fiscal.
+
+Des de Summit Advisors ens comprometem a fer que el teu procés de tramitació de residència a Andorra sigui el més fluid i eficient possible.
+
+**Per què triar-nos?**
+
+* *Revisió detallada de la documentació:* Garantim que tota la teva documentació estigui completa i correctament preparada per al procés de sol·licitud.
+* *Assistència en l'elaboració i presentació de formularis:* T'ajudem a omplir i presentar tots els formularis requerits, assegurant que compleixin amb els estàndards exigits.
+* *Assessorament continu:* El nostre equip està disponible per brindar-te orientació durant tot el procés, garantint que la teva sol·licitud es presenti de manera correcta i eficient.
+* *Seguiment post-presentació:* Realitzem un seguiment constant de la teva sol·licitud, proporcionant informes periòdics sobre el seu estat i fent les gestions necessàries en cas de requerir aclariments o correccions.
+* *Coneixement actualitzat de normatives:* Ens mantenim al dia amb les lleis i regulacions d'Andorra, oferint-te la informació més precisa i actualitzada.
