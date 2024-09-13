@@ -1,10 +1,12 @@
 ---
+language: en
 title: Comprehensive Advisory Service
 subtitle: Complete Package
-description: Offering a comprehensive advisory service for a smooth and efficient transition to life and business in Andorra, tailored to your personal and business needs
+description: Offering a comprehensive advisory service for a smooth and
+  efficient transition to life and business in Andorra, tailored to your
+  personal and business needs
 date: 2022-01-05 08:01:35 +0300
-image: /assets/uploads/servicio-integral.avif
-language: en
+image: /assets/uploads/foto-blog-exit-tax.jpg
 ---
 At Summit Advisors, we offer a **Comprehensive Advisory Service**, combining all our services to provide a holistic and personalized solution for those clients seeking assistance in all aspects of their life and business when moving to Andorra.
 
