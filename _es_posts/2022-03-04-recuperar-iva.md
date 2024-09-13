@@ -6,9 +6,7 @@ video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 title: Otras ventajas de ser Residente Fiscal en Andorra - Tax Free
 description: ¿Qué es el tax free y cómo funciona?
 image: /assets/uploads/foto-blog-tax-free.jpg
-tags:
-  - impuestos
-  - tramites
+tags: []
 language: es
 ---
 Si eres residente fiscal en Andorra, a parte de las muchas ventajas (no solo fiscales) que proporciona vivir en el Principado de Andorra, te interesa saber que cuando te encuentres fuera del país de Andorra, puedes solicitar la devolución del IVA (mas conocido de forma internacional como “Tax Free”) de los productos que adquieras a nivel personal y sin finalidad comercial.
