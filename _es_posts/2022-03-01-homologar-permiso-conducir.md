@@ -4,9 +4,7 @@ title: ¿Es necesario homologar mi permiso de conducir si voy a ir a vivir en An
 description: Proceso de homologación del permiso de conducir en Andorra.
 date: 2023-12-23T17:41:15.978Z
 image: /assets/uploads/foto-blog-homologar-permís-de-conduir.jpg
-tags:
-  - lifestyle
-  - tramites
+tags: []
 language: es
 ref: carnet-conducir
 ---
