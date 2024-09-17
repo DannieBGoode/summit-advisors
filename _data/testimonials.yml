@@ -102,3 +102,16 @@ testimonial__items:
     content_cat: Molt agraït per la professionalitat, entusiasme i eficàcia de
       l'equip de Summit. Mostren un ampli coneixement del sector, s'impliquen en
       les tasques com si fossin pròpies i mai fallen.
+  - name: Adrià
+    designation_es: Ingeniero de Software de Audio - Gerente de Proyecto Técnico
+    designation_en: Audio Software Engineer - Technical Project Manager
+    designation_cat: Enginyer de Programari d'Àudio - Gestor de Projectes Tècnics
+    content_es: Summit Advisors me han ayudado con mi traslado. Se encargaron de
+      cada proceso y trámite, minimizando el estrés y facilitando la transición.
+      ¡No les puedo recomendar lo suficiente!
+    content_cat: Summit Advisors m'han ajudat amb el meu trasllat. Van encarregar-se
+      de cada procés i tràmit, minimitzant l'estrès i facilitant la transició.
+      No els puc recomanar prou!
+    content_en: Summit Advisors helped me with my move. They took care of every
+      process and paperwork, minimizing stress and making the transition easier.
+      I can't recommend them enough!
