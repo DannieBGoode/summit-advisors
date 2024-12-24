@@ -18,22 +18,22 @@ Nuestra experiencia en el sector financiero y fiscal nos permite ofrecerte una v
 
 **¿En qué te podemos ayudar?**
 
-**Compra y venta de inmuebles**
+**Compra y venta de inmuebles.**
 Te asesoramos durante todo el proceso para que tomes la mejor decisión.
 
-**Alquiler de propiedades**
+**Alquiler de propiedades.**
 Gestionamos de manera ágil y transparente el alquiler de tus inmuebles.
 
-**Optimización fiscal**
+**Optimización fiscal.**
 Te asesoramos a nivel fiscal para que puedas optimizar la carga impositiva.
 
-**Tasaciones inmobiliarias**
+**Tasaciones inmobiliarias.**
 Te ayudamos a conocer el valor real de tu propiedad.
 
-**Concesión de hipotecas**
+**Concesión de hipotecas.**
 Facilitamos el acceso a financiación con las mejores condiciones.
 
-**Estudios de rentabilidad**
+**Estudios de rentabilidad.**
 Analizamos la viabilidad y rentabilidad de tus inversiones inmobiliarias.
 
  Si estás pensando en comprar, vender o alquilar una propiedad, o simplemente deseas conocer más acerca de nuestras nuevas soluciones, estaremos encantados de atenderte. 
