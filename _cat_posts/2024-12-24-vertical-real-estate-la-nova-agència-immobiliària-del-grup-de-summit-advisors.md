@@ -19,27 +19,27 @@ La nostra experiència en el sector financer i fiscal ens permet oferir-te una v
 
 * **Compra i venda d’immobles**
 
-  : T’assessorem durant tot el procés perquè prenguis la millor decisió.
+   T’assessorem durant tot el procés perquè prenguis la millor decisió.
 * **Lloguer de propietats**
 
-  : Gestionem de manera àgil i transparent el lloguer dels teus immobles.
+  Gestionem de manera àgil i transparent el lloguer dels teus immobles.
 * **Optimització fiscal**
 
-  : T’assessorem a nivell fiscal perquè puguis optimitzar la càrrega impositiva.
+  T’assessorem a nivell fiscal perquè puguis optimitzar la càrrega impositiva.
 * **Taxacions immobiliàries**
 
-  : T’ajudem a conèixer el valor real de la teva propietat.
+  T’ajudem a conèixer el valor real de la teva propietat.
 * **Concessió d’hipoteques**
 
-  : Facilitem l’accés a finançament amb les millors condicions.
+  Facilitem l’accés a finançament amb les millors condicions.
 * **Estudis de rendibilitat**
 
-  : Analitzem la viabilitat i rendibilitat de les teves inversions immobiliàries.
+  Analitzem la viabilitat i rendibilitat de les teves inversions immobiliàries.
 
 Si estàs pensant en comprar, vendre o llogar una propietat, o simplement desitges conèixer més sobre les nostres noves solucions, estarem encantats d’atendre’t.
 
 Pots contactar-nos a través del nostre telèfon +376 671506 o bé mitjançant correu electrònic a [info@verticalrealestate.ad](<>).
 
-Per seguir les darreres novetats i estar al dia de l’actualitat immobiliària al Principat d’Andorra, no dubtis a seguir-nos a la nostra pàgina oficial a LinkedIn,[ Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/?viewAsMember=true), o a la nostra pàgina web [www.verticalrealestate.ad](www.verticalrealestate.ad).
+Per seguir les darreres novetats i estar al dia de l’actualitat immobiliària al Principat d’Andorra, no dubtis a seguir-nos a la nostra pàgina oficial a LinkedIn,[ Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/?viewAsMember=true), o a la nostra pàgina web [www.verticalrealestate.ad](verticalrealestate.ad).
 
 Et convidem a formar part d’aquesta nova etapa i a beneficiar-te d’un servei global i personalitzat.
