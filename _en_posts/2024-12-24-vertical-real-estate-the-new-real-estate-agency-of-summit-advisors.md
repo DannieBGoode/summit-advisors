@@ -26,6 +26,6 @@ If you are considering buying, selling, or renting a property, or simply want to
 
 You can contact us via phone at +376 671506 or by email at [info@verticalrealestate.ad](<>).
 
-To stay updated on the latest news and real estate developments in the Principality of Andorra, don’t hesitate to follow us on our official LinkedIn page, [Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/), or visit our website at [www.verticalrealestate.ad](https://www.verticalrealestate.ad/).
+To stay updated on the latest news and real estate developments in the Principality of Andorra, don’t hesitate to follow us on our official LinkedIn page, [Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/), or visit our website at [www.verticalrealestate.ad](https://www.verticalrealestate.ad/en-gb).
 
 We invite you to be part of this new chapter and benefit from a global and personalized service.
