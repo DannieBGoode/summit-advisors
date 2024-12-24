@@ -16,7 +16,7 @@ Ofrecemos un asesoramiento a medida, mediante un servicio adaptado a las necesid
 
 Nuestra experiencia en el sector financiero y fiscal nos permite ofrecerte una visión única y completa en el ámbito inmobiliario. Contarás con un equipo de profesionales dedicados a garantizar que cada operación sea segura, rentable y sencilla.
 
-¿En qué te podemos ayudar?
+**¿En qué te podemos ayudar?**
 
 **Compra y venta de inmuebles**
 Te asesoramos durante todo el proceso para que tomes la mejor decisión.
@@ -36,13 +36,11 @@ Facilitamos el acceso a financiación con las mejores condiciones.
 **Estudios de rentabilidad**
 Analizamos la viabilidad y rentabilidad de tus inversiones inmobiliarias.
 
-
-
  Si estás pensando en comprar, vender o alquilar una propiedad, o simplemente deseas conocer más acerca de nuestras nuevas soluciones, estaremos encantados de atenderte. 
 
 Puedes contactarnos a través de nuestro teléfono +376 671506 o bien mediante correo electrónico a [info@verticalrealestate.ad](mailto:info@verticalrealestate.ad)
 
-Para poder seguir las últimas novedades y seguir la actualidad Inmobiliaria en el Principado de Andorra, no dudes en seguirnos en nuestra pagina oficial en LinkedIn [Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/) o en nuestra página  web [www.verticalrealestate.ad.](www.verticalrealestate.ad)
+Para poder seguir las últimas novedades y seguir la actualidad Inmobiliaria en el Principado de Andorra, no dudes en seguirnos en nuestra pagina oficial en LinkedIn [Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/) o en nuestra página  web [www.verticalrealestate.ad.](verticalrealestate.ad)
 
 [](www.verticalrealestate.ad)[](https://www.verticalrealestate.ad/)[](https://www.linkedin.com/company/vertical-real-estate-and/)[](https://www.linkedin.com/company/vertical-real-estate-and/)
 Te invitamos a ser parte de esta nueva etapa y a beneficiarte de un servicio global y personalizado.
