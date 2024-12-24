@@ -40,7 +40,7 @@ Analizamos la viabilidad y rentabilidad de tus inversiones inmobiliarias.
 
 Puedes contactarnos a través de nuestro teléfono +376 671506 o bien mediante correo electrónico a [info@verticalrealestate.ad](mailto:info@verticalrealestate.ad)
 
-Para poder seguir las últimas novedades y seguir la actualidad Inmobiliaria en el Principado de Andorra, no dudes en seguirnos en nuestra pagina oficial en LinkedIn [Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/) o en nuestra página  web [www.verticalrealestate.ad.](https://www.verticalrealestate.ad/)
+Para poder seguir las últimas novedades y seguir la actualidad Inmobiliaria en el Principado de Andorra, no dudes en seguirnos en nuestra pagina oficial en LinkedIn [Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/) o en nuestra página  web [www.verticalrealestate.ad.](https://www.verticalrealestate.ad/es-es)
 
 [](www.verticalrealestate.ad)[](https://www.verticalrealestate.ad/)[](https://www.linkedin.com/company/vertical-real-estate-and/)[](https://www.linkedin.com/company/vertical-real-estate-and/)
 Te invitamos a ser parte de esta nueva etapa y a beneficiarte de un servicio global y personalizado.
