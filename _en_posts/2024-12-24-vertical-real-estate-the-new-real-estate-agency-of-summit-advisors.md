@@ -15,24 +15,12 @@ Our expertise in the financial and tax sectors allows us to offer you a unique a
 
 **How can we help you?**
 
-* **Buying and selling properties**
-
-  : We guide you throughout the process to help you make the best decision.
-* **Property rentals**
-
-  : We manage your property rentals efficiently and transparently.
-* **Tax optimization**
-
-  : We provide fiscal advice to help you optimize your tax burden.
-* **Property valuations**
-
-  : We assist you in determining the real value of your property.
-* **Mortgage arrangements**
-
-  : We facilitate access to financing under the best conditions.
-* **Profitability studies**
-
-  : We analyze the viability and profitability of your real estate investments.
+* **Buying and selling properties.**                                                                                                                           We guide you throughout the process to help you make the best decision.
+* **Property rentals.**                                                                                                                                                We manage your property rentals efficiently and transparently.
+* **Tax optimization.**                                                                                                                                                                                We provide fiscal advice to help you optimize your tax burden.
+* **Property valuations.**                                                                                                                                         We assist you in determining the real value of your property.
+* **Mortgage arrangements.**                                                                                                                                                       We facilitate access to financing under the best conditions.
+* **Profitability studies.**                                                                                                                                         We analyze the viability and profitability of your real estate investments.
 
 If you are considering buying, selling, or renting a property, or simply want to learn more about our new solutions, we would be delighted to assist you.
 
