@@ -1,7 +1,7 @@
 ---
 layout: post
-title: VERTICAL REAL ESTATE, S.L. - La nueva agencia inmobiliaria del grupo de
-  SUMMIT ADVISORS
+title: VERTICAL REAL ESTATE - La nueva agencia inmobiliaria del grupo de SUMMIT
+  ADVISORS
 description: "Nos complace presentarles VERTICAL REAL ESTATE, la nueva agencia
   inmobiliaria de nuestro grupo. "
 date: 2024-12-24T12:36:00.000Z
