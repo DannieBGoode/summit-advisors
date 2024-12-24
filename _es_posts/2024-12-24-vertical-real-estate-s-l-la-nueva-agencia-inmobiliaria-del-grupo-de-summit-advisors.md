@@ -5,7 +5,7 @@ title: VERTICAL REAL ESTATE, S.L. - La nueva agencia inmobiliaria del grupo de
 description: "Nos complace presentarles VERTICAL REAL ESTATE, la nueva agencia
   inmobiliaria de nuestro grupo. "
 date: 2024-12-24T12:36:00.000Z
-image: /assets/uploads/vertical-real-estate_logo_white_2.png
+image: /assets/uploads/vertical-real-estate_logo_5.png
 language: es
 ---
 Nos complace presentarles VERTICAL REAL ESTATE, la nueva agencia inmobiliaria de nuestro grupo. 
