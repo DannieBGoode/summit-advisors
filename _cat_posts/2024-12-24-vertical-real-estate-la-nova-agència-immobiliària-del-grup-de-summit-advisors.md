@@ -28,6 +28,6 @@ Si estàs pensant en comprar, vendre o llogar una propietat, o simplement desitg
 
 Pots contactar-nos a través del nostre telèfon +376 671506 o bé mitjançant correu electrònic a [info@verticalrealestate.ad](<>).
 
-Per seguir les darreres novetats i estar al dia de l’actualitat immobiliària al Principat d’Andorra, no dubtis a seguir-nos a la nostra pàgina oficial a LinkedIn,[ Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/?viewAsMember=true), o a la nostra pàgina web [www.verticalrealestate.ad](verticalrealestate.ad).
+Per seguir les darreres novetats i estar al dia de l’actualitat immobiliària al Principat d’Andorra, no dubtis a seguir-nos a la nostra pàgina oficial a LinkedIn,[ Vertical Real Estate](https://www.linkedin.com/company/vertical-real-estate-and/?viewAsMember=true), o a la nostra pàgina web [www.verticalrealestate.ad](https://www.verticalrealestate.ad/).
 
 Et convidem a formar part d’aquesta nova etapa i a beneficiar-te d’un servei global i personalitzat.
