@@ -17,24 +17,12 @@ La nostra experiència en el sector financer i fiscal ens permet oferir-te una v
 
 **En què et podem ajudar?**
 
-* **Compra i venda d’immobles**
-
-   T’assessorem durant tot el procés perquè prenguis la millor decisió.
-* **Lloguer de propietats**
-
-  Gestionem de manera àgil i transparent el lloguer dels teus immobles.
-* **Optimització fiscal**
-
-  T’assessorem a nivell fiscal perquè puguis optimitzar la càrrega impositiva.
-* **Taxacions immobiliàries**
-
-  T’ajudem a conèixer el valor real de la teva propietat.
-* **Concessió d’hipoteques**
-
-  Facilitem l’accés a finançament amb les millors condicions.
-* **Estudis de rendibilitat**
-
-  Analitzem la viabilitat i rendibilitat de les teves inversions immobiliàries.
+* **Compra i venda d’immobles**                                                                                                                    T’assessorem durant tot el procés perquè prenguis la millor decisió.
+* **Lloguer de propietats**                                                                                                                                 Gestionem de manera àgil i transparent el lloguer dels teus immobles.
+* **Optimització fiscal**                                                                                                                                 T’assessorem a nivell fiscal perquè puguis optimitzar la càrrega impositiva.
+* **Taxacions immobiliàries**                                                                                                                                T’ajudem a conèixer el valor real de la teva propietat.
+* **Concessió d’hipoteques**                                                                                                                            Facilitem l’accés a finançament amb les millors condicions.
+* **Estudis de rendibilitat**                                                                                                                               Analitzem la viabilitat i rendibilitat de les teves inversions immobiliàries.
 
 Si estàs pensant en comprar, vendre o llogar una propietat, o simplement desitges conèixer més sobre les nostres noves solucions, estarem encantats d’atendre’t.
 
