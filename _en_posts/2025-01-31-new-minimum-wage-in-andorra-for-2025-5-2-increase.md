@@ -5,7 +5,7 @@ description: The Government of Andorra has approved an increase in the minimum
   wage for 2025. Through Decree 4/2025, published in the Official Gazette of the
   Principality of Andorra, it is established that the minimum wage will increase
   by 5.2% starting from January 1, 2025.
-date: 2025-01-31T12:32:00.000Z
+date: 2025-01-31T12:33:00.000Z
 image: /assets/uploads/22abd222-1a20-486c-9338-e39d2ed303e9.webp
 language: en
 ---
