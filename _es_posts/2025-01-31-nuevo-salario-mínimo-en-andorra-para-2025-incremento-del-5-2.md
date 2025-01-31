@@ -5,7 +5,7 @@ description: El Gobierno de Andorra ha aprobado un aumento del salario mínimo
   interprofesional para el año 2025. A través del Decret 4/2025, publicado en el
   Butlletí Oficial del Principat d’Andorra, se establece que el salario mínimo
   se incrementa en un 5,2% a partir del 1 de enero de 2025.
-date: 2025-01-31T12:17:00.000Z
+date: 2025-01-31T12:27:00.000Z
 image: /assets/uploads/22abd222-1a20-486c-9338-e39d2ed303e9.webp
 language: es
 ---
