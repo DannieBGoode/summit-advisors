@@ -5,6 +5,8 @@ description: Certificación InmoCrypto
 date: 2025-02-03T09:00:00.000Z
 image: /assets/uploads/inmocrypto_verticalrealestate.jpg
 language: es
+redirect_from:
+    - /es/blog/www.verticalrealestate.ad
 ---
 La inmobiliaria de nuestro grupo, VERTICAL REAL ESTATE ha alcanzado un nuevo hito en el sector inmobiliario del Principado de Andorra al recibir la certificación de *ImmoCrypto*, una de las entidades líderes en validación de transacciones inmobiliarias con criptomonedas. Gracias a esta certificación, puede ofrecer a sus clientes una alternativa innovadora y segura para la compra y venta de inmuebles utilizando activos digitales.
 

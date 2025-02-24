@@ -9,4 +9,6 @@ ref: about
 smallImage: true
 title: About Us
 language: en
+redirect_from:
+  - /about/
 ---
