@@ -23,28 +23,38 @@
       
               <div class="col col-8 col-d-12">
                 <div class="footer__author">
-                  <div class="footer__author-avatar">
-                    <img class="lazy" width="200" height="130" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
-                  </div>
-                  <div class="footer__author-info">
-                    <h3 class="footer__author-name">{{site.data.settings.author.author__name}}</h3>
-                    {% assign lang_prefix = page.language | default: 'es' %}
-                    {% assign bio_key = 'author__bio_' | append: lang_prefix %}
-                    <p class="footer__author-bio">{{ site.data.settings.author[bio_key] }}</p>
-                    {% if site.data.social.social %}
-                    <div class="social">
-                      <ul class="social__list list-reset">
-                        {% for social in site.data.social.social %}
-                        <li class="social__item">
-                          <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                            aria-label="Social link">
-                            <ion-icon name="{{social.icon}}"></ion-icon>
-                          </a>
-                        </li>
-                        {% endfor %}
-                      </ul>
+                  <div style="display:flex;">
+                    <div class="footer__author-avatar">
+                      <img class="lazy" width="200" height="130" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
                     </div>
-                    {% endif %}
+                    <div class="footer__author-info">
+                      <h3 class="footer__author-name">{{site.data.settings.author.author__name}}</h3>
+                      {% assign lang_prefix = page.language | default: 'es' %}
+                      {% assign bio_key = 'author__bio_' | append: lang_prefix %}
+                      <p class="footer__author-bio">{{ site.data.settings.author[bio_key] }}</p>
+                      {% if site.data.social.social %}
+                      <div class="social">
+                        <ul class="social__list list-reset">
+                          {% for social in site.data.social.social %}
+                          <li class="social__item">
+                            <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
+                              aria-label="Social link">
+                              <ion-icon name="{{social.icon}}"></ion-icon>
+                            </a>
+                          </li>
+                          {% endfor %}
+                        </ul>
+                      </div>
+                      {% endif %}
+                    </div>
+                  </div>
+                  <div class="footer__author-sponsor">
+                    {% assign sponsor_key = 'sponsor__title_' | append: lang_prefix %}
+                    <div>{{ site.data.settings.author[sponsor_key] }}</div>
+                    <div>
+                      <img class="sponsor-dark" src="/assets/uploads/logo_bca_blanc.png" data-src="/assets/uploads/logo_bca_blanc.png" style="height:100px">
+                      <img class="" src="/assets/uploads/logo_bca_negro.png" data-src="/assets/uploads/logo_bca_negro.png" style="height:100px">
+                    </div>
                   </div>
                 </div>
               </div>

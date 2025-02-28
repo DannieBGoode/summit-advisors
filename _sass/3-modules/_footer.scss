@@ -44,16 +44,47 @@
 /* Footer Author */
 .footer__author {
   display: flex;
+  justify-content: space-between;
+
+  .footer__author-sponsor {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    @media only screen and (max-width: $desktop) {
+      margin-top: 50px;
+    }
+  }
 
   @media only screen and (max-width: $desktop) {
     margin-bottom: 100px;
-    flex-direction: column;
+    div {
+      flex-direction: column;
+    }
+    
   }
 
   @media only screen and (max-width: $mobile) {
     margin-bottom: 80px;
+    flex-direction: column;
   }
 }
+
+/* Hide all images by default */
+.footer__author-sponsor img {
+  display: none !important;
+}
+
+/* In dark mode, show only the logo with class "sponsor-dark" */
+html.dark-mode .footer__author-sponsor img.sponsor-dark {
+  display: inline-block !important;
+}
+
+
+/* In non-dark mode, show the other logo (which does not have "sponsor-dark") */
+html:not(.dark-mode) .footer__author-sponsor img:not(.sponsor-dark) {
+  display: inline-block !important;
+}
+
 
 .footer__author-avatar {
   background-color: white;
@@ -70,6 +101,12 @@
   @media only screen and (max-width: $mobile) {
     margin-left: auto;
     margin-right: auto; 
+  }
+  .footer__author-sponsor {
+    img {
+      max-width: 200px;
+      height: 100px !important;
+    }
   }
   
   @media only screen and (min-width: $mobile) {

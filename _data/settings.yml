@@ -2,10 +2,13 @@
 # Author Settings
 author:
   author__name: Summit Advisors
-  author__bio_es: Si estás plantéandote moverte a Andorra y disfrutar de sus ventajas tanto fiscales cómo de estilo de vida, hablemos más en detalle.
-  author__bio_en: If you are considering moving to Andorra and enjoying its tax and lifestyle benefits, let's talk in more detail.
-  author__bio_cat: Si et planteges traslladar-te a Andorra i gaudir dels seus avantatges fiscals i d'estil de vida, parlem-ne més en detall.
+  author__bio_es: ""
+  author__bio_en: ""
+  author__bio_cat: ""
   author__avatar: '/images/footer-image.png'
+  sponsor__title_es: "Partner Oficial"
+  sponsor__title_en: "Official Partner"
+  sponsor__title_cat: "Partner Oficial"
 
 # Example of adding a new link to the footer - {icon: "logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/
