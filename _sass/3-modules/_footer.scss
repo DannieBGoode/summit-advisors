@@ -102,12 +102,6 @@ html:not(.dark-mode) .footer__author-sponsor img:not(.sponsor-dark) {
     margin-left: auto;
     margin-right: auto; 
   }
-  .footer__author-sponsor {
-    img {
-      max-width: 200px;
-      height: 100px !important;
-    }
-  }
   
   @media only screen and (min-width: $mobile) {
     margin-right: 40px;
@@ -122,6 +116,12 @@ html:not(.dark-mode) .footer__author-sponsor img:not(.sponsor-dark) {
 
   @media only screen and (max-width: $desktop) {
     margin-bottom: 20px;
+  }
+}
+.footer__author-sponsor {
+  img {
+    max-width: 200px;
+    height: 200px !important;
   }
 }
 
