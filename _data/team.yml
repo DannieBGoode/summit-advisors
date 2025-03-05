@@ -10,4 +10,10 @@ team:
     position_es: Socio
     position_cat: Soci
     linkedin: https://ad.linkedin.com/in/jordi-y-5410b6109
-    image: /assets/uploads/sa_03.jpg
+    image: /assets/uploads/sa_03-copia.jpg
+  - name: Paula Sagarra
+    position_es: "Contabilidad "
+    position_en: Accounting
+    position_cat: Comptabilitat
+    linkedin: https://www.linkedin.com/in/paulasagarra/
+    image: /assets/uploads/sa_10.jpg
