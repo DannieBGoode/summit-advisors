@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summit Advisors nou patrocinador del Mora Banc Andorra. "
+title: Summit Advisors nou patrocinador del Mora Banc Andorra
 description: Un compromís amb l’esport i el talent del país.
 date: 2025-03-06T20:00:00.000Z
 image: /assets/uploads/principal_acord_summitadvisors_2425.jpg
