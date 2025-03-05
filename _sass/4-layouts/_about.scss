@@ -42,8 +42,9 @@
 
     .team-member-image-container {
       width: 250px;
+      min-height: 250px;
       height: 250px;
-      background-color: var(--brand-color);
+      //background-color: var(--brand-color);
       border-radius: 10px;
       overflow: hidden; // Ensures nothing spills out of the container
       transition: transform 0.3s ease, box-shadow 0.3s ease; // Animation for hover effect
