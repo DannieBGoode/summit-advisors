@@ -1,25 +1,23 @@
 ---
-layout: post
-title: Summit Advisors, nuevo patrocinador del MoraBanc Andorra
-description: Un compromiso con el deporte y el talento del país.
+title: Summit Advisors, new official sponsor of MoraBanc Andorra
+description: A commitment to sport and local talent.
 date: 2025-03-06T21:00:00.000Z
 image: /assets/uploads/principal_acord_summitadvisors_2425.jpg
-language: es
 ---
-En Summit Advisors, estamos orgullosos de anunciar la firma de un acuerdo de patrocinio con el MoraBanc Andorra, el club de referencia del baloncesto andorrano y todo un emblema deportivo de nuestro país. Con este acuerdo, Summit Advisors refuerza su compromiso con los valores del deporte, el fomento del talento local y la proyección internacional de Andorra como destino de excelencia.
+At Summit Advisors, we are proud to announce the signing of a sponsorship agreement with MoraBanc Andorra, the leading basketball club in Andorra and a true sporting icon in our country. With this agreement, Summit Advisors strengthens its commitment to the values of sport, the promotion of local talent, and the international projection of Andorra as a destination of excellence. 
 
-**Un patrocinio que va más allá del deporte**
+**A sponsorship that goes beyond sports**
 
-La alianza entre Summit Advisors y el MoraBanc Andorra nace con la voluntad de ir más allá de la visibilidad corporativa. Para nosotros, este patrocinio representa un apoyo real al deporte como herramienta de cohesión social, disciplina y esfuerzo compartido, valores que compartimos y que también forman parte de nuestra filosofía empresarial.
+The partnership between Summit Advisors and MoraBanc Andorra was born from a desire to go beyond corporate visibility. For us, this sponsorship represents genuine support for sport as a tool for social cohesion, discipline, and shared effort — values we strongly believe in and that are also part of our corporate philosophy.
 
-Además, esta colaboración nos permite conectar con la sociedad andorrana, apoyando a un club con una larga trayectoria que representa a Andorra dentro y fuera de nuestras fronteras. Creemos firmemente que el crecimiento empresarial y el impulso deportivo pueden ir de la mano, proyectando una imagen moderna, dinámica y con valores sólidos, tanto a nivel local como internacional.
+Furthermore, this collaboration allows us to connect with Andorran society, supporting a club with a rich history that represents Andorra both locally and internationally. We firmly believe that business growth and sporting success can go hand in hand, projecting a modern, dynamic image rooted in strong values, both within Andorra and beyond its borders.
 
-**¿Por qué Summit Advisors apuesta por el MoraBanc Andorra?**
+**Why does Summit Advisors support MoraBanc Andorra?**
 
-Como asesoría de referencia en el Principado, en Summit Advisors trabajamos cada día para atraer talento, inversión y proyectos estratégicos a Andorra. Compartimos con el MoraBanc Andorra la voluntad de crecer, competir al más alto nivel y llevar el nombre de Andorra más allá de sus fronteras.
+As a leading advisory firm in the Principality, Summit Advisors works every day to attract talent, investment, and strategic projects to Andorra. We share with MoraBanc Andorra the ambition to grow, compete at the highest level, and take Andorra’s name beyond its borders.
 
-Este patrocinio refuerza nuestra vinculación con el país y nos permite participar activamente en un proyecto deportivo con valores y con una fuerte conexión con la comunidad. Además, nos abre la puerta a conectar con empresas e instituciones que también forman parte del ecosistema de apoyo al club, creando sinergias positivas tanto para nuestros clientes como para el tejido empresarial andorrano.
+This sponsorship further reinforces our commitment to the country, enabling us to actively participate in a values-driven sports project that maintains a strong connection to the local community. Additionally, it opens up new opportunities to collaborate with companies and institutions that are also part of the club's support network, creating positive synergies for our clients and for Andorra’s business ecosystem.
 
-**Un paso más en nuestro compromiso social**
+**Another step in our social commitment**
 
-Más allá de nuestro papel como asesoría fiscal, contable y legal, en Summit Advisors entendemos que el crecimiento sostenible de una empresa también implica devolver valor a la sociedad que nos acoge. Con este patrocinio, reforzamos nuestro compromiso con el tejido social y deportivo de Andorra, apostando por el talento, el esfuerzo colectivo y los valores positivos que representa el deporte.
+Beyond our role as a tax, accounting, and legal advisory firm, Summit Advisors believes that the sustainable growth of any company must also involve giving back to the society that supports it. With this sponsorship, we reaffirm our commitment to Andorra’s social and sporting fabric, supporting talent, collective effort, and the positive values that sport embodies.
