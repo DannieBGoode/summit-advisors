@@ -2,9 +2,7 @@
 layout: post
 title: "Nou Salari Mínim a Andorra per al 2025: Increment del 5,2%"
 description: El Govern d’Andorra ha aprovat un augment del salari mínim
-  interprofessional per a l’any 2025. Mitjançant el Decret 4/2025, publicat al
-  Butlletí Oficial del Principat d’Andorra, s’estableix que el salari mínim
-  s’incrementa en un 5,2% a partir de l’1 de gener del 2025.
+  interprofessional per a l’any 2025.
 date: 2025-01-31T12:33:00.000Z
 image: /assets/uploads/22abd222-1a20-486c-9338-e39d2ed303e9.webp
 language: cat
