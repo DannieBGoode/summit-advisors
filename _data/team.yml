@@ -1,19 +1,30 @@
 team:
-  - name: Albert Hernández
-    position_en: Partner
-    position_es: Socio
-    position_cat: Soci
-    linkedin: https://www.linkedin.com/in/albert-hern%C3%A1ndez-menen-79921361/
-    image: /assets/uploads/sa_06.jpg
   - name: Jordi Yll
     position_en: Partner
     position_es: Socio
     position_cat: Soci
     linkedin: https://ad.linkedin.com/in/jordi-y-5410b6109
     image: /assets/uploads/sa_03-copia-2-.jpg
+  - name: Albert Hernández
+    position_en: Partner
+    position_es: Socio
+    position_cat: Soci
+    linkedin: https://www.linkedin.com/in/albert-hern%C3%A1ndez-menen-79921361/
+    image: /assets/uploads/sa_06.jpg
   - name: Paula Sagarra
     position_es: "Contabilidad "
     position_en: Accounting
     position_cat: Comptabilitat
     linkedin: https://www.linkedin.com/in/paulasagarra/
     image: /assets/uploads/sa_10.jpg
+  - name: Joanna Mae Ferrer
+    position_es: Administración
+    position_en: Administration
+    position_cat: Administració
+    image: /assets/uploads/sa_08.jpg
+  - name: "Javier Hernández "
+    position_es: División Inmobiliaria
+    position_cat: Divisió Immobiliària
+    position_en: Real Estate Division
+    linkedin: https://www.linkedin.com/in/xavier-hern%C3%A1ndez-menen-9a120b61/
+    image: /assets/uploads/sa_05.jpg
