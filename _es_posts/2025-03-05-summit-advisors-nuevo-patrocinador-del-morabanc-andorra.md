@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Summit Advisors, nuevo patrocinador oficial del MoraBanc Andorra
 description: Un compromiso con el deporte y el talento local.
 date: 2025-03-06T21:00:00.000Z
