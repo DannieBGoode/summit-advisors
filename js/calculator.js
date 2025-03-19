@@ -76,6 +76,12 @@ function calculate() {
 
 
     document.getElementsByClassName("result")[0].style.display = "block";
+    
+    // Add smooth scrolling to results
+    document.getElementsByClassName("result")[0].scrollIntoView({ 
+        behavior: 'smooth',
+        block: 'start'
+    });
 }
 function setGrossSalary(amount) {
     const grossSalaryInput = document.getElementById('gross-salary-input');
