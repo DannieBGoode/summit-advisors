@@ -3,7 +3,7 @@ layout: post
 title: Guía de las distintas parroquias de Andorra
 description: "Las parroquias de Andorra y sus peculiaridades. "
 date: 2023-09-30T12:20:35.088Z
-image: https://www.apartamentos3000.com/fotosweb_motor/000fa723-7e56-4172-8e91-a72ee68bc938/Restaurante-terraz-Ordino-ORDINO-Estación-Vallnord.jpg
+image: /assets/uploads/d51bf5b9-4800-4728-938c-0d6b3862ba0f.png
 tags: []
 language: es
 ref: ""
