@@ -1,4 +1,4 @@
-# config.yml
+# config.yml THIS ADMIN USES DECAPCMS WITH DECAPBRIDGE
 
 display_url: https://summitadvisors.ad
 logo_url: https://summitadvisors.ad/assets/uploads/image.webp # Better Decap + Bridge logo (optional)
@@ -7,7 +7,7 @@ locale: 'es'
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  repo: DannieBGoode/summit-advisors # required by DecapBridge
+  repo: danniebgoode/summit-advisors # required by DecapBridge
   identity_url: https://auth.decapbridge.com/sites/3385d36e-3912-45f2-9125-80e6cb4914f6 # required by DecapBridge
   gateway_url: https://gateway.decapbridge.com # required by DecapBridge
 # when using the default proxy server port
