@@ -5,6 +5,7 @@ locale: 'es'
 backend:
   name: github
   branch: master # Branch to update (optional; defaults to master)
+  repo: DannieBGoode/summit-advisors
 # when using the default proxy server port
 local_backend: true
 media_folder: 'assets/uploads'
