@@ -1,7 +1,7 @@
 # config.yml
 
 display_url: https://summitadvisors.ad
-logo_url: https://decapbridge.com/decapcms-with-bridge.svg # Better Decap + Bridge logo (optional)
+logo_url: https://summitadvisors.ad/assets/uploads/image.webp # Better Decap + Bridge logo (optional)
 site_url: https://summitadvisors.ad # Add site links in DecapCMS (optional)
 locale: 'es'
 backend:
