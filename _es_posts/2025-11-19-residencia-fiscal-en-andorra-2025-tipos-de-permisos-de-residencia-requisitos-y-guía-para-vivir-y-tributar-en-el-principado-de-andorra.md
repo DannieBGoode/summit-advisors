@@ -110,11 +110,10 @@ El IRPF andorrano es uno de los más bajos de Europa:
 * De 24.001 € a 40.000 €, el tipo es del 5 %.
 * A partir de 40.000 €, el tipo máximo es del 10 %.
 
-
 El resultado: una presión fiscal efectiva que oscila entre el 5 % y el 7 % en la mayoría de los casos.
 Además, muchas rentas financieras y de capital, como dividendos o intereses, están exentas, y existen deducciones adicionales por vivienda o cargas familiares.
 
-###### 5.2	Impuesto de Sociedades (IS)
+#### 5.2	Impuesto de Sociedades (IS)
 
 El IS grava los beneficios de las empresas constituidas en Andorra con un tipo general del 10 %.
 El sistema es predecible y permite una planificación fiscal a largo plazo.
