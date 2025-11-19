@@ -11,12 +11,10 @@ language: es
 ---
 ### **Residencia fiscal en Andorra 2025: Tipos de permisos de residencia, requisitos y guía para vivir y tributar en el Principado de Andorra.**
 
-##### 
 Resumen ejecutivo
 
 Andorra se consolida en 2025 como uno de los destinos más atractivos de Europa para quienes buscan una fiscalidad moderada, estabilidad legal y una calidad de vida elevada. En esta guía explicamos qué es la residencia fiscal en Andorra, cuáles son sus requisitos y tipos, y cómo obtenerla legalmente para beneficiarse de un entorno seguro y de un sistema impositivo de solo un 10 %.
 
-##### 
 Índice de contenidos
 
 1. Vivir y tributar en Andorra en 2025
@@ -29,8 +27,6 @@ Andorra se consolida en 2025 como uno de los destinos más atractivos de Europa 
 8. Ventajas complementarias de vivir en Andorra
 9. Consideraciones clave antes del traslado
 10. Cómo te ayudamos desde Summit Advisors
-
-
 
 ##### 1. Vivir y tributar en Andorra en 2025
 
@@ -62,7 +58,6 @@ Cumplir estos criterios asegura que los ingresos se graven exclusivamente en And
 
 ##### 4. Tipos de residencia en Andorra
 
-##### 
 4.1 Residencia activa
 
 Pensada para quienes trabajan o emprenden en Andorra.
@@ -116,8 +111,7 @@ El IRPF andorrano es uno de los más bajos de Europa:
 El resultado: una presión fiscal efectiva que oscila entre el 5 % y el 7 % en la mayoría de los casos.
 Además, muchas rentas financieras y de capital, como dividendos o intereses, están exentas, y existen deducciones adicionales por vivienda o cargas familiares.
 
-##### 
-5.2	Impuesto de Sociedades (IS)
+###### **5.2	Impuesto de Sociedades (IS)**
 
 El IS grava los beneficios de las empresas constituidas en Andorra con un tipo general del 10 %.
 El sistema es predecible y permite una planificación fiscal a largo plazo.
