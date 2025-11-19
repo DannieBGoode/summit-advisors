@@ -24,8 +24,6 @@ Andorra se consolida en 2025 como uno de los destinos más atractivos de Europa 
 9. Consideraciones clave antes del traslado
 10. Cómo te ayudamos desde Summit Advisors
 
-
-
 #### 1. Vivir y tributar en Andorra en 2025
 
 Entre España y Francia, el Principado de Andorra combina lo mejor de ambos mundos: paisajes de montaña y estándares europeos con un sistema fiscal propio, transparente y competitivo.
@@ -38,20 +36,22 @@ El perfil del nuevo residente ha cambiado: ya no llegan únicamente grandes patr
 
 Principales motivos:
 
-•	Fiscalidad reducida y estable: tipos máximos del 10 %.
-•	Estabilidad institucional y criminalidad muy baja.
-•	Entorno económico abierto: acuerdos con la OCDE y países vecinos.
-•	Proximidad geográfica: a 2 horas de Barcelona y Toulouse.
-•	Calidad de vida, naturaleza y servicios públicos eficientes.
+* Fiscalidad reducida y estable: tipos máximos del 10 %.
+* Estabilidad institucional y criminalidad muy baja.
+* Entorno económico abierto: acuerdos con la OCDE y países vecinos.
+* Proximidad geográfica: a 2 horas de Barcelona y Toulouse.
+* Calidad de vida, naturaleza y servicios públicos eficientes.
 
 #### 3. ¿Qué significa tener residencia fiscal en Andorra?
 
 La residencia administrativa es el permiso de inmigración que otorga el Govern d’Andorra; la residencia fiscal es el estatus tributario que te permite tributar por tus rentas mundiales en el Principado.
 
 Se considera residente fiscal quien:
-•	Permanece más de 183 días dentro de un año natural en Andorra.
-•	Tiene en el país su centro de intereses económicos y personales.
-•	Pareja legal e hijos menores viven también en Andorra. (Centro de Interés vital).
+
+* Permanece más de 183 días dentro de un año natural en Andorra.
+* Tiene en el país su centro de intereses económicos y personales.
+* Pareja legal e hijos menores viven también en Andorra. (Centro de Interés vital).
+
 Cumplir estos criterios asegura que los ingresos se graven exclusivamente en Andorra bajo su legislación, evitando la doble imposición internacional.
 
 #### 4. Tipos de residencia en Andorra
@@ -88,10 +88,12 @@ Dentro de la residencia pasiva existen subcategorías:
 
 Desde 2024 Andorra impulsa un permiso específico para profesionales que trabajan en línea sin ubicación fija.
 Esta autorización permite residir en el Principado y prestar servicios a clientes extranjeros, siempre que se cumplan:
-•	Medios económicos suficientes.
-•	Seguro médico válido.
-•	Estancia efectiva mínima de 90 días al año.
-•	Aprobación del Ministerio de Economía.
+
+* Medios económicos suficientes.
+* Seguro médico válido.
+* Estancia efectiva mínima de 90 días al año.
+* Aprobación del Ministerio de Economía.
+
 El permiso inicial se concede por dos años y es renovable hasta un máximo de diez.
 Es especialmente atractivo para emprendedores digitales y freelancers que valoran la seguridad y la conectividad de Andorra.
 
@@ -103,9 +105,12 @@ El país ofrece un marco tributario que incentiva la inversión y la residencia 
 ##### 5.1 Impuesto sobre la Renta de las Personas Físicas (IRPF)
 
 El IRPF andorrano es uno de los más bajos de Europa:
-•	Los primeros 24.000 € están exentos.
-•	De 24.001 € a 40.000 €, el tipo es del 5 %.
-•	A partir de 40.000 €, el tipo máximo es del 10 %.
+
+* Los primeros 24.000 € están exentos.
+* De 24.001 € a 40.000 €, el tipo es del 5 %.
+* A partir de 40.000 €, el tipo máximo es del 10 %.
+
+
 El resultado: una presión fiscal efectiva que oscila entre el 5 % y el 7 % en la mayoría de los casos.
 Además, muchas rentas financieras y de capital, como dividendos o intereses, están exentas, y existen deducciones adicionales por vivienda o cargas familiares.
 
@@ -124,12 +129,7 @@ Este equilibrio entre impuestos bajos y estabilidad regulatoria es lo que hace q
 
 Para entender mejor la ventaja fiscal andorrana, conviene compararla con los principales países del entorno:
 
-Concepto	Andorra	    España	          Francia	     Portugal
-IRPF máximo	10 %	     47 %	            45 %	       48 %
-IS	                10 %	     25 %	            25 %	       21 %
-IVA / IGI	        4,5 %	     21 %	            20 %	       23 %
-Patrimonio	N/A         0.2–3.5%	      0.5–1.5%           N/A
-Suc. y Don.	N/A	     Hasta 34%	   Hasta 45%         Hasta 10%
+![](/assets/uploads/captura-de-pantalla-2025-11-19-201252.jpg)
 
 De media, la presión fiscal global en Andorra es entre 60 % y 70 % menor que en estos países, lo que se traduce en un ahorro significativo y sostenido en el tiempo.
 
