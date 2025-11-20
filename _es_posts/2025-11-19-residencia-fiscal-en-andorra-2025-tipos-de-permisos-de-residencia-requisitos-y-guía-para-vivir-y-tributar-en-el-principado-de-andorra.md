@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Residencia fiscal en Andorra 2025: Tipos de permisos de residencia,
-  requisitos y guía para vivir y tributar en el Principado de Andorra."
+  requisitos y guía para vivir y tributar en el Principado de Andorra"
 description: Vivir y tributar en Andorra en 2025
-date: 2025-11-19T19:05:00.000+01:00
+date: 2025-02-01T19:05:00.000+01:00
 image: /assets/uploads/chatgpt-image-19-nov-2025-19_56_16.png
 language: es
 ---
