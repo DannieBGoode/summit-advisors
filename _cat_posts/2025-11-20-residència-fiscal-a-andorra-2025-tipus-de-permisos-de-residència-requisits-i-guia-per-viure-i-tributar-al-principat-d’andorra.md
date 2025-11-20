@@ -145,8 +145,62 @@ Aquest equilibri entre impostos baixos i estabilitat regula­tòria fa que Andor
 ##### 
 6. Comparativa internacional: Andorra davant dels seus veïns
 
-
+![](/assets/uploads/imagen1.png)
 
 
 
 De mitjana, la pressió fiscal global a Andorra és entre un 60 % i un 70 % inferior a la d’aquests països, traduint-se en un estalvi significatiu i sostingut.
+
+##### 
+7. Casos pràctics: qui es beneficia més de la residència fiscal?
+
+**Professionals autònoms i nòmades digitals**
+
+Tributen entre un 30 % i un 45 % en els seus països d’origen; a Andorra, el tipus rarament supera el 8 %.
+El país ofereix fibra òptica a tot el territori i un entorn segur per operar globalment.
+
+**Inversors i rentistes**
+
+Beneficien d’exempcions en dividends, interessos i rendes de capital.
+Amb l’absència d’impost sobre patrimoni i plusvàlues no realitzades, la rendibilitat pot ser entre un 25 % i un 30 % superior.
+
+**Emprenedors i propietaris d’empreses**
+
+Tributen un 10 % sobre els beneficis, i els dividends rebuts per residents estan exempts.
+La càrrega fiscal combinada pot reduir-se fins a un 70 % respecte d’altres països europeus.
+
+
+##### 8. Avantatges complementàries de viure a Andorra
+
+**Seguretat i estabilitat**
+
+Índexs de criminalitat quasi inexistents i política exterior neutral.
+
+**Sistema sanitari de primer nivell**
+
+La CASS cobreix entre el 75 % i el 90 % de les prestacions.
+Els residents poden contractar assegurances complementàries.
+
+**Educació trilingüe i multicultural**
+
+Català, espanyol i francès; centres privats amb anglès.
+
+**Qualitat de vida i natura**
+
+Aire net, muntanyes i activitats a l’aire lliure tot l’any.
+
+**Cost de vida competitiu**
+
+Un 20 % inferior al de grans capitals europees, tot i que alguns productes importats poden ser més cars.
+
+
+
+##### 9. Consideracions clau abans del trasllat
+
+* Acreditar més de 183 dies de presència real.
+* Evitar mantenir una vivenda habitual activa al país d'origen.
+* Traslladar el centre d'interessos econòmics (empresa, facturació, inversions).
+* Notificar el canvi de residència fiscal a l'autoritat tributària anterior.
+
+
+Una bona planificació amb assessors locals evita conflictes de doble residència o sancions.
