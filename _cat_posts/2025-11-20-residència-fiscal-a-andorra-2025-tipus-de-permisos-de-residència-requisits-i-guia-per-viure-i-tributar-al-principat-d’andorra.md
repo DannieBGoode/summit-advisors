@@ -78,3 +78,33 @@ Per a treballadors amb oferta laboral a Andorra.
 El permís es tramita a través de l’empresa contractant.
 Hi ha quotes per sector i nivell de qualificació, i el treballador ha
 d’acreditar experiència i formació adequada.
+
+
+
+###### 4.2. Residència passiva o no lucrativa
+
+Pensada per persones que no realitzen activitat laboral local, però disposen de recursos propis o ingressos passius. És la modalitat preferida per rentistes, jubilats i inversors.
+
+Requisits principals:
+
+* Inversió en actius andorrans.
+* Estada mínima de 90 díes anuals.
+
+Subcategories:
+
+* Residència per interès cultural, científic o esportiu: per a persones de reconegut prestigi internacional.
+* Residència per professionals amb projecció internacional: limitada en quotes anuals, permet romandre al país 90 dies i viatjar la resta de l'any.
+
+###### 4.3. Permís de residència per a nòmades digitals
+
+Des del 2024, Andorra impulsa un permís específic per a professionals que treballen en línia sense ubicació fixa.
+
+Condicions:
+
+* Mitjans econòmics suficients.
+* Assegurança mèdica vàlida.
+* Estada efectiva mínima de 90 dies anuals.
+* Aprovació del Ministeri d'Economia.
+
+El permís inicial s'atorga per un període de dos anys, pensada per tota persona nouvinguda que per dur a terme el seu treball no requereixi disposar d'una ubicació geogràfica concreta i utilitzi les telecomunicacions i la tecnologia.
+És especialment interessant per a emprenedors digitals i freelancers que valoren la seguretat i la connectivitat del país.
