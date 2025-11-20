@@ -9,7 +9,7 @@ language: cat
 ---
 Andorra es consolida el 2025 com un dels destins més atractius d’Europa per a aquells que busquen una fiscalitat moderada, estabilitat legal i una elevada qualitat de vida. En aquesta guia expliquem què és la residència fiscal a Andorra, quins són els requisits i els seus tipus, i com obtenir-la legalment per beneficiar-se d’un entorn segur i d’un sistema impositiu d’un màxim del 10 %.
 
-##### Índex de continguts
+#### Índex de continguts
 
 1. Viure i tributar a Andorra el 2025
 2. Per què cada vegada més persones trien Andorra?
@@ -22,7 +22,9 @@ Andorra es consolida el 2025 com un dels destins més atractius d’Europa per a
 9. Consideracions clau abans del trasllat
 10. Com t'adjudem des de Summit Advisors
 
-##### 1. Viure i tributar a Andorra el 2025
+
+
+#### 1. Viure i tributar a Andorra el 2025
 
 Entre Espanya i França, el Principat d’Andorra combina el millor d’ambdós mons: paisatges de muntanya i estàndards europeus amb un sistema fiscal propi, transparent i competitiu.
 
@@ -30,7 +32,9 @@ El país, de només 468 km² i poc més de 88.000 habitants, ofereix un dels rè
 
 La capital, Andorra la Vella, s’ha transformat en un hub de serveis financers, tecnològics i empresarials. A més, la infraestructura moderna, la connectivitat digital completa i un entorn natural excepcional la converteixen en un destí ideal per a nòmades digitals, empresaris i rentistes que busquen equilibri entre feina i benestar.
 
-###### 2. Per què cada vegada més persones trien Andorra?
+
+
+#### 2. Per què cada vegada més persones trien Andorra?
 
 El perfil del nou resident ha canviat: ja no arriben només grans patrimonis, sinó també freelancers, esportistes, creadors digitals, inversors i empresaris.
 
@@ -43,7 +47,7 @@ Motius principals:
 * Qualitat de vida, naura i serveis públics eficients.
 
 
-###### 3. Què significa tenir residència fiscal a Andorra?
+#### 3. Què significa tenir residència fiscal a Andorra?
 
 La residència administrativa és el permís d’immigració que atorga el Govern d’Andorra; la residència fiscal és
 l’estatus tributari que permet tributar per les rendes mundials al Principat.
@@ -58,7 +62,7 @@ Complir aquests criteris assegura que els ingressos es graven exclusivament a An
 
 
 
-###### 4. Tipus de residència a Andorra
+#### 4. Tipus de residència a Andorra
 
 ##### 4.1. Residència activa
 
@@ -111,7 +115,7 @@ El permís inicial s'atorga per un període de dos anys, pensada per tota person
 
 
 
-##### 5. El sistema fiscal andorrà el 2025
+#### 5. El sistema fiscal andorrà el 2025
 
 El model fiscal andorrà és senzill, competitiu i totalment alineat amb els estàndards de l’OCDE.
 
@@ -142,7 +146,7 @@ Grava els beneficis de les empreses andorranes amb un tipus general del 10 %.
 
 Aquest equilibri entre impostos baixos i estabilitat regula­tòria fa que Andorra sigui percebuda com un país fiscalment atractiu i plenament legal als ulls internacionals.
 
-##### 
+#### 
 6. Comparativa internacional: Andorra davant dels seus veïns
 
 ![](/assets/uploads/imagen1.png)
@@ -151,7 +155,7 @@ Aquest equilibri entre impostos baixos i estabilitat regula­tòria fa que Andor
 
 De mitjana, la pressió fiscal global a Andorra és entre un 60 % i un 70 % inferior a la d’aquests països, traduint-se en un estalvi significatiu i sostingut.
 
-##### 
+#### 
 7. Casos pràctics: qui es beneficia més de la residència fiscal?
 
 **Professionals autònoms i nòmades digitals**
@@ -170,7 +174,7 @@ Tributen un 10 % sobre els beneficis, i els dividends rebuts per residents estan
 La càrrega fiscal combinada pot reduir-se fins a un 70 % respecte d’altres països europeus.
 
 
-##### 8. Avantatges complementàries de viure a Andorra
+#### 8. Avantatges complementàries de viure a Andorra
 
 **Seguretat i estabilitat**
 
@@ -195,7 +199,7 @@ Un 20 % inferior al de grans capitals europees, tot i que alguns productes impor
 
 
 
-##### 9. Consideracions clau abans del trasllat
+#### 9. Consideracions clau abans del trasllat
 
 * Acreditar més de 183 dies de presència real.
 * Evitar mantenir una vivenda habitual activa al país d'origen.
@@ -206,7 +210,7 @@ Un 20 % inferior al de grans capitals europees, tot i que alguns productes impor
 Una bona planificació amb assessors locals evita conflictes de doble residència o sancions.
 
 
-##### 10. Vols traslladar la teva residència fiscal a Andorra?
+#### 10. Vols traslladar la teva residència fiscal a Andorra?
 
 A Summit Advisors acompanyem professionals, empresaris i particulars en tot el
 procés:
