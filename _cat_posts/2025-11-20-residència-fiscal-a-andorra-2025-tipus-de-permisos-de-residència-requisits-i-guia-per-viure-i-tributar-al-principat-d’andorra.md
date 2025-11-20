@@ -31,3 +31,11 @@ Entre Espanya i França, el Principat d’Andorra combina el millor d’ambdós 
 El país, de només 468 km² i poc més de 88.000 habitants, ofereix un dels règims fiscals més baixos d’Europa i un entorn polític estable.
 
 La capital, Andorra la Vella, s’ha transformat en un hub de serveis financers, tecnològics i empresarials. A més, la infraestructura moderna, la connectivitat digital completa i un entorn natural excepcional la converteixen en un destí ideal per a nòmades digitals, empresaris i rentistes que busquen equilibri entre feina i benestar.
+
+
+
+###### 2. Per què cada vegada més persones trien Andorra?
+
+El perfil del nou resident ha canviat: ja no arriben només grans patrimonis, sinó també freelancers, esportistes, creadors digitals, inversors i empresaris.
+
+Motius principals:
