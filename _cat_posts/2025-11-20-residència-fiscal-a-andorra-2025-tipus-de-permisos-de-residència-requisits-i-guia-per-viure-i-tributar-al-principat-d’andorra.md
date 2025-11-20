@@ -204,3 +204,17 @@ Un 20 % inferior al de grans capitals europees, tot i que alguns productes impor
 
 
 Una bona planificació amb assessors locals evita conflictes de doble residència o sancions.
+
+
+##### 10. Vols traslladar la teva residència fiscal a Andorra?
+
+A Summit Advisors acompanyem professionals, empresaris i particulars en tot el
+procés:
+
+* Estudi fiscal personalitzat
+* Tràmits d'immigració
+* Creació de societats
+* Planificació fiscal internacional
+* Gestió contínua i assessorament integral
+
+Sol·licita assessorament i t’orientarem de manera completa perquè puguis instal·lar-te a Andorra de forma eficient i sense complicacions.
