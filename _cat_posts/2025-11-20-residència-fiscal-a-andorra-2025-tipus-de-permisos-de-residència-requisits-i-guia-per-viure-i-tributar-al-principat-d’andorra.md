@@ -41,3 +41,40 @@ Motius principals:
 * Entorn econòmic obert: acords amb l'OCDE i països veïns.
 * Proximitat geogràfica: a 2 hores de Barcelona i Tolosa.
 * Qualitat de vida, naura i serveis públics eficients.
+
+
+###### 3. Què significa tenir residència fiscal a Andorra?
+
+La residència administrativa és el permís d’immigració que atorga el Govern d’Andorra; la residència fiscal és
+l’estatus tributari que permet tributar per les rendes mundials al Principat.
+
+Es considera resident fiscal qui:
+
+* Resideix més de 183 dies dins d'un any natural a Andorra.
+* Té al país el centre d'interessos econòmics i personals.
+* La parella legal i els fills menors també resideixen a Andorra (centre d'interès vital).
+
+Complir aquests criteris assegura que els ingressos es graven exclusivament a Andorra segons la seva legislació, evitant la doble imposició internacional.
+
+
+
+###### 4. Tipus de residència a Andorra
+
+##### 4.1. Residència activa
+
+Pensada per a qui treballa o emprèn a Andorra.
+
+La pot sol·licitar un assalariat amb contracte d’una empresa andorrana o un autònom que constitueixi la seva pròpia societat.
+
+**a) Residència activa per compte propi**
+
+Ideal per a emprenedors o professionals que volen operarmitjançant una societat andorrana.
+El sol·licitant ha de ser soci amb almenys un 34 % de participació i administrador de l’empresa.
+Permet treballar per a la pròpia companyia i és una de les modalitats més demandades.
+
+**b) Residència activa per compte aliè**
+
+Per a treballadors amb oferta laboral a Andorra.
+El permís es tramita a través de l’empresa contractant.
+Hi ha quotes per sector i nivell de qualificació, i el treballador ha
+d’acreditar experiència i formació adequada.
