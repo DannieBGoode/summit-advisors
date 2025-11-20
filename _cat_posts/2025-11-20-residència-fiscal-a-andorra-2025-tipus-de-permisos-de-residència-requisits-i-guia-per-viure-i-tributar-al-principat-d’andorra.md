@@ -22,17 +22,9 @@ Andorra es consolida el 2025 com un dels destins més atractius d’Europa per a
 9. Consideracions clau abans del trasllat
 10. Com t'adjudem des de Summit Advisors
 
-
-
 #### 1. Viure i tributar a Andorra el 2025
 
-Entre Espanya i França, el Principat d’Andorra combina el millor d’ambdós mons: paisatges de muntanya i estàndards europeus amb un sistema fiscal propi, transparent i competitiu.
-
-El país, de només 468 km² i poc més de 88.000 habitants, ofereix un dels règims fiscals més baixos d’Europa i un entorn polític estable.
-
-La capital, Andorra la Vella, s’ha transformat en un hub de serveis financers, tecnològics i empresarials. A més, la infraestructura moderna, la connectivitat digital completa i un entorn natural excepcional la converteixen en un destí ideal per a nòmades digitals, empresaris i rentistes que busquen equilibri entre feina i benestar.
-
-
+Entre Espanya i França, el Principat d’Andorra combina el millor d’ambdós mons: paisatges de muntanya i estàndards europeus amb un sistema fiscal propi, transparent i competitiu.El país, de només 468 km² i poc més de 88.000 habitants, ofereix un dels règims fiscals més baixos d’Europa i un entorn polític estable.La capital, Andorra la Vella, s’ha transformat en un hub de serveis financers, tecnològics i empresarials. A més, la infraestructura moderna, la connectivitat digital completa i un entorn natural excepcional la converteixen en un destí ideal per a nòmades digitals, empresaris i rentistes que busquen equilibri entre feina i benestar.
 
 #### 2. Per què cada vegada més persones trien Andorra?
 
@@ -44,8 +36,7 @@ Motius principals:
 * Estabilitat institucional i criminalitat molt baixa.
 * Entorn econòmic obert: acords amb l'OCDE i països veïns.
 * Proximitat geogràfica: a 2 hores de Barcelona i Tolosa.
-* Qualitat de vida, naura i serveis públics eficients.
-
+* Qualitat de vida, natura i serveis públics eficients.
 
 #### 3. Què significa tenir residència fiscal a Andorra?
 
@@ -59,8 +50,6 @@ Es considera resident fiscal qui:
 * La parella legal i els fills menors també resideixen a Andorra (centre d'interès vital).
 
 Complir aquests criteris assegura que els ingressos es graven exclusivament a Andorra segons la seva legislació, evitant la doble imposició internacional.
-
-
 
 #### 4. Tipus de residència a Andorra
 
@@ -82,8 +71,6 @@ Per a treballadors amb oferta laboral a Andorra.
 El permís es tramita a través de l’empresa contractant.
 Hi ha quotes per sector i nivell de qualificació, i el treballador ha
 d’acreditar experiència i formació adequada.
-
-
 
 ###### 4.2. Residència passiva o no lucrativa
 
@@ -113,8 +100,6 @@ Condicions:
 El permís inicial s'atorga per un període de dos anys, pensada per tota persona nouvinguda que per dur a terme el seu treball no requereixi disposar d'una ubicació geogràfica concreta i utilitzi les telecomunicacions i la tecnologia.
 És especialment interessant per a emprenedors digitals i freelancers que valoren la seguretat i la connectivitat del país.
 
-
-
 #### 5. El sistema fiscal andorrà el 2025
 
 El model fiscal andorrà és senzill, competitiu i totalment alineat amb els estàndards de l’OCDE.
@@ -137,7 +122,6 @@ Grava els beneficis de les empreses andorranes amb un tipus general del 10 %.
 
 És un sistema estable i previsible que facilita la planificació fiscal a llarg termini.
 
-
 **5.3. Impost General Indirecte (IGI)**
 
 * Tipus general: 4,5%
@@ -146,16 +130,12 @@ Grava els beneficis de les empreses andorranes amb un tipus general del 10 %.
 
 Aquest equilibri entre impostos baixos i estabilitat regula­tòria fa que Andorra sigui percebuda com un país fiscalment atractiu i plenament legal als ulls internacionals.
 
-#### 
 6. Comparativa internacional: Andorra davant dels seus veïns
 
 ![](/assets/uploads/imagen1.png)
 
-
-
 De mitjana, la pressió fiscal global a Andorra és entre un 60 % i un 70 % inferior a la d’aquests països, traduint-se en un estalvi significatiu i sostingut.
 
-#### 
 7. Casos pràctics: qui es beneficia més de la residència fiscal?
 
 **Professionals autònoms i nòmades digitals**
@@ -172,7 +152,6 @@ Amb l’absència d’impost sobre patrimoni i plusvàlues no realitzades, la re
 
 Tributen un 10 % sobre els beneficis, i els dividends rebuts per residents estan exempts.
 La càrrega fiscal combinada pot reduir-se fins a un 70 % respecte d’altres països europeus.
-
 
 #### 8. Avantatges complementàries de viure a Andorra
 
@@ -197,8 +176,6 @@ Aire net, muntanyes i activitats a l’aire lliure tot l’any.
 
 Un 20 % inferior al de grans capitals europees, tot i que alguns productes importats poden ser més cars.
 
-
-
 #### 9. Consideracions clau abans del trasllat
 
 * Acreditar més de 183 dies de presència real.
@@ -206,9 +183,7 @@ Un 20 % inferior al de grans capitals europees, tot i que alguns productes impor
 * Traslladar el centre d'interessos econòmics (empresa, facturació, inversions).
 * Notificar el canvi de residència fiscal a l'autoritat tributària anterior.
 
-
 Una bona planificació amb assessors locals evita conflictes de doble residència o sancions.
-
 
 #### 10. Vols traslladar la teva residència fiscal a Andorra?
 
