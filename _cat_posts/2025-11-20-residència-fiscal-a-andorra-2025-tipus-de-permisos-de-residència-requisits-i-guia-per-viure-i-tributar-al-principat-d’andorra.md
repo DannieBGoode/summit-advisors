@@ -108,3 +108,27 @@ Condicions:
 
 El permís inicial s'atorga per un període de dos anys, pensada per tota persona nouvinguda que per dur a terme el seu treball no requereixi disposar d'una ubicació geogràfica concreta i utilitzi les telecomunicacions i la tecnologia.
 És especialment interessant per a emprenedors digitals i freelancers que valoren la seguretat i la connectivitat del país.
+
+
+
+##### 5. El sistema fiscal andorrà el 2025
+
+El model fiscal andorrà és senzill, competitiu i totalment alineat amb els estàndards de l’OCDE.
+
+**5.1. Impost sobre la Renda de les Persones Físiques (IRPF)**
+
+Un dels més baixos d'Europa:
+
+* Fins a 24.000.-eur exempt.
+* De 24.001.-eur a 40.000.-eur: 5%
+* A partir de 40.001.-eur: 10%
+
+La pressió fiscal efectiva se situa entre el 3% i 7% per gran part del col·lectiu.
+
+Moltes rendes financeres i de capital, com dividends i interessos, estan exemptes, i hi ha deduccions per habitatge i càrregues familiars.
+
+**5.2. Impost de Societats (IS)**
+
+Grava els beneficis de les empreses andorranes amb un tipus general del 10 %.
+
+És un sistema estable i previsible que facilita la planificació fiscal a llarg termini.
