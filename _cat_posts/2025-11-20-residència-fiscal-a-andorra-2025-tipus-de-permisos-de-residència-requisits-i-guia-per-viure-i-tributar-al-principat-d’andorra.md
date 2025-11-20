@@ -132,3 +132,21 @@ Moltes rendes financeres i de capital, com dividends i interessos, estan exempte
 Grava els beneficis de les empreses andorranes amb un tipus general del 10 %.
 
 És un sistema estable i previsible que facilita la planificació fiscal a llarg termini.
+
+
+**5.3. Impost General Indirecte (IGI)**
+
+* Tipus general: 4,5%
+* Tipus reduït: 1% (béns essencials).
+* Exempcions en educació, sanitat i lloguer d'habitatge.
+
+Aquest equilibri entre impostos baixos i estabilitat regula­tòria fa que Andorra sigui percebuda com un país fiscalment atractiu i plenament legal als ulls internacionals.
+
+##### 
+6. Comparativa internacional: Andorra davant dels seus veïns
+
+
+
+
+
+De mitjana, la pressió fiscal global a Andorra és entre un 60 % i un 70 % inferior a la d’aquests països, traduint-se en un estalvi significatiu i sostingut.
