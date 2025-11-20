@@ -11,7 +11,7 @@ language: es
 
 Andorra se consolida en 2025 como uno de los destinos más atractivos de Europa para quienes buscan una fiscalidad moderada, estabilidad legal y una calidad de vida elevada. En esta guía explicamos qué es la residencia fiscal en Andorra, cuáles son sus requisitos y tipos, y cómo obtenerla legalmente para beneficiarse de un entorno seguro y de un sistema impositivo de solo un 10 %.
 
-###### **Índice de contenidos**
+#### **Índice de contenidos**
 
 1. Vivir y tributar en Andorra en 2025
 2. ¿Por qué cada vez más personas eligen Andorra?
@@ -23,6 +23,8 @@ Andorra se consolida en 2025 como uno de los destinos más atractivos de Europa 
 8. Ventajas complementarias de vivir en Andorra
 9. Consideraciones clave antes del traslado
 10. Cómo te ayudamos desde Summit Advisors
+
+
 
 #### 1. Vivir y tributar en Andorra en 2025
 
@@ -42,6 +44,8 @@ Principales motivos:
 * Proximidad geográfica: a 2 horas de Barcelona y Toulouse.
 * Calidad de vida, naturaleza y servicios públicos eficientes.
 
+
+
 #### 3. ¿Qué significa tener residencia fiscal en Andorra?
 
 La residencia administrativa es el permiso de inmigración que otorga el Govern d’Andorra; la residencia fiscal es el estatus tributario que te permite tributar por tus rentas mundiales en el Principado de Andorra.
@@ -53,6 +57,8 @@ Se considera residente fiscal quien:
 * Pareja legal e hijos menores viven también en Andorra. (Centro de Interés vital).
 
 Cumplir estos criterios asegura que los ingresos se graven exclusivamente en Andorra bajo su legislación, evitando la doble imposición internacional.
+
+
 
 #### 4. Tipos de residencia en Andorra
 
@@ -97,6 +103,8 @@ Esta autorización permite residir en el Principado y prestar servicios a client
 El permiso inicial se concede por dos años y es renovable hasta un máximo de diez.
 Es especialmente atractivo para emprendedores digitales y freelancers que valoran la seguridad y la conectividad de Andorra.
 
+
+
 #### 5. El sistema fiscal andorrano en 2025
 
 El modelo fiscal de Andorra es sencillo, competitivo y totalmente alineado con los estándares de la OCDE.
@@ -124,6 +132,8 @@ Equivalente al IVA, el IGI tiene un tipo general del 4,5 %, uno de los más bajo
 Hay tipos reducidos del 1 % para bienes esenciales y exenciones en educación, sanidad y alquiler de vivienda.
 Este equilibrio entre impuestos bajos y estabilidad regulatoria es lo que hace que Andorra sea percibida como un país fiscalmente atractivo y plenamente legal ante la comunidad internacional.
 
+
+
 #### 6. Comparativa internacional: Andorra frente a sus vecinos
 
 Para entender mejor la ventaja fiscal andorrana, conviene compararla con los principales países del entorno:
@@ -131,6 +141,8 @@ Para entender mejor la ventaja fiscal andorrana, conviene compararla con los pri
 ![](/assets/uploads/captura-de-pantalla-2025-11-19-201252.jpg)
 
 De media, la presión fiscal global en Andorra es entre 60 % y 70 % menor que en estos países, lo que se traduce en un ahorro significativo y sostenido en el tiempo.
+
+
 
 #### 7. Casos prácticos: ¿Quién se beneficia más de la residencia fiscal?
 
@@ -150,9 +162,11 @@ Al no existir impuesto sobre patrimonio ni sobre plusvalías no realizadas, la r
 Los empresarios que trasladan su sociedad o fundan una nueva en Andorra pagan un tipo fijo del 10 % sobre beneficios netos, y los dividendos distribuidos a personas residentes están exentos.
 La carga fiscal combinada puede reducirse hasta un 70 % respecto a otros países europeos, sin renunciar a estabilidad legal ni reputación internacional.
 
+
+
 #### 8.Ventajas complementarias de vivir en Andorra
 
-#####  ***Seguridad y estabilidad***
+##### ***Seguridad y estabilidad***
 
 Andorra es uno de los países más seguros del mundo, con índices de criminalidad prácticamente nulos y una política exterior neutral.
 
@@ -174,6 +188,8 @@ Las actividades al aire libre —esquí, senderismo, ciclismo— forman parte de
 El coste medio de vida es un 20% inferior al de las grandes capitales europeas.
 Vivienda, alimentación y transporte son algo más asequibles, aunque los productos importados pueden tener precios algo superiores.
 
+
+
 #### 9. Consideraciones clave antes del traslado
 
 Antes de cambiar tu residencia fiscal, es importante cumplir correctamente con los pasos formales y evitar errores comunes:
@@ -184,6 +200,8 @@ Antes de cambiar tu residencia fiscal, es importante cumplir correctamente con l
 * Notificar el cambio de residencia fiscal ante la autoridad tributaria anterior.
 
 Una buena planificación, acompañada por asesores locales, evita conflictos de doble residencia o sanciones en el país de origen.
+
+
 
 #### 10.¿Quieres trasladar tu residencia fiscal a Andorra?
 
