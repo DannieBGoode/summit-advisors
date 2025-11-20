@@ -49,7 +49,7 @@ Es considera resident fiscal qui:
 * Té al país el centre d'interessos econòmics i personals.
 * La parella legal i els fills menors també resideixen a Andorra (centre d'interès vital).
 
-Complir aquests criteris assegura que els ingressos es graven exclusivament a Andorra segons la seva legislació, evitant la doble imposició internacional.
+Complir aquests criteris assegura que els ingressos es graven exclusivament a Andorra segons la seva legislació, quedant subjectes a l'impost de la renda de les persones físiques.
 
 #### 4. Tipus de residència a Andorra
 
