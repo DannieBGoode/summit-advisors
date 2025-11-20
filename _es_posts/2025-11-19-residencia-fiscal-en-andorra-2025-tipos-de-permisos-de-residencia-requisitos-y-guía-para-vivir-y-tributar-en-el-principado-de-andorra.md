@@ -56,24 +56,24 @@ Cumplir estos criterios asegura que los ingresos se graven exclusivamente en And
 
 #### 4. Tipos de residencia en Andorra
 
-4.1 Residencia activa
+##### 4.1 Residencia activa
 
 Pensada para quienes trabajan o emprenden en Andorra.
 Puede solicitarla un empleado con contrato laboral de una empresa andorrana o un autónomo que constituya su propia empresa.
 
-**a)	Residencia activa por cuenta propia**
+**a)	*Residencia activa por cuenta propia***
 
 Ideal para emprendedores o profesionales que desean operar mediante una sociedad andorrana.
 El solicitante debe ser socio con al menos un 34 % de participación y administrador de la empresa.
 Otorga derecho a trabajar para la propia compañía y es una de las modalidades más demandadas.
 
-**b)	Residencia activa por cuenta ajena**
+**b)	*Residencia activa por cuenta ajena***
 
 Para trabajadores con oferta laboral en Andorra.
 El permiso se tramita a través de la empresa contratante.
 Existen cupos por sector y nivel de cualificación, y el empleado debe acreditar experiencia profesional y formación acorde al puesto.
 
-###### 4.2	Residencia pasiva o no lucrativa
+##### 4.2	Residencia pasiva o no lucrativa
 
 Pensada para personas que no realizan actividad laboral local, pero cuentan con recursos propios o ingresos pasivos.
 
@@ -84,7 +84,7 @@ Dentro de la residencia pasiva existen subcategorías:
 * Residencia por interés cultural, científico o deportivo: para personas de reconocido prestigio internacional.
 * Residencia para profesionales con proyección internacional: limitada en cuotas anuales, permite permanecer en el país 90 días y viajar el resto del año.
 
-###### 4.3	Permiso de residencia para nómadas digitales
+##### 4.3	Permiso de residencia para nómadas digitales
 
 Desde 2024 Andorra impulsa un permiso específico para profesionales que trabajan en línea sin ubicación fija.
 Esta autorización permite residir en el Principado y prestar servicios a clientes extranjeros, siempre que se cumplan:
@@ -113,7 +113,7 @@ El IRPF andorrano es uno de los más bajos de Europa:
 El resultado: una presión fiscal efectiva que oscila entre el 5 % y el 7 % en la mayoría de los casos.
 Además, muchas rentas financieras y de capital, como dividendos o intereses, están exentas, y existen deducciones adicionales por vivienda o cargas familiares.
 
-#### 5.2	Impuesto de Sociedades (IS)
+##### 5.2	Impuesto de Sociedades (IS)
 
 El IS grava los beneficios de las empresas constituidas en Andorra con un tipo general del 10 %.
 El sistema es predecible y permite una planificación fiscal a largo plazo.
@@ -134,41 +134,42 @@ De media, la presión fiscal global en Andorra es entre 60 % y 70 % menor que en
 
 #### 7. Casos prácticos: ¿Quién se beneficia más de la residencia fiscal?
 
-***Profesionales autónomos y nómadas digitales***
+##### ***Profesionales autónomos y nómadas digitales***
 
 Los trabajadores independientes con ingresos internacionales son de los principales beneficiados.
 Mientras en sus países de origen pueden tributar entre un 30 % y un 45 %, en Andorra su tipo efectivo rara vez supera el 8 %.
 Además, el país ofrece infraestructura tecnológica moderna, conexión de fibra óptica en todo el territorio y un entorno seguro para operar globalmente.
 
-***Inversores y rentistas***
+##### ***Inversores y rentistas***
 
 Quienes obtienen rentas por dividendos, intereses o inversiones financieras disfrutan de exenciones interesantes.
 Al no existir impuesto sobre patrimonio ni sobre plusvalías no realizadas, la rentabilidad neta puede ser entre 25% y 30 % superior a la de países vecinos.
 
-***Emprendedores y dueños de empresas***
+##### ***Emprendedores y dueños de empresas***
 
 Los empresarios que trasladan su sociedad o fundan una nueva en Andorra pagan un tipo fijo del 10 % sobre beneficios netos, y los dividendos distribuidos a personas residentes están exentos.
 La carga fiscal combinada puede reducirse hasta un 70 % respecto a otros países europeos, sin renunciar a estabilidad legal ni reputación internacional.
 
 #### 8.Ventajas complementarias de vivir en Andorra
 
- ***Seguridad y estabilidad***
+#####  ***Seguridad y estabilidad***
+
 Andorra es uno de los países más seguros del mundo, con índices de criminalidad prácticamente nulos y una política exterior neutral.
 
-***Sistema sanitario de primer nivel***
+##### ***Sistema sanitario de primer nivel***
 
 La CASS (Caixa Andorrana de Seguretat Social) cubre consultas médicas, hospitalización y tratamientos. Funciona con un sistema de copago donde la CASS paga entre el 75% y el 90% y el resto es asumido por el residente. Existe la posibilidad de contratar seguros médicos privados que complementan el coste que no asume la CASS.
 
-***Educación trilingüe y multiculturalidad***
+##### ***Educación trilingüe y multiculturalidad***
 
 El sistema educativo público combina catalán, español y francés, y hay centros privados con enseñanza en inglés. Esto facilita la integración de familias internacionales.
 
-***Calidad de vida y naturaleza***
+##### ***Calidad de vida y naturaleza***
 
 El país ofrece aire limpio, paisajes de montaña y un estilo de vida tranquilo.
 Las actividades al aire libre —esquí, senderismo, ciclismo— forman parte de la vida cotidiana.
 
-***Coste de vida competitivo***
+##### ***Coste de vida competitivo***
 
 El coste medio de vida es un 20% inferior al de las grandes capitales europeas.
 Vivienda, alimentación y transporte son algo más asequibles, aunque los productos importados pueden tener precios algo superiores.
