@@ -44,7 +44,7 @@ Principales motivos:
 
 #### 3. ¿Qué significa tener residencia fiscal en Andorra?
 
-La residencia administrativa es el permiso de inmigración que otorga el Govern d’Andorra; la residencia fiscal es el estatus tributario que te permite tributar por tus rentas mundiales en el Principado.
+La residencia administrativa es el permiso de inmigración que otorga el Govern d’Andorra; la residencia fiscal es el estatus tributario que te permite tributar por tus rentas mundiales en el Principado de Andorra.
 
 Se considera residente fiscal quien:
 
