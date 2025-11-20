@@ -8,3 +8,5 @@ image: /assets/uploads/chatgpt-image-19-nov-2025-19_56_16.png
 language: cat
 ---
 Andorra es consolida el 2025 com un dels destins més atractius d’Europa per a aquells que busquen una fiscalitat moderada, estabilitat legal i una elevada qualitat de vida. En aquesta guia expliquem què és la residència fiscal a Andorra, quins són els requisits i els seus tipus, i com obtenir-la legalment per beneficiar-se d’un entorn segur i d’un sistema impositiu d’un màxim del 10 %.
+
+Índex de continguts
