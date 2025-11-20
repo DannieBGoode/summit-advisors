@@ -11,7 +11,7 @@ language: es
 
 Andorra se consolida en 2025 como uno de los destinos más atractivos de Europa para quienes buscan una fiscalidad moderada, estabilidad legal y una calidad de vida elevada. En esta guía explicamos qué es la residencia fiscal en Andorra, cuáles son sus requisitos y tipos, y cómo obtenerla legalmente para beneficiarse de un entorno seguro y de un sistema impositivo de solo un 10 %.
 
-##### **Índice de contenidos**
+###### **Índice de contenidos**
 
 1. Vivir y tributar en Andorra en 2025
 2. ¿Por qué cada vez más personas eligen Andorra?
