@@ -30,7 +30,7 @@ Entre España y Francia, el Principado de Andorra combina lo mejor de ambos mund
 
  El país, de apenas 468 km² y poco más de 88.000 habitantes, ofrece uno de los regímenes impositivos más bajos de Europa y un entorno político estable.
 
- La capital, Andorra la Vella, se ha transformado en un hub de servicios financieros, tecnológicos y empresariales. Además, la infraestructura moderna, la conectividad digital completa y un entorno natural excepcional la convierten en un destino ideal para nómadas digitales, empresarios y rentistas que buscan equilibrio entre trabajo y bienestar.
+ En los últimos años, el país se ha transformado en un hub de servicios financieros, tecnológicos y empresariales. Además, la infraestructura moderna, la conectividad digital completa y un entorno natural excepcional la convierten en un destino ideal para nómadas digitales, empresarios y rentistas que buscan equilibrio entre trabajo y bienestar.
 
 #### 2. ¿Por qué cada vez más personas eligen Andorra?
 
