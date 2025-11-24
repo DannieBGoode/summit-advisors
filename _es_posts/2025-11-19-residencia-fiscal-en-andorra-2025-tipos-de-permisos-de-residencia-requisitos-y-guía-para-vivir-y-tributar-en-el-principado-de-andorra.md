@@ -52,7 +52,8 @@ Se considera residente fiscal quien:
 
 * Permanece más de 183 días dentro de un año natural en Andorra.
 * Tiene en el país su centro de intereses económicos y personales.
-* Pareja legal e hijos menores viven también en Andorra. (Centro de Interés vital).
+
+Asimismo, se presumirá la residencia fiscal de un contribuyente, salvo prueba en contrario, el país de residencia del cónyuge no separado legalmente y los hijos menores.
 
 Cumplir estos criterios asegura que los ingresos se graven exclusivamente en Andorra bajo su legislación, evitando la doble imposición internacional.
 
