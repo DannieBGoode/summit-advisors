@@ -97,12 +97,9 @@ Since 2024, Andorra offers a specific permit for professionals who work online w
 
 The initial permit is granted for two years and can be renewed up to a maximum of ten. It is particularly attractive for digital entrepreneurs and freelancers who value Andorra’s safety and connectivity.
 
-
-
 #### 5.Andorra’s Tax System in 2025
 
 Andorra’s tax model is simple, competitive, and fully aligned with OECD standards. The country offers a tax framework that promotes investment and residency without compromising transparency or legal certainty.
-
 
 
 
@@ -120,16 +117,11 @@ This results in an effective tax burden of roughly 5% to 7% for most residents. 
 
 #### 5.2 Corporate Income Tax (IS)
 
-
 Corporate tax is levied at a general rate of 10% on company profits. The system is predictable and supports long-term tax planning.
 
-
-
-#### 5.3 General Indirect Tax (IGI)
+5.3 General Indirect Tax (IGI)
 
 Equivalent to VAT, IGI has a general rate of 4.5%, one of the lowest in Europe. There is a reduced rate of 1% for essential goods, and education, healthcare, and residential rent are exempt.
-
-
 
 #### 6.International Comparison: Andorra vs. Neighboring Countries
 
@@ -146,8 +138,42 @@ Independent workers with international income benefit enormously. While their ho
 
 #### Investors and rentiers
 
-
 People earning dividends, interest, or financial investment income enjoy significant exemptions. With no wealth tax or tax on unrealized capital gains, net returns can be 25% to 30% higher than in neighboring countries.
+
+
+#### Entrepreneurs and business owners
+
+Business owners who relocate or create a company in Andorra pay a flat 10% corporate tax, and dividends distributed to resident shareholders are exempt. The combined burden can be reduced by up to 70% compared to other European countries, without sacrificing legal stability or international reputation.
+
+
+
+#### 8. Additional Advantages of Living in Andorra
+
+#### Safety and stability
+
+Andorra is one of the safest countries in the world, with extremely low crime rates and a
+neutral foreign policy.
+
+#### High-quality healthcare
+
+The CASS (Andorran Social Security Fund) covers medical consultations, hospitalization, and treatments. It operates with a co-payment system: CASS covers 75%–90%, and the resident covers the rest. Private insurance can complement CASS coverage.
+
+#### Trilingual education and multicultural environment
+
+The public education system combines Catalan, Spanish, and French, and private schools offer English-language programs. This facilitates integration for international families.
+
+#### Quality of life and nature
+
+Clean air, mountain landscapes, and a peaceful lifestyle. Outdoor activities—skiing,
+hiking, cycling—are part of daily life.
+
+#### Competitive cost of living
+
+Living costs are about 20% lower than in major European capitals. Housing, food, and transportation are more affordable, though imported goods may be slightly more expensive.
+
+
+
+
 
 
 
