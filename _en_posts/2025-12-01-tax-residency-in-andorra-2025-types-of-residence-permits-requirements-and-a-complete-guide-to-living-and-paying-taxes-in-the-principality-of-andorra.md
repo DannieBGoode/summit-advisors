@@ -48,7 +48,7 @@ Main reasons:
 
 Administrative residency is the immigration permit granted by the Andorran Government; Tax residency is the status that determines where your worldwide income is taxed.
 
-A person is considered a **tax resident** if they:
+A person is considered a tax resident if they:
 
 * Remain in Andorra for more than 183 days in a calendar year; or
 * Have in Andorra their main economic and personal interests.
@@ -73,9 +73,7 @@ For employees with a job offer in Andorra. The permit is processed through the h
 
 ### **4.2 Passive or Non-Lucrative Residency**
 
-Designed for individuals who do not carry out local employment but have sufficient resources or passive income.
-
-This is the preferred option for rentiers, retirees, and investors. It requires an investment in Andorran assets and staying at least 90 days per year in the country.
+Designed for individuals who do not carry out local employment but have sufficient resources or passive income. This is the preferred option for rentiers, retirees, and investors. It requires an investment in Andorran assets and staying at least 90 days per year in the country.
 
 Sub-categories include:
 
