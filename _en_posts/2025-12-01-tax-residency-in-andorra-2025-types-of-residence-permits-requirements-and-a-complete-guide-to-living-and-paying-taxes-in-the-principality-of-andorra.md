@@ -125,6 +125,31 @@ Corporate tax is levied at a general rate of 10% on company profits. The system 
 
 
 
+#### 5.3 General Indirect Tax (IGI)
+
+Equivalent to VAT, IGI has a general rate of 4.5%, one of the lowest in Europe. There is a reduced rate of 1% for essential goods, and education, healthcare, and residential rent are exempt.
+
+
+
+#### 6.International Comparison: Andorra vs. Neighboring Countries
+
+Compared to nearby countries such as Spain, France, or Italy, Andorra’s tax burden is significantly lower.
+
+On average, global tax pressure in Andorra is 60% to 70% lower, resulting in substantial and sustained long-term savings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
