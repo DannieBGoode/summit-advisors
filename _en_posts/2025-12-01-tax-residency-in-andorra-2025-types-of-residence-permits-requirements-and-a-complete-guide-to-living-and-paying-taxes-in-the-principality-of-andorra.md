@@ -115,6 +115,18 @@ The Andorran personal income tax is among the lowest in Europe:
 * Above 40.000.-eur → maximum 10%
 
 
+This results in an effective tax burden of roughly 5% to 7% for most residents. Additionally, many financial and capital income categories—such as dividends or interest—are exempt, and there are deductions for housing and family dependents.
+
+
+#### 5.2 Corporate Income Tax (IS)
+
+
+Corporate tax is levied at a general rate of 10% on company profits. The system is predictable and supports long-term tax planning.
+
+
+
+
+
 
 
 
