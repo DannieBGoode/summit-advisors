@@ -17,3 +17,6 @@ Table of Contents
 2. Why more and more people are choosing Andorra
 3. What it means to have tax residency in Andorra
 4. Types of residency in Andorra
+5. Andorra’s tax system in 2025
+6. International comparison
+7. Practical cases: Who benefits the most?
