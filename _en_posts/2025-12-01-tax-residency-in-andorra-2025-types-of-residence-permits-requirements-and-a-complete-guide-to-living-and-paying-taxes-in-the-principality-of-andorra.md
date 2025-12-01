@@ -4,7 +4,7 @@ title: "Tax Residency in Andorra 2025: Types of Residence Permits, Requirements,
   and a Complete Guide to Living and Paying Taxes in the Principality of
   Andorra"
 description: Living and paying taxes in Andorra in 2025
-date: 2025-12-01T15:57:00.000+01:00
+date: 2025-02-01T15:57:00.000+01:00
 image: /assets/uploads/chatgpt-image-19-nov-2025-19_56_16.png
 language: en
 ---
