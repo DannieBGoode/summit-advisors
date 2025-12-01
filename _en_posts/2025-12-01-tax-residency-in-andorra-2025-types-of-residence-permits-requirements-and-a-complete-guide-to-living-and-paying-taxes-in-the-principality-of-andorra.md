@@ -138,6 +138,20 @@ Compared to nearby countries such as Spain, France, or Italy, Andorra’s tax bu
 On average, global tax pressure in Andorra is 60% to 70% lower, resulting in substantial and sustained long-term savings.
 
 
+#### 7. Practical Cases: Who Benefits the Most from Tax Residency?
+
+#### Self-employed professionals and digital nomads
+
+Independent workers with international income benefit enormously. While their home countries may tax them between 30% and 45%, in Andorra their effective rate rarely exceeds 8%. The country offers modern digital infrastructure, full fiber-optic coverage, and a safe environment for global operations.
+
+#### Investors and rentiers
+
+
+People earning dividends, interest, or financial investment income enjoy significant exemptions. With no wealth tax or tax on unrealized capital gains, net returns can be 25% to 30% higher than in neighboring countries.
+
+
+
+
 
 
 
