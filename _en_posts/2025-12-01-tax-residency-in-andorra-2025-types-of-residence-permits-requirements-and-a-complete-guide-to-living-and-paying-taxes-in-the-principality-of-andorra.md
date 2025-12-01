@@ -73,8 +73,6 @@ Ideal for entrepreneurs or professionals operating through an Andorran company. 
 
 For employees with a job offer in Andorra. The permit is processed through the hiring company. There are quotas by sector and skill level, and the employee must prove their qualifications and relevant experience.
 
-
-
 ### **4.2 Passive or Non-Lucrative Residency**
 
 Designed for individuals who do not carry out local employment but have sufficient resources or passive income.
@@ -101,8 +99,6 @@ The initial permit is granted for two years and can be renewed up to a maximum o
 
 Andorra’s tax model is simple, competitive, and fully aligned with OECD standards. The country offers a tax framework that promotes investment and residency without compromising transparency or legal certainty.
 
-
-
 #### 5.1 Personal Income Tax (IRPF)
 
 The Andorran personal income tax is among the lowest in Europe:
@@ -111,9 +107,7 @@ The Andorran personal income tax is among the lowest in Europe:
 * 24,001.-eur to 40,000.-eur → 5%
 * Above 40.000.-eur → maximum 10%
 
-
 This results in an effective tax burden of roughly 5% to 7% for most residents. Additionally, many financial and capital income categories—such as dividends or interest—are exempt, and there are deductions for housing and family dependents.
-
 
 #### 5.2 Corporate Income Tax (IS)
 
@@ -127,8 +121,11 @@ Equivalent to VAT, IGI has a general rate of 4.5%, one of the lowest in Europe. 
 
 Compared to nearby countries such as Spain, France, or Italy, Andorra’s tax burden is significantly lower.
 
-On average, global tax pressure in Andorra is 60% to 70% lower, resulting in substantial and sustained long-term savings.
+![](/assets/uploads/captura-de-pantalla-2025-12-01-182951.png)
 
+
+
+On average, global tax pressure in Andorra is 60% to 70% lower, resulting in substantial and sustained long-term savings.
 
 #### 7. Practical Cases: Who Benefits the Most from Tax Residency?
 
@@ -140,12 +137,9 @@ Independent workers with international income benefit enormously. While their ho
 
 People earning dividends, interest, or financial investment income enjoy significant exemptions. With no wealth tax or tax on unrealized capital gains, net returns can be 25% to 30% higher than in neighboring countries.
 
-
 #### Entrepreneurs and business owners
 
 Business owners who relocate or create a company in Andorra pay a flat 10% corporate tax, and dividends distributed to resident shareholders are exempt. The combined burden can be reduced by up to 70% compared to other European countries, without sacrificing legal stability or international reputation.
-
-
 
 #### 8. Additional Advantages of Living in Andorra
 
@@ -171,8 +165,6 @@ hiking, cycling—are part of daily life.
 
 Living costs are about 20% lower than in major European capitals. Housing, food, and transportation are more affordable, though imported goods may be slightly more expensive.
 
-
-
 #### 9. Key Considerations Before Relocating
 
 Before changing your tax residency, it is important to complete all formal steps correctly and avoid common mistakes:
@@ -183,8 +175,6 @@ Before changing your tax residency, it is important to complete all formal steps
 * Notify the tax authority of your previous country of the change of residency
 
 Proper planning—supported by local advisors—avoids double residency conflicts or penalties in the country of origin.
-
-
 
 #### 10. Want to Transfer Your Tax Residency to Andorra?
 
@@ -197,58 +187,8 @@ throughout the entire process:
 * International tax planning
 * Ongoing management and comprehensive advisory
 
-
-
 Request a consultation and we will guide you through every step to relocate to Andorra efficiently and without
 complications.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 This results in an effective tax burden of roughly 5% to 7% for most residents.
 Additionally, many financial and capital income categories—such as dividends or
