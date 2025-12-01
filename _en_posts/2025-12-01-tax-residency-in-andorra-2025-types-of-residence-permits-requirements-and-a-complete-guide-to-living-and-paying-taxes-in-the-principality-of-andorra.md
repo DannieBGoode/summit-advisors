@@ -173,6 +173,41 @@ Living costs are about 20% lower than in major European capitals. Housing, food,
 
 
 
+#### 9. Key Considerations Before Relocating
+
+Before changing your tax residency, it is important to complete all formal steps correctly and avoid common mistakes:
+
+* Ensure more than 183 days of real presence in Andorra
+* Avoid maintaining an active habitual residence in the country of origin
+* Transfer your economic center of interests (company, investments, invoicing)
+* Notify the tax authority of your previous country of the change of residency
+
+Proper planning—supported by local advisors—avoids double residency conflicts or penalties in the country of origin.
+
+
+
+#### 10. Want to Transfer Your Tax Residency to Andorra?
+
+At Summit Advisors, we support professionals, entrepreneurs, and private individuals
+throughout the entire process:
+
+* Personalized tax analysis
+* Immigration procedures
+* Company formation
+* International tax planning
+* Ongoing management and comprehensive advisory
+
+
+
+Request a consultation and we will guide you through every step to relocate to Andorra efficiently and without
+complications.
+
+
+
+
+
+
+
 
 
 
