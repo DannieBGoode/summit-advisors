@@ -71,7 +71,7 @@ Ideal for entrepreneurs or professionals operating through an Andorran company. 
 
 For employees with a job offer in Andorra. The permit is processed through the hiring company. There are quotas by sector and skill level, and the employee must prove their qualifications and relevant experience.
 
-### **4.2 Passive or Non-Lucrative Residency**
+#### 4.2 Passive or Non-Lucrative Residency
 
 Designed for individuals who do not carry out local employment but have sufficient resources or passive income. This is the preferred option for rentiers, retirees, and investors. It requires an investment in Andorran assets and staying at least 90 days per year in the country.
 
@@ -80,7 +80,7 @@ Sub-categories include:
 * Residency for cultural, scientific, or sporting interest: for individuals of international recognition.
 * Residency for professionals with international projection: quota-limited, allows 90 days of presence in Andorra and travel throughout the year.
 
-#### **4.3 Digital Nomad Residency Permit**
+#### 4.3 Digital Nomad Residency Permit
 
 Since 2024, Andorra offers a specific permit for professionals who work online without a fixed location. This authorization allows residents to live in Andorra while providing services to foreign clients, provided they meet:
 
@@ -109,7 +109,7 @@ This results in an effective tax burden of roughly 5% to 7% for most residents. 
 
 Corporate tax is levied at a general rate of 10% on company profits. The system is predictable and supports long-term tax planning.
 
-5.3 General Indirect Tax (IGI)
+#### 5.3 General Indirect Tax (IGI)
 
 Equivalent to VAT, IGI has a general rate of 4.5%, one of the lowest in Europe. There is a reduced rate of 1% for essential goods, and education, healthcare, and residential rent are exempt.
 
@@ -186,7 +186,4 @@ throughout the entire process:
 Request a consultation and we will guide you through every step to relocate to Andorra efficiently and without
 complications.
 
-This results in an effective tax burden of roughly 5% to 7% for most residents.
-Additionally, many financial and capital income categories—such as dividends or
-interest—are exempt, and there are deductions for housing and family
-dependents.
+This results in an effective tax burden of roughly 5% to 7% for most residents. Additionally, many financial and capital income categories such as dividends or interest are tax exempt, and there are deductions for housing and family dependents.
