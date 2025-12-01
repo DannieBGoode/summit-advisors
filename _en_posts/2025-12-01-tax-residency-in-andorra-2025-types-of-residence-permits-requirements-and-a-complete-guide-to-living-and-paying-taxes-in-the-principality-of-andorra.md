@@ -83,5 +83,5 @@ This is the preferred option for rentiers, retirees, and investors. It requires 
 
 Sub-categories include:
 
-* **Residency for cultural, scientific, or sporting interest:** for individuals of international recognition.
-* **Residency for professionals with international projection:** quota-limited, allows 90 days of presence in Andorra and travel throughout the year.
+* Residency for cultural, scientific, or sporting interest: for individuals of international recognition.
+* Residency for professionals with international projection: quota-limited, allows 90 days of presence in Andorra and travel throughout the year.
