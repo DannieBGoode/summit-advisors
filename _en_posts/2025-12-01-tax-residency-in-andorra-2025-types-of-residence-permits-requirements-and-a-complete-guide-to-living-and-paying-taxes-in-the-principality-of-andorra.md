@@ -72,3 +72,16 @@ Ideal for entrepreneurs or professionals operating through an Andorran company. 
 #### b) Active residency for employment
 
 For employees with a job offer in Andorra. The permit is processed through the hiring company. There are quotas by sector and skill level, and the employee must prove their qualifications and relevant experience.
+
+
+
+### **4.2 Passive or Non-Lucrative Residency**
+
+Designed for individuals who do not carry out local employment but have sufficient resources or passive income.
+
+This is the preferred option for rentiers, retirees, and investors. It requires an investment in Andorran assets and staying at least 90 days per year in the country.
+
+Sub-categories include:
+
+* **Residency for cultural, scientific, or sporting interest:** for individuals of international recognition.
+* **Residency for professionals with international projection:** quota-limited, allows 90 days of presence in Andorra and travel throughout the year.
