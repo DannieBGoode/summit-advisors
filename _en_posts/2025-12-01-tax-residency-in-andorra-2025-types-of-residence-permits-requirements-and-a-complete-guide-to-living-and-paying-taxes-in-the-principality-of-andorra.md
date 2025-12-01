@@ -36,3 +36,34 @@ Located between Spain and France, the Principality of Andorra combines the best 
 The country, with just 468 km² and a population slightly above 88,000, offers one of the lowest tax burdens in Europe and a stable political environment.
 
 In recent years, Andorra has transformed into a hub for financial, technological, and business services. Combined with modern infrastructure, full digital connectivity, and an exceptional natural environment, it has become an ideal destination for digital nomads, entrepreneurs, and passive-income residents seeking a balance between work and well-being.
+
+#### 
+**2. Why More and More People Are Choosing Andorra**
+
+The profile of the new resident has evolved: it’s no longer limited to high-net-worth individuals. Today, freelancers, athletes, digital creators, investors, and business owners are also arriving.
+
+Main reasons:
+
+* Reduced and stable taxation: maximum rates of 10%.
+* Institutional stability and very low crime rates.
+* Open and international economy: agreements with the OECD and neighboring countries.
+* Geographic proximity: 2 hours from Barcelona and Toulouse.
+* High quality of life, nature, and efficient public services.
+
+
+
+#### **3. What It Means to Have Tax Residency in Andorra**
+
+Administrative residency is the immigration permit granted by the Andorran Government;
+
+Tax residency is the status that determines where your worldwide income is taxed.
+
+A person is considered a **tax resident** if they:
+
+* Remain in Andorra for more than 183 days in a calendar year; or
+* Have in Andorra their main economic and personal interests.
+
+
+Additionally, unless proven otherwise, the taxpayer is presumed to be a tax resident in the country where their spouse (not legally separated) and minor children reside.
+
+Meeting these criteria ensures that your income is taxed exclusively in Andorra under its legislation, avoiding international double taxation.
