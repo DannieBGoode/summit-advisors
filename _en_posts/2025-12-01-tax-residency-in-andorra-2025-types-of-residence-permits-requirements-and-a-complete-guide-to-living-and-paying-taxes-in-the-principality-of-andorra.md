@@ -85,3 +85,14 @@ Sub-categories include:
 
 * Residency for cultural, scientific, or sporting interest: for individuals of international recognition.
 * Residency for professionals with international projection: quota-limited, allows 90 days of presence in Andorra and travel throughout the year.
+
+#### **4.3 Digital Nomad Residency Permit**
+
+Since 2024, Andorra offers a specific permit for professionals who work online without a fixed location. This authorization allows residents to live in Andorra while providing services to foreign clients, provided they meet:
+
+* Sufficient financial means
+* Valid healthcare insurance
+* Minimum physical presence of 90 days/year
+* Approval by the Ministry of Economy
+
+The initial permit is granted for two years and can be renewed up to a maximum of ten. It is particularly attractive for digital entrepreneurs and freelancers who value Andorra’s safety and connectivity.
