@@ -96,3 +96,49 @@ Since 2024, Andorra offers a specific permit for professionals who work online w
 * Approval by the Ministry of Economy
 
 The initial permit is granted for two years and can be renewed up to a maximum of ten. It is particularly attractive for digital entrepreneurs and freelancers who value Andorra’s safety and connectivity.
+
+
+
+#### 5.Andorra’s Tax System in 2025
+
+Andorra’s tax model is simple, competitive, and fully aligned with OECD standards. The country offers a tax framework that promotes investment and residency without compromising transparency or legal certainty.
+
+
+
+
+#### 5.1 Personal Income Tax (IRPF)
+
+The Andorran personal income tax is among the lowest in Europe:
+
+* First 24.000.-eur → exempt
+* 24,001.-eur to 40,000.-eur → 5%
+* Above 40.000.-eur → maximum 10%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This results in an effective tax burden of roughly 5% to 7% for most residents.
+Additionally, many financial and capital income categories—such as dividends or
+interest—are exempt, and there are deductions for housing and family
+dependents.
