@@ -20,3 +20,6 @@ Table of Contents
 5. Andorra’s tax system in 2025
 6. International comparison
 7. Practical cases: Who benefits the most?
+8. Additional advantages of living in Andorra
+9. Key considerations before relocating
+10. How Summit Advisors can help you
