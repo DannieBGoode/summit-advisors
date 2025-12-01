@@ -28,7 +28,7 @@ This guide explains what tax residency in Andorra means, its requirements and ty
 
 Located between Spain and France, the Principality of Andorra combines the best of both worlds: mountain landscapes and European standards with its own transparent and competitive tax system.
 
-The country, with just 468 km² and a population slightly above 88,000, offers one of the lowest tax burdens in Europe and a stable political environment.
+The country, with just 468 km² and a population slightly above 88.000, offers one of the lowest tax burdens in Europe and a stable political environment.
 
 In recent years, Andorra has transformed into a hub for financial, technological, and business services. Combined with modern infrastructure, full digital connectivity, and an exceptional natural environment, it has become an ideal destination for digital nomads, entrepreneurs, and passive-income residents seeking a balance between work and well-being.
 
@@ -46,9 +46,7 @@ Main reasons:
 
 #### **3. What It Means to Have Tax Residency in Andorra**
 
-Administrative residency is the immigration permit granted by the Andorran Government;
-
-Tax residency is the status that determines where your worldwide income is taxed.
+Administrative residency is the immigration permit granted by the Andorran Government; Tax residency is the status that determines where your worldwide income is taxed.
 
 A person is considered a **tax resident** if they:
 
