@@ -11,7 +11,9 @@ language: en
 In 2025, Andorra continues to consolidate itself as one of Europe’s most attractive destinations for those seeking moderate taxation, legal stability, and a high quality of life.
 This guide explains what tax residency in Andorra means, its requirements and types, and how to obtain it legally to benefit from a safe environment and a tax system with a maximum rate of just 10%.
 
-Table of Contents
+
+
+#### Table of Contents
 
 1. Living and paying taxes in Andorra in 2025
 2. Why more and more people are choosing Andorra
@@ -23,3 +25,14 @@ Table of Contents
 8. Additional advantages of living in Andorra
 9. Key considerations before relocating
 10. How Summit Advisors can help you
+
+
+
+
+#### **1. Living and Paying Taxes in Andorra in 2025**
+
+Located between Spain and France, the Principality of Andorra combines the best of both worlds: mountain landscapes and European standards with its own transparent and competitive tax system.
+
+The country, with just 468 km² and a population slightly above 88,000, offers one of the lowest tax burdens in Europe and a stable political environment.
+
+In recent years, Andorra has transformed into a hub for financial, technological, and business services. Combined with modern infrastructure, full digital connectivity, and an exceptional natural environment, it has become an ideal destination for digital nomads, entrepreneurs, and passive-income residents seeking a balance between work and well-being.
