@@ -11,6 +11,11 @@ team:
     position_cat: Soci
     linkedin: https://www.linkedin.com/in/albert-hern%C3%A1ndez-menen-79921361/
     image: /assets/uploads/sa_06.jpg
+  - name: Mònica López
+    position_en: Accounting
+    position_es: Contabilidad
+    position_cat: Comptabilitat
+    image: /assets/uploads/mònica-l_3.png
   - name: Laura Pascual
     position_es: Contabilidad
     position_cat: Comptabilitat
@@ -35,8 +40,3 @@ team:
     position_en: Real Estate Division / Vertical Real Estate
     linkedin: https://www.linkedin.com/in/xavier-hern%C3%A1ndez-menen-9a120b61/
     image: /assets/uploads/sa_05_copia.jpg
-  - name: Mònica López
-    position_en: Accounting
-    position_es: Contabilidad
-    position_cat: Comptabilitat
-    image: /assets/uploads/mònica-l_3.png
