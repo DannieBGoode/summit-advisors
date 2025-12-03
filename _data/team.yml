@@ -22,10 +22,16 @@ team:
     position_cat: Administració
     position_en: Administration
     position_es: Administración
-    image: /assets/uploads/joana-c.png
+    image: /assets/uploads/joana-c_2.png
   - name: "Javier Hernández "
     position_es: División Inmobiliaria / Vertical Real Estate
     position_cat: Divisió Immobiliària / Vertical Real Estate
     position_en: Real Estate Division / Vertical Real Estate
     linkedin: https://www.linkedin.com/in/xavier-hern%C3%A1ndez-menen-9a120b61/
     image: /assets/uploads/sa_05_copia.jpg
+  - name: Laura Pascual
+    position_es: Contabilidad
+    position_cat: Comptabilitat
+    position_en: Accounting
+    linkedin: https://www.linkedin.com/in/laura-pascual-moraguez-971803299/
+    image: /assets/uploads/laura-p.png
