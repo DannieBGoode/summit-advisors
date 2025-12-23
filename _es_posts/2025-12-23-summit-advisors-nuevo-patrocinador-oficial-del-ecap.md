@@ -3,7 +3,7 @@ layout: post
 title: Summit Advisors, nuevo patrocinador oficial del ECAP
 description: Compromiso con el esquí nacional
 date: 2025-12-23T20:30:00.000+01:00
-image: /assets/uploads/image.jpg
+image: /assets/uploads/image2.jpg
 language: es
 ---
 En Summit Advisors nos complace anunciar la firma de un acuerdo de patrocinio de larga duración con el ECAP (Esquí Club Arinsal Pal), uno de los clubes de esquí de referencia del Principado de Andorra y una entidad clave en la formación de jóvenes deportistas. 
