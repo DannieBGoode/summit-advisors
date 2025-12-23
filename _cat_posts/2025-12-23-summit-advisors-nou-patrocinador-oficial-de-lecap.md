@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summit Advisors, nou patrocinador oficial de l'ECAP
-description: Compromís amb l'esquí nacional
+description: Suport a l’esquí nacional.
 date: 2025-12-23T20:30:00.000+01:00
 image: /assets/uploads/image-1-.jpg
 language: cat
