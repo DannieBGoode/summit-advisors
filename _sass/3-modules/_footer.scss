@@ -85,6 +85,11 @@ html:not(.dark-mode) .footer__author-sponsor img:not(.sponsor-dark) {
   display: inline-block !important;
 }
 
+/* Show sponsor-both class in both dark and light modes */
+.footer__author-sponsor img.sponsor-both {
+  display: inline-block !important;
+}
+
 
 .footer__author-avatar {
   background-color: white;
