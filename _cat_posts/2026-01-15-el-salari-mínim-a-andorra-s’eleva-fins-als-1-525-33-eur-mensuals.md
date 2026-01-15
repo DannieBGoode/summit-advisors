@@ -2,7 +2,7 @@
 layout: post
 title: El salari mínim a Andorra s’eleva fins als 1.525,33.-eur mensuals
 description: Augment del SMI
-date: 2026-01-15T08:50:00.000+01:00
+date: 2026-01-15T09:00:00.000+01:00
 image: /assets/uploads/image_salari-mínim.jpg
 language: cat
 ---
