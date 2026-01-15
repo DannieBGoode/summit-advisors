@@ -8,7 +8,7 @@ language: es
 ---
 El Gobierno de Andorra ha hecho oficial el incremento del Salario Mínimo Interprofesional (SMI) para el año 2026, que ya es de aplicación. El aumento ha sido del 5,4%, el doble de la variación del Índice de Precios de Consumo (IPC) de 2025, que se ha situado en el 2,7%, según los datos publicados por las estadísticas oficiales del país.
 
-Con esta actualización, el nuevo salario mínimo queda fijado en 1.525,33 euros mensuales para una jornada completa de 40 horas semanales, lo que equivale a 8,80 euros por hora. Esta cifra permite superar claramente el umbral de los 1.500 euros mensuales y consolida una tendencia de crecimiento sostenido del salario mínimo registrada durante los últimos años.
+Con esta actualización, el nuevo salario mínimo queda fijado en 1.525,33.-eur mensuales para una jornada completa de 40 horas semanales, lo que equivale a 8,80.-eur por hora. Esta cifra permite superar claramente el umbral de los 1.500.-eur mensuales y consolida una tendencia de crecimiento sostenido del salario mínimo registrada durante los últimos años.
 
 ¿Por qué este aumento es relevante?
 
@@ -18,6 +18,6 @@ Esta subida supera de manera clara el aumento del IPC, que se ha mantenido en el
 
 Contexto y evolución en los últimos años
 
-Desde 2019, el salario mínimo en Andorra ha experimentado una evolución claramente ascendente, con incrementos reiterados por encima de la inflación. En este período, el SMI ha pasado de unos 1.050 euros mensuales a superar los 1.500 euros, lo que supone un incremento acumulado de entre el 45% y el 50%.
+Desde 2019, el salario mínimo en Andorra ha experimentado una evolución claramente ascendente, con incrementos reiterados por encima de la inflación. En este período, el SMI ha pasado de unos 1.050.-eur mensuales a superar los 1.500.-eur, lo que supone un incremento acumulado de entre el 45% y el 50%.
 
 Esta trayectoria se enmarca en una política social orientada a acercar el salario mínimo al 60% del salario medio nacional, tal como recomienda la Carta Social Europea. Los últimos datos indican que el salario mínimo ya se sitúa en torno al 58% del salario medio, un indicador que refleja un avance significativo hacia un modelo salarial más equilibrado y alineado con los estándares europeos.
