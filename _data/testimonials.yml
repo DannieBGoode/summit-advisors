@@ -6,18 +6,6 @@ testimonial__description_en: null
 testimonial__description_cat: null
 testimonial__show_images: false
 testimonial__items:
-  - name: Tatiana Hernandez
-    designation_cat: Diseñadora Digital
-    content_en: Their tailored approach made our company's move to Andorra a smooth
-      and stress-free experience.
-    content_cat: El seu enfocament personalitzat va fer que el trasllat de la nostra
-      empresa a Andorra fos una experiència tranquil·la i sense estrès.
-    designation_en: Product Designer
-    content_es: El trato personalizado hizo que la mudanza de nuestra empresa a
-      Andorra fuera una experiencia tranquila y sin estrés.
-    designation_es: Diseñadora Digital
-    link: https://twitter.com/
-    image: /assets/uploads/image_2023-12-09_164140502.png
   - name: Marc Ribera
     designation_cat: Jugador Professional de Pòquer
     content_en: Relocating our business to Andorra was seamless and efficient,
@@ -31,18 +19,6 @@ testimonial__items:
     designation_es: Jugador Professional de Póker
     link: https://facebook.com/
     image: /assets/uploads/image_2023-12-09_164111062.png
-  - name: Daniel Calatayud
-    designation_cat: Web developer
-    content_en: Exceptional service! They handled every detail of our move to
-      Andorra with professionalism and ease.
-    content_cat: Servei excepcional! Van gestionar cada detall del nostre trasllat a
-      Andorra amb professionalitat i facilitat.
-    designation_en: Web developer
-    content_es: ¡Servicio excepcional! Manejaron cada detalle de nuestra mudanza a
-      Andorra con profesionalismo y facilidad.
-    designation_es: Desarrollador de páginas web
-    link: https://twitter.com/
-    image: /assets/uploads/image_2023-12-09_164158408.png
   - name: Enrique Mayor
     designation_cat: Jugador Professional de Pòquer
     content_en: From start to finish, their team provided invaluable assistance in
