@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Els 7 errors més comuns en canviar la residència fiscal a Andorra (Guia 2026)
-description: Cada any més empresaris, inversors i professionals europeus
-  decideixen traslladar la seva residència fiscal a Andorra atrets per la seva
-  fiscalitat competitiva, l’estabilitat jurídica i la qualitat de vida.
-  Tanmateix, traslladar la residència fiscal a un altre país requereix
-  planificació. En aquest article expliquem els errors més comuns en canviar la
+description: En aquest article expliquem els errors més comuns en canviar la
   residència fiscal a Andorra i com evitar-los.
 date: 2026-03-09T09:37:00.000+01:00
 image: /assets/uploads/mesa-de-trabajo-con-vista-a-andorra.png
