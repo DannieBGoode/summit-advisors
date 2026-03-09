@@ -43,10 +43,10 @@ Muchas personas se trasladan físicamente al país, pero siguen teniendo la mayo
 
 Para determinar la residencia fiscal, las autoridades pueden analizar:
 
-•	dónde se generan los ingresos principales
-•	dónde se toman las decisiones empresariales
-•	dónde están las sociedades
-•	dónde se encuentra la gestión efectiva de las empresas
+* dónde se generan los ingresos principales
+* dónde se toman las decisiones empresariales
+* dónde están las sociedades
+* dónde se encuentra la gestión efectiva de las empresas
 
 Si todo esto ocurre fuera de Andorra, el cambio de residencia fiscal puede ser cuestionado.
 
@@ -56,9 +56,9 @@ Otro error habitual al trasladarse fiscalmente a Andorra es no revisar previamen
 
 Muchos empresarios mantienen estructuras diseñadas para su país anterior, lo que puede provocar:
 
-•	estructuras fiscales poco eficientes
-•	riesgos fiscales innecesarios
-•	dificultades para justificar la gestión desde Andorra
+* estructuras fiscales poco eficientes
+* riesgos fiscales innecesarios
+* dificultades para justificar la gestión desde Andorra
 
 En muchos casos es recomendable reorganizar la estructura societaria antes del traslado.
 
@@ -68,10 +68,10 @@ Para consolidar una residencia fiscal es importante demostrar vínculos reales c
 
 Esto puede incluir:
 
-•	disponer de una vivienda habitual
-•	pasar tiempo efectivo en el país
-•	desarrollar actividad económica desde Andorra
-•	tener cuentas bancarias y relaciones profesionales locales
+* disponer de una vivienda habitual
+* pasar tiempo efectivo en el país
+* desarrollar actividad económica desde Andorra
+* tener cuentas bancarias y relaciones profesionales locales
 
 Cuanto más claro sea el vínculo con el país, más sólida será la residencia fiscal.
 
@@ -81,10 +81,10 @@ Mudarse a otro país tiene implicaciones que van mucho más allá de los impuest
 
 También puede afectar a:
 
-•	estructuras societarias
-•	planificación patrimonial
-•	fiscalidad de dividendos
-•	tributación internacional
+* estructuras societarias
+* planificación patrimonial
+* fiscalidad de dividendos
+* tributación internacional
 
 Una planificación previa permite optimizar la transición y evitar problemas fiscales futuros.
 
@@ -92,10 +92,10 @@ Una planificación previa permite optimizar la transición y evitar problemas fi
 
 Cada situación es diferente y depende de múltiples factores:
 
-•	país de origen
-•	tipo de actividad
-•	patrimonio
-•	estructura empresarial
+* país de origen
+* tipo de actividad
+* patrimonio
+* estructura empresarial
 
 Por este motivo, es recomendable contar con asesores especializados en residencia fiscal en Andorra antes de iniciar el proceso. Esto permite realizar el traslado correctamente y aprovechar todas las ventajas que ofrece el sistema fiscal andorrano.
 
