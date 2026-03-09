@@ -16,6 +16,7 @@ language: es
 Uno de los mitos más extendidos es que para tener residencia fiscal en Andorra basta con vivir en el país más de 183 días en el año natural. Aunque este es uno de los criterios utilizados, no es el único.
 
 Las administraciones fiscales también analizan:
+
 •	dónde se encuentra el centro de intereses económicos
 •	dónde reside la familia (cónyuge e hijos menores)
 •	dónde se desarrolla la actividad profesional
@@ -28,10 +29,12 @@ Si la mayor parte de la actividad económica continúa en el país de origen, es
 Uno de los problemas más habituales al mudarse a Andorra por motivos fiscales es no cerrar correctamente la residencia fiscal anterior.
 
 Cambiar de residencia implica normalmente:
+
 •	notificar el cambio a la administración fiscal
 •	reorganizar la actividad profesional
 •	revisar la estructura empresarial
 •	demostrar que el centro de vida está en Andorra
+
 Si este proceso no se hace bien, puede producirse una doble residencia fiscal, lo que puede generar inspecciones o conflictos con las autoridades tributarias.
 
 **3. Mantener el centro de intereses económicos fuera de Andorra**
@@ -39,6 +42,7 @@ Si este proceso no se hace bien, puede producirse una doble residencia fiscal, l
 Muchas personas se trasladan físicamente al país, pero siguen teniendo la mayor parte de su actividad económica en otro lugar.
 
 Para determinar la residencia fiscal, las autoridades pueden analizar:
+
 •	dónde se generan los ingresos principales
 •	dónde se toman las decisiones empresariales
 •	dónde están las sociedades
@@ -51,6 +55,7 @@ Si todo esto ocurre fuera de Andorra, el cambio de residencia fiscal puede ser c
 Otro error habitual al trasladarse fiscalmente a Andorra es no revisar previamente la estructura empresarial.
 
 Muchos empresarios mantienen estructuras diseñadas para su país anterior, lo que puede provocar:
+
 •	estructuras fiscales poco eficientes
 •	riesgos fiscales innecesarios
 •	dificultades para justificar la gestión desde Andorra
@@ -62,6 +67,7 @@ En muchos casos es recomendable reorganizar la estructura societaria antes del t
 Para consolidar una residencia fiscal es importante demostrar vínculos reales con el país.
 
 Esto puede incluir:
+
 •	disponer de una vivienda habitual
 •	pasar tiempo efectivo en el país
 •	desarrollar actividad económica desde Andorra
@@ -74,6 +80,7 @@ Cuanto más claro sea el vínculo con el país, más sólida será la residencia
 Mudarse a otro país tiene implicaciones que van mucho más allá de los impuestos personales.
 
 También puede afectar a:
+
 •	estructuras societarias
 •	planificación patrimonial
 •	fiscalidad de dividendos
