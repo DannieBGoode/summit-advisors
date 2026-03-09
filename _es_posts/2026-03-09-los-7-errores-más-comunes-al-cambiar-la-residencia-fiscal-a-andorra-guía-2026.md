@@ -30,10 +30,10 @@ Uno de los problemas más habituales al mudarse a Andorra por motivos fiscales e
 
 Cambiar de residencia implica normalmente:
 
-•	notificar el cambio a la administración fiscal
-•	reorganizar la actividad profesional
-•	revisar la estructura empresarial
-•	demostrar que el centro de vida está en Andorra
+* notificar el cambio a la administración fiscal
+* reorganizar la actividad profesional
+* revisar la estructura empresarial
+* demostrar que el centro de vida está en Andorra
 
 Si este proceso no se hace bien, puede producirse una doble residencia fiscal, lo que puede generar inspecciones o conflictos con las autoridades tributarias.
 
