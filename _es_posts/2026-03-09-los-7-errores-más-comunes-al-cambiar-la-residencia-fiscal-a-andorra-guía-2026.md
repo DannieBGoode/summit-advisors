@@ -17,10 +17,10 @@ Uno de los mitos más extendidos es que para tener residencia fiscal en Andorra 
 
 Las administraciones fiscales también analizan:
 
-•	dónde se encuentra el centro de intereses económicos
-•	dónde reside la familia (cónyuge e hijos menores)
-•	dónde se desarrolla la actividad profesional
-•	desde dónde se gestionan las empresas
+* dónde se encuentra el centro de intereses económicos
+* dónde reside la familia (cónyuge e hijos menores)
+* dónde se desarrolla la actividad profesional
+* desde dónde se gestionan las empresas
 
 Si la mayor parte de la actividad económica continúa en el país de origen, este podría seguir considerándose tu residencia fiscal. Por eso es fundamental planificar correctamente el traslado antes de hacerlo.
 
@@ -96,7 +96,6 @@ Cada situación es diferente y depende de múltiples factores:
 •	tipo de actividad
 •	patrimonio
 •	estructura empresarial
-
 
 Por este motivo, es recomendable contar con asesores especializados en residencia fiscal en Andorra antes de iniciar el proceso. Esto permite realizar el traslado correctamente y aprovechar todas las ventajas que ofrece el sistema fiscal andorrano.
 
