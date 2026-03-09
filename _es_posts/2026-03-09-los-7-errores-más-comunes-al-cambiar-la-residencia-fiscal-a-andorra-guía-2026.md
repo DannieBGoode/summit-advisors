@@ -50,7 +50,7 @@ Para determinar la residencia fiscal, las autoridades pueden analizar:
 
 Si todo esto ocurre fuera de Andorra, el cambio de residencia fiscal puede ser cuestionado.
 
-**4.No estructurar correctamente la empresa antes de mudarse**
+**4. No estructurar correctamente la empresa antes de mudarse**
 
 Otro error habitual al trasladarse fiscalmente a Andorra es no revisar previamente la estructura empresarial.
 
@@ -62,7 +62,7 @@ Muchos empresarios mantienen estructuras diseñadas para su país anterior, lo q
 
 En muchos casos es recomendable reorganizar la estructura societaria antes del traslado.
 
-**5.No demostrar vínculos reales con Andorra**
+**5. No demostrar vínculos reales con Andorra**
 
 Para consolidar una residencia fiscal es importante demostrar vínculos reales con el país.
 
@@ -75,7 +75,7 @@ Esto puede incluir:
 
 Cuanto más claro sea el vínculo con el país, más sólida será la residencia fiscal.
 
-**6.Iniciar el proceso sin planificación fiscal internacional**
+**6. Iniciar el proceso sin planificación fiscal internacional**
 
 Mudarse a otro país tiene implicaciones que van mucho más allá de los impuestos personales.
 
@@ -88,7 +88,7 @@ También puede afectar a:
 
 Una planificación previa permite optimizar la transición y evitar problemas fiscales futuros.
 
-**7.No contar con asesoramiento especializado en Andorra**
+**7. No contar con asesoramiento especializado en Andorra**
 
 Cada situación es diferente y depende de múltiples factores:
 
