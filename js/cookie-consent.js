@@ -4,17 +4,22 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Function to initialize and load Google Analytics
     function loadGoogleAnalytics() {
-        if (!gaMeasurementId) return;
+        if (!gaMeasurementId || window.__summitAnalyticsLoaded) return;
+
+        window.__summitAnalyticsLoaded = true;
 
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', gaMeasurementId);
+        window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+        window.gtag('js', new Date());
+        window.gtag('config', gaMeasurementId);
 
-        var gaScript = document.createElement('script');
-        gaScript.async = true;
-        gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaMeasurementId;
-        document.head.appendChild(gaScript);
+        if (!document.querySelector('script[data-ga-id="' + gaMeasurementId + '"]')) {
+            var gaScript = document.createElement('script');
+            gaScript.async = true;
+            gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaMeasurementId;
+            gaScript.dataset.gaId = gaMeasurementId;
+            document.head.appendChild(gaScript);
+        }
     }
 
     // Function to handle cookie consent
@@ -23,7 +28,8 @@ document.addEventListener("DOMContentLoaded", function() {
         date.setTime(date.getTime() + (365*24*60*60*1000)); // Set cookie to expire in one year
         var expires = "expires=" + date.toUTCString();
         var consent = consentGiven ? "yes" : "no";
-        document.cookie = "accepted_cookies=" + consent + "; " + expires + "; path=/";
+        var secureFlag = window.location.protocol === "https:" ? "; Secure" : "";
+        document.cookie = "accepted_cookies=" + consent + "; " + expires + "; path=/; SameSite=Lax" + secureFlag;
         cookieOverlay.style.display = "none";
         
         if (consentGiven) {

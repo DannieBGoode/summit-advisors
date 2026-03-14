@@ -6,7 +6,7 @@
     <div class="gallery">
       {% for image in site.data.footer.gallery %}
       <div class="gallery__image">
-        <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
+        {% include responsive-image.html src=image.url alt=image.alt width=image.width height=image.height %}
       </div>
       {% endfor %}
     </div>
@@ -52,9 +52,9 @@
                     {% assign sponsor_key = 'sponsor__title_' | append: lang_prefix %}
                     <div>{{ site.data.settings.author[sponsor_key] }}</div>
                     <div>
-                      <img class="sponsor-dark" src="/assets/uploads/logo_bca_blanc.png" loading="lazy" alt="BCA">
-                      <img src="/assets/uploads/logo_bca_azul-removebg-preview.png" loading="lazy" style="margin-right: 20px;" alt="BCA">
-                      <img class="sponsor-both" src="/assets/uploads/LOGO ECAP 2025-light.png" loading="lazy" style="max-width: 150px; max-height: 150px; width: auto; height: auto !important; object-fit: contain; margin-left: 20px;" alt="ECAP">
+                      <img class="sponsor-dark" src="/assets/uploads/logo_bca_blanc.png" loading="lazy" decoding="async" width="1478" height="1940" alt="BCA">
+                      <img src="/assets/uploads/logo_bca_azul-removebg-preview.png" loading="lazy" decoding="async" width="428" height="584" style="margin-right: 20px;" alt="BCA">
+                      <img class="sponsor-both" src="/assets/uploads/LOGO ECAP 2025-light.png" loading="lazy" decoding="async" width="1449" height="1733" style="max-width: 150px; max-height: 150px; width: auto; height: auto !important; object-fit: contain; margin-left: 20px;" alt="ECAP">
                     </div>
                   </div>
                 </div>

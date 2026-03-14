@@ -2,10 +2,7 @@
 
   {% if post.image %}
   <a class="article__image" href="{{ post.url | prepend: site.baseurl }}">
-    <picture>
-      <source srcset="{{ site.baseurl }}{{ post.image | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' | replace: '.png', '.webp' }}" type="image/webp">
-      <img src="{{ site.baseurl }}{{ post.image }}" loading="lazy" alt="{{ post.title }}">
-    </picture>
+    {% include responsive-image.html src=post.image alt=post.title %}
   </a>
   {% endif %}
 

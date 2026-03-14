@@ -4,7 +4,7 @@ title: Tramitació de Permisos de Residència
 subtitle: Compte Pròpia / Compte Aliena / Passiva
 description: Servei de tramitació de residència per a Andorra
 date: 2022-01-09 08:01:35 +0300
-image: /assets/uploads/photo_2024-09-10_13-33-01.jpg
+image: /assets/uploads/photo_2024-09-10_13-33-01.webp
 ---
 Summit Advisors ofereix un servei integral per a l'obtenció de permisos de residència al Principat d'Andorra. El nostre equip de professionals compta amb una àmplia experiència i està altament capacitat per tramitar els diferents tipus de residències davant del Servei d'Immigració del Govern d'Andorra.
 

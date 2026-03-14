@@ -1,12 +1,20 @@
 gallery:
   - alt: Andorra puente
     url: /assets/uploads/andorra-la-vella.jpg
+    width: 1080
+    height: 719
   - alt: Invierno Rio
     url: /assets/uploads/istockphoto-492005666-612x612.jpg
+    width: 612
+    height: 408
   - alt: Andorra Otoño
     url: /assets/uploads/istockphoto-849558280-612x612.jpg
+    width: 612
+    height: 408
   - alt: Invierno
     url: /assets/uploads/istockphoto-1160844746-612x612.jpg
+    width: 612
+    height: 408
 
 languages:
     - url: '/'

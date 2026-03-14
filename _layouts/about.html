@@ -20,7 +20,7 @@ layout: default
       {% if aboutImage and aboutImage != "" %}
       <div class="col col-12">
         <div class="page-image animate">
-          <img class="lazy" data-src="{{site.baseurl}}{{aboutImage}}" alt="{{page.title}}">
+          {% include responsive-image.html src=aboutImage alt=page.title %}
         </div>
       </div>
       {% endif %}
@@ -35,7 +35,9 @@ layout: default
             <div class="team-member">
               <a href="{{ member.linkedin }}" target="_blank" class="team-member-link">
                 <div class="team-member-image-container">
-                  <img src="{{ member.image | default: '/assets/uploads/placeholder-removebg-preview.jpg' }}" alt="{{ member.name }}" class="team-member-image {% unless member.image and member.image != '' %}default-image{% endunless %}">
+                  {% assign member_image = member.image | default: '/assets/uploads/placeholder-removebg-preview.jpg' %}
+                  {% capture member_classes %}team-member-image {% unless member.image and member.image != '' %}default-image{% endunless %}{% endcapture %}
+                  {% include responsive-image.html src=member_image alt=member.name class=member_classes %}
                 </div>
               </a>
               <div class="member-info">

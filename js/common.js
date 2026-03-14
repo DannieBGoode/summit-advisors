@@ -88,31 +88,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   /* =======================
-  // LazyLoad Images
+  // Native lazy-loaded images
   ======================= */
-  // LazyLoad Images - Check if LazyLoad is defined
-  if (typeof LazyLoad !== "undefined") {
-    // Initialize LazyLoad as usual
-    var lazyLoadInstance = new LazyLoad({
-      elements_selector: ".lazy"
-    });
-  } else {
-    // Fallback: Immediately load all lazy images
-    var lazyImages = document.querySelectorAll('.lazy');
-    lazyImages.forEach(function(img) {
-      var src = img.getAttribute('data-src');
-      if (src) {
-        img.setAttribute('src', src);
-        img.classList.remove('lazy'); // Optional: remove the 'lazy' class
-      }
-
-      // If your images use srcset
-      var srcset = img.getAttribute('data-srcset');
-      if (srcset) {
-        img.setAttribute('srcset', srcset);
-      }
-    });
-  }
   /* =======================
   // Zoom Image
   ======================= */

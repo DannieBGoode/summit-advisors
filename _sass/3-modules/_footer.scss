@@ -128,7 +128,10 @@ html:not(.dark-mode) .footer__author-sponsor img:not(.sponsor-dark) {
 .footer__author-sponsor {
   img {
     max-width: 200px;
-    height: 200px !important;
+    max-height: 200px;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain;
     filter: brightness( 100% ) contrast( 100% ) saturate( 0% ) blur( 0px ) hue-rotate( 0deg )
   }
 }

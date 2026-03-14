@@ -5,7 +5,7 @@ title: Residence Permit Processing
 subtitle: Self-Employed / Employed / Non-Lucrative
 description: Residence Permit Processing
 date: 2023-12-17T16:58:12.126Z
-image: /assets/uploads/photo_2024-09-10_13-33-01.jpg
+image: /assets/uploads/photo_2024-09-10_13-33-01.webp
 ---
 Summit Advisors offers a comprehensive service for obtaining residence permits in the Principality of Andorra. Our team of professionals has extensive experience and is highly qualified to process the different types of residence permits before the Immigration Service of the Government of Andorra.
 

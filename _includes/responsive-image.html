@@ -1,0 +1,9 @@
+{% assign image_src = include.src %}
+{% assign image_alt = include.alt | default: "" %}
+{% assign image_class = include.class %}
+{% assign image_loading = include.loading | default: "lazy" %}
+{% assign image_decoding = include.decoding | default: "async" %}
+{% assign image_fetchpriority = include.fetchpriority %}
+{% assign image_width = include.width %}
+{% assign image_height = include.height %}
+<img src="{{ image_src | relative_url }}" alt="{{ image_alt | escape }}"{% if image_class %} class="{{ image_class }}"{% endif %} loading="{{ image_loading }}" decoding="{{ image_decoding }}"{% if image_fetchpriority %} fetchpriority="{{ image_fetchpriority }}"{% endif %}{% if image_width %} width="{{ image_width }}"{% endif %}{% if image_height %} height="{{ image_height }}"{% endif %}>

@@ -6,7 +6,7 @@ description: Offering a comprehensive advisory service for a smooth and
   efficient transition to life and business in Andorra, tailored to your
   personal and business needs
 date: 2022-01-05 08:01:35 +0300
-image: /assets/uploads/foto-blog-exit-tax.jpg
+image: /assets/uploads/foto-blog-exit-tax.webp
 ---
 At Summit Advisors, we offer a comprehensive advisory service, bringing together all our services to provide a holistic and personalized solution for clients seeking assistance in all aspects of their life and business when relocating to Andorra.
 
