@@ -15,15 +15,13 @@ author:
 
 
 #-------------------------------
-# Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text_es: Tu dirección de email...
-mailchimp__button__text_es: Te contactamos
-mailchimp__input__text_en: Your email address...
-mailchimp__button__text_en: We reach out to you
-mailchimp__input__text_cat: La teva adreça de correu electrònic...
-mailchimp__button__text_cat: Et contactem
+# Contact Form
+contact_form__input__text_es: Tu dirección de email...
+contact_form__button__text_es: Te contactamos
+contact_form__input__text_en: Your email address...
+contact_form__button__text_en: We reach out to you
+contact_form__input__text_cat: La teva adreça de correu electrònic...
+contact_form__button__text_cat: Et contactem
 
 
 #-------------------------------
