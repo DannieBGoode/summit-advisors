@@ -1,3 +1,5 @@
+@use 'tokens' as *;
+
 // Lists Reset
 .list-reset {
   @include list-reset();

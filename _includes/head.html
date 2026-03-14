@@ -78,12 +78,7 @@
     {% endif %}
   </script>
 
-  <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <style>
     :root {
       --brand-color: {{ site.data.global.brand_color_light }};

@@ -1,3 +1,6 @@
+@use 'sass:color';
+@use 'tokens' as *;
+
 /* Post + Page */
 .post-head,
 .page-head {
@@ -213,7 +216,7 @@
       background-color: #3b5998;
 
       &:hover {
-        background-color: darken(#3b5998, 10%);
+        background-color: color.adjust(#3b5998, $lightness: -10%);
       }
     }
 
@@ -221,7 +224,7 @@
       background-color: #55acee;
 
       &:hover {
-        background-color: darken(#55acee, 10%);
+        background-color: color.adjust(#55acee, $lightness: -10%);
       }
     }
 
@@ -229,7 +232,7 @@
       background-color: #bd081c;
 
       &:hover {
-        background-color: darken(#bd081c, 10%);
+        background-color: color.adjust(#bd081c, $lightness: -10%);
       }
     }
 
@@ -237,7 +240,7 @@
       background-color: #0072b1;
 
       &:hover {
-        background-color: darken(#0072b1, 10%);
+        background-color: color.adjust(#0072b1, $lightness: -10%);
       }
     }
   }

@@ -2,10 +2,10 @@
 
   {% if post.image %}
   <a class="article__image" href="{{ post.url | prepend: site.baseurl }}">
-    <img class="lazy" data-src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
-    <noscript>
-      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
-    </noscript>
+    <picture>
+      <source srcset="{{ site.baseurl }}{{ post.image | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' | replace: '.png', '.webp' }}" type="image/webp">
+      <img src="{{ site.baseurl }}{{ post.image }}" loading="lazy" alt="{{ post.title }}">
+    </picture>
   </a>
   {% endif %}
 
